@@ -1,0 +1,201 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,11,Banks,Rep,Andrew Clyde,Absentee by Mail Votes,1028
+13,11,Banks,Rep,Andrew Clyde,Advanced Voting Votes,5047
+13,11,Banks,Rep,Andrew Clyde,Election Day Votes,1595
+13,11,Banks,Rep,Andrew Clyde,Provisional Votes,11
+13,11,Banks,Rep,Andrew Clyde,TOTAL VOTES,7681
+13,11,Banks,Dem,Devin Pandy,Absentee by Mail Votes,325
+13,11,Banks,Dem,Devin Pandy,Advanced Voting Votes,417
+13,11,Banks,Dem,Devin Pandy,Election Day Votes,153
+13,11,Banks,Dem,Devin Pandy,Provisional Votes,3
+13,11,Banks,Dem,Devin Pandy,TOTAL VOTES,898
+13,59,Clarke,Rep,Andrew Clyde,Absentee by Mail Votes,427
+13,59,Clarke,Rep,Andrew Clyde,Advanced Voting Votes,647
+13,59,Clarke,Rep,Andrew Clyde,Election Day Votes,572
+13,59,Clarke,Rep,Andrew Clyde,Provisional Votes,0
+13,59,Clarke,Rep,Andrew Clyde,TOTAL VOTES,1646
+13,59,Clarke,Dem,Devin Pandy,Absentee by Mail Votes,1531
+13,59,Clarke,Dem,Devin Pandy,Advanced Voting Votes,1802
+13,59,Clarke,Dem,Devin Pandy,Election Day Votes,982
+13,59,Clarke,Dem,Devin Pandy,Provisional Votes,2
+13,59,Clarke,Dem,Devin Pandy,TOTAL VOTES,4317
+13,85,Dawson,Rep,Andrew Clyde,Absentee by Mail Votes,2021
+13,85,Dawson,Rep,Andrew Clyde,Advanced Voting Votes,9063
+13,85,Dawson,Rep,Andrew Clyde,Election Day Votes,2340
+13,85,Dawson,Rep,Andrew Clyde,Provisional Votes,2
+13,85,Dawson,Rep,Andrew Clyde,TOTAL VOTES,13426
+13,85,Dawson,Dem,Devin Pandy,Absentee by Mail Votes,957
+13,85,Dawson,Dem,Devin Pandy,Advanced Voting Votes,1102
+13,85,Dawson,Dem,Devin Pandy,Election Day Votes,250
+13,85,Dawson,Dem,Devin Pandy,Provisional Votes,1
+13,85,Dawson,Dem,Devin Pandy,TOTAL VOTES,2310
+13,105,Elbert,Rep,Andrew Clyde,Absentee by Mail Votes,993
+13,105,Elbert,Rep,Andrew Clyde,Advanced Voting Votes,3417
+13,105,Elbert,Rep,Andrew Clyde,Election Day Votes,1808
+13,105,Elbert,Rep,Andrew Clyde,Provisional Votes,0
+13,105,Elbert,Rep,Andrew Clyde,TOTAL VOTES,6218
+13,105,Elbert,Dem,Devin Pandy,Absentee by Mail Votes,1024
+13,105,Elbert,Dem,Devin Pandy,Advanced Voting Votes,1164
+13,105,Elbert,Dem,Devin Pandy,Election Day Votes,499
+13,105,Elbert,Dem,Devin Pandy,Provisional Votes,0
+13,105,Elbert,Dem,Devin Pandy,TOTAL VOTES,2687
+13,111,Fannin,Rep,Andrew Clyde,Absentee by Mail Votes,2257
+13,111,Fannin,Rep,Andrew Clyde,Advanced Voting Votes,5638
+13,111,Fannin,Rep,Andrew Clyde,Election Day Votes,4045
+13,111,Fannin,Rep,Andrew Clyde,Provisional Votes,20
+13,111,Fannin,Rep,Andrew Clyde,TOTAL VOTES,11960
+13,111,Fannin,Dem,Devin Pandy,Absentee by Mail Votes,1071
+13,111,Fannin,Dem,Devin Pandy,Advanced Voting Votes,957
+13,111,Fannin,Dem,Devin Pandy,Election Day Votes,368
+13,111,Fannin,Dem,Devin Pandy,Provisional Votes,1
+13,111,Fannin,Dem,Devin Pandy,TOTAL VOTES,2397
+13,117,Forsyth,Rep,Andrew Clyde,Absentee by Mail Votes,4129
+13,117,Forsyth,Rep,Andrew Clyde,Advanced Voting Votes,20907
+13,117,Forsyth,Rep,Andrew Clyde,Election Day Votes,3778
+13,117,Forsyth,Rep,Andrew Clyde,Provisional Votes,7
+13,117,Forsyth,Rep,Andrew Clyde,TOTAL VOTES,28821
+13,117,Forsyth,Dem,Devin Pandy,Absentee by Mail Votes,2463
+13,117,Forsyth,Dem,Devin Pandy,Advanced Voting Votes,4280
+13,117,Forsyth,Dem,Devin Pandy,Election Day Votes,731
+13,117,Forsyth,Dem,Devin Pandy,Provisional Votes,4
+13,117,Forsyth,Dem,Devin Pandy,TOTAL VOTES,7478
+13,119,Franklin,Rep,Andrew Clyde,Absentee by Mail Votes,1430
+13,119,Franklin,Rep,Andrew Clyde,Advanced Voting Votes,5371
+13,119,Franklin,Rep,Andrew Clyde,Election Day Votes,2295
+13,119,Franklin,Rep,Andrew Clyde,Provisional Votes,2
+13,119,Franklin,Rep,Andrew Clyde,TOTAL VOTES,9098
+13,119,Franklin,Dem,Devin Pandy,Absentee by Mail Votes,564
+13,119,Franklin,Dem,Devin Pandy,Advanced Voting Votes,595
+13,119,Franklin,Dem,Devin Pandy,Election Day Votes,311
+13,119,Franklin,Dem,Devin Pandy,Provisional Votes,0
+13,119,Franklin,Dem,Devin Pandy,TOTAL VOTES,1470
+13,123,Gilmer,Rep,Andrew Clyde,Absentee by Mail Votes,2187
+13,123,Gilmer,Rep,Andrew Clyde,Advanced Voting Votes,6774
+13,123,Gilmer,Rep,Andrew Clyde,Election Day Votes,4265
+13,123,Gilmer,Rep,Andrew Clyde,Provisional Votes,11
+13,123,Gilmer,Rep,Andrew Clyde,TOTAL VOTES,13237
+13,123,Gilmer,Dem,Devin Pandy,Absentee by Mail Votes,1199
+13,123,Gilmer,Dem,Devin Pandy,Advanced Voting Votes,1131
+13,123,Gilmer,Dem,Devin Pandy,Election Day Votes,422
+13,123,Gilmer,Dem,Devin Pandy,Provisional Votes,1
+13,123,Gilmer,Dem,Devin Pandy,TOTAL VOTES,2753
+13,137,Habersham,Rep,Andrew Clyde,Absentee by Mail Votes,2894
+13,137,Habersham,Rep,Andrew Clyde,Advanced Voting Votes,11008
+13,137,Habersham,Rep,Andrew Clyde,Election Day Votes,2606
+13,137,Habersham,Rep,Andrew Clyde,Provisional Votes,21
+13,137,Habersham,Rep,Andrew Clyde,TOTAL VOTES,16529
+13,137,Habersham,Dem,Devin Pandy,Absentee by Mail Votes,1237
+13,137,Habersham,Dem,Devin Pandy,Advanced Voting Votes,1616
+13,137,Habersham,Dem,Devin Pandy,Election Day Votes,494
+13,137,Habersham,Dem,Devin Pandy,Provisional Votes,2
+13,137,Habersham,Dem,Devin Pandy,TOTAL VOTES,3349
+13,139,Hall,Rep,Andrew Clyde,Absentee by Mail Votes,12347
+13,139,Hall,Rep,Andrew Clyde,Advanced Voting Votes,41265
+13,139,Hall,Rep,Andrew Clyde,Election Day Votes,11206
+13,139,Hall,Rep,Andrew Clyde,Provisional Votes,0
+13,139,Hall,Rep,Andrew Clyde,TOTAL VOTES,64818
+13,139,Hall,Dem,Devin Pandy,Absentee by Mail Votes,8584
+13,139,Hall,Dem,Devin Pandy,Advanced Voting Votes,11160
+13,139,Hall,Dem,Devin Pandy,Election Day Votes,3644
+13,139,Hall,Dem,Devin Pandy,Provisional Votes,0
+13,139,Hall,Dem,Devin Pandy,TOTAL VOTES,23388
+13,147,Hart,Rep,Andrew Clyde,Absentee by Mail Votes,1452
+13,147,Hart,Rep,Andrew Clyde,Advanced Voting Votes,5620
+13,147,Hart,Rep,Andrew Clyde,Election Day Votes,2333
+13,147,Hart,Rep,Andrew Clyde,Provisional Votes,2
+13,147,Hart,Rep,Andrew Clyde,TOTAL VOTES,9407
+13,147,Hart,Dem,Devin Pandy,Absentee by Mail Votes,1022
+13,147,Hart,Dem,Devin Pandy,Advanced Voting Votes,1363
+13,147,Hart,Dem,Devin Pandy,Election Day Votes,524
+13,147,Hart,Dem,Devin Pandy,Provisional Votes,2
+13,147,Hart,Dem,Devin Pandy,TOTAL VOTES,2911
+13,157,Jackson,Rep,Andrew Clyde,Absentee by Mail Votes,4517
+13,157,Jackson,Rep,Andrew Clyde,Advanced Voting Votes,20151
+13,157,Jackson,Rep,Andrew Clyde,Election Day Votes,5030
+13,157,Jackson,Rep,Andrew Clyde,Provisional Votes,6
+13,157,Jackson,Rep,Andrew Clyde,TOTAL VOTES,29704
+13,157,Jackson,Dem,Devin Pandy,Absentee by Mail Votes,2603
+13,157,Jackson,Dem,Devin Pandy,Advanced Voting Votes,3593
+13,157,Jackson,Dem,Devin Pandy,Election Day Votes,970
+13,157,Jackson,Dem,Devin Pandy,Provisional Votes,1
+13,157,Jackson,Dem,Devin Pandy,TOTAL VOTES,7167
+13,187,Lumpkin,Rep,Andrew Clyde,Absentee by Mail Votes,2056
+13,187,Lumpkin,Rep,Andrew Clyde,Advanced Voting Votes,8102
+13,187,Lumpkin,Rep,Andrew Clyde,Election Day Votes,2036
+13,187,Lumpkin,Rep,Andrew Clyde,Provisional Votes,0
+13,187,Lumpkin,Rep,Andrew Clyde,TOTAL VOTES,12194
+13,187,Lumpkin,Dem,Devin Pandy,Absentee by Mail Votes,1183
+13,187,Lumpkin,Dem,Devin Pandy,Advanced Voting Votes,1485
+13,187,Lumpkin,Dem,Devin Pandy,Election Day Votes,289
+13,187,Lumpkin,Dem,Devin Pandy,Provisional Votes,0
+13,187,Lumpkin,Dem,Devin Pandy,TOTAL VOTES,2957
+13,195,Madison,Rep,Andrew Clyde,Absentee by Mail Votes,1736
+13,195,Madison,Rep,Andrew Clyde,Advanced Voting Votes,6044
+13,195,Madison,Rep,Andrew Clyde,Election Day Votes,3482
+13,195,Madison,Rep,Andrew Clyde,Provisional Votes,2
+13,195,Madison,Rep,Andrew Clyde,TOTAL VOTES,11264
+13,195,Madison,Dem,Devin Pandy,Absentee by Mail Votes,1152
+13,195,Madison,Dem,Devin Pandy,Advanced Voting Votes,1406
+13,195,Madison,Dem,Devin Pandy,Election Day Votes,718
+13,195,Madison,Dem,Devin Pandy,Provisional Votes,1
+13,195,Madison,Dem,Devin Pandy,TOTAL VOTES,3277
+13,227,Pickens,Rep,Andrew Clyde,Absentee by Mail Votes,1281
+13,227,Pickens,Rep,Andrew Clyde,Advanced Voting Votes,4207
+13,227,Pickens,Rep,Andrew Clyde,Election Day Votes,3386
+13,227,Pickens,Rep,Andrew Clyde,Provisional Votes,3
+13,227,Pickens,Rep,Andrew Clyde,TOTAL VOTES,8877
+13,227,Pickens,Dem,Devin Pandy,Absentee by Mail Votes,804
+13,227,Pickens,Dem,Devin Pandy,Advanced Voting Votes,719
+13,227,Pickens,Dem,Devin Pandy,Election Day Votes,427
+13,227,Pickens,Dem,Devin Pandy,Provisional Votes,0
+13,227,Pickens,Dem,Devin Pandy,TOTAL VOTES,1950
+13,241,Rabun,Rep,Andrew Clyde,Absentee by Mail Votes,1699
+13,241,Rabun,Rep,Andrew Clyde,Advanced Voting Votes,4580
+13,241,Rabun,Rep,Andrew Clyde,Election Day Votes,1179
+13,241,Rabun,Rep,Andrew Clyde,Provisional Votes,0
+13,241,Rabun,Rep,Andrew Clyde,TOTAL VOTES,7458
+13,241,Rabun,Dem,Devin Pandy,Absentee by Mail Votes,834
+13,241,Rabun,Dem,Devin Pandy,Advanced Voting Votes,835
+13,241,Rabun,Dem,Devin Pandy,Election Day Votes,185
+13,241,Rabun,Dem,Devin Pandy,Provisional Votes,0
+13,241,Rabun,Dem,Devin Pandy,TOTAL VOTES,1854
+13,257,Stephens,Rep,Andrew Clyde,Absentee by Mail Votes,1395
+13,257,Stephens,Rep,Andrew Clyde,Advanced Voting Votes,6720
+13,257,Stephens,Rep,Andrew Clyde,Election Day Votes,1214
+13,257,Stephens,Rep,Andrew Clyde,Provisional Votes,3
+13,257,Stephens,Rep,Andrew Clyde,TOTAL VOTES,9332
+13,257,Stephens,Dem,Devin Pandy,Absentee by Mail Votes,720
+13,257,Stephens,Dem,Devin Pandy,Advanced Voting Votes,1173
+13,257,Stephens,Dem,Devin Pandy,Election Day Votes,292
+13,257,Stephens,Dem,Devin Pandy,Provisional Votes,0
+13,257,Stephens,Dem,Devin Pandy,TOTAL VOTES,2185
+13,281,Towns,Rep,Andrew Clyde,Absentee by Mail Votes,1207
+13,281,Towns,Rep,Andrew Clyde,Advanced Voting Votes,4093
+13,281,Towns,Rep,Andrew Clyde,Election Day Votes,957
+13,281,Towns,Rep,Andrew Clyde,Provisional Votes,8
+13,281,Towns,Rep,Andrew Clyde,TOTAL VOTES,6265
+13,281,Towns,Dem,Devin Pandy,Absentee by Mail Votes,680
+13,281,Towns,Dem,Devin Pandy,Advanced Voting Votes,659
+13,281,Towns,Dem,Devin Pandy,Election Day Votes,124
+13,281,Towns,Dem,Devin Pandy,Provisional Votes,1
+13,281,Towns,Dem,Devin Pandy,TOTAL VOTES,1464
+13,291,Union,Rep,Andrew Clyde,Absentee by Mail Votes,2258
+13,291,Union,Rep,Andrew Clyde,Advanced Voting Votes,6910
+13,291,Union,Rep,Andrew Clyde,Election Day Votes,3330
+13,291,Union,Rep,Andrew Clyde,Provisional Votes,11
+13,291,Union,Rep,Andrew Clyde,TOTAL VOTES,12509
+13,291,Union,Dem,Devin Pandy,Absentee by Mail Votes,1209
+13,291,Union,Dem,Devin Pandy,Advanced Voting Votes,1146
+13,291,Union,Dem,Devin Pandy,Election Day Votes,288
+13,291,Union,Dem,Devin Pandy,Provisional Votes,0
+13,291,Union,Dem,Devin Pandy,TOTAL VOTES,2643
+13,311,White,Rep,Andrew Clyde,Absentee by Mail Votes,2118
+13,311,White,Rep,Andrew Clyde,Advanced Voting Votes,6642
+13,311,White,Rep,Andrew Clyde,Election Day Votes,3473
+13,311,White,Rep,Andrew Clyde,Provisional Votes,5
+13,311,White,Rep,Andrew Clyde,TOTAL VOTES,12238
+13,311,White,Dem,Devin Pandy,Absentee by Mail Votes,904
+13,311,White,Dem,Devin Pandy,Advanced Voting Votes,1015
+13,311,White,Dem,Devin Pandy,Election Day Votes,353
+13,311,White,Dem,Devin Pandy,Provisional Votes,0
+13,311,White,Dem,Devin Pandy,TOTAL VOTES,2272

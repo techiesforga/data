@@ -1,0 +1,241 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,3,Atkinson,I) (Rep,Austin Scott,Absentee by Mail Votes,177
+13,3,Atkinson,I) (Rep,Austin Scott,Advanced Voting Votes,1345
+13,3,Atkinson,I) (Rep,Austin Scott,Election Day Votes,678
+13,3,Atkinson,I) (Rep,Austin Scott,Provisional Votes,1
+13,3,Atkinson,I) (Rep,Austin Scott,TOTAL VOTES,2201
+13,3,Atkinson,Dem,Lindsay Holliday,Absentee by Mail Votes,118
+13,3,Atkinson,Dem,Lindsay Holliday,Advanced Voting Votes,380
+13,3,Atkinson,Dem,Lindsay Holliday,Election Day Votes,206
+13,3,Atkinson,Dem,Lindsay Holliday,Provisional Votes,0
+13,3,Atkinson,Dem,Lindsay Holliday,TOTAL VOTES,704
+13,17,Ben Hill,I) (Rep,Austin Scott,Absentee by Mail Votes,558
+13,17,Ben Hill,I) (Rep,Austin Scott,Advanced Voting Votes,3160
+13,17,Ben Hill,I) (Rep,Austin Scott,Election Day Votes,450
+13,17,Ben Hill,I) (Rep,Austin Scott,Provisional Votes,0
+13,17,Ben Hill,I) (Rep,Austin Scott,TOTAL VOTES,4168
+13,17,Ben Hill,Dem,Lindsay Holliday,Absentee by Mail Votes,668
+13,17,Ben Hill,Dem,Lindsay Holliday,Advanced Voting Votes,1241
+13,17,Ben Hill,Dem,Lindsay Holliday,Election Day Votes,316
+13,17,Ben Hill,Dem,Lindsay Holliday,Provisional Votes,0
+13,17,Ben Hill,Dem,Lindsay Holliday,TOTAL VOTES,2225
+13,19,Berrien,I) (Rep,Austin Scott,Absentee by Mail Votes,774
+13,19,Berrien,I) (Rep,Austin Scott,Advanced Voting Votes,3757
+13,19,Berrien,I) (Rep,Austin Scott,Election Day Votes,1809
+13,19,Berrien,I) (Rep,Austin Scott,Provisional Votes,9
+13,19,Berrien,I) (Rep,Austin Scott,TOTAL VOTES,6349
+13,19,Berrien,Dem,Lindsay Holliday,Absentee by Mail Votes,313
+13,19,Berrien,Dem,Lindsay Holliday,Advanced Voting Votes,526
+13,19,Berrien,Dem,Lindsay Holliday,Election Day Votes,307
+13,19,Berrien,Dem,Lindsay Holliday,Provisional Votes,1
+13,19,Berrien,Dem,Lindsay Holliday,TOTAL VOTES,1147
+13,21,Bibb,I) (Rep,Austin Scott,Absentee by Mail Votes,3094
+13,21,Bibb,I) (Rep,Austin Scott,Advanced Voting Votes,7027
+13,21,Bibb,I) (Rep,Austin Scott,Election Day Votes,3458
+13,21,Bibb,I) (Rep,Austin Scott,Provisional Votes,7
+13,21,Bibb,I) (Rep,Austin Scott,TOTAL VOTES,13586
+13,21,Bibb,Dem,Lindsay Holliday,Absentee by Mail Votes,3596
+13,21,Bibb,Dem,Lindsay Holliday,Advanced Voting Votes,5391
+13,21,Bibb,Dem,Lindsay Holliday,Election Day Votes,1996
+13,21,Bibb,Dem,Lindsay Holliday,Provisional Votes,17
+13,21,Bibb,Dem,Lindsay Holliday,TOTAL VOTES,11000
+13,23,Bleckley,I) (Rep,Austin Scott,Absentee by Mail Votes,629
+13,23,Bleckley,I) (Rep,Austin Scott,Advanced Voting Votes,2770
+13,23,Bleckley,I) (Rep,Austin Scott,Election Day Votes,946
+13,23,Bleckley,I) (Rep,Austin Scott,Provisional Votes,2
+13,23,Bleckley,I) (Rep,Austin Scott,TOTAL VOTES,4347
+13,23,Bleckley,Dem,Lindsay Holliday,Absentee by Mail Votes,399
+13,23,Bleckley,Dem,Lindsay Holliday,Advanced Voting Votes,561
+13,23,Bleckley,Dem,Lindsay Holliday,Election Day Votes,281
+13,23,Bleckley,Dem,Lindsay Holliday,Provisional Votes,0
+13,23,Bleckley,Dem,Lindsay Holliday,TOTAL VOTES,1241
+13,27,Brooks,I) (Rep,Austin Scott,Absentee by Mail Votes,536
+13,27,Brooks,I) (Rep,Austin Scott,Advanced Voting Votes,2292
+13,27,Brooks,I) (Rep,Austin Scott,Election Day Votes,1394
+13,27,Brooks,I) (Rep,Austin Scott,Provisional Votes,5
+13,27,Brooks,I) (Rep,Austin Scott,TOTAL VOTES,4227
+13,27,Brooks,Dem,Lindsay Holliday,Absentee by Mail Votes,1058
+13,27,Brooks,Dem,Lindsay Holliday,Advanced Voting Votes,1057
+13,27,Brooks,Dem,Lindsay Holliday,Election Day Votes,484
+13,27,Brooks,Dem,Lindsay Holliday,Provisional Votes,3
+13,27,Brooks,Dem,Lindsay Holliday,TOTAL VOTES,2602
+13,71,Colquitt,I) (Rep,Austin Scott,Absentee by Mail Votes,1436
+13,71,Colquitt,I) (Rep,Austin Scott,Advanced Voting Votes,6135
+13,71,Colquitt,I) (Rep,Austin Scott,Election Day Votes,4243
+13,71,Colquitt,I) (Rep,Austin Scott,Provisional Votes,10
+13,71,Colquitt,I) (Rep,Austin Scott,TOTAL VOTES,11824
+13,71,Colquitt,Dem,Lindsay Holliday,Absentee by Mail Votes,1082
+13,71,Colquitt,Dem,Lindsay Holliday,Advanced Voting Votes,1677
+13,71,Colquitt,Dem,Lindsay Holliday,Election Day Votes,1037
+13,71,Colquitt,Dem,Lindsay Holliday,Provisional Votes,3
+13,71,Colquitt,Dem,Lindsay Holliday,TOTAL VOTES,3799
+13,75,Cook,I) (Rep,Austin Scott,Absentee by Mail Votes,511
+13,75,Cook,I) (Rep,Austin Scott,Advanced Voting Votes,3280
+13,75,Cook,I) (Rep,Austin Scott,Election Day Votes,1126
+13,75,Cook,I) (Rep,Austin Scott,Provisional Votes,0
+13,75,Cook,I) (Rep,Austin Scott,TOTAL VOTES,4917
+13,75,Cook,Dem,Lindsay Holliday,Absentee by Mail Votes,477
+13,75,Cook,Dem,Lindsay Holliday,Advanced Voting Votes,935
+13,75,Cook,Dem,Lindsay Holliday,Election Day Votes,497
+13,75,Cook,Dem,Lindsay Holliday,Provisional Votes,1
+13,75,Cook,Dem,Lindsay Holliday,TOTAL VOTES,1910
+13,91,Dodge,I) (Rep,Austin Scott,Absentee by Mail Votes,742
+13,91,Dodge,I) (Rep,Austin Scott,Advanced Voting Votes,2783
+13,91,Dodge,I) (Rep,Austin Scott,Election Day Votes,2295
+13,91,Dodge,I) (Rep,Austin Scott,Provisional Votes,5
+13,91,Dodge,I) (Rep,Austin Scott,TOTAL VOTES,5825
+13,91,Dodge,Dem,Lindsay Holliday,Absentee by Mail Votes,514
+13,91,Dodge,Dem,Lindsay Holliday,Advanced Voting Votes,927
+13,91,Dodge,Dem,Lindsay Holliday,Election Day Votes,524
+13,91,Dodge,Dem,Lindsay Holliday,Provisional Votes,0
+13,91,Dodge,Dem,Lindsay Holliday,TOTAL VOTES,1965
+13,153,Houston,I) (Rep,Austin Scott,Absentee by Mail Votes,8792
+13,153,Houston,I) (Rep,Austin Scott,Advanced Voting Votes,22086
+13,153,Houston,I) (Rep,Austin Scott,Election Day Votes,11953
+13,153,Houston,I) (Rep,Austin Scott,Provisional Votes,49
+13,153,Houston,I) (Rep,Austin Scott,TOTAL VOTES,42880
+13,153,Houston,Dem,Lindsay Holliday,Absentee by Mail Votes,11091
+13,153,Houston,Dem,Lindsay Holliday,Advanced Voting Votes,13321
+13,153,Houston,Dem,Lindsay Holliday,Election Day Votes,6095
+13,153,Houston,Dem,Lindsay Holliday,Provisional Votes,45
+13,153,Houston,Dem,Lindsay Holliday,TOTAL VOTES,30552
+13,155,Irwin,I) (Rep,Austin Scott,Absentee by Mail Votes,388
+13,155,Irwin,I) (Rep,Austin Scott,Advanced Voting Votes,2109
+13,155,Irwin,I) (Rep,Austin Scott,Election Day Votes,645
+13,155,Irwin,I) (Rep,Austin Scott,Provisional Votes,3
+13,155,Irwin,I) (Rep,Austin Scott,TOTAL VOTES,3145
+13,155,Irwin,Dem,Lindsay Holliday,Absentee by Mail Votes,235
+13,155,Irwin,Dem,Lindsay Holliday,Advanced Voting Votes,478
+13,155,Irwin,Dem,Lindsay Holliday,Election Day Votes,229
+13,155,Irwin,Dem,Lindsay Holliday,Provisional Votes,1
+13,155,Irwin,Dem,Lindsay Holliday,TOTAL VOTES,943
+13,169,Jones,I) (Rep,Austin Scott,Absentee by Mail Votes,1355
+13,169,Jones,I) (Rep,Austin Scott,Advanced Voting Votes,5663
+13,169,Jones,I) (Rep,Austin Scott,Election Day Votes,3008
+13,169,Jones,I) (Rep,Austin Scott,Provisional Votes,5
+13,169,Jones,I) (Rep,Austin Scott,TOTAL VOTES,10031
+13,169,Jones,Dem,Lindsay Holliday,Absentee by Mail Votes,1579
+13,169,Jones,Dem,Lindsay Holliday,Advanced Voting Votes,2217
+13,169,Jones,Dem,Lindsay Holliday,Election Day Votes,806
+13,169,Jones,Dem,Lindsay Holliday,Provisional Votes,1
+13,169,Jones,Dem,Lindsay Holliday,TOTAL VOTES,4603
+13,173,Lanier,I) (Rep,Austin Scott,Absentee by Mail Votes,270
+13,173,Lanier,I) (Rep,Austin Scott,Advanced Voting Votes,1771
+13,173,Lanier,I) (Rep,Austin Scott,Election Day Votes,473
+13,173,Lanier,I) (Rep,Austin Scott,Provisional Votes,0
+13,173,Lanier,I) (Rep,Austin Scott,TOTAL VOTES,2514
+13,173,Lanier,Dem,Lindsay Holliday,Absentee by Mail Votes,271
+13,173,Lanier,Dem,Lindsay Holliday,Advanced Voting Votes,471
+13,173,Lanier,Dem,Lindsay Holliday,Election Day Votes,184
+13,173,Lanier,Dem,Lindsay Holliday,Provisional Votes,0
+13,173,Lanier,Dem,Lindsay Holliday,TOTAL VOTES,926
+13,185,Lowndes,I) (Rep,Austin Scott,Absentee by Mail Votes,3435
+13,185,Lowndes,I) (Rep,Austin Scott,Advanced Voting Votes,16361
+13,185,Lowndes,I) (Rep,Austin Scott,Election Day Votes,5105
+13,185,Lowndes,I) (Rep,Austin Scott,Provisional Votes,167
+13,185,Lowndes,I) (Rep,Austin Scott,TOTAL VOTES,25068
+13,185,Lowndes,Dem,Lindsay Holliday,Absentee by Mail Votes,5328
+13,185,Lowndes,Dem,Lindsay Holliday,Advanced Voting Votes,10039
+13,185,Lowndes,Dem,Lindsay Holliday,Election Day Votes,2609
+13,185,Lowndes,Dem,Lindsay Holliday,Provisional Votes,245
+13,185,Lowndes,Dem,Lindsay Holliday,TOTAL VOTES,18221
+13,207,Monroe,I) (Rep,Austin Scott,Absentee by Mail Votes,1118
+13,207,Monroe,I) (Rep,Austin Scott,Advanced Voting Votes,6893
+13,207,Monroe,I) (Rep,Austin Scott,Election Day Votes,3069
+13,207,Monroe,I) (Rep,Austin Scott,Provisional Votes,6
+13,207,Monroe,I) (Rep,Austin Scott,TOTAL VOTES,11086
+13,207,Monroe,Dem,Lindsay Holliday,Absentee by Mail Votes,1270
+13,207,Monroe,Dem,Lindsay Holliday,Advanced Voting Votes,2182
+13,207,Monroe,Dem,Lindsay Holliday,Election Day Votes,663
+13,207,Monroe,Dem,Lindsay Holliday,Provisional Votes,2
+13,207,Monroe,Dem,Lindsay Holliday,TOTAL VOTES,4117
+13,235,Pulaski,I) (Rep,Austin Scott,Absentee by Mail Votes,322
+13,235,Pulaski,I) (Rep,Austin Scott,Advanced Voting Votes,2148
+13,235,Pulaski,I) (Rep,Austin Scott,Election Day Votes,333
+13,235,Pulaski,I) (Rep,Austin Scott,Provisional Votes,1
+13,235,Pulaski,I) (Rep,Austin Scott,TOTAL VOTES,2804
+13,235,Pulaski,Dem,Lindsay Holliday,Absentee by Mail Votes,306
+13,235,Pulaski,Dem,Lindsay Holliday,Advanced Voting Votes,624
+13,235,Pulaski,Dem,Lindsay Holliday,Election Day Votes,150
+13,235,Pulaski,Dem,Lindsay Holliday,Provisional Votes,0
+13,235,Pulaski,Dem,Lindsay Holliday,TOTAL VOTES,1080
+13,271,Telfair,I) (Rep,Austin Scott,Absentee by Mail Votes,357
+13,271,Telfair,I) (Rep,Austin Scott,Advanced Voting Votes,1439
+13,271,Telfair,I) (Rep,Austin Scott,Election Day Votes,905
+13,271,Telfair,I) (Rep,Austin Scott,Provisional Votes,2
+13,271,Telfair,I) (Rep,Austin Scott,TOTAL VOTES,2703
+13,271,Telfair,Dem,Lindsay Holliday,Absentee by Mail Votes,594
+13,271,Telfair,Dem,Lindsay Holliday,Advanced Voting Votes,522
+13,271,Telfair,Dem,Lindsay Holliday,Election Day Votes,292
+13,271,Telfair,Dem,Lindsay Holliday,Provisional Votes,6
+13,271,Telfair,Dem,Lindsay Holliday,TOTAL VOTES,1414
+13,275,Thomas,I) (Rep,Austin Scott,Absentee by Mail Votes,1770
+13,275,Thomas,I) (Rep,Austin Scott,Advanced Voting Votes,8644
+13,275,Thomas,I) (Rep,Austin Scott,Election Day Votes,2707
+13,275,Thomas,I) (Rep,Austin Scott,Provisional Votes,0
+13,275,Thomas,I) (Rep,Austin Scott,TOTAL VOTES,13121
+13,275,Thomas,Dem,Lindsay Holliday,Absentee by Mail Votes,2211
+13,275,Thomas,Dem,Lindsay Holliday,Advanced Voting Votes,4417
+13,275,Thomas,Dem,Lindsay Holliday,Election Day Votes,1371
+13,275,Thomas,Dem,Lindsay Holliday,Provisional Votes,4
+13,275,Thomas,Dem,Lindsay Holliday,TOTAL VOTES,8003
+13,277,Tift,I) (Rep,Austin Scott,Absentee by Mail Votes,1393
+13,277,Tift,I) (Rep,Austin Scott,Advanced Voting Votes,7059
+13,277,Tift,I) (Rep,Austin Scott,Election Day Votes,2803
+13,277,Tift,I) (Rep,Austin Scott,Provisional Votes,12
+13,277,Tift,I) (Rep,Austin Scott,TOTAL VOTES,11267
+13,277,Tift,Dem,Lindsay Holliday,Absentee by Mail Votes,1271
+13,277,Tift,Dem,Lindsay Holliday,Advanced Voting Votes,2364
+13,277,Tift,Dem,Lindsay Holliday,Election Day Votes,995
+13,277,Tift,Dem,Lindsay Holliday,Provisional Votes,15
+13,277,Tift,Dem,Lindsay Holliday,TOTAL VOTES,4645
+13,287,Turner,I) (Rep,Austin Scott,Absentee by Mail Votes,254
+13,287,Turner,I) (Rep,Austin Scott,Advanced Voting Votes,1816
+13,287,Turner,I) (Rep,Austin Scott,Election Day Votes,397
+13,287,Turner,I) (Rep,Austin Scott,Provisional Votes,1
+13,287,Turner,I) (Rep,Austin Scott,TOTAL VOTES,2468
+13,287,Turner,Dem,Lindsay Holliday,Absentee by Mail Votes,266
+13,287,Turner,Dem,Lindsay Holliday,Advanced Voting Votes,676
+13,287,Turner,Dem,Lindsay Holliday,Election Day Votes,301
+13,287,Turner,Dem,Lindsay Holliday,Provisional Votes,1
+13,287,Turner,Dem,Lindsay Holliday,TOTAL VOTES,1244
+13,289,Twiggs,I) (Rep,Austin Scott,Absentee by Mail Votes,312
+13,289,Twiggs,I) (Rep,Austin Scott,Advanced Voting Votes,1192
+13,289,Twiggs,I) (Rep,Austin Scott,Election Day Votes,805
+13,289,Twiggs,I) (Rep,Austin Scott,Provisional Votes,0
+13,289,Twiggs,I) (Rep,Austin Scott,TOTAL VOTES,2309
+13,289,Twiggs,Dem,Lindsay Holliday,Absentee by Mail Votes,697
+13,289,Twiggs,Dem,Lindsay Holliday,Advanced Voting Votes,830
+13,289,Twiggs,Dem,Lindsay Holliday,Election Day Votes,415
+13,289,Twiggs,Dem,Lindsay Holliday,Provisional Votes,4
+13,289,Twiggs,Dem,Lindsay Holliday,TOTAL VOTES,1946
+13,315,Wilcox,I) (Rep,Austin Scott,Absentee by Mail Votes,345
+13,315,Wilcox,I) (Rep,Austin Scott,Advanced Voting Votes,1307
+13,315,Wilcox,I) (Rep,Austin Scott,Election Day Votes,731
+13,315,Wilcox,I) (Rep,Austin Scott,Provisional Votes,0
+13,315,Wilcox,I) (Rep,Austin Scott,TOTAL VOTES,2383
+13,315,Wilcox,Dem,Lindsay Holliday,Absentee by Mail Votes,200
+13,315,Wilcox,Dem,Lindsay Holliday,Advanced Voting Votes,334
+13,315,Wilcox,Dem,Lindsay Holliday,Election Day Votes,266
+13,315,Wilcox,Dem,Lindsay Holliday,Provisional Votes,0
+13,315,Wilcox,Dem,Lindsay Holliday,TOTAL VOTES,800
+13,319,Wilkinson,I) (Rep,Austin Scott,Absentee by Mail Votes,263
+13,319,Wilkinson,I) (Rep,Austin Scott,Advanced Voting Votes,1109
+13,319,Wilkinson,I) (Rep,Austin Scott,Election Day Votes,1275
+13,319,Wilkinson,I) (Rep,Austin Scott,Provisional Votes,4
+13,319,Wilkinson,I) (Rep,Austin Scott,TOTAL VOTES,2651
+13,319,Wilkinson,Dem,Lindsay Holliday,Absentee by Mail Votes,579
+13,319,Wilkinson,Dem,Lindsay Holliday,Advanced Voting Votes,880
+13,319,Wilkinson,Dem,Lindsay Holliday,Election Day Votes,490
+13,319,Wilkinson,Dem,Lindsay Holliday,Provisional Votes,2
+13,319,Wilkinson,Dem,Lindsay Holliday,TOTAL VOTES,1951
+13,321,Worth,I) (Rep,Austin Scott,Absentee by Mail Votes,797
+13,321,Worth,I) (Rep,Austin Scott,Advanced Voting Votes,3277
+13,321,Worth,I) (Rep,Austin Scott,Election Day Votes,2752
+13,321,Worth,I) (Rep,Austin Scott,Provisional Votes,0
+13,321,Worth,I) (Rep,Austin Scott,TOTAL VOTES,6826
+13,321,Worth,Dem,Lindsay Holliday,Absentee by Mail Votes,763
+13,321,Worth,Dem,Lindsay Holliday,Advanced Voting Votes,919
+13,321,Worth,Dem,Lindsay Holliday,Election Day Votes,541
+13,321,Worth,Dem,Lindsay Holliday,Provisional Votes,0
+13,321,Worth,Dem,Lindsay Holliday,TOTAL VOTES,2223

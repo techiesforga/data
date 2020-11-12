@@ -1,0 +1,71 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,27,Brooks,Rep,Russ Goodman,Absentee by Mail Votes,539
+13,27,Brooks,Rep,Russ Goodman,Advanced Voting Votes,2278
+13,27,Brooks,Rep,Russ Goodman,Election Day Votes,1389
+13,27,Brooks,Rep,Russ Goodman,Provisional Votes,3
+13,27,Brooks,Rep,Russ Goodman,TOTAL VOTES,4209
+13,27,Brooks,Dem,Treva Gear,Absentee by Mail Votes,1052
+13,27,Brooks,Dem,Treva Gear,Advanced Voting Votes,1093
+13,27,Brooks,Dem,Treva Gear,Election Day Votes,499
+13,27,Brooks,Dem,Treva Gear,Provisional Votes,3
+13,27,Brooks,Dem,Treva Gear,TOTAL VOTES,2647
+13,65,Clinch,Rep,Russ Goodman,Absentee by Mail Votes,231
+13,65,Clinch,Rep,Russ Goodman,Advanced Voting Votes,1303
+13,65,Clinch,Rep,Russ Goodman,Election Day Votes,632
+13,65,Clinch,Rep,Russ Goodman,Provisional Votes,1
+13,65,Clinch,Rep,Russ Goodman,TOTAL VOTES,2167
+13,65,Clinch,Dem,Treva Gear,Absentee by Mail Votes,123
+13,65,Clinch,Dem,Treva Gear,Advanced Voting Votes,265
+13,65,Clinch,Dem,Treva Gear,Election Day Votes,164
+13,65,Clinch,Dem,Treva Gear,Provisional Votes,0
+13,65,Clinch,Dem,Treva Gear,TOTAL VOTES,552
+13,75,Cook,Rep,Russ Goodman,Absentee by Mail Votes,490
+13,75,Cook,Rep,Russ Goodman,Advanced Voting Votes,3208
+13,75,Cook,Rep,Russ Goodman,Election Day Votes,1081
+13,75,Cook,Rep,Russ Goodman,Provisional Votes,0
+13,75,Cook,Rep,Russ Goodman,TOTAL VOTES,4779
+13,75,Cook,Dem,Treva Gear,Absentee by Mail Votes,505
+13,75,Cook,Dem,Treva Gear,Advanced Voting Votes,1027
+13,75,Cook,Dem,Treva Gear,Election Day Votes,567
+13,75,Cook,Dem,Treva Gear,Provisional Votes,1
+13,75,Cook,Dem,Treva Gear,TOTAL VOTES,2100
+13,101,Echols,Rep,Russ Goodman,Absentee by Mail Votes,121
+13,101,Echols,Rep,Russ Goodman,Advanced Voting Votes,904
+13,101,Echols,Rep,Russ Goodman,Election Day Votes,210
+13,101,Echols,Rep,Russ Goodman,Provisional Votes,0
+13,101,Echols,Rep,Russ Goodman,TOTAL VOTES,1235
+13,101,Echols,Dem,Treva Gear,Absentee by Mail Votes,26
+13,101,Echols,Dem,Treva Gear,Advanced Voting Votes,99
+13,101,Echols,Dem,Treva Gear,Election Day Votes,32
+13,101,Echols,Dem,Treva Gear,Provisional Votes,0
+13,101,Echols,Dem,Treva Gear,TOTAL VOTES,157
+13,173,Lanier,Rep,Russ Goodman,Absentee by Mail Votes,274
+13,173,Lanier,Rep,Russ Goodman,Advanced Voting Votes,1766
+13,173,Lanier,Rep,Russ Goodman,Election Day Votes,489
+13,173,Lanier,Rep,Russ Goodman,Provisional Votes,0
+13,173,Lanier,Rep,Russ Goodman,TOTAL VOTES,2529
+13,173,Lanier,Dem,Treva Gear,Absentee by Mail Votes,266
+13,173,Lanier,Dem,Treva Gear,Advanced Voting Votes,489
+13,173,Lanier,Dem,Treva Gear,Election Day Votes,180
+13,173,Lanier,Dem,Treva Gear,Provisional Votes,0
+13,173,Lanier,Dem,Treva Gear,TOTAL VOTES,935
+13,185,Lowndes,Rep,Russ Goodman,Absentee by Mail Votes,3499
+13,185,Lowndes,Rep,Russ Goodman,Advanced Voting Votes,16837
+13,185,Lowndes,Rep,Russ Goodman,Election Day Votes,5367
+13,185,Lowndes,Rep,Russ Goodman,Provisional Votes,174
+13,185,Lowndes,Rep,Russ Goodman,TOTAL VOTES,25877
+13,185,Lowndes,Dem,Treva Gear,Absentee by Mail Votes,5632
+13,185,Lowndes,Dem,Treva Gear,Advanced Voting Votes,10639
+13,185,Lowndes,Dem,Treva Gear,Election Day Votes,2837
+13,185,Lowndes,Dem,Treva Gear,Provisional Votes,254
+13,185,Lowndes,Dem,Treva Gear,TOTAL VOTES,19362
+13,275,Thomas,Rep,Russ Goodman,Absentee by Mail Votes,306
+13,275,Thomas,Rep,Russ Goodman,Advanced Voting Votes,1553
+13,275,Thomas,Rep,Russ Goodman,Election Day Votes,669
+13,275,Thomas,Rep,Russ Goodman,Provisional Votes,0
+13,275,Thomas,Rep,Russ Goodman,TOTAL VOTES,2528
+13,275,Thomas,Dem,Treva Gear,Absentee by Mail Votes,319
+13,275,Thomas,Dem,Treva Gear,Advanced Voting Votes,535
+13,275,Thomas,Dem,Treva Gear,Election Day Votes,212
+13,275,Thomas,Dem,Treva Gear,Provisional Votes,0
+13,275,Thomas,Dem,Treva Gear,TOTAL VOTES,1066
