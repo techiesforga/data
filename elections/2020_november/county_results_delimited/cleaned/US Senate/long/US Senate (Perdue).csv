@@ -1,0 +1,2386 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,1,Appling,I) (Rep,David A. Perdue,Absentee by Mail Votes,837
+13,1,Appling,I) (Rep,David A. Perdue,Advanced Voting Votes,3774
+13,1,Appling,I) (Rep,David A. Perdue,Election Day Votes,1686
+13,1,Appling,I) (Rep,David A. Perdue,Provisional Votes,9
+13,1,Appling,I) (Rep,David A. Perdue,TOTAL VOTES,6306
+13,1,Appling,Dem,Jon Ossoff,Absentee by Mail Votes,553
+13,1,Appling,Dem,Jon Ossoff,Advanced Voting Votes,845
+13,1,Appling,Dem,Jon Ossoff,Election Day Votes,352
+13,1,Appling,Dem,Jon Ossoff,Provisional Votes,3
+13,1,Appling,Dem,Jon Ossoff,TOTAL VOTES,1753
+13,1,Appling,Lib,Shane Hazel,Absentee by Mail Votes,21
+13,1,Appling,Lib,Shane Hazel,Advanced Voting Votes,74
+13,1,Appling,Lib,Shane Hazel,Election Day Votes,33
+13,1,Appling,Lib,Shane Hazel,Provisional Votes,0
+13,1,Appling,Lib,Shane Hazel,TOTAL VOTES,128
+13,3,Atkinson,I) (Rep,David A. Perdue,Absentee by Mail Votes,170
+13,3,Atkinson,I) (Rep,David A. Perdue,Advanced Voting Votes,1392
+13,3,Atkinson,I) (Rep,David A. Perdue,Election Day Votes,709
+13,3,Atkinson,I) (Rep,David A. Perdue,Provisional Votes,1
+13,3,Atkinson,I) (Rep,David A. Perdue,TOTAL VOTES,2272
+13,3,Atkinson,Dem,Jon Ossoff,Absentee by Mail Votes,123
+13,3,Atkinson,Dem,Jon Ossoff,Advanced Voting Votes,430
+13,3,Atkinson,Dem,Jon Ossoff,Election Day Votes,220
+13,3,Atkinson,Dem,Jon Ossoff,Provisional Votes,0
+13,3,Atkinson,Dem,Jon Ossoff,TOTAL VOTES,773
+13,3,Atkinson,Lib,Shane Hazel,Absentee by Mail Votes,3
+13,3,Atkinson,Lib,Shane Hazel,Advanced Voting Votes,26
+13,3,Atkinson,Lib,Shane Hazel,Election Day Votes,23
+13,3,Atkinson,Lib,Shane Hazel,Provisional Votes,0
+13,3,Atkinson,Lib,Shane Hazel,TOTAL VOTES,52
+13,5,Bacon,I) (Rep,David A. Perdue,Absentee by Mail Votes,465
+13,5,Bacon,I) (Rep,David A. Perdue,Advanced Voting Votes,3047
+13,5,Bacon,I) (Rep,David A. Perdue,Election Day Votes,417
+13,5,Bacon,I) (Rep,David A. Perdue,Provisional Votes,0
+13,5,Bacon,I) (Rep,David A. Perdue,TOTAL VOTES,3929
+13,5,Bacon,Dem,Jon Ossoff,Absentee by Mail Votes,187
+13,5,Bacon,Dem,Jon Ossoff,Advanced Voting Votes,276
+13,5,Bacon,Dem,Jon Ossoff,Election Day Votes,127
+13,5,Bacon,Dem,Jon Ossoff,Provisional Votes,1
+13,5,Bacon,Dem,Jon Ossoff,TOTAL VOTES,591
+13,5,Bacon,Lib,Shane Hazel,Absentee by Mail Votes,9
+13,5,Bacon,Lib,Shane Hazel,Advanced Voting Votes,37
+13,5,Bacon,Lib,Shane Hazel,Election Day Votes,24
+13,5,Bacon,Lib,Shane Hazel,Provisional Votes,0
+13,5,Bacon,Lib,Shane Hazel,TOTAL VOTES,70
+13,7,Baker,I) (Rep,David A. Perdue,Absentee by Mail Votes,131
+13,7,Baker,I) (Rep,David A. Perdue,Advanced Voting Votes,451
+13,7,Baker,I) (Rep,David A. Perdue,Election Day Votes,289
+13,7,Baker,I) (Rep,David A. Perdue,Provisional Votes,2
+13,7,Baker,I) (Rep,David A. Perdue,TOTAL VOTES,873
+13,7,Baker,Dem,Jon Ossoff,Absentee by Mail Votes,230
+13,7,Baker,Dem,Jon Ossoff,Advanced Voting Votes,273
+13,7,Baker,Dem,Jon Ossoff,Election Day Votes,145
+13,7,Baker,Dem,Jon Ossoff,Provisional Votes,0
+13,7,Baker,Dem,Jon Ossoff,TOTAL VOTES,648
+13,7,Baker,Lib,Shane Hazel,Absentee by Mail Votes,2
+13,7,Baker,Lib,Shane Hazel,Advanced Voting Votes,7
+13,7,Baker,Lib,Shane Hazel,Election Day Votes,4
+13,7,Baker,Lib,Shane Hazel,Provisional Votes,0
+13,7,Baker,Lib,Shane Hazel,TOTAL VOTES,13
+13,9,Baldwin,I) (Rep,David A. Perdue,Absentee by Mail Votes,1291
+13,9,Baldwin,I) (Rep,David A. Perdue,Advanced Voting Votes,5733
+13,9,Baldwin,I) (Rep,David A. Perdue,Election Day Votes,1845
+13,9,Baldwin,I) (Rep,David A. Perdue,Provisional Votes,4
+13,9,Baldwin,I) (Rep,David A. Perdue,TOTAL VOTES,8873
+13,9,Baldwin,Dem,Jon Ossoff,Absentee by Mail Votes,2837
+13,9,Baldwin,Dem,Jon Ossoff,Advanced Voting Votes,4445
+13,9,Baldwin,Dem,Jon Ossoff,Election Day Votes,1500
+13,9,Baldwin,Dem,Jon Ossoff,Provisional Votes,1
+13,9,Baldwin,Dem,Jon Ossoff,TOTAL VOTES,8783
+13,9,Baldwin,Lib,Shane Hazel,Absentee by Mail Votes,93
+13,9,Baldwin,Lib,Shane Hazel,Advanced Voting Votes,223
+13,9,Baldwin,Lib,Shane Hazel,Election Day Votes,110
+13,9,Baldwin,Lib,Shane Hazel,Provisional Votes,0
+13,9,Baldwin,Lib,Shane Hazel,TOTAL VOTES,426
+13,11,Banks,I) (Rep,David A. Perdue,Absentee by Mail Votes,982
+13,11,Banks,I) (Rep,David A. Perdue,Advanced Voting Votes,5048
+13,11,Banks,I) (Rep,David A. Perdue,Election Day Votes,1595
+13,11,Banks,I) (Rep,David A. Perdue,Provisional Votes,11
+13,11,Banks,I) (Rep,David A. Perdue,TOTAL VOTES,7636
+13,11,Banks,Dem,Jon Ossoff,Absentee by Mail Votes,325
+13,11,Banks,Dem,Jon Ossoff,Advanced Voting Votes,420
+13,11,Banks,Dem,Jon Ossoff,Election Day Votes,152
+13,11,Banks,Dem,Jon Ossoff,Provisional Votes,2
+13,11,Banks,Dem,Jon Ossoff,TOTAL VOTES,899
+13,11,Banks,Lib,Shane Hazel,Absentee by Mail Votes,27
+13,11,Banks,Lib,Shane Hazel,Advanced Voting Votes,106
+13,11,Banks,Lib,Shane Hazel,Election Day Votes,56
+13,11,Banks,Lib,Shane Hazel,Provisional Votes,1
+13,11,Banks,Lib,Shane Hazel,TOTAL VOTES,190
+13,13,Barrow,I) (Rep,David A. Perdue,Absentee by Mail Votes,4024
+13,13,Barrow,I) (Rep,David A. Perdue,Advanced Voting Votes,16606
+13,13,Barrow,I) (Rep,David A. Perdue,Election Day Votes,5685
+13,13,Barrow,I) (Rep,David A. Perdue,Provisional Votes,2
+13,13,Barrow,I) (Rep,David A. Perdue,TOTAL VOTES,26317
+13,13,Barrow,Dem,Jon Ossoff,Absentee by Mail Votes,3334
+13,13,Barrow,Dem,Jon Ossoff,Advanced Voting Votes,4966
+13,13,Barrow,Dem,Jon Ossoff,Election Day Votes,1762
+13,13,Barrow,Dem,Jon Ossoff,Provisional Votes,4
+13,13,Barrow,Dem,Jon Ossoff,TOTAL VOTES,10066
+13,13,Barrow,Lib,Shane Hazel,Absentee by Mail Votes,243
+13,13,Barrow,Lib,Shane Hazel,Advanced Voting Votes,589
+13,13,Barrow,Lib,Shane Hazel,Election Day Votes,361
+13,13,Barrow,Lib,Shane Hazel,Provisional Votes,0
+13,13,Barrow,Lib,Shane Hazel,TOTAL VOTES,1193
+13,15,Bartow,I) (Rep,David A. Perdue,Absentee by Mail Votes,5865
+13,15,Bartow,I) (Rep,David A. Perdue,Advanced Voting Votes,21209
+13,15,Bartow,I) (Rep,David A. Perdue,Election Day Votes,9917
+13,15,Bartow,I) (Rep,David A. Perdue,Provisional Votes,17
+13,15,Bartow,I) (Rep,David A. Perdue,TOTAL VOTES,37008
+13,15,Bartow,Dem,Jon Ossoff,Absentee by Mail Votes,4149
+13,15,Bartow,Dem,Jon Ossoff,Advanced Voting Votes,5318
+13,15,Bartow,Dem,Jon Ossoff,Election Day Votes,2188
+13,15,Bartow,Dem,Jon Ossoff,Provisional Votes,8
+13,15,Bartow,Dem,Jon Ossoff,TOTAL VOTES,11663
+13,15,Bartow,Lib,Shane Hazel,Absentee by Mail Votes,291
+13,15,Bartow,Lib,Shane Hazel,Advanced Voting Votes,587
+13,15,Bartow,Lib,Shane Hazel,Election Day Votes,482
+13,15,Bartow,Lib,Shane Hazel,Provisional Votes,1
+13,15,Bartow,Lib,Shane Hazel,TOTAL VOTES,1361
+13,17,Ben Hill,I) (Rep,David A. Perdue,Absentee by Mail Votes,507
+13,17,Ben Hill,I) (Rep,David A. Perdue,Advanced Voting Votes,3143
+13,17,Ben Hill,I) (Rep,David A. Perdue,Election Day Votes,427
+13,17,Ben Hill,I) (Rep,David A. Perdue,Provisional Votes,0
+13,17,Ben Hill,I) (Rep,David A. Perdue,TOTAL VOTES,4077
+13,17,Ben Hill,Dem,Jon Ossoff,Absentee by Mail Votes,664
+13,17,Ben Hill,Dem,Jon Ossoff,Advanced Voting Votes,1281
+13,17,Ben Hill,Dem,Jon Ossoff,Election Day Votes,338
+13,17,Ben Hill,Dem,Jon Ossoff,Provisional Votes,1
+13,17,Ben Hill,Dem,Jon Ossoff,TOTAL VOTES,2284
+13,17,Ben Hill,Lib,Shane Hazel,Absentee by Mail Votes,28
+13,17,Ben Hill,Lib,Shane Hazel,Advanced Voting Votes,63
+13,17,Ben Hill,Lib,Shane Hazel,Election Day Votes,25
+13,17,Ben Hill,Lib,Shane Hazel,Provisional Votes,0
+13,17,Ben Hill,Lib,Shane Hazel,TOTAL VOTES,116
+13,19,Berrien,I) (Rep,David A. Perdue,Absentee by Mail Votes,728
+13,19,Berrien,I) (Rep,David A. Perdue,Advanced Voting Votes,3760
+13,19,Berrien,I) (Rep,David A. Perdue,Election Day Votes,1789
+13,19,Berrien,I) (Rep,David A. Perdue,Provisional Votes,9
+13,19,Berrien,I) (Rep,David A. Perdue,TOTAL VOTES,6286
+13,19,Berrien,Dem,Jon Ossoff,Absentee by Mail Votes,331
+13,19,Berrien,Dem,Jon Ossoff,Advanced Voting Votes,548
+13,19,Berrien,Dem,Jon Ossoff,Election Day Votes,324
+13,19,Berrien,Dem,Jon Ossoff,Provisional Votes,1
+13,19,Berrien,Dem,Jon Ossoff,TOTAL VOTES,1204
+13,19,Berrien,Lib,Shane Hazel,Absentee by Mail Votes,29
+13,19,Berrien,Lib,Shane Hazel,Advanced Voting Votes,75
+13,19,Berrien,Lib,Shane Hazel,Election Day Votes,56
+13,19,Berrien,Lib,Shane Hazel,Provisional Votes,0
+13,19,Berrien,Lib,Shane Hazel,TOTAL VOTES,160
+13,21,Bibb,I) (Rep,David A. Perdue,Absentee by Mail Votes,5452
+13,21,Bibb,I) (Rep,David A. Perdue,Advanced Voting Votes,13275
+13,21,Bibb,I) (Rep,David A. Perdue,Election Day Votes,7870
+13,21,Bibb,I) (Rep,David A. Perdue,Provisional Votes,46
+13,21,Bibb,I) (Rep,David A. Perdue,TOTAL VOTES,26643
+13,21,Bibb,Dem,Jon Ossoff,Absentee by Mail Votes,13344
+13,21,Bibb,Dem,Jon Ossoff,Advanced Voting Votes,19864
+13,21,Bibb,Dem,Jon Ossoff,Election Day Votes,8604
+13,21,Bibb,Dem,Jon Ossoff,Provisional Votes,114
+13,21,Bibb,Dem,Jon Ossoff,TOTAL VOTES,41926
+13,21,Bibb,Lib,Shane Hazel,Absentee by Mail Votes,367
+13,21,Bibb,Lib,Shane Hazel,Advanced Voting Votes,604
+13,21,Bibb,Lib,Shane Hazel,Election Day Votes,440
+13,21,Bibb,Lib,Shane Hazel,Provisional Votes,3
+13,21,Bibb,Lib,Shane Hazel,TOTAL VOTES,1414
+13,23,Bleckley,I) (Rep,David A. Perdue,Absentee by Mail Votes,603
+13,23,Bleckley,I) (Rep,David A. Perdue,Advanced Voting Votes,2745
+13,23,Bleckley,I) (Rep,David A. Perdue,Election Day Votes,931
+13,23,Bleckley,I) (Rep,David A. Perdue,Provisional Votes,2
+13,23,Bleckley,I) (Rep,David A. Perdue,TOTAL VOTES,4281
+13,23,Bleckley,Dem,Jon Ossoff,Absentee by Mail Votes,383
+13,23,Bleckley,Dem,Jon Ossoff,Advanced Voting Votes,574
+13,23,Bleckley,Dem,Jon Ossoff,Election Day Votes,292
+13,23,Bleckley,Dem,Jon Ossoff,Provisional Votes,0
+13,23,Bleckley,Dem,Jon Ossoff,TOTAL VOTES,1249
+13,23,Bleckley,Lib,Shane Hazel,Absentee by Mail Votes,21
+13,23,Bleckley,Lib,Shane Hazel,Advanced Voting Votes,60
+13,23,Bleckley,Lib,Shane Hazel,Election Day Votes,33
+13,23,Bleckley,Lib,Shane Hazel,Provisional Votes,0
+13,23,Bleckley,Lib,Shane Hazel,TOTAL VOTES,114
+13,25,Brantley,I) (Rep,David A. Perdue,Absentee by Mail Votes,663
+13,25,Brantley,I) (Rep,David A. Perdue,Advanced Voting Votes,4218
+13,25,Brantley,I) (Rep,David A. Perdue,Election Day Votes,1924
+13,25,Brantley,I) (Rep,David A. Perdue,Provisional Votes,7
+13,25,Brantley,I) (Rep,David A. Perdue,TOTAL VOTES,6812
+13,25,Brantley,Dem,Jon Ossoff,Absentee by Mail Votes,190
+13,25,Brantley,Dem,Jon Ossoff,Advanced Voting Votes,334
+13,25,Brantley,Dem,Jon Ossoff,Election Day Votes,163
+13,25,Brantley,Dem,Jon Ossoff,Provisional Votes,1
+13,25,Brantley,Dem,Jon Ossoff,TOTAL VOTES,688
+13,25,Brantley,Lib,Shane Hazel,Absentee by Mail Votes,12
+13,25,Brantley,Lib,Shane Hazel,Advanced Voting Votes,58
+13,25,Brantley,Lib,Shane Hazel,Election Day Votes,46
+13,25,Brantley,Lib,Shane Hazel,Provisional Votes,0
+13,25,Brantley,Lib,Shane Hazel,TOTAL VOTES,116
+13,27,Brooks,I) (Rep,David A. Perdue,Absentee by Mail Votes,531
+13,27,Brooks,I) (Rep,David A. Perdue,Advanced Voting Votes,2312
+13,27,Brooks,I) (Rep,David A. Perdue,Election Day Votes,1401
+13,27,Brooks,I) (Rep,David A. Perdue,Provisional Votes,6
+13,27,Brooks,I) (Rep,David A. Perdue,TOTAL VOTES,4250
+13,27,Brooks,Dem,Jon Ossoff,Absentee by Mail Votes,1010
+13,27,Brooks,Dem,Jon Ossoff,Advanced Voting Votes,1088
+13,27,Brooks,Dem,Jon Ossoff,Election Day Votes,505
+13,27,Brooks,Dem,Jon Ossoff,Provisional Votes,4
+13,27,Brooks,Dem,Jon Ossoff,TOTAL VOTES,2607
+13,27,Brooks,Lib,Shane Hazel,Absentee by Mail Votes,26
+13,27,Brooks,Lib,Shane Hazel,Advanced Voting Votes,57
+13,27,Brooks,Lib,Shane Hazel,Election Day Votes,36
+13,27,Brooks,Lib,Shane Hazel,Provisional Votes,0
+13,27,Brooks,Lib,Shane Hazel,TOTAL VOTES,119
+13,29,Bryan,I) (Rep,David A. Perdue,Absentee by Mail Votes,1562
+13,29,Bryan,I) (Rep,David A. Perdue,Advanced Voting Votes,9983
+13,29,Bryan,I) (Rep,David A. Perdue,Election Day Votes,2518
+13,29,Bryan,I) (Rep,David A. Perdue,Provisional Votes,4
+13,29,Bryan,I) (Rep,David A. Perdue,TOTAL VOTES,14067
+13,29,Bryan,Dem,Jon Ossoff,Absentee by Mail Votes,1962
+13,29,Bryan,Dem,Jon Ossoff,Advanced Voting Votes,3679
+13,29,Bryan,Dem,Jon Ossoff,Election Day Votes,853
+13,29,Bryan,Dem,Jon Ossoff,Provisional Votes,3
+13,29,Bryan,Dem,Jon Ossoff,TOTAL VOTES,6497
+13,29,Bryan,Lib,Shane Hazel,Absentee by Mail Votes,108
+13,29,Bryan,Lib,Shane Hazel,Advanced Voting Votes,345
+13,29,Bryan,Lib,Shane Hazel,Election Day Votes,146
+13,29,Bryan,Lib,Shane Hazel,Provisional Votes,0
+13,29,Bryan,Lib,Shane Hazel,TOTAL VOTES,599
+13,31,Bulloch,I) (Rep,David A. Perdue,Absentee by Mail Votes,2751
+13,31,Bulloch,I) (Rep,David A. Perdue,Advanced Voting Votes,8898
+13,31,Bulloch,I) (Rep,David A. Perdue,Election Day Votes,6562
+13,31,Bulloch,I) (Rep,David A. Perdue,Provisional Votes,21
+13,31,Bulloch,I) (Rep,David A. Perdue,TOTAL VOTES,18232
+13,31,Bulloch,Dem,Jon Ossoff,Absentee by Mail Votes,3295
+13,31,Bulloch,Dem,Jon Ossoff,Advanced Voting Votes,5115
+13,31,Bulloch,Dem,Jon Ossoff,Election Day Votes,2402
+13,31,Bulloch,Dem,Jon Ossoff,Provisional Votes,34
+13,31,Bulloch,Dem,Jon Ossoff,TOTAL VOTES,10846
+13,31,Bulloch,Lib,Shane Hazel,Absentee by Mail Votes,139
+13,31,Bulloch,Lib,Shane Hazel,Advanced Voting Votes,304
+13,31,Bulloch,Lib,Shane Hazel,Election Day Votes,272
+13,31,Bulloch,Lib,Shane Hazel,Provisional Votes,0
+13,31,Bulloch,Lib,Shane Hazel,TOTAL VOTES,715
+13,33,Burke,I) (Rep,David A. Perdue,Absentee by Mail Votes,663
+13,33,Burke,I) (Rep,David A. Perdue,Advanced Voting Votes,2810
+13,33,Burke,I) (Rep,David A. Perdue,Election Day Votes,1934
+13,33,Burke,I) (Rep,David A. Perdue,Provisional Votes,0
+13,33,Burke,I) (Rep,David A. Perdue,TOTAL VOTES,5407
+13,33,Burke,Dem,Jon Ossoff,Absentee by Mail Votes,1751
+13,33,Burke,Dem,Jon Ossoff,Advanced Voting Votes,1790
+13,33,Burke,Dem,Jon Ossoff,Election Day Votes,1448
+13,33,Burke,Dem,Jon Ossoff,Provisional Votes,0
+13,33,Burke,Dem,Jon Ossoff,TOTAL VOTES,4989
+13,33,Burke,Lib,Shane Hazel,Absentee by Mail Votes,43
+13,33,Burke,Lib,Shane Hazel,Advanced Voting Votes,58
+13,33,Burke,Lib,Shane Hazel,Election Day Votes,63
+13,33,Burke,Lib,Shane Hazel,Provisional Votes,0
+13,33,Burke,Lib,Shane Hazel,TOTAL VOTES,164
+13,35,Butts,I) (Rep,David A. Perdue,Absentee by Mail Votes,1123
+13,35,Butts,I) (Rep,David A. Perdue,Advanced Voting Votes,6380
+13,35,Butts,I) (Rep,David A. Perdue,Election Day Votes,823
+13,35,Butts,I) (Rep,David A. Perdue,Provisional Votes,2
+13,35,Butts,I) (Rep,David A. Perdue,TOTAL VOTES,8328
+13,35,Butts,Dem,Jon Ossoff,Absentee by Mail Votes,892
+13,35,Butts,Dem,Jon Ossoff,Advanced Voting Votes,1863
+13,35,Butts,Dem,Jon Ossoff,Election Day Votes,372
+13,35,Butts,Dem,Jon Ossoff,Provisional Votes,1
+13,35,Butts,Dem,Jon Ossoff,TOTAL VOTES,3128
+13,35,Butts,Lib,Shane Hazel,Absentee by Mail Votes,46
+13,35,Butts,Lib,Shane Hazel,Advanced Voting Votes,140
+13,35,Butts,Lib,Shane Hazel,Election Day Votes,29
+13,35,Butts,Lib,Shane Hazel,Provisional Votes,0
+13,35,Butts,Lib,Shane Hazel,TOTAL VOTES,215
+13,37,Calhoun,I) (Rep,David A. Perdue,Absentee by Mail Votes,149
+13,37,Calhoun,I) (Rep,David A. Perdue,Advanced Voting Votes,503
+13,37,Calhoun,I) (Rep,David A. Perdue,Election Day Votes,281
+13,37,Calhoun,I) (Rep,David A. Perdue,Provisional Votes,0
+13,37,Calhoun,I) (Rep,David A. Perdue,TOTAL VOTES,933
+13,37,Calhoun,Dem,Jon Ossoff,Absentee by Mail Votes,419
+13,37,Calhoun,Dem,Jon Ossoff,Advanced Voting Votes,444
+13,37,Calhoun,Dem,Jon Ossoff,Election Day Votes,348
+13,37,Calhoun,Dem,Jon Ossoff,Provisional Votes,0
+13,37,Calhoun,Dem,Jon Ossoff,TOTAL VOTES,1211
+13,37,Calhoun,Lib,Shane Hazel,Absentee by Mail Votes,3
+13,37,Calhoun,Lib,Shane Hazel,Advanced Voting Votes,10
+13,37,Calhoun,Lib,Shane Hazel,Election Day Votes,15
+13,37,Calhoun,Lib,Shane Hazel,Provisional Votes,0
+13,37,Calhoun,Lib,Shane Hazel,TOTAL VOTES,28
+13,39,Camden,I) (Rep,David A. Perdue,Absentee by Mail Votes,2133
+13,39,Camden,I) (Rep,David A. Perdue,Advanced Voting Votes,9355
+13,39,Camden,I) (Rep,David A. Perdue,Election Day Votes,3495
+13,39,Camden,I) (Rep,David A. Perdue,Provisional Votes,4
+13,39,Camden,I) (Rep,David A. Perdue,TOTAL VOTES,14987
+13,39,Camden,Dem,Jon Ossoff,Absentee by Mail Votes,2482
+13,39,Camden,Dem,Jon Ossoff,Advanced Voting Votes,3839
+13,39,Camden,Dem,Jon Ossoff,Election Day Votes,1143
+13,39,Camden,Dem,Jon Ossoff,Provisional Votes,3
+13,39,Camden,Dem,Jon Ossoff,TOTAL VOTES,7467
+13,39,Camden,Lib,Shane Hazel,Absentee by Mail Votes,179
+13,39,Camden,Lib,Shane Hazel,Advanced Voting Votes,432
+13,39,Camden,Lib,Shane Hazel,Election Day Votes,284
+13,39,Camden,Lib,Shane Hazel,Provisional Votes,0
+13,39,Camden,Lib,Shane Hazel,TOTAL VOTES,895
+13,43,Candler,I) (Rep,David A. Perdue,Absentee by Mail Votes,361
+13,43,Candler,I) (Rep,David A. Perdue,Advanced Voting Votes,1147
+13,43,Candler,I) (Rep,David A. Perdue,Election Day Votes,1570
+13,43,Candler,I) (Rep,David A. Perdue,Provisional Votes,0
+13,43,Candler,I) (Rep,David A. Perdue,TOTAL VOTES,3078
+13,43,Candler,Dem,Jon Ossoff,Absentee by Mail Votes,358
+13,43,Candler,Dem,Jon Ossoff,Advanced Voting Votes,357
+13,43,Candler,Dem,Jon Ossoff,Election Day Votes,517
+13,43,Candler,Dem,Jon Ossoff,Provisional Votes,1
+13,43,Candler,Dem,Jon Ossoff,TOTAL VOTES,1233
+13,43,Candler,Lib,Shane Hazel,Absentee by Mail Votes,10
+13,43,Candler,Lib,Shane Hazel,Advanced Voting Votes,17
+13,43,Candler,Lib,Shane Hazel,Election Day Votes,33
+13,43,Candler,Lib,Shane Hazel,Provisional Votes,0
+13,43,Candler,Lib,Shane Hazel,TOTAL VOTES,60
+13,45,Carroll,I) (Rep,David A. Perdue,Absentee by Mail Votes,4597
+13,45,Carroll,I) (Rep,David A. Perdue,Advanced Voting Votes,21525
+13,45,Carroll,I) (Rep,David A. Perdue,Election Day Votes,10850
+13,45,Carroll,I) (Rep,David A. Perdue,Provisional Votes,25
+13,45,Carroll,I) (Rep,David A. Perdue,TOTAL VOTES,36997
+13,45,Carroll,Dem,Jon Ossoff,Absentee by Mail Votes,4251
+13,45,Carroll,Dem,Jon Ossoff,Advanced Voting Votes,8328
+13,45,Carroll,Dem,Jon Ossoff,Election Day Votes,2960
+13,45,Carroll,Dem,Jon Ossoff,Provisional Votes,10
+13,45,Carroll,Dem,Jon Ossoff,TOTAL VOTES,15549
+13,45,Carroll,Lib,Shane Hazel,Absentee by Mail Votes,273
+13,45,Carroll,Lib,Shane Hazel,Advanced Voting Votes,653
+13,45,Carroll,Lib,Shane Hazel,Election Day Votes,496
+13,45,Carroll,Lib,Shane Hazel,Provisional Votes,5
+13,45,Carroll,Lib,Shane Hazel,TOTAL VOTES,1427
+13,47,Catoosa,I) (Rep,David A. Perdue,Absentee by Mail Votes,2835
+13,47,Catoosa,I) (Rep,David A. Perdue,Advanced Voting Votes,16704
+13,47,Catoosa,I) (Rep,David A. Perdue,Election Day Votes,5017
+13,47,Catoosa,I) (Rep,David A. Perdue,Provisional Votes,15
+13,47,Catoosa,I) (Rep,David A. Perdue,TOTAL VOTES,24571
+13,47,Catoosa,Dem,Jon Ossoff,Absentee by Mail Votes,1934
+13,47,Catoosa,Dem,Jon Ossoff,Advanced Voting Votes,3695
+13,47,Catoosa,Dem,Jon Ossoff,Election Day Votes,964
+13,47,Catoosa,Dem,Jon Ossoff,Provisional Votes,6
+13,47,Catoosa,Dem,Jon Ossoff,TOTAL VOTES,6599
+13,47,Catoosa,Lib,Shane Hazel,Absentee by Mail Votes,139
+13,47,Catoosa,Lib,Shane Hazel,Advanced Voting Votes,561
+13,47,Catoosa,Lib,Shane Hazel,Election Day Votes,303
+13,47,Catoosa,Lib,Shane Hazel,Provisional Votes,1
+13,47,Catoosa,Lib,Shane Hazel,TOTAL VOTES,1004
+13,49,Charlton,I) (Rep,David A. Perdue,Absentee by Mail Votes,394
+13,49,Charlton,I) (Rep,David A. Perdue,Advanced Voting Votes,1865
+13,49,Charlton,I) (Rep,David A. Perdue,Election Day Votes,1097
+13,49,Charlton,I) (Rep,David A. Perdue,Provisional Votes,1
+13,49,Charlton,I) (Rep,David A. Perdue,TOTAL VOTES,3357
+13,49,Charlton,Dem,Jon Ossoff,Absentee by Mail Votes,254
+13,49,Charlton,Dem,Jon Ossoff,Advanced Voting Votes,540
+13,49,Charlton,Dem,Jon Ossoff,Election Day Votes,222
+13,49,Charlton,Dem,Jon Ossoff,Provisional Votes,0
+13,49,Charlton,Dem,Jon Ossoff,TOTAL VOTES,1016
+13,49,Charlton,Lib,Shane Hazel,Absentee by Mail Votes,15
+13,49,Charlton,Lib,Shane Hazel,Advanced Voting Votes,58
+13,49,Charlton,Lib,Shane Hazel,Election Day Votes,31
+13,49,Charlton,Lib,Shane Hazel,Provisional Votes,0
+13,49,Charlton,Lib,Shane Hazel,TOTAL VOTES,104
+13,51,Chatham,I) (Rep,David A. Perdue,Absentee by Mail Votes,11846
+13,51,Chatham,I) (Rep,David A. Perdue,Advanced Voting Votes,22904
+13,51,Chatham,I) (Rep,David A. Perdue,Election Day Votes,18198
+13,51,Chatham,I) (Rep,David A. Perdue,Provisional Votes,88
+13,51,Chatham,I) (Rep,David A. Perdue,TOTAL VOTES,53036
+13,51,Chatham,Dem,Jon Ossoff,Absentee by Mail Votes,27457
+13,51,Chatham,Dem,Jon Ossoff,Advanced Voting Votes,30625
+13,51,Chatham,Dem,Jon Ossoff,Election Day Votes,17738
+13,51,Chatham,Dem,Jon Ossoff,Provisional Votes,163
+13,51,Chatham,Dem,Jon Ossoff,TOTAL VOTES,75983
+13,51,Chatham,Lib,Shane Hazel,Absentee by Mail Votes,788
+13,51,Chatham,Lib,Shane Hazel,Advanced Voting Votes,938
+13,51,Chatham,Lib,Shane Hazel,Election Day Votes,1241
+13,51,Chatham,Lib,Shane Hazel,Provisional Votes,22
+13,51,Chatham,Lib,Shane Hazel,TOTAL VOTES,2989
+13,53,Chattahoochee,I) (Rep,David A. Perdue,Absentee by Mail Votes,124
+13,53,Chattahoochee,I) (Rep,David A. Perdue,Advanced Voting Votes,445
+13,53,Chattahoochee,I) (Rep,David A. Perdue,Election Day Votes,279
+13,53,Chattahoochee,I) (Rep,David A. Perdue,Provisional Votes,2
+13,53,Chattahoochee,I) (Rep,David A. Perdue,TOTAL VOTES,850
+13,53,Chattahoochee,Dem,Jon Ossoff,Absentee by Mail Votes,152
+13,53,Chattahoochee,Dem,Jon Ossoff,Advanced Voting Votes,333
+13,53,Chattahoochee,Dem,Jon Ossoff,Election Day Votes,149
+13,53,Chattahoochee,Dem,Jon Ossoff,Provisional Votes,2
+13,53,Chattahoochee,Dem,Jon Ossoff,TOTAL VOTES,636
+13,53,Chattahoochee,Lib,Shane Hazel,Absentee by Mail Votes,15
+13,53,Chattahoochee,Lib,Shane Hazel,Advanced Voting Votes,25
+13,53,Chattahoochee,Lib,Shane Hazel,Election Day Votes,20
+13,53,Chattahoochee,Lib,Shane Hazel,Provisional Votes,0
+13,53,Chattahoochee,Lib,Shane Hazel,TOTAL VOTES,60
+13,55,Chattooga,I) (Rep,David A. Perdue,Absentee by Mail Votes,1045
+13,55,Chattooga,I) (Rep,David A. Perdue,Advanced Voting Votes,4350
+13,55,Chattooga,I) (Rep,David A. Perdue,Election Day Votes,2378
+13,55,Chattooga,I) (Rep,David A. Perdue,Provisional Votes,4
+13,55,Chattooga,I) (Rep,David A. Perdue,TOTAL VOTES,7777
+13,55,Chattooga,Dem,Jon Ossoff,Absentee by Mail Votes,628
+13,55,Chattooga,Dem,Jon Ossoff,Advanced Voting Votes,865
+13,55,Chattooga,Dem,Jon Ossoff,Election Day Votes,391
+13,55,Chattooga,Dem,Jon Ossoff,Provisional Votes,2
+13,55,Chattooga,Dem,Jon Ossoff,TOTAL VOTES,1886
+13,55,Chattooga,Lib,Shane Hazel,Absentee by Mail Votes,60
+13,55,Chattooga,Lib,Shane Hazel,Advanced Voting Votes,129
+13,55,Chattooga,Lib,Shane Hazel,Election Day Votes,86
+13,55,Chattooga,Lib,Shane Hazel,Provisional Votes,0
+13,55,Chattooga,Lib,Shane Hazel,TOTAL VOTES,275
+13,57,Cherokee,I) (Rep,David A. Perdue,Absentee by Mail Votes,19782
+13,57,Cherokee,I) (Rep,David A. Perdue,Advanced Voting Votes,56129
+13,57,Cherokee,I) (Rep,David A. Perdue,Election Day Votes,23455
+13,57,Cherokee,I) (Rep,David A. Perdue,Provisional Votes,18
+13,57,Cherokee,I) (Rep,David A. Perdue,TOTAL VOTES,99384
+13,57,Cherokee,Dem,Jon Ossoff,Absentee by Mail Votes,15587
+13,57,Cherokee,Dem,Jon Ossoff,Advanced Voting Votes,17989
+13,57,Cherokee,Dem,Jon Ossoff,Election Day Votes,6345
+13,57,Cherokee,Dem,Jon Ossoff,Provisional Votes,7
+13,57,Cherokee,Dem,Jon Ossoff,TOTAL VOTES,39928
+13,57,Cherokee,Lib,Shane Hazel,Absentee by Mail Votes,1038
+13,57,Cherokee,Lib,Shane Hazel,Advanced Voting Votes,1737
+13,57,Cherokee,Lib,Shane Hazel,Election Day Votes,1438
+13,57,Cherokee,Lib,Shane Hazel,Provisional Votes,1
+13,57,Cherokee,Lib,Shane Hazel,TOTAL VOTES,4214
+13,59,Clarke,I) (Rep,David A. Perdue,Absentee by Mail Votes,4307
+13,59,Clarke,I) (Rep,David A. Perdue,Advanced Voting Votes,7253
+13,59,Clarke,I) (Rep,David A. Perdue,Election Day Votes,3469
+13,59,Clarke,I) (Rep,David A. Perdue,Provisional Votes,13
+13,59,Clarke,I) (Rep,David A. Perdue,TOTAL VOTES,15042
+13,59,Clarke,Dem,Jon Ossoff,Absentee by Mail Votes,13409
+13,59,Clarke,Dem,Jon Ossoff,Advanced Voting Votes,15905
+13,59,Clarke,Dem,Jon Ossoff,Election Day Votes,5123
+13,59,Clarke,Dem,Jon Ossoff,Provisional Votes,34
+13,59,Clarke,Dem,Jon Ossoff,TOTAL VOTES,34471
+13,59,Clarke,Lib,Shane Hazel,Absentee by Mail Votes,380
+13,59,Clarke,Lib,Shane Hazel,Advanced Voting Votes,506
+13,59,Clarke,Lib,Shane Hazel,Election Day Votes,431
+13,59,Clarke,Lib,Shane Hazel,Provisional Votes,4
+13,59,Clarke,Lib,Shane Hazel,TOTAL VOTES,1321
+13,61,Clay,I) (Rep,David A. Perdue,Absentee by Mail Votes,113
+13,61,Clay,I) (Rep,David A. Perdue,Advanced Voting Votes,406
+13,61,Clay,I) (Rep,David A. Perdue,Election Day Votes,128
+13,61,Clay,I) (Rep,David A. Perdue,Provisional Votes,0
+13,61,Clay,I) (Rep,David A. Perdue,TOTAL VOTES,647
+13,61,Clay,Dem,Jon Ossoff,Absentee by Mail Votes,266
+13,61,Clay,Dem,Jon Ossoff,Advanced Voting Votes,316
+13,61,Clay,Dem,Jon Ossoff,Election Day Votes,166
+13,61,Clay,Dem,Jon Ossoff,Provisional Votes,0
+13,61,Clay,Dem,Jon Ossoff,TOTAL VOTES,748
+13,61,Clay,Lib,Shane Hazel,Absentee by Mail Votes,10
+13,61,Clay,Lib,Shane Hazel,Advanced Voting Votes,6
+13,61,Clay,Lib,Shane Hazel,Election Day Votes,5
+13,61,Clay,Lib,Shane Hazel,Provisional Votes,0
+13,61,Clay,Lib,Shane Hazel,TOTAL VOTES,21
+13,63,Clayton,I) (Rep,David A. Perdue,Absentee by Mail Votes,4109
+13,63,Clayton,I) (Rep,David A. Perdue,Advanced Voting Votes,7687
+13,63,Clayton,I) (Rep,David A. Perdue,Election Day Votes,3007
+13,63,Clayton,I) (Rep,David A. Perdue,Provisional Votes,38
+13,63,Clayton,I) (Rep,David A. Perdue,TOTAL VOTES,14841
+13,63,Clayton,Dem,Jon Ossoff,Absentee by Mail Votes,25825
+13,63,Clayton,Dem,Jon Ossoff,Advanced Voting Votes,50780
+13,63,Clayton,Dem,Jon Ossoff,Election Day Votes,16666
+13,63,Clayton,Dem,Jon Ossoff,Provisional Votes,428
+13,63,Clayton,Dem,Jon Ossoff,TOTAL VOTES,93699
+13,63,Clayton,Lib,Shane Hazel,Absentee by Mail Votes,704
+13,63,Clayton,Lib,Shane Hazel,Advanced Voting Votes,1129
+13,63,Clayton,Lib,Shane Hazel,Election Day Votes,658
+13,63,Clayton,Lib,Shane Hazel,Provisional Votes,14
+13,63,Clayton,Lib,Shane Hazel,TOTAL VOTES,2505
+13,65,Clinch,I) (Rep,David A. Perdue,Absentee by Mail Votes,213
+13,65,Clinch,I) (Rep,David A. Perdue,Advanced Voting Votes,1264
+13,65,Clinch,I) (Rep,David A. Perdue,Election Day Votes,605
+13,65,Clinch,I) (Rep,David A. Perdue,Provisional Votes,1
+13,65,Clinch,I) (Rep,David A. Perdue,TOTAL VOTES,2083
+13,65,Clinch,Dem,Jon Ossoff,Absentee by Mail Votes,130
+13,65,Clinch,Dem,Jon Ossoff,Advanced Voting Votes,318
+13,65,Clinch,Dem,Jon Ossoff,Election Day Votes,212
+13,65,Clinch,Dem,Jon Ossoff,Provisional Votes,0
+13,65,Clinch,Dem,Jon Ossoff,TOTAL VOTES,660
+13,65,Clinch,Lib,Shane Hazel,Absentee by Mail Votes,8
+13,65,Clinch,Lib,Shane Hazel,Advanced Voting Votes,30
+13,65,Clinch,Lib,Shane Hazel,Election Day Votes,16
+13,65,Clinch,Lib,Shane Hazel,Provisional Votes,0
+13,65,Clinch,Lib,Shane Hazel,TOTAL VOTES,54
+13,67,Cobb,I) (Rep,David A. Perdue,Absentee by Mail Votes,53545
+13,67,Cobb,I) (Rep,David A. Perdue,Advanced Voting Votes,78099
+13,67,Cobb,I) (Rep,David A. Perdue,Election Day Votes,37848
+13,67,Cobb,I) (Rep,David A. Perdue,Provisional Votes,166
+13,67,Cobb,I) (Rep,David A. Perdue,TOTAL VOTES,169658
+13,67,Cobb,Dem,Jon Ossoff,Absentee by Mail Votes,88396
+13,67,Cobb,Dem,Jon Ossoff,Advanced Voting Votes,92520
+13,67,Cobb,Dem,Jon Ossoff,Election Day Votes,29604
+13,67,Cobb,Dem,Jon Ossoff,Provisional Votes,329
+13,67,Cobb,Dem,Jon Ossoff,TOTAL VOTES,210849
+13,67,Cobb,Lib,Shane Hazel,Absentee by Mail Votes,3470
+13,67,Cobb,Lib,Shane Hazel,Advanced Voting Votes,3649
+13,67,Cobb,Lib,Shane Hazel,Election Day Votes,3122
+13,67,Cobb,Lib,Shane Hazel,Provisional Votes,22
+13,67,Cobb,Lib,Shane Hazel,TOTAL VOTES,10263
+13,69,Coffee,I) (Rep,David A. Perdue,Absentee by Mail Votes,899
+13,69,Coffee,I) (Rep,David A. Perdue,Advanced Voting Votes,6981
+13,69,Coffee,I) (Rep,David A. Perdue,Election Day Votes,2535
+13,69,Coffee,I) (Rep,David A. Perdue,Provisional Votes,9
+13,69,Coffee,I) (Rep,David A. Perdue,TOTAL VOTES,10424
+13,69,Coffee,Dem,Jon Ossoff,Absentee by Mail Votes,913
+13,69,Coffee,Dem,Jon Ossoff,Advanced Voting Votes,2298
+13,69,Coffee,Dem,Jon Ossoff,Election Day Votes,1067
+13,69,Coffee,Dem,Jon Ossoff,Provisional Votes,3
+13,69,Coffee,Dem,Jon Ossoff,TOTAL VOTES,4281
+13,69,Coffee,Lib,Shane Hazel,Absentee by Mail Votes,46
+13,69,Coffee,Lib,Shane Hazel,Advanced Voting Votes,155
+13,69,Coffee,Lib,Shane Hazel,Election Day Votes,85
+13,69,Coffee,Lib,Shane Hazel,Provisional Votes,0
+13,69,Coffee,Lib,Shane Hazel,TOTAL VOTES,286
+13,71,Colquitt,I) (Rep,David A. Perdue,Absentee by Mail Votes,1332
+13,71,Colquitt,I) (Rep,David A. Perdue,Advanced Voting Votes,6098
+13,71,Colquitt,I) (Rep,David A. Perdue,Election Day Votes,4205
+13,71,Colquitt,I) (Rep,David A. Perdue,Provisional Votes,9
+13,71,Colquitt,I) (Rep,David A. Perdue,TOTAL VOTES,11644
+13,71,Colquitt,Dem,Jon Ossoff,Absentee by Mail Votes,1105
+13,71,Colquitt,Dem,Jon Ossoff,Advanced Voting Votes,1799
+13,71,Colquitt,Dem,Jon Ossoff,Election Day Votes,1083
+13,71,Colquitt,Dem,Jon Ossoff,Provisional Votes,3
+13,71,Colquitt,Dem,Jon Ossoff,TOTAL VOTES,3990
+13,71,Colquitt,Lib,Shane Hazel,Absentee by Mail Votes,47
+13,71,Colquitt,Lib,Shane Hazel,Advanced Voting Votes,101
+13,71,Colquitt,Lib,Shane Hazel,Election Day Votes,109
+13,71,Colquitt,Lib,Shane Hazel,Provisional Votes,0
+13,71,Colquitt,Lib,Shane Hazel,TOTAL VOTES,257
+13,73,Columbia,I) (Rep,David A. Perdue,Absentee by Mail Votes,7069
+13,73,Columbia,I) (Rep,David A. Perdue,Advanced Voting Votes,29810
+13,73,Columbia,I) (Rep,David A. Perdue,Election Day Votes,13296
+13,73,Columbia,I) (Rep,David A. Perdue,Provisional Votes,45
+13,73,Columbia,I) (Rep,David A. Perdue,TOTAL VOTES,50220
+13,73,Columbia,Dem,Jon Ossoff,Absentee by Mail Votes,8779
+13,73,Columbia,Dem,Jon Ossoff,Advanced Voting Votes,14116
+13,73,Columbia,Dem,Jon Ossoff,Election Day Votes,4837
+13,73,Columbia,Dem,Jon Ossoff,Provisional Votes,27
+13,73,Columbia,Dem,Jon Ossoff,TOTAL VOTES,27759
+13,73,Columbia,Lib,Shane Hazel,Absentee by Mail Votes,366
+13,73,Columbia,Lib,Shane Hazel,Advanced Voting Votes,880
+13,73,Columbia,Lib,Shane Hazel,Election Day Votes,678
+13,73,Columbia,Lib,Shane Hazel,Provisional Votes,4
+13,73,Columbia,Lib,Shane Hazel,TOTAL VOTES,1928
+13,75,Cook,I) (Rep,David A. Perdue,Absentee by Mail Votes,472
+13,75,Cook,I) (Rep,David A. Perdue,Advanced Voting Votes,3288
+13,75,Cook,I) (Rep,David A. Perdue,Election Day Votes,1104
+13,75,Cook,I) (Rep,David A. Perdue,Provisional Votes,0
+13,75,Cook,I) (Rep,David A. Perdue,TOTAL VOTES,4864
+13,75,Cook,Dem,Jon Ossoff,Absentee by Mail Votes,481
+13,75,Cook,Dem,Jon Ossoff,Advanced Voting Votes,960
+13,75,Cook,Dem,Jon Ossoff,Election Day Votes,521
+13,75,Cook,Dem,Jon Ossoff,Provisional Votes,1
+13,75,Cook,Dem,Jon Ossoff,TOTAL VOTES,1963
+13,75,Cook,Lib,Shane Hazel,Absentee by Mail Votes,25
+13,75,Cook,Lib,Shane Hazel,Advanced Voting Votes,79
+13,75,Cook,Lib,Shane Hazel,Election Day Votes,41
+13,75,Cook,Lib,Shane Hazel,Provisional Votes,0
+13,75,Cook,Lib,Shane Hazel,TOTAL VOTES,145
+13,77,Coweta,I) (Rep,David A. Perdue,Absentee by Mail Votes,9404
+13,77,Coweta,I) (Rep,David A. Perdue,Advanced Voting Votes,23787
+13,77,Coweta,I) (Rep,David A. Perdue,Election Day Votes,18105
+13,77,Coweta,I) (Rep,David A. Perdue,Provisional Votes,3
+13,77,Coweta,I) (Rep,David A. Perdue,TOTAL VOTES,51299
+13,77,Coweta,Dem,Jon Ossoff,Absentee by Mail Votes,8503
+13,77,Coweta,Dem,Jon Ossoff,Advanced Voting Votes,9201
+13,77,Coweta,Dem,Jon Ossoff,Election Day Votes,5199
+13,77,Coweta,Dem,Jon Ossoff,Provisional Votes,12
+13,77,Coweta,Dem,Jon Ossoff,TOTAL VOTES,22915
+13,77,Coweta,Lib,Shane Hazel,Absentee by Mail Votes,496
+13,77,Coweta,Lib,Shane Hazel,Advanced Voting Votes,621
+13,77,Coweta,Lib,Shane Hazel,Election Day Votes,786
+13,77,Coweta,Lib,Shane Hazel,Provisional Votes,5
+13,77,Coweta,Lib,Shane Hazel,TOTAL VOTES,1908
+13,79,Crawford,I) (Rep,David A. Perdue,Absentee by Mail Votes,532
+13,79,Crawford,I) (Rep,David A. Perdue,Advanced Voting Votes,2671
+13,79,Crawford,I) (Rep,David A. Perdue,Election Day Votes,1126
+13,79,Crawford,I) (Rep,David A. Perdue,Provisional Votes,1
+13,79,Crawford,I) (Rep,David A. Perdue,TOTAL VOTES,4330
+13,79,Crawford,Dem,Jon Ossoff,Absentee by Mail Votes,492
+13,79,Crawford,Dem,Jon Ossoff,Advanced Voting Votes,806
+13,79,Crawford,Dem,Jon Ossoff,Election Day Votes,262
+13,79,Crawford,Dem,Jon Ossoff,Provisional Votes,1
+13,79,Crawford,Dem,Jon Ossoff,TOTAL VOTES,1561
+13,79,Crawford,Lib,Shane Hazel,Absentee by Mail Votes,32
+13,79,Crawford,Lib,Shane Hazel,Advanced Voting Votes,64
+13,79,Crawford,Lib,Shane Hazel,Election Day Votes,39
+13,79,Crawford,Lib,Shane Hazel,Provisional Votes,0
+13,79,Crawford,Lib,Shane Hazel,TOTAL VOTES,135
+13,81,Crisp,I) (Rep,David A. Perdue,Absentee by Mail Votes,795
+13,81,Crisp,I) (Rep,David A. Perdue,Advanced Voting Votes,3277
+13,81,Crisp,I) (Rep,David A. Perdue,Election Day Votes,978
+13,81,Crisp,I) (Rep,David A. Perdue,Provisional Votes,4
+13,81,Crisp,I) (Rep,David A. Perdue,TOTAL VOTES,5054
+13,81,Crisp,Dem,Jon Ossoff,Absentee by Mail Votes,829
+13,81,Crisp,Dem,Jon Ossoff,Advanced Voting Votes,1434
+13,81,Crisp,Dem,Jon Ossoff,Election Day Votes,545
+13,81,Crisp,Dem,Jon Ossoff,Provisional Votes,1
+13,81,Crisp,Dem,Jon Ossoff,TOTAL VOTES,2809
+13,81,Crisp,Lib,Shane Hazel,Absentee by Mail Votes,19
+13,81,Crisp,Lib,Shane Hazel,Advanced Voting Votes,53
+13,81,Crisp,Lib,Shane Hazel,Election Day Votes,33
+13,81,Crisp,Lib,Shane Hazel,Provisional Votes,0
+13,81,Crisp,Lib,Shane Hazel,TOTAL VOTES,105
+13,83,Dade,I) (Rep,David A. Perdue,Absentee by Mail Votes,614
+13,83,Dade,I) (Rep,David A. Perdue,Advanced Voting Votes,3310
+13,83,Dade,I) (Rep,David A. Perdue,Election Day Votes,1942
+13,83,Dade,I) (Rep,David A. Perdue,Provisional Votes,5
+13,83,Dade,I) (Rep,David A. Perdue,TOTAL VOTES,5871
+13,83,Dade,Dem,Jon Ossoff,Absentee by Mail Votes,346
+13,83,Dade,Dem,Jon Ossoff,Advanced Voting Votes,637
+13,83,Dade,Dem,Jon Ossoff,Election Day Votes,268
+13,83,Dade,Dem,Jon Ossoff,Provisional Votes,2
+13,83,Dade,Dem,Jon Ossoff,TOTAL VOTES,1253
+13,83,Dade,Lib,Shane Hazel,Absentee by Mail Votes,28
+13,83,Dade,Lib,Shane Hazel,Advanced Voting Votes,110
+13,83,Dade,Lib,Shane Hazel,Election Day Votes,70
+13,83,Dade,Lib,Shane Hazel,Provisional Votes,0
+13,83,Dade,Lib,Shane Hazel,TOTAL VOTES,208
+13,85,Dawson,I) (Rep,David A. Perdue,Absentee by Mail Votes,1927
+13,85,Dawson,I) (Rep,David A. Perdue,Advanced Voting Votes,9009
+13,85,Dawson,I) (Rep,David A. Perdue,Election Day Votes,2279
+13,85,Dawson,I) (Rep,David A. Perdue,Provisional Votes,2
+13,85,Dawson,I) (Rep,David A. Perdue,TOTAL VOTES,13217
+13,85,Dawson,Dem,Jon Ossoff,Absentee by Mail Votes,941
+13,85,Dawson,Dem,Jon Ossoff,Advanced Voting Votes,1096
+13,85,Dawson,Dem,Jon Ossoff,Election Day Votes,250
+13,85,Dawson,Dem,Jon Ossoff,Provisional Votes,2
+13,85,Dawson,Dem,Jon Ossoff,TOTAL VOTES,2289
+13,85,Dawson,Lib,Shane Hazel,Absentee by Mail Votes,78
+13,85,Dawson,Lib,Shane Hazel,Advanced Voting Votes,227
+13,85,Dawson,Lib,Shane Hazel,Election Day Votes,113
+13,85,Dawson,Lib,Shane Hazel,Provisional Votes,0
+13,85,Dawson,Lib,Shane Hazel,TOTAL VOTES,418
+13,87,Decatur,I) (Rep,David A. Perdue,Absentee by Mail Votes,816
+13,87,Decatur,I) (Rep,David A. Perdue,Advanced Voting Votes,4426
+13,87,Decatur,I) (Rep,David A. Perdue,Election Day Votes,1448
+13,87,Decatur,I) (Rep,David A. Perdue,Provisional Votes,6
+13,87,Decatur,I) (Rep,David A. Perdue,TOTAL VOTES,6696
+13,87,Decatur,Dem,Jon Ossoff,Absentee by Mail Votes,1366
+13,87,Decatur,Dem,Jon Ossoff,Advanced Voting Votes,2414
+13,87,Decatur,Dem,Jon Ossoff,Election Day Votes,777
+13,87,Decatur,Dem,Jon Ossoff,Provisional Votes,6
+13,87,Decatur,Dem,Jon Ossoff,TOTAL VOTES,4563
+13,87,Decatur,Lib,Shane Hazel,Absentee by Mail Votes,48
+13,87,Decatur,Lib,Shane Hazel,Advanced Voting Votes,99
+13,87,Decatur,Lib,Shane Hazel,Election Day Votes,43
+13,87,Decatur,Lib,Shane Hazel,Provisional Votes,0
+13,87,Decatur,Lib,Shane Hazel,TOTAL VOTES,190
+13,89,DeKalb,I) (Rep,David A. Perdue,Absentee by Mail Votes,17729
+13,89,DeKalb,I) (Rep,David A. Perdue,Advanced Voting Votes,31688
+13,89,DeKalb,I) (Rep,David A. Perdue,Election Day Votes,12225
+13,89,DeKalb,I) (Rep,David A. Perdue,Provisional Votes,208
+13,89,DeKalb,I) (Rep,David A. Perdue,TOTAL VOTES,61850
+13,89,DeKalb,Dem,Jon Ossoff,Absentee by Mail Votes,104602
+13,89,DeKalb,Dem,Jon Ossoff,Advanced Voting Votes,159486
+13,89,DeKalb,Dem,Jon Ossoff,Election Day Votes,33147
+13,89,DeKalb,Dem,Jon Ossoff,Provisional Votes,1128
+13,89,DeKalb,Dem,Jon Ossoff,TOTAL VOTES,298363
+13,89,DeKalb,Lib,Shane Hazel,Absentee by Mail Votes,2234
+13,89,DeKalb,Lib,Shane Hazel,Advanced Voting Votes,3283
+13,89,DeKalb,Lib,Shane Hazel,Election Day Votes,1728
+13,89,DeKalb,Lib,Shane Hazel,Provisional Votes,57
+13,89,DeKalb,Lib,Shane Hazel,TOTAL VOTES,7302
+13,91,Dodge,I) (Rep,David A. Perdue,Absentee by Mail Votes,701
+13,91,Dodge,I) (Rep,David A. Perdue,Advanced Voting Votes,2781
+13,91,Dodge,I) (Rep,David A. Perdue,Election Day Votes,2306
+13,91,Dodge,I) (Rep,David A. Perdue,Provisional Votes,5
+13,91,Dodge,I) (Rep,David A. Perdue,TOTAL VOTES,5793
+13,91,Dodge,Dem,Jon Ossoff,Absentee by Mail Votes,520
+13,91,Dodge,Dem,Jon Ossoff,Advanced Voting Votes,970
+13,91,Dodge,Dem,Jon Ossoff,Election Day Votes,530
+13,91,Dodge,Dem,Jon Ossoff,Provisional Votes,1
+13,91,Dodge,Dem,Jon Ossoff,TOTAL VOTES,2021
+13,91,Dodge,Lib,Shane Hazel,Absentee by Mail Votes,21
+13,91,Dodge,Lib,Shane Hazel,Advanced Voting Votes,69
+13,91,Dodge,Lib,Shane Hazel,Election Day Votes,48
+13,91,Dodge,Lib,Shane Hazel,Provisional Votes,0
+13,91,Dodge,Lib,Shane Hazel,TOTAL VOTES,138
+13,93,Dooly,I) (Rep,David A. Perdue,Absentee by Mail Votes,266
+13,93,Dooly,I) (Rep,David A. Perdue,Advanced Voting Votes,1422
+13,93,Dooly,I) (Rep,David A. Perdue,Election Day Votes,467
+13,93,Dooly,I) (Rep,David A. Perdue,Provisional Votes,3
+13,93,Dooly,I) (Rep,David A. Perdue,TOTAL VOTES,2158
+13,93,Dooly,Dem,Jon Ossoff,Absentee by Mail Votes,441
+13,93,Dooly,Dem,Jon Ossoff,Advanced Voting Votes,923
+13,93,Dooly,Dem,Jon Ossoff,Election Day Votes,460
+13,93,Dooly,Dem,Jon Ossoff,Provisional Votes,2
+13,93,Dooly,Dem,Jon Ossoff,TOTAL VOTES,1826
+13,93,Dooly,Lib,Shane Hazel,Absentee by Mail Votes,13
+13,93,Dooly,Lib,Shane Hazel,Advanced Voting Votes,38
+13,93,Dooly,Lib,Shane Hazel,Election Day Votes,24
+13,93,Dooly,Lib,Shane Hazel,Provisional Votes,0
+13,93,Dooly,Lib,Shane Hazel,TOTAL VOTES,75
+13,95,Dougherty,I) (Rep,David A. Perdue,Absentee by Mail Votes,2407
+13,95,Dougherty,I) (Rep,David A. Perdue,Advanced Voting Votes,3882
+13,95,Dougherty,I) (Rep,David A. Perdue,Election Day Votes,4271
+13,95,Dougherty,I) (Rep,David A. Perdue,Provisional Votes,23
+13,95,Dougherty,I) (Rep,David A. Perdue,TOTAL VOTES,10583
+13,95,Dougherty,Dem,Jon Ossoff,Absentee by Mail Votes,7623
+13,95,Dougherty,Dem,Jon Ossoff,Advanced Voting Votes,8914
+13,95,Dougherty,Dem,Jon Ossoff,Election Day Votes,7206
+13,95,Dougherty,Dem,Jon Ossoff,Provisional Votes,79
+13,95,Dougherty,Dem,Jon Ossoff,TOTAL VOTES,23822
+13,95,Dougherty,Lib,Shane Hazel,Absentee by Mail Votes,123
+13,95,Dougherty,Lib,Shane Hazel,Advanced Voting Votes,156
+13,95,Dougherty,Lib,Shane Hazel,Election Day Votes,222
+13,95,Dougherty,Lib,Shane Hazel,Provisional Votes,1
+13,95,Dougherty,Lib,Shane Hazel,TOTAL VOTES,502
+13,97,Douglas,I) (Rep,David A. Perdue,Absentee by Mail Votes,5324
+13,97,Douglas,I) (Rep,David A. Perdue,Advanced Voting Votes,14997
+13,97,Douglas,I) (Rep,David A. Perdue,Election Day Votes,4547
+13,97,Douglas,I) (Rep,David A. Perdue,Provisional Votes,10
+13,97,Douglas,I) (Rep,David A. Perdue,TOTAL VOTES,24878
+13,97,Douglas,Dem,Jon Ossoff,Absentee by Mail Votes,13290
+13,97,Douglas,Dem,Jon Ossoff,Advanced Voting Votes,22525
+13,97,Douglas,Dem,Jon Ossoff,Election Day Votes,5785
+13,97,Douglas,Dem,Jon Ossoff,Provisional Votes,41
+13,97,Douglas,Dem,Jon Ossoff,TOTAL VOTES,41641
+13,97,Douglas,Lib,Shane Hazel,Absentee by Mail Votes,453
+13,97,Douglas,Lib,Shane Hazel,Advanced Voting Votes,731
+13,97,Douglas,Lib,Shane Hazel,Election Day Votes,446
+13,97,Douglas,Lib,Shane Hazel,Provisional Votes,4
+13,97,Douglas,Lib,Shane Hazel,TOTAL VOTES,1634
+13,99,Early,I) (Rep,David A. Perdue,Absentee by Mail Votes,426
+13,99,Early,I) (Rep,David A. Perdue,Advanced Voting Votes,1550
+13,99,Early,I) (Rep,David A. Perdue,Election Day Votes,817
+13,99,Early,I) (Rep,David A. Perdue,Provisional Votes,0
+13,99,Early,I) (Rep,David A. Perdue,TOTAL VOTES,2793
+13,99,Early,Dem,Jon Ossoff,Absentee by Mail Votes,635
+13,99,Early,Dem,Jon Ossoff,Advanced Voting Votes,1002
+13,99,Early,Dem,Jon Ossoff,Election Day Votes,595
+13,99,Early,Dem,Jon Ossoff,Provisional Votes,0
+13,99,Early,Dem,Jon Ossoff,TOTAL VOTES,2232
+13,99,Early,Lib,Shane Hazel,Absentee by Mail Votes,11
+13,99,Early,Lib,Shane Hazel,Advanced Voting Votes,37
+13,99,Early,Lib,Shane Hazel,Election Day Votes,29
+13,99,Early,Lib,Shane Hazel,Provisional Votes,0
+13,99,Early,Lib,Shane Hazel,TOTAL VOTES,77
+13,101,Echols,I) (Rep,David A. Perdue,Absentee by Mail Votes,114
+13,101,Echols,I) (Rep,David A. Perdue,Advanced Voting Votes,897
+13,101,Echols,I) (Rep,David A. Perdue,Election Day Votes,221
+13,101,Echols,I) (Rep,David A. Perdue,Provisional Votes,0
+13,101,Echols,I) (Rep,David A. Perdue,TOTAL VOTES,1232
+13,101,Echols,Dem,Jon Ossoff,Absentee by Mail Votes,30
+13,101,Echols,Dem,Jon Ossoff,Advanced Voting Votes,101
+13,101,Echols,Dem,Jon Ossoff,Election Day Votes,31
+13,101,Echols,Dem,Jon Ossoff,Provisional Votes,0
+13,101,Echols,Dem,Jon Ossoff,TOTAL VOTES,162
+13,101,Echols,Lib,Shane Hazel,Absentee by Mail Votes,5
+13,101,Echols,Lib,Shane Hazel,Advanced Voting Votes,14
+13,101,Echols,Lib,Shane Hazel,Election Day Votes,5
+13,101,Echols,Lib,Shane Hazel,Provisional Votes,0
+13,101,Echols,Lib,Shane Hazel,TOTAL VOTES,24
+13,103,Effingham,I) (Rep,David A. Perdue,Absentee by Mail Votes,2376
+13,103,Effingham,I) (Rep,David A. Perdue,Advanced Voting Votes,13273
+13,103,Effingham,I) (Rep,David A. Perdue,Election Day Votes,7167
+13,103,Effingham,I) (Rep,David A. Perdue,Provisional Votes,16
+13,103,Effingham,I) (Rep,David A. Perdue,TOTAL VOTES,22832
+13,103,Effingham,Dem,Jon Ossoff,Absentee by Mail Votes,2247
+13,103,Effingham,Dem,Jon Ossoff,Advanced Voting Votes,3590
+13,103,Effingham,Dem,Jon Ossoff,Election Day Votes,1781
+13,103,Effingham,Dem,Jon Ossoff,Provisional Votes,9
+13,103,Effingham,Dem,Jon Ossoff,TOTAL VOTES,7627
+13,103,Effingham,Lib,Shane Hazel,Absentee by Mail Votes,153
+13,103,Effingham,Lib,Shane Hazel,Advanced Voting Votes,322
+13,103,Effingham,Lib,Shane Hazel,Election Day Votes,352
+13,103,Effingham,Lib,Shane Hazel,Provisional Votes,1
+13,103,Effingham,Lib,Shane Hazel,TOTAL VOTES,828
+13,105,Elbert,I) (Rep,David A. Perdue,Absentee by Mail Votes,990
+13,105,Elbert,I) (Rep,David A. Perdue,Advanced Voting Votes,3399
+13,105,Elbert,I) (Rep,David A. Perdue,Election Day Votes,1836
+13,105,Elbert,I) (Rep,David A. Perdue,Provisional Votes,0
+13,105,Elbert,I) (Rep,David A. Perdue,TOTAL VOTES,6225
+13,105,Elbert,Dem,Jon Ossoff,Absentee by Mail Votes,1006
+13,105,Elbert,Dem,Jon Ossoff,Advanced Voting Votes,1211
+13,105,Elbert,Dem,Jon Ossoff,Election Day Votes,500
+13,105,Elbert,Dem,Jon Ossoff,Provisional Votes,0
+13,105,Elbert,Dem,Jon Ossoff,TOTAL VOTES,2717
+13,105,Elbert,Lib,Shane Hazel,Absentee by Mail Votes,21
+13,105,Elbert,Lib,Shane Hazel,Advanced Voting Votes,68
+13,105,Elbert,Lib,Shane Hazel,Election Day Votes,44
+13,105,Elbert,Lib,Shane Hazel,Provisional Votes,0
+13,105,Elbert,Lib,Shane Hazel,TOTAL VOTES,133
+13,107,Emanuel,I) (Rep,David A. Perdue,Absentee by Mail Votes,892
+13,107,Emanuel,I) (Rep,David A. Perdue,Advanced Voting Votes,3110
+13,107,Emanuel,I) (Rep,David A. Perdue,Election Day Votes,2510
+13,107,Emanuel,I) (Rep,David A. Perdue,Provisional Votes,1
+13,107,Emanuel,I) (Rep,David A. Perdue,TOTAL VOTES,6513
+13,107,Emanuel,Dem,Jon Ossoff,Absentee by Mail Votes,727
+13,107,Emanuel,Dem,Jon Ossoff,Advanced Voting Votes,1179
+13,107,Emanuel,Dem,Jon Ossoff,Election Day Votes,814
+13,107,Emanuel,Dem,Jon Ossoff,Provisional Votes,0
+13,107,Emanuel,Dem,Jon Ossoff,TOTAL VOTES,2720
+13,107,Emanuel,Lib,Shane Hazel,Absentee by Mail Votes,26
+13,107,Emanuel,Lib,Shane Hazel,Advanced Voting Votes,57
+13,107,Emanuel,Lib,Shane Hazel,Election Day Votes,51
+13,107,Emanuel,Lib,Shane Hazel,Provisional Votes,1
+13,107,Emanuel,Lib,Shane Hazel,TOTAL VOTES,135
+13,109,Evans,I) (Rep,David A. Perdue,Absentee by Mail Votes,491
+13,109,Evans,I) (Rep,David A. Perdue,Advanced Voting Votes,1922
+13,109,Evans,I) (Rep,David A. Perdue,Election Day Votes,463
+13,109,Evans,I) (Rep,David A. Perdue,Provisional Votes,0
+13,109,Evans,I) (Rep,David A. Perdue,TOTAL VOTES,2876
+13,109,Evans,Dem,Jon Ossoff,Absentee by Mail Votes,305
+13,109,Evans,Dem,Jon Ossoff,Advanced Voting Votes,719
+13,109,Evans,Dem,Jon Ossoff,Election Day Votes,227
+13,109,Evans,Dem,Jon Ossoff,Provisional Votes,0
+13,109,Evans,Dem,Jon Ossoff,TOTAL VOTES,1251
+13,109,Evans,Lib,Shane Hazel,Absentee by Mail Votes,15
+13,109,Evans,Lib,Shane Hazel,Advanced Voting Votes,33
+13,109,Evans,Lib,Shane Hazel,Election Day Votes,16
+13,109,Evans,Lib,Shane Hazel,Provisional Votes,0
+13,109,Evans,Lib,Shane Hazel,TOTAL VOTES,64
+13,111,Fannin,I) (Rep,David A. Perdue,Absentee by Mail Votes,2204
+13,111,Fannin,I) (Rep,David A. Perdue,Advanced Voting Votes,5678
+13,111,Fannin,I) (Rep,David A. Perdue,Election Day Votes,4070
+13,111,Fannin,I) (Rep,David A. Perdue,Provisional Votes,20
+13,111,Fannin,I) (Rep,David A. Perdue,TOTAL VOTES,11972
+13,111,Fannin,Dem,Jon Ossoff,Absentee by Mail Votes,1055
+13,111,Fannin,Dem,Jon Ossoff,Advanced Voting Votes,977
+13,111,Fannin,Dem,Jon Ossoff,Election Day Votes,383
+13,111,Fannin,Dem,Jon Ossoff,Provisional Votes,0
+13,111,Fannin,Dem,Jon Ossoff,TOTAL VOTES,2415
+13,111,Fannin,Lib,Shane Hazel,Absentee by Mail Votes,79
+13,111,Fannin,Lib,Shane Hazel,Advanced Voting Votes,105
+13,111,Fannin,Lib,Shane Hazel,Election Day Votes,113
+13,111,Fannin,Lib,Shane Hazel,Provisional Votes,2
+13,111,Fannin,Lib,Shane Hazel,TOTAL VOTES,299
+13,113,Fayette,I) (Rep,David A. Perdue,Absentee by Mail Votes,7602
+13,113,Fayette,I) (Rep,David A. Perdue,Advanced Voting Votes,22862
+13,113,Fayette,I) (Rep,David A. Perdue,Election Day Votes,6331
+13,113,Fayette,I) (Rep,David A. Perdue,Provisional Votes,0
+13,113,Fayette,I) (Rep,David A. Perdue,TOTAL VOTES,36795
+13,113,Fayette,Dem,Jon Ossoff,Absentee by Mail Votes,10282
+13,113,Fayette,Dem,Jon Ossoff,Advanced Voting Votes,16672
+13,113,Fayette,Dem,Jon Ossoff,Election Day Votes,3344
+13,113,Fayette,Dem,Jon Ossoff,Provisional Votes,0
+13,113,Fayette,Dem,Jon Ossoff,TOTAL VOTES,30298
+13,113,Fayette,Lib,Shane Hazel,Absentee by Mail Votes,362
+13,113,Fayette,Lib,Shane Hazel,Advanced Voting Votes,761
+13,113,Fayette,Lib,Shane Hazel,Election Day Votes,386
+13,113,Fayette,Lib,Shane Hazel,Provisional Votes,0
+13,113,Fayette,Lib,Shane Hazel,TOTAL VOTES,1509
+13,115,Floyd,I) (Rep,David A. Perdue,Absentee by Mail Votes,4340
+13,115,Floyd,I) (Rep,David A. Perdue,Advanced Voting Votes,14508
+13,115,Floyd,I) (Rep,David A. Perdue,Election Day Votes,7718
+13,115,Floyd,I) (Rep,David A. Perdue,Provisional Votes,105
+13,115,Floyd,I) (Rep,David A. Perdue,TOTAL VOTES,26671
+13,115,Floyd,Dem,Jon Ossoff,Absentee by Mail Votes,3669
+13,115,Floyd,Dem,Jon Ossoff,Advanced Voting Votes,4621
+13,115,Floyd,Dem,Jon Ossoff,Election Day Votes,2159
+13,115,Floyd,Dem,Jon Ossoff,Provisional Votes,21
+13,115,Floyd,Dem,Jon Ossoff,TOTAL VOTES,10470
+13,115,Floyd,Lib,Shane Hazel,Absentee by Mail Votes,244
+13,115,Floyd,Lib,Shane Hazel,Advanced Voting Votes,414
+13,115,Floyd,Lib,Shane Hazel,Election Day Votes,350
+13,115,Floyd,Lib,Shane Hazel,Provisional Votes,0
+13,115,Floyd,Lib,Shane Hazel,TOTAL VOTES,1008
+13,117,Forsyth,I) (Rep,David A. Perdue,Absentee by Mail Votes,14990
+13,117,Forsyth,I) (Rep,David A. Perdue,Advanced Voting Votes,61047
+13,117,Forsyth,I) (Rep,David A. Perdue,Election Day Votes,9587
+13,117,Forsyth,I) (Rep,David A. Perdue,Provisional Votes,28
+13,117,Forsyth,I) (Rep,David A. Perdue,TOTAL VOTES,85652
+13,117,Forsyth,Dem,Jon Ossoff,Absentee by Mail Votes,14107
+13,117,Forsyth,Dem,Jon Ossoff,Advanced Voting Votes,21855
+13,117,Forsyth,Dem,Jon Ossoff,Election Day Votes,3244
+13,117,Forsyth,Dem,Jon Ossoff,Provisional Votes,23
+13,117,Forsyth,Dem,Jon Ossoff,TOTAL VOTES,39229
+13,117,Forsyth,Lib,Shane Hazel,Absentee by Mail Votes,728
+13,117,Forsyth,Lib,Shane Hazel,Advanced Voting Votes,1988
+13,117,Forsyth,Lib,Shane Hazel,Election Day Votes,668
+13,117,Forsyth,Lib,Shane Hazel,Provisional Votes,2
+13,117,Forsyth,Lib,Shane Hazel,TOTAL VOTES,3386
+13,119,Franklin,I) (Rep,David A. Perdue,Absentee by Mail Votes,1379
+13,119,Franklin,I) (Rep,David A. Perdue,Advanced Voting Votes,5345
+13,119,Franklin,I) (Rep,David A. Perdue,Election Day Votes,2269
+13,119,Franklin,I) (Rep,David A. Perdue,Provisional Votes,0
+13,119,Franklin,I) (Rep,David A. Perdue,TOTAL VOTES,8993
+13,119,Franklin,Dem,Jon Ossoff,Absentee by Mail Votes,537
+13,119,Franklin,Dem,Jon Ossoff,Advanced Voting Votes,603
+13,119,Franklin,Dem,Jon Ossoff,Election Day Votes,323
+13,119,Franklin,Dem,Jon Ossoff,Provisional Votes,2
+13,119,Franklin,Dem,Jon Ossoff,TOTAL VOTES,1465
+13,119,Franklin,Lib,Shane Hazel,Absentee by Mail Votes,40
+13,119,Franklin,Lib,Shane Hazel,Advanced Voting Votes,82
+13,119,Franklin,Lib,Shane Hazel,Election Day Votes,65
+13,119,Franklin,Lib,Shane Hazel,Provisional Votes,0
+13,119,Franklin,Lib,Shane Hazel,TOTAL VOTES,187
+13,121,Fulton,I) (Rep,David A. Perdue,Absentee by Mail Votes,33275
+13,121,Fulton,I) (Rep,David A. Perdue,Advanced Voting Votes,92262
+13,121,Fulton,I) (Rep,David A. Perdue,Election Day Votes,19520
+13,121,Fulton,I) (Rep,David A. Perdue,Provisional Votes,881
+13,121,Fulton,I) (Rep,David A. Perdue,TOTAL VOTES,145938
+13,121,Fulton,Dem,Jon Ossoff,Absentee by Mail Votes,106841
+13,121,Fulton,Dem,Jon Ossoff,Advanced Voting Votes,215786
+13,121,Fulton,Dem,Jon Ossoff,Election Day Votes,36258
+13,121,Fulton,Dem,Jon Ossoff,Provisional Votes,2368
+13,121,Fulton,Dem,Jon Ossoff,TOTAL VOTES,361253
+13,121,Fulton,Lib,Shane Hazel,Absentee by Mail Votes,2712
+13,121,Fulton,Lib,Shane Hazel,Advanced Voting Votes,5821
+13,121,Fulton,Lib,Shane Hazel,Election Day Votes,2300
+13,121,Fulton,Lib,Shane Hazel,Provisional Votes,140
+13,121,Fulton,Lib,Shane Hazel,TOTAL VOTES,10973
+13,123,Gilmer,I) (Rep,David A. Perdue,Absentee by Mail Votes,2137
+13,123,Gilmer,I) (Rep,David A. Perdue,Advanced Voting Votes,6787
+13,123,Gilmer,I) (Rep,David A. Perdue,Election Day Votes,4271
+13,123,Gilmer,I) (Rep,David A. Perdue,Provisional Votes,11
+13,123,Gilmer,I) (Rep,David A. Perdue,TOTAL VOTES,13206
+13,123,Gilmer,Dem,Jon Ossoff,Absentee by Mail Votes,1128
+13,123,Gilmer,Dem,Jon Ossoff,Advanced Voting Votes,1151
+13,123,Gilmer,Dem,Jon Ossoff,Election Day Votes,435
+13,123,Gilmer,Dem,Jon Ossoff,Provisional Votes,1
+13,123,Gilmer,Dem,Jon Ossoff,TOTAL VOTES,2715
+13,123,Gilmer,Lib,Shane Hazel,Absentee by Mail Votes,94
+13,123,Gilmer,Lib,Shane Hazel,Advanced Voting Votes,151
+13,123,Gilmer,Lib,Shane Hazel,Election Day Votes,140
+13,123,Gilmer,Lib,Shane Hazel,Provisional Votes,1
+13,123,Gilmer,Lib,Shane Hazel,TOTAL VOTES,386
+13,125,Glascock,I) (Rep,David A. Perdue,Absentee by Mail Votes,195
+13,125,Glascock,I) (Rep,David A. Perdue,Advanced Voting Votes,775
+13,125,Glascock,I) (Rep,David A. Perdue,Election Day Votes,396
+13,125,Glascock,I) (Rep,David A. Perdue,Provisional Votes,0
+13,125,Glascock,I) (Rep,David A. Perdue,TOTAL VOTES,1366
+13,125,Glascock,Dem,Jon Ossoff,Absentee by Mail Votes,49
+13,125,Glascock,Dem,Jon Ossoff,Advanced Voting Votes,59
+13,125,Glascock,Dem,Jon Ossoff,Election Day Votes,42
+13,125,Glascock,Dem,Jon Ossoff,Provisional Votes,0
+13,125,Glascock,Dem,Jon Ossoff,TOTAL VOTES,150
+13,125,Glascock,Lib,Shane Hazel,Absentee by Mail Votes,1
+13,125,Glascock,Lib,Shane Hazel,Advanced Voting Votes,16
+13,125,Glascock,Lib,Shane Hazel,Election Day Votes,7
+13,125,Glascock,Lib,Shane Hazel,Provisional Votes,0
+13,125,Glascock,Lib,Shane Hazel,TOTAL VOTES,24
+13,127,Glynn,I) (Rep,David A. Perdue,Absentee by Mail Votes,4413
+13,127,Glynn,I) (Rep,David A. Perdue,Advanced Voting Votes,16497
+13,127,Glynn,I) (Rep,David A. Perdue,Election Day Votes,4620
+13,127,Glynn,I) (Rep,David A. Perdue,Provisional Votes,30
+13,127,Glynn,I) (Rep,David A. Perdue,TOTAL VOTES,25560
+13,127,Glynn,Dem,Jon Ossoff,Absentee by Mail Votes,5244
+13,127,Glynn,Dem,Jon Ossoff,Advanced Voting Votes,7589
+13,127,Glynn,Dem,Jon Ossoff,Election Day Votes,2084
+13,127,Glynn,Dem,Jon Ossoff,Provisional Votes,21
+13,127,Glynn,Dem,Jon Ossoff,TOTAL VOTES,14938
+13,127,Glynn,Lib,Shane Hazel,Absentee by Mail Votes,215
+13,127,Glynn,Lib,Shane Hazel,Advanced Voting Votes,488
+13,127,Glynn,Lib,Shane Hazel,Election Day Votes,266
+13,127,Glynn,Lib,Shane Hazel,Provisional Votes,1
+13,127,Glynn,Lib,Shane Hazel,TOTAL VOTES,970
+13,129,Gordon,I) (Rep,David A. Perdue,Absentee by Mail Votes,2471
+13,129,Gordon,I) (Rep,David A. Perdue,Advanced Voting Votes,9713
+13,129,Gordon,I) (Rep,David A. Perdue,Election Day Votes,6814
+13,129,Gordon,I) (Rep,David A. Perdue,Provisional Votes,13
+13,129,Gordon,I) (Rep,David A. Perdue,TOTAL VOTES,19011
+13,129,Gordon,Dem,Jon Ossoff,Absentee by Mail Votes,1323
+13,129,Gordon,Dem,Jon Ossoff,Advanced Voting Votes,1848
+13,129,Gordon,Dem,Jon Ossoff,Election Day Votes,1011
+13,129,Gordon,Dem,Jon Ossoff,Provisional Votes,0
+13,129,Gordon,Dem,Jon Ossoff,TOTAL VOTES,4182
+13,129,Gordon,Lib,Shane Hazel,Absentee by Mail Votes,102
+13,129,Gordon,Lib,Shane Hazel,Advanced Voting Votes,250
+13,129,Gordon,Lib,Shane Hazel,Election Day Votes,219
+13,129,Gordon,Lib,Shane Hazel,Provisional Votes,2
+13,129,Gordon,Lib,Shane Hazel,TOTAL VOTES,573
+13,131,Grady,I) (Rep,David A. Perdue,Absentee by Mail Votes,1073
+13,131,Grady,I) (Rep,David A. Perdue,Advanced Voting Votes,3887
+13,131,Grady,I) (Rep,David A. Perdue,Election Day Votes,2002
+13,131,Grady,I) (Rep,David A. Perdue,Provisional Votes,0
+13,131,Grady,I) (Rep,David A. Perdue,TOTAL VOTES,6962
+13,131,Grady,Dem,Jon Ossoff,Absentee by Mail Votes,1038
+13,131,Grady,Dem,Jon Ossoff,Advanced Voting Votes,1797
+13,131,Grady,Dem,Jon Ossoff,Election Day Votes,620
+13,131,Grady,Dem,Jon Ossoff,Provisional Votes,0
+13,131,Grady,Dem,Jon Ossoff,TOTAL VOTES,3455
+13,131,Grady,Lib,Shane Hazel,Absentee by Mail Votes,29
+13,131,Grady,Lib,Shane Hazel,Advanced Voting Votes,66
+13,131,Grady,Lib,Shane Hazel,Election Day Votes,51
+13,131,Grady,Lib,Shane Hazel,Provisional Votes,0
+13,131,Grady,Lib,Shane Hazel,TOTAL VOTES,146
+13,133,Greene,I) (Rep,David A. Perdue,Absentee by Mail Votes,1323
+13,133,Greene,I) (Rep,David A. Perdue,Advanced Voting Votes,5057
+13,133,Greene,I) (Rep,David A. Perdue,Election Day Votes,864
+13,133,Greene,I) (Rep,David A. Perdue,Provisional Votes,3
+13,133,Greene,I) (Rep,David A. Perdue,TOTAL VOTES,7247
+13,133,Greene,Dem,Jon Ossoff,Absentee by Mail Votes,1380
+13,133,Greene,Dem,Jon Ossoff,Advanced Voting Votes,1832
+13,133,Greene,Dem,Jon Ossoff,Election Day Votes,544
+13,133,Greene,Dem,Jon Ossoff,Provisional Votes,7
+13,133,Greene,Dem,Jon Ossoff,TOTAL VOTES,3763
+13,133,Greene,Lib,Shane Hazel,Absentee by Mail Votes,38
+13,133,Greene,Lib,Shane Hazel,Advanced Voting Votes,71
+13,133,Greene,Lib,Shane Hazel,Election Day Votes,43
+13,133,Greene,Lib,Shane Hazel,Provisional Votes,0
+13,133,Greene,Lib,Shane Hazel,TOTAL VOTES,152
+13,135,Gwinnett,I) (Rep,David A. Perdue,Absentee by Mail Votes,41296
+13,135,Gwinnett,I) (Rep,David A. Perdue,Advanced Voting Votes,90661
+13,135,Gwinnett,I) (Rep,David A. Perdue,Election Day Votes,34576
+13,135,Gwinnett,I) (Rep,David A. Perdue,Provisional Votes,221
+13,135,Gwinnett,I) (Rep,David A. Perdue,TOTAL VOTES,166754
+13,135,Gwinnett,Dem,Jon Ossoff,Absentee by Mail Votes,76886
+13,135,Gwinnett,Dem,Jon Ossoff,Advanced Voting Votes,121145
+13,135,Gwinnett,Dem,Jon Ossoff,Election Day Votes,35117
+13,135,Gwinnett,Dem,Jon Ossoff,Provisional Votes,403
+13,135,Gwinnett,Dem,Jon Ossoff,TOTAL VOTES,233551
+13,135,Gwinnett,Lib,Shane Hazel,Absentee by Mail Votes,3070
+13,135,Gwinnett,Lib,Shane Hazel,Advanced Voting Votes,4671
+13,135,Gwinnett,Lib,Shane Hazel,Election Day Votes,3126
+13,135,Gwinnett,Lib,Shane Hazel,Provisional Votes,34
+13,135,Gwinnett,Lib,Shane Hazel,TOTAL VOTES,10901
+13,137,Habersham,I) (Rep,David A. Perdue,Absentee by Mail Votes,2851
+13,137,Habersham,I) (Rep,David A. Perdue,Advanced Voting Votes,10964
+13,137,Habersham,I) (Rep,David A. Perdue,Election Day Votes,2551
+13,137,Habersham,I) (Rep,David A. Perdue,Provisional Votes,19
+13,137,Habersham,I) (Rep,David A. Perdue,TOTAL VOTES,16385
+13,137,Habersham,Dem,Jon Ossoff,Absentee by Mail Votes,1197
+13,137,Habersham,Dem,Jon Ossoff,Advanced Voting Votes,1647
+13,137,Habersham,Dem,Jon Ossoff,Election Day Votes,493
+13,137,Habersham,Dem,Jon Ossoff,Provisional Votes,3
+13,137,Habersham,Dem,Jon Ossoff,TOTAL VOTES,3340
+13,137,Habersham,Lib,Shane Hazel,Absentee by Mail Votes,107
+13,137,Habersham,Lib,Shane Hazel,Advanced Voting Votes,286
+13,137,Habersham,Lib,Shane Hazel,Election Day Votes,140
+13,137,Habersham,Lib,Shane Hazel,Provisional Votes,1
+13,137,Habersham,Lib,Shane Hazel,TOTAL VOTES,534
+13,139,Hall,I) (Rep,David A. Perdue,Absentee by Mail Votes,12019
+13,139,Hall,I) (Rep,David A. Perdue,Advanced Voting Votes,40901
+13,139,Hall,I) (Rep,David A. Perdue,Election Day Votes,10855
+13,139,Hall,I) (Rep,David A. Perdue,Provisional Votes,0
+13,139,Hall,I) (Rep,David A. Perdue,TOTAL VOTES,63775
+13,139,Hall,Dem,Jon Ossoff,Absentee by Mail Votes,8321
+13,139,Hall,Dem,Jon Ossoff,Advanced Voting Votes,11362
+13,139,Hall,Dem,Jon Ossoff,Election Day Votes,3778
+13,139,Hall,Dem,Jon Ossoff,Provisional Votes,0
+13,139,Hall,Dem,Jon Ossoff,TOTAL VOTES,23461
+13,139,Hall,Lib,Shane Hazel,Absentee by Mail Votes,567
+13,139,Hall,Lib,Shane Hazel,Advanced Voting Votes,1210
+13,139,Hall,Lib,Shane Hazel,Election Day Votes,682
+13,139,Hall,Lib,Shane Hazel,Provisional Votes,0
+13,139,Hall,Lib,Shane Hazel,TOTAL VOTES,2459
+13,141,Hancock,I) (Rep,David A. Perdue,Absentee by Mail Votes,247
+13,141,Hancock,I) (Rep,David A. Perdue,Advanced Voting Votes,639
+13,141,Hancock,I) (Rep,David A. Perdue,Election Day Votes,287
+13,141,Hancock,I) (Rep,David A. Perdue,Provisional Votes,0
+13,141,Hancock,I) (Rep,David A. Perdue,TOTAL VOTES,1173
+13,141,Hancock,Dem,Jon Ossoff,Absentee by Mail Votes,1158
+13,141,Hancock,Dem,Jon Ossoff,Advanced Voting Votes,1096
+13,141,Hancock,Dem,Jon Ossoff,Election Day Votes,601
+13,141,Hancock,Dem,Jon Ossoff,Provisional Votes,3
+13,141,Hancock,Dem,Jon Ossoff,TOTAL VOTES,2858
+13,141,Hancock,Lib,Shane Hazel,Absentee by Mail Votes,20
+13,141,Hancock,Lib,Shane Hazel,Advanced Voting Votes,32
+13,141,Hancock,Lib,Shane Hazel,Election Day Votes,14
+13,141,Hancock,Lib,Shane Hazel,Provisional Votes,0
+13,141,Hancock,Lib,Shane Hazel,TOTAL VOTES,66
+13,143,Haralson,I) (Rep,David A. Perdue,Absentee by Mail Votes,1710
+13,143,Haralson,I) (Rep,David A. Perdue,Advanced Voting Votes,6107
+13,143,Haralson,I) (Rep,David A. Perdue,Election Day Votes,4195
+13,143,Haralson,I) (Rep,David A. Perdue,Provisional Votes,4
+13,143,Haralson,I) (Rep,David A. Perdue,TOTAL VOTES,12016
+13,143,Haralson,Dem,Jon Ossoff,Absentee by Mail Votes,617
+13,143,Haralson,Dem,Jon Ossoff,Advanced Voting Votes,740
+13,143,Haralson,Dem,Jon Ossoff,Election Day Votes,407
+13,143,Haralson,Dem,Jon Ossoff,Provisional Votes,0
+13,143,Haralson,Dem,Jon Ossoff,TOTAL VOTES,1764
+13,143,Haralson,Lib,Shane Hazel,Absentee by Mail Votes,71
+13,143,Haralson,Lib,Shane Hazel,Advanced Voting Votes,142
+13,143,Haralson,Lib,Shane Hazel,Election Day Votes,123
+13,143,Haralson,Lib,Shane Hazel,Provisional Votes,0
+13,143,Haralson,Lib,Shane Hazel,TOTAL VOTES,336
+13,145,Harris,I) (Rep,David A. Perdue,Absentee by Mail Votes,2117
+13,145,Harris,I) (Rep,David A. Perdue,Advanced Voting Votes,6622
+13,145,Harris,I) (Rep,David A. Perdue,Election Day Votes,5527
+13,145,Harris,I) (Rep,David A. Perdue,Provisional Votes,13
+13,145,Harris,I) (Rep,David A. Perdue,TOTAL VOTES,14279
+13,145,Harris,Dem,Jon Ossoff,Absentee by Mail Votes,1899
+13,145,Harris,Dem,Jon Ossoff,Advanced Voting Votes,2025
+13,145,Harris,Dem,Jon Ossoff,Election Day Votes,1264
+13,145,Harris,Dem,Jon Ossoff,Provisional Votes,4
+13,145,Harris,Dem,Jon Ossoff,TOTAL VOTES,5192
+13,145,Harris,Lib,Shane Hazel,Absentee by Mail Votes,103
+13,145,Harris,Lib,Shane Hazel,Advanced Voting Votes,109
+13,145,Harris,Lib,Shane Hazel,Election Day Votes,170
+13,145,Harris,Lib,Shane Hazel,Provisional Votes,1
+13,145,Harris,Lib,Shane Hazel,TOTAL VOTES,383
+13,147,Hart,I) (Rep,David A. Perdue,Absentee by Mail Votes,1399
+13,147,Hart,I) (Rep,David A. Perdue,Advanced Voting Votes,5671
+13,147,Hart,I) (Rep,David A. Perdue,Election Day Votes,2306
+13,147,Hart,I) (Rep,David A. Perdue,Provisional Votes,1
+13,147,Hart,I) (Rep,David A. Perdue,TOTAL VOTES,9377
+13,147,Hart,Dem,Jon Ossoff,Absentee by Mail Votes,1016
+13,147,Hart,Dem,Jon Ossoff,Advanced Voting Votes,1376
+13,147,Hart,Dem,Jon Ossoff,Election Day Votes,543
+13,147,Hart,Dem,Jon Ossoff,Provisional Votes,2
+13,147,Hart,Dem,Jon Ossoff,TOTAL VOTES,2937
+13,147,Hart,Lib,Shane Hazel,Absentee by Mail Votes,37
+13,147,Hart,Lib,Shane Hazel,Advanced Voting Votes,108
+13,147,Hart,Lib,Shane Hazel,Election Day Votes,73
+13,147,Hart,Lib,Shane Hazel,Provisional Votes,0
+13,147,Hart,Lib,Shane Hazel,TOTAL VOTES,218
+13,149,Heard,I) (Rep,David A. Perdue,Absentee by Mail Votes,656
+13,149,Heard,I) (Rep,David A. Perdue,Advanced Voting Votes,2145
+13,149,Heard,I) (Rep,David A. Perdue,Election Day Votes,1611
+13,149,Heard,I) (Rep,David A. Perdue,Provisional Votes,1
+13,149,Heard,I) (Rep,David A. Perdue,TOTAL VOTES,4413
+13,149,Heard,Dem,Jon Ossoff,Absentee by Mail Votes,271
+13,149,Heard,Dem,Jon Ossoff,Advanced Voting Votes,338
+13,149,Heard,Dem,Jon Ossoff,Election Day Votes,192
+13,149,Heard,Dem,Jon Ossoff,Provisional Votes,1
+13,149,Heard,Dem,Jon Ossoff,TOTAL VOTES,802
+13,149,Heard,Lib,Shane Hazel,Absentee by Mail Votes,25
+13,149,Heard,Lib,Shane Hazel,Advanced Voting Votes,57
+13,149,Heard,Lib,Shane Hazel,Election Day Votes,31
+13,149,Heard,Lib,Shane Hazel,Provisional Votes,0
+13,149,Heard,Lib,Shane Hazel,TOTAL VOTES,113
+13,151,Henry,I) (Rep,David A. Perdue,Absentee by Mail Votes,7976
+13,151,Henry,I) (Rep,David A. Perdue,Advanced Voting Votes,31581
+13,151,Henry,I) (Rep,David A. Perdue,Election Day Votes,7902
+13,151,Henry,I) (Rep,David A. Perdue,Provisional Votes,27
+13,151,Henry,I) (Rep,David A. Perdue,TOTAL VOTES,47486
+13,151,Henry,Dem,Jon Ossoff,Absentee by Mail Votes,19706
+13,151,Henry,Dem,Jon Ossoff,Advanced Voting Votes,43606
+13,151,Henry,Dem,Jon Ossoff,Election Day Votes,8215
+13,151,Henry,Dem,Jon Ossoff,Provisional Votes,65
+13,151,Henry,Dem,Jon Ossoff,TOTAL VOTES,71592
+13,151,Henry,Lib,Shane Hazel,Absentee by Mail Votes,655
+13,151,Henry,Lib,Shane Hazel,Advanced Voting Votes,1401
+13,151,Henry,Lib,Shane Hazel,Election Day Votes,572
+13,151,Henry,Lib,Shane Hazel,Provisional Votes,3
+13,151,Henry,Lib,Shane Hazel,TOTAL VOTES,2631
+13,153,Houston,I) (Rep,David A. Perdue,Absentee by Mail Votes,8252
+13,153,Houston,I) (Rep,David A. Perdue,Advanced Voting Votes,21645
+13,153,Houston,I) (Rep,David A. Perdue,Election Day Votes,11487
+13,153,Houston,I) (Rep,David A. Perdue,Provisional Votes,44
+13,153,Houston,I) (Rep,David A. Perdue,TOTAL VOTES,41428
+13,153,Houston,Dem,Jon Ossoff,Absentee by Mail Votes,11016
+13,153,Houston,Dem,Jon Ossoff,Advanced Voting Votes,13621
+13,153,Houston,Dem,Jon Ossoff,Election Day Votes,6274
+13,153,Houston,Dem,Jon Ossoff,Provisional Votes,44
+13,153,Houston,Dem,Jon Ossoff,TOTAL VOTES,30955
+13,153,Houston,Lib,Shane Hazel,Absentee by Mail Votes,521
+13,153,Houston,Lib,Shane Hazel,Advanced Voting Votes,623
+13,153,Houston,Lib,Shane Hazel,Election Day Votes,632
+13,153,Houston,Lib,Shane Hazel,Provisional Votes,3
+13,153,Houston,Lib,Shane Hazel,TOTAL VOTES,1779
+13,155,Irwin,I) (Rep,David A. Perdue,Absentee by Mail Votes,373
+13,155,Irwin,I) (Rep,David A. Perdue,Advanced Voting Votes,2085
+13,155,Irwin,I) (Rep,David A. Perdue,Election Day Votes,634
+13,155,Irwin,I) (Rep,David A. Perdue,Provisional Votes,3
+13,155,Irwin,I) (Rep,David A. Perdue,TOTAL VOTES,3095
+13,155,Irwin,Dem,Jon Ossoff,Absentee by Mail Votes,236
+13,155,Irwin,Dem,Jon Ossoff,Advanced Voting Votes,504
+13,155,Irwin,Dem,Jon Ossoff,Election Day Votes,241
+13,155,Irwin,Dem,Jon Ossoff,Provisional Votes,1
+13,155,Irwin,Dem,Jon Ossoff,TOTAL VOTES,982
+13,155,Irwin,Lib,Shane Hazel,Absentee by Mail Votes,5
+13,155,Irwin,Lib,Shane Hazel,Advanced Voting Votes,47
+13,155,Irwin,Lib,Shane Hazel,Election Day Votes,15
+13,155,Irwin,Lib,Shane Hazel,Provisional Votes,0
+13,155,Irwin,Lib,Shane Hazel,TOTAL VOTES,67
+13,157,Jackson,I) (Rep,David A. Perdue,Absentee by Mail Votes,4324
+13,157,Jackson,I) (Rep,David A. Perdue,Advanced Voting Votes,19969
+13,157,Jackson,I) (Rep,David A. Perdue,Election Day Votes,4867
+13,157,Jackson,I) (Rep,David A. Perdue,Provisional Votes,6
+13,157,Jackson,I) (Rep,David A. Perdue,TOTAL VOTES,29166
+13,157,Jackson,Dem,Jon Ossoff,Absentee by Mail Votes,2550
+13,157,Jackson,Dem,Jon Ossoff,Advanced Voting Votes,3685
+13,157,Jackson,Dem,Jon Ossoff,Election Day Votes,1026
+13,157,Jackson,Dem,Jon Ossoff,Provisional Votes,1
+13,157,Jackson,Dem,Jon Ossoff,TOTAL VOTES,7262
+13,157,Jackson,Lib,Shane Hazel,Absentee by Mail Votes,209
+13,157,Jackson,Lib,Shane Hazel,Advanced Voting Votes,490
+13,157,Jackson,Lib,Shane Hazel,Election Day Votes,256
+13,157,Jackson,Lib,Shane Hazel,Provisional Votes,0
+13,157,Jackson,Lib,Shane Hazel,TOTAL VOTES,955
+13,159,Jasper,I) (Rep,David A. Perdue,Absentee by Mail Votes,798
+13,159,Jasper,I) (Rep,David A. Perdue,Advanced Voting Votes,3438
+13,159,Jasper,I) (Rep,David A. Perdue,Election Day Votes,1503
+13,159,Jasper,I) (Rep,David A. Perdue,Provisional Votes,12
+13,159,Jasper,I) (Rep,David A. Perdue,TOTAL VOTES,5751
+13,159,Jasper,Dem,Jon Ossoff,Absentee by Mail Votes,634
+13,159,Jasper,Dem,Jon Ossoff,Advanced Voting Votes,759
+13,159,Jasper,Dem,Jon Ossoff,Election Day Votes,296
+13,159,Jasper,Dem,Jon Ossoff,Provisional Votes,1
+13,159,Jasper,Dem,Jon Ossoff,TOTAL VOTES,1690
+13,159,Jasper,Lib,Shane Hazel,Absentee by Mail Votes,36
+13,159,Jasper,Lib,Shane Hazel,Advanced Voting Votes,59
+13,159,Jasper,Lib,Shane Hazel,Election Day Votes,56
+13,159,Jasper,Lib,Shane Hazel,Provisional Votes,0
+13,159,Jasper,Lib,Shane Hazel,TOTAL VOTES,151
+13,161,Jeff Davis,I) (Rep,David A. Perdue,Absentee by Mail Votes,516
+13,161,Jeff Davis,I) (Rep,David A. Perdue,Advanced Voting Votes,2681
+13,161,Jeff Davis,I) (Rep,David A. Perdue,Election Day Votes,1377
+13,161,Jeff Davis,I) (Rep,David A. Perdue,Provisional Votes,0
+13,161,Jeff Davis,I) (Rep,David A. Perdue,TOTAL VOTES,4574
+13,161,Jeff Davis,Dem,Jon Ossoff,Absentee by Mail Votes,262
+13,161,Jeff Davis,Dem,Jon Ossoff,Advanced Voting Votes,502
+13,161,Jeff Davis,Dem,Jon Ossoff,Election Day Votes,249
+13,161,Jeff Davis,Dem,Jon Ossoff,Provisional Votes,0
+13,161,Jeff Davis,Dem,Jon Ossoff,TOTAL VOTES,1013
+13,161,Jeff Davis,Lib,Shane Hazel,Absentee by Mail Votes,17
+13,161,Jeff Davis,Lib,Shane Hazel,Advanced Voting Votes,54
+13,161,Jeff Davis,Lib,Shane Hazel,Election Day Votes,40
+13,161,Jeff Davis,Lib,Shane Hazel,Provisional Votes,0
+13,161,Jeff Davis,Lib,Shane Hazel,TOTAL VOTES,111
+13,163,Jefferson,I) (Rep,David A. Perdue,Absentee by Mail Votes,444
+13,163,Jefferson,I) (Rep,David A. Perdue,Advanced Voting Votes,1988
+13,163,Jefferson,I) (Rep,David A. Perdue,Election Day Votes,1103
+13,163,Jefferson,I) (Rep,David A. Perdue,Provisional Votes,4
+13,163,Jefferson,I) (Rep,David A. Perdue,TOTAL VOTES,3539
+13,163,Jefferson,Dem,Jon Ossoff,Absentee by Mail Votes,1199
+13,163,Jefferson,Dem,Jon Ossoff,Advanced Voting Votes,1679
+13,163,Jefferson,Dem,Jon Ossoff,Election Day Votes,1028
+13,163,Jefferson,Dem,Jon Ossoff,Provisional Votes,7
+13,163,Jefferson,Dem,Jon Ossoff,TOTAL VOTES,3913
+13,163,Jefferson,Lib,Shane Hazel,Absentee by Mail Votes,24
+13,163,Jefferson,Lib,Shane Hazel,Advanced Voting Votes,46
+13,163,Jefferson,Lib,Shane Hazel,Election Day Votes,32
+13,163,Jefferson,Lib,Shane Hazel,Provisional Votes,0
+13,163,Jefferson,Lib,Shane Hazel,TOTAL VOTES,102
+13,165,Jenkins,I) (Rep,David A. Perdue,Absentee by Mail Votes,331
+13,165,Jenkins,I) (Rep,David A. Perdue,Advanced Voting Votes,1245
+13,165,Jenkins,I) (Rep,David A. Perdue,Election Day Votes,576
+13,165,Jenkins,I) (Rep,David A. Perdue,Provisional Votes,3
+13,165,Jenkins,I) (Rep,David A. Perdue,TOTAL VOTES,2155
+13,165,Jenkins,Dem,Jon Ossoff,Absentee by Mail Votes,383
+13,165,Jenkins,Dem,Jon Ossoff,Advanced Voting Votes,530
+13,165,Jenkins,Dem,Jon Ossoff,Election Day Votes,280
+13,165,Jenkins,Dem,Jon Ossoff,Provisional Votes,1
+13,165,Jenkins,Dem,Jon Ossoff,TOTAL VOTES,1194
+13,165,Jenkins,Lib,Shane Hazel,Absentee by Mail Votes,14
+13,165,Jenkins,Lib,Shane Hazel,Advanced Voting Votes,15
+13,165,Jenkins,Lib,Shane Hazel,Election Day Votes,22
+13,165,Jenkins,Lib,Shane Hazel,Provisional Votes,0
+13,165,Jenkins,Lib,Shane Hazel,TOTAL VOTES,51
+13,167,Johnson,I) (Rep,David A. Perdue,Absentee by Mail Votes,336
+13,167,Johnson,I) (Rep,David A. Perdue,Advanced Voting Votes,1711
+13,167,Johnson,I) (Rep,David A. Perdue,Election Day Votes,754
+13,167,Johnson,I) (Rep,David A. Perdue,Provisional Votes,0
+13,167,Johnson,I) (Rep,David A. Perdue,TOTAL VOTES,2801
+13,167,Johnson,Dem,Jon Ossoff,Absentee by Mail Votes,374
+13,167,Johnson,Dem,Jon Ossoff,Advanced Voting Votes,574
+13,167,Johnson,Dem,Jon Ossoff,Election Day Votes,210
+13,167,Johnson,Dem,Jon Ossoff,Provisional Votes,0
+13,167,Johnson,Dem,Jon Ossoff,TOTAL VOTES,1158
+13,167,Johnson,Lib,Shane Hazel,Absentee by Mail Votes,19
+13,167,Johnson,Lib,Shane Hazel,Advanced Voting Votes,40
+13,167,Johnson,Lib,Shane Hazel,Election Day Votes,16
+13,167,Johnson,Lib,Shane Hazel,Provisional Votes,0
+13,167,Johnson,Lib,Shane Hazel,TOTAL VOTES,75
+13,169,Jones,I) (Rep,David A. Perdue,Absentee by Mail Votes,1287
+13,169,Jones,I) (Rep,David A. Perdue,Advanced Voting Votes,5609
+13,169,Jones,I) (Rep,David A. Perdue,Election Day Votes,2954
+13,169,Jones,I) (Rep,David A. Perdue,Provisional Votes,4
+13,169,Jones,I) (Rep,David A. Perdue,TOTAL VOTES,9854
+13,169,Jones,Dem,Jon Ossoff,Absentee by Mail Votes,1568
+13,169,Jones,Dem,Jon Ossoff,Advanced Voting Votes,2282
+13,169,Jones,Dem,Jon Ossoff,Election Day Votes,835
+13,169,Jones,Dem,Jon Ossoff,Provisional Votes,2
+13,169,Jones,Dem,Jon Ossoff,TOTAL VOTES,4687
+13,169,Jones,Lib,Shane Hazel,Absentee by Mail Votes,59
+13,169,Jones,Lib,Shane Hazel,Advanced Voting Votes,133
+13,169,Jones,Lib,Shane Hazel,Election Day Votes,109
+13,169,Jones,Lib,Shane Hazel,Provisional Votes,0
+13,169,Jones,Lib,Shane Hazel,TOTAL VOTES,301
+13,171,Lamar,I) (Rep,David A. Perdue,Absentee by Mail Votes,797
+13,171,Lamar,I) (Rep,David A. Perdue,Advanced Voting Votes,3762
+13,171,Lamar,I) (Rep,David A. Perdue,Election Day Votes,1713
+13,171,Lamar,I) (Rep,David A. Perdue,Provisional Votes,8
+13,171,Lamar,I) (Rep,David A. Perdue,TOTAL VOTES,6280
+13,171,Lamar,Dem,Jon Ossoff,Absentee by Mail Votes,877
+13,171,Lamar,Dem,Jon Ossoff,Advanced Voting Votes,1160
+13,171,Lamar,Dem,Jon Ossoff,Election Day Votes,471
+13,171,Lamar,Dem,Jon Ossoff,Provisional Votes,3
+13,171,Lamar,Dem,Jon Ossoff,TOTAL VOTES,2511
+13,171,Lamar,Lib,Shane Hazel,Absentee by Mail Votes,43
+13,171,Lamar,Lib,Shane Hazel,Advanced Voting Votes,80
+13,171,Lamar,Lib,Shane Hazel,Election Day Votes,74
+13,171,Lamar,Lib,Shane Hazel,Provisional Votes,0
+13,171,Lamar,Lib,Shane Hazel,TOTAL VOTES,197
+13,173,Lanier,I) (Rep,David A. Perdue,Absentee by Mail Votes,248
+13,173,Lanier,I) (Rep,David A. Perdue,Advanced Voting Votes,1764
+13,173,Lanier,I) (Rep,David A. Perdue,Election Day Votes,469
+13,173,Lanier,I) (Rep,David A. Perdue,Provisional Votes,0
+13,173,Lanier,I) (Rep,David A. Perdue,TOTAL VOTES,2481
+13,173,Lanier,Dem,Jon Ossoff,Absentee by Mail Votes,269
+13,173,Lanier,Dem,Jon Ossoff,Advanced Voting Votes,488
+13,173,Lanier,Dem,Jon Ossoff,Election Day Votes,187
+13,173,Lanier,Dem,Jon Ossoff,Provisional Votes,0
+13,173,Lanier,Dem,Jon Ossoff,TOTAL VOTES,944
+13,173,Lanier,Lib,Shane Hazel,Absentee by Mail Votes,16
+13,173,Lanier,Lib,Shane Hazel,Advanced Voting Votes,46
+13,173,Lanier,Lib,Shane Hazel,Election Day Votes,32
+13,173,Lanier,Lib,Shane Hazel,Provisional Votes,0
+13,173,Lanier,Lib,Shane Hazel,TOTAL VOTES,94
+13,175,Laurens,I) (Rep,David A. Perdue,Absentee by Mail Votes,2292
+13,175,Laurens,I) (Rep,David A. Perdue,Advanced Voting Votes,6472
+13,175,Laurens,I) (Rep,David A. Perdue,Election Day Votes,5596
+13,175,Laurens,I) (Rep,David A. Perdue,Provisional Votes,3
+13,175,Laurens,I) (Rep,David A. Perdue,TOTAL VOTES,14363
+13,175,Laurens,Dem,Jon Ossoff,Absentee by Mail Votes,2593
+13,175,Laurens,Dem,Jon Ossoff,Advanced Voting Votes,3294
+13,175,Laurens,Dem,Jon Ossoff,Election Day Votes,1809
+13,175,Laurens,Dem,Jon Ossoff,Provisional Votes,2
+13,175,Laurens,Dem,Jon Ossoff,TOTAL VOTES,7698
+13,175,Laurens,Lib,Shane Hazel,Absentee by Mail Votes,101
+13,175,Laurens,Lib,Shane Hazel,Advanced Voting Votes,162
+13,175,Laurens,Lib,Shane Hazel,Election Day Votes,150
+13,175,Laurens,Lib,Shane Hazel,Provisional Votes,0
+13,175,Laurens,Lib,Shane Hazel,TOTAL VOTES,413
+13,177,Lee,I) (Rep,David A. Perdue,Absentee by Mail Votes,1188
+13,177,Lee,I) (Rep,David A. Perdue,Advanced Voting Votes,7681
+13,177,Lee,I) (Rep,David A. Perdue,Election Day Votes,2989
+13,177,Lee,I) (Rep,David A. Perdue,Provisional Votes,4
+13,177,Lee,I) (Rep,David A. Perdue,TOTAL VOTES,11862
+13,177,Lee,Dem,Jon Ossoff,Absentee by Mail Votes,1157
+13,177,Lee,Dem,Jon Ossoff,Advanced Voting Votes,2376
+13,177,Lee,Dem,Jon Ossoff,Election Day Votes,889
+13,177,Lee,Dem,Jon Ossoff,Provisional Votes,2
+13,177,Lee,Dem,Jon Ossoff,TOTAL VOTES,4424
+13,177,Lee,Lib,Shane Hazel,Absentee by Mail Votes,47
+13,177,Lee,Lib,Shane Hazel,Advanced Voting Votes,124
+13,177,Lee,Lib,Shane Hazel,Election Day Votes,102
+13,177,Lee,Lib,Shane Hazel,Provisional Votes,0
+13,177,Lee,Lib,Shane Hazel,TOTAL VOTES,273
+13,179,Liberty,I) (Rep,David A. Perdue,Absentee by Mail Votes,1238
+13,179,Liberty,I) (Rep,David A. Perdue,Advanced Voting Votes,4866
+13,179,Liberty,I) (Rep,David A. Perdue,Election Day Votes,1624
+13,179,Liberty,I) (Rep,David A. Perdue,Provisional Votes,0
+13,179,Liberty,I) (Rep,David A. Perdue,TOTAL VOTES,7728
+13,179,Liberty,Dem,Jon Ossoff,Absentee by Mail Votes,4022
+13,179,Liberty,Dem,Jon Ossoff,Advanced Voting Votes,7005
+13,179,Liberty,Dem,Jon Ossoff,Election Day Votes,1668
+13,179,Liberty,Dem,Jon Ossoff,Provisional Votes,0
+13,179,Liberty,Dem,Jon Ossoff,TOTAL VOTES,12695
+13,179,Liberty,Lib,Shane Hazel,Absentee by Mail Votes,172
+13,179,Liberty,Lib,Shane Hazel,Advanced Voting Votes,274
+13,179,Liberty,Lib,Shane Hazel,Election Day Votes,162
+13,179,Liberty,Lib,Shane Hazel,Provisional Votes,0
+13,179,Liberty,Lib,Shane Hazel,TOTAL VOTES,608
+13,181,Lincoln,I) (Rep,David A. Perdue,Absentee by Mail Votes,418
+13,181,Lincoln,I) (Rep,David A. Perdue,Advanced Voting Votes,1816
+13,181,Lincoln,I) (Rep,David A. Perdue,Election Day Votes,901
+13,181,Lincoln,I) (Rep,David A. Perdue,Provisional Votes,0
+13,181,Lincoln,I) (Rep,David A. Perdue,TOTAL VOTES,3135
+13,181,Lincoln,Dem,Jon Ossoff,Absentee by Mail Votes,596
+13,181,Lincoln,Dem,Jon Ossoff,Advanced Voting Votes,521
+13,181,Lincoln,Dem,Jon Ossoff,Election Day Votes,253
+13,181,Lincoln,Dem,Jon Ossoff,Provisional Votes,0
+13,181,Lincoln,Dem,Jon Ossoff,TOTAL VOTES,1370
+13,181,Lincoln,Lib,Shane Hazel,Absentee by Mail Votes,25
+13,181,Lincoln,Lib,Shane Hazel,Advanced Voting Votes,36
+13,181,Lincoln,Lib,Shane Hazel,Election Day Votes,22
+13,181,Lincoln,Lib,Shane Hazel,Provisional Votes,0
+13,181,Lincoln,Lib,Shane Hazel,TOTAL VOTES,83
+13,183,Long,I) (Rep,David A. Perdue,Absentee by Mail Votes,258
+13,183,Long,I) (Rep,David A. Perdue,Advanced Voting Votes,2054
+13,183,Long,I) (Rep,David A. Perdue,Election Day Votes,1068
+13,183,Long,I) (Rep,David A. Perdue,Provisional Votes,9
+13,183,Long,I) (Rep,David A. Perdue,TOTAL VOTES,3389
+13,183,Long,Dem,Jon Ossoff,Absentee by Mail Votes,484
+13,183,Long,Dem,Jon Ossoff,Advanced Voting Votes,1147
+13,183,Long,Dem,Jon Ossoff,Election Day Votes,392
+13,183,Long,Dem,Jon Ossoff,Provisional Votes,6
+13,183,Long,Dem,Jon Ossoff,TOTAL VOTES,2029
+13,183,Long,Lib,Shane Hazel,Absentee by Mail Votes,24
+13,183,Long,Lib,Shane Hazel,Advanced Voting Votes,76
+13,183,Long,Lib,Shane Hazel,Election Day Votes,62
+13,183,Long,Lib,Shane Hazel,Provisional Votes,1
+13,183,Long,Lib,Shane Hazel,TOTAL VOTES,163
+13,185,Lowndes,I) (Rep,David A. Perdue,Absentee by Mail Votes,3357
+13,185,Lowndes,I) (Rep,David A. Perdue,Advanced Voting Votes,16803
+13,185,Lowndes,I) (Rep,David A. Perdue,Election Day Votes,5299
+13,185,Lowndes,I) (Rep,David A. Perdue,Provisional Votes,161
+13,185,Lowndes,I) (Rep,David A. Perdue,TOTAL VOTES,25620
+13,185,Lowndes,Dem,Jon Ossoff,Absentee by Mail Votes,5479
+13,185,Lowndes,Dem,Jon Ossoff,Advanced Voting Votes,10617
+13,185,Lowndes,Dem,Jon Ossoff,Election Day Votes,2786
+13,185,Lowndes,Dem,Jon Ossoff,Provisional Votes,242
+13,185,Lowndes,Dem,Jon Ossoff,TOTAL VOTES,19124
+13,185,Lowndes,Lib,Shane Hazel,Absentee by Mail Votes,190
+13,185,Lowndes,Lib,Shane Hazel,Advanced Voting Votes,532
+13,185,Lowndes,Lib,Shane Hazel,Election Day Votes,282
+13,185,Lowndes,Lib,Shane Hazel,Provisional Votes,24
+13,185,Lowndes,Lib,Shane Hazel,TOTAL VOTES,1028
+13,187,Lumpkin,I) (Rep,David A. Perdue,Absentee by Mail Votes,1971
+13,187,Lumpkin,I) (Rep,David A. Perdue,Advanced Voting Votes,7993
+13,187,Lumpkin,I) (Rep,David A. Perdue,Election Day Votes,1973
+13,187,Lumpkin,I) (Rep,David A. Perdue,Provisional Votes,0
+13,187,Lumpkin,I) (Rep,David A. Perdue,TOTAL VOTES,11937
+13,187,Lumpkin,Dem,Jon Ossoff,Absentee by Mail Votes,1129
+13,187,Lumpkin,Dem,Jon Ossoff,Advanced Voting Votes,1492
+13,187,Lumpkin,Dem,Jon Ossoff,Election Day Votes,303
+13,187,Lumpkin,Dem,Jon Ossoff,Provisional Votes,0
+13,187,Lumpkin,Dem,Jon Ossoff,TOTAL VOTES,2924
+13,187,Lumpkin,Lib,Shane Hazel,Absentee by Mail Votes,99
+13,187,Lumpkin,Lib,Shane Hazel,Advanced Voting Votes,275
+13,187,Lumpkin,Lib,Shane Hazel,Election Day Votes,122
+13,187,Lumpkin,Lib,Shane Hazel,Provisional Votes,0
+13,187,Lumpkin,Lib,Shane Hazel,TOTAL VOTES,496
+13,193,Macon,I) (Rep,David A. Perdue,Absentee by Mail Votes,138
+13,193,Macon,I) (Rep,David A. Perdue,Advanced Voting Votes,1301
+13,193,Macon,I) (Rep,David A. Perdue,Election Day Votes,348
+13,193,Macon,I) (Rep,David A. Perdue,Provisional Votes,0
+13,193,Macon,I) (Rep,David A. Perdue,TOTAL VOTES,1787
+13,193,Macon,Dem,Jon Ossoff,Absentee by Mail Votes,663
+13,193,Macon,Dem,Jon Ossoff,Advanced Voting Votes,1395
+13,193,Macon,Dem,Jon Ossoff,Election Day Votes,669
+13,193,Macon,Dem,Jon Ossoff,Provisional Votes,0
+13,193,Macon,Dem,Jon Ossoff,TOTAL VOTES,2727
+13,193,Macon,Lib,Shane Hazel,Absentee by Mail Votes,18
+13,193,Macon,Lib,Shane Hazel,Advanced Voting Votes,39
+13,193,Macon,Lib,Shane Hazel,Election Day Votes,22
+13,193,Macon,Lib,Shane Hazel,Provisional Votes,0
+13,193,Macon,Lib,Shane Hazel,TOTAL VOTES,79
+13,195,Madison,I) (Rep,David A. Perdue,Absentee by Mail Votes,1659
+13,195,Madison,I) (Rep,David A. Perdue,Advanced Voting Votes,6039
+13,195,Madison,I) (Rep,David A. Perdue,Election Day Votes,3436
+13,195,Madison,I) (Rep,David A. Perdue,Provisional Votes,2
+13,195,Madison,I) (Rep,David A. Perdue,TOTAL VOTES,11136
+13,195,Madison,Dem,Jon Ossoff,Absentee by Mail Votes,1126
+13,195,Madison,Dem,Jon Ossoff,Advanced Voting Votes,1455
+13,195,Madison,Dem,Jon Ossoff,Election Day Votes,721
+13,195,Madison,Dem,Jon Ossoff,Provisional Votes,1
+13,195,Madison,Dem,Jon Ossoff,TOTAL VOTES,3303
+13,195,Madison,Lib,Shane Hazel,Absentee by Mail Votes,92
+13,195,Madison,Lib,Shane Hazel,Advanced Voting Votes,127
+13,195,Madison,Lib,Shane Hazel,Election Day Votes,140
+13,195,Madison,Lib,Shane Hazel,Provisional Votes,0
+13,195,Madison,Lib,Shane Hazel,TOTAL VOTES,359
+13,197,Marion,I) (Rep,David A. Perdue,Absentee by Mail Votes,302
+13,197,Marion,I) (Rep,David A. Perdue,Advanced Voting Votes,1222
+13,197,Marion,I) (Rep,David A. Perdue,Election Day Votes,724
+13,197,Marion,I) (Rep,David A. Perdue,Provisional Votes,0
+13,197,Marion,I) (Rep,David A. Perdue,TOTAL VOTES,2248
+13,197,Marion,Dem,Jon Ossoff,Absentee by Mail Votes,440
+13,197,Marion,Dem,Jon Ossoff,Advanced Voting Votes,595
+13,197,Marion,Dem,Jon Ossoff,Election Day Votes,232
+13,197,Marion,Dem,Jon Ossoff,Provisional Votes,0
+13,197,Marion,Dem,Jon Ossoff,TOTAL VOTES,1267
+13,197,Marion,Lib,Shane Hazel,Absentee by Mail Votes,14
+13,197,Marion,Lib,Shane Hazel,Advanced Voting Votes,38
+13,197,Marion,Lib,Shane Hazel,Election Day Votes,32
+13,197,Marion,Lib,Shane Hazel,Provisional Votes,0
+13,197,Marion,Lib,Shane Hazel,TOTAL VOTES,84
+13,189,McDuffie,I) (Rep,David A. Perdue,Absentee by Mail Votes,910
+13,189,McDuffie,I) (Rep,David A. Perdue,Advanced Voting Votes,4447
+13,189,McDuffie,I) (Rep,David A. Perdue,Election Day Votes,841
+13,189,McDuffie,I) (Rep,David A. Perdue,Provisional Votes,0
+13,189,McDuffie,I) (Rep,David A. Perdue,TOTAL VOTES,6198
+13,189,McDuffie,Dem,Jon Ossoff,Absentee by Mail Votes,1439
+13,189,McDuffie,Dem,Jon Ossoff,Advanced Voting Votes,1955
+13,189,McDuffie,Dem,Jon Ossoff,Election Day Votes,574
+13,189,McDuffie,Dem,Jon Ossoff,Provisional Votes,0
+13,189,McDuffie,Dem,Jon Ossoff,TOTAL VOTES,3968
+13,189,McDuffie,Lib,Shane Hazel,Absentee by Mail Votes,38
+13,189,McDuffie,Lib,Shane Hazel,Advanced Voting Votes,119
+13,189,McDuffie,Lib,Shane Hazel,Election Day Votes,47
+13,189,McDuffie,Lib,Shane Hazel,Provisional Votes,0
+13,189,McDuffie,Lib,Shane Hazel,TOTAL VOTES,204
+13,191,McIntosh,I) (Rep,David A. Perdue,Absentee by Mail Votes,802
+13,191,McIntosh,I) (Rep,David A. Perdue,Advanced Voting Votes,2364
+13,191,McIntosh,I) (Rep,David A. Perdue,Election Day Votes,800
+13,191,McIntosh,I) (Rep,David A. Perdue,Provisional Votes,1
+13,191,McIntosh,I) (Rep,David A. Perdue,TOTAL VOTES,3967
+13,191,McIntosh,Dem,Jon Ossoff,Absentee by Mail Votes,808
+13,191,McIntosh,Dem,Jon Ossoff,Advanced Voting Votes,1266
+13,191,McIntosh,Dem,Jon Ossoff,Election Day Votes,424
+13,191,McIntosh,Dem,Jon Ossoff,Provisional Votes,0
+13,191,McIntosh,Dem,Jon Ossoff,TOTAL VOTES,2498
+13,191,McIntosh,Lib,Shane Hazel,Absentee by Mail Votes,32
+13,191,McIntosh,Lib,Shane Hazel,Advanced Voting Votes,54
+13,191,McIntosh,Lib,Shane Hazel,Election Day Votes,51
+13,191,McIntosh,Lib,Shane Hazel,Provisional Votes,0
+13,191,McIntosh,Lib,Shane Hazel,TOTAL VOTES,137
+13,199,Meriwether,I) (Rep,David A. Perdue,Absentee by Mail Votes,985
+13,199,Meriwether,I) (Rep,David A. Perdue,Advanced Voting Votes,3281
+13,199,Meriwether,I) (Rep,David A. Perdue,Election Day Votes,2164
+13,199,Meriwether,I) (Rep,David A. Perdue,Provisional Votes,2
+13,199,Meriwether,I) (Rep,David A. Perdue,TOTAL VOTES,6432
+13,199,Meriwether,Dem,Jon Ossoff,Absentee by Mail Votes,1378
+13,199,Meriwether,Dem,Jon Ossoff,Advanced Voting Votes,1575
+13,199,Meriwether,Dem,Jon Ossoff,Election Day Votes,1177
+13,199,Meriwether,Dem,Jon Ossoff,Provisional Votes,5
+13,199,Meriwether,Dem,Jon Ossoff,TOTAL VOTES,4135
+13,199,Meriwether,Lib,Shane Hazel,Absentee by Mail Votes,47
+13,199,Meriwether,Lib,Shane Hazel,Advanced Voting Votes,70
+13,199,Meriwether,Lib,Shane Hazel,Election Day Votes,78
+13,199,Meriwether,Lib,Shane Hazel,Provisional Votes,0
+13,199,Meriwether,Lib,Shane Hazel,TOTAL VOTES,195
+13,201,Miller,I) (Rep,David A. Perdue,Absentee by Mail Votes,262
+13,201,Miller,I) (Rep,David A. Perdue,Advanced Voting Votes,1258
+13,201,Miller,I) (Rep,David A. Perdue,Election Day Votes,525
+13,201,Miller,I) (Rep,David A. Perdue,Provisional Votes,2
+13,201,Miller,I) (Rep,David A. Perdue,TOTAL VOTES,2047
+13,201,Miller,Dem,Jon Ossoff,Absentee by Mail Votes,200
+13,201,Miller,Dem,Jon Ossoff,Advanced Voting Votes,321
+13,201,Miller,Dem,Jon Ossoff,Election Day Votes,166
+13,201,Miller,Dem,Jon Ossoff,Provisional Votes,0
+13,201,Miller,Dem,Jon Ossoff,TOTAL VOTES,687
+13,201,Miller,Lib,Shane Hazel,Absentee by Mail Votes,12
+13,201,Miller,Lib,Shane Hazel,Advanced Voting Votes,21
+13,201,Miller,Lib,Shane Hazel,Election Day Votes,14
+13,201,Miller,Lib,Shane Hazel,Provisional Votes,0
+13,201,Miller,Lib,Shane Hazel,TOTAL VOTES,47
+13,205,Mitchell,I) (Rep,David A. Perdue,Absentee by Mail Votes,690
+13,205,Mitchell,I) (Rep,David A. Perdue,Advanced Voting Votes,2690
+13,205,Mitchell,I) (Rep,David A. Perdue,Election Day Votes,1539
+13,205,Mitchell,I) (Rep,David A. Perdue,Provisional Votes,2
+13,205,Mitchell,I) (Rep,David A. Perdue,TOTAL VOTES,4921
+13,205,Mitchell,Dem,Jon Ossoff,Absentee by Mail Votes,1411
+13,205,Mitchell,Dem,Jon Ossoff,Advanced Voting Votes,1622
+13,205,Mitchell,Dem,Jon Ossoff,Election Day Votes,794
+13,205,Mitchell,Dem,Jon Ossoff,Provisional Votes,5
+13,205,Mitchell,Dem,Jon Ossoff,TOTAL VOTES,3832
+13,205,Mitchell,Lib,Shane Hazel,Absentee by Mail Votes,25
+13,205,Mitchell,Lib,Shane Hazel,Advanced Voting Votes,50
+13,205,Mitchell,Lib,Shane Hazel,Election Day Votes,43
+13,205,Mitchell,Lib,Shane Hazel,Provisional Votes,0
+13,205,Mitchell,Lib,Shane Hazel,TOTAL VOTES,118
+13,207,Monroe,I) (Rep,David A. Perdue,Absentee by Mail Votes,1060
+13,207,Monroe,I) (Rep,David A. Perdue,Advanced Voting Votes,6858
+13,207,Monroe,I) (Rep,David A. Perdue,Election Day Votes,3005
+13,207,Monroe,I) (Rep,David A. Perdue,Provisional Votes,6
+13,207,Monroe,I) (Rep,David A. Perdue,TOTAL VOTES,10929
+13,207,Monroe,Dem,Jon Ossoff,Absentee by Mail Votes,1258
+13,207,Monroe,Dem,Jon Ossoff,Advanced Voting Votes,2244
+13,207,Monroe,Dem,Jon Ossoff,Election Day Votes,701
+13,207,Monroe,Dem,Jon Ossoff,Provisional Votes,2
+13,207,Monroe,Dem,Jon Ossoff,TOTAL VOTES,4205
+13,207,Monroe,Lib,Shane Hazel,Absentee by Mail Votes,55
+13,207,Monroe,Lib,Shane Hazel,Advanced Voting Votes,127
+13,207,Monroe,Lib,Shane Hazel,Election Day Votes,112
+13,207,Monroe,Lib,Shane Hazel,Provisional Votes,0
+13,207,Monroe,Lib,Shane Hazel,TOTAL VOTES,294
+13,209,Montgomery,I) (Rep,David A. Perdue,Absentee by Mail Votes,354
+13,209,Montgomery,I) (Rep,David A. Perdue,Advanced Voting Votes,1488
+13,209,Montgomery,I) (Rep,David A. Perdue,Election Day Votes,1085
+13,209,Montgomery,I) (Rep,David A. Perdue,Provisional Votes,0
+13,209,Montgomery,I) (Rep,David A. Perdue,TOTAL VOTES,2927
+13,209,Montgomery,Dem,Jon Ossoff,Absentee by Mail Votes,282
+13,209,Montgomery,Dem,Jon Ossoff,Advanced Voting Votes,398
+13,209,Montgomery,Dem,Jon Ossoff,Election Day Votes,251
+13,209,Montgomery,Dem,Jon Ossoff,Provisional Votes,0
+13,209,Montgomery,Dem,Jon Ossoff,TOTAL VOTES,931
+13,209,Montgomery,Lib,Shane Hazel,Absentee by Mail Votes,9
+13,209,Montgomery,Lib,Shane Hazel,Advanced Voting Votes,23
+13,209,Montgomery,Lib,Shane Hazel,Election Day Votes,30
+13,209,Montgomery,Lib,Shane Hazel,Provisional Votes,0
+13,209,Montgomery,Lib,Shane Hazel,TOTAL VOTES,62
+13,211,Morgan,I) (Rep,David A. Perdue,Absentee by Mail Votes,930
+13,211,Morgan,I) (Rep,David A. Perdue,Advanced Voting Votes,5450
+13,211,Morgan,I) (Rep,David A. Perdue,Election Day Votes,1876
+13,211,Morgan,I) (Rep,David A. Perdue,Provisional Votes,3
+13,211,Morgan,I) (Rep,David A. Perdue,TOTAL VOTES,8259
+13,211,Morgan,Dem,Jon Ossoff,Absentee by Mail Votes,962
+13,211,Morgan,Dem,Jon Ossoff,Advanced Voting Votes,1721
+13,211,Morgan,Dem,Jon Ossoff,Election Day Votes,467
+13,211,Morgan,Dem,Jon Ossoff,Provisional Votes,1
+13,211,Morgan,Dem,Jon Ossoff,TOTAL VOTES,3151
+13,211,Morgan,Lib,Shane Hazel,Absentee by Mail Votes,62
+13,211,Morgan,Lib,Shane Hazel,Advanced Voting Votes,96
+13,211,Morgan,Lib,Shane Hazel,Election Day Votes,59
+13,211,Morgan,Lib,Shane Hazel,Provisional Votes,0
+13,211,Morgan,Lib,Shane Hazel,TOTAL VOTES,217
+13,213,Murray,I) (Rep,David A. Perdue,Absentee by Mail Votes,1275
+13,213,Murray,I) (Rep,David A. Perdue,Advanced Voting Votes,7462
+13,213,Murray,I) (Rep,David A. Perdue,Election Day Votes,3756
+13,213,Murray,I) (Rep,David A. Perdue,Provisional Votes,0
+13,213,Murray,I) (Rep,David A. Perdue,TOTAL VOTES,12493
+13,213,Murray,Dem,Jon Ossoff,Absentee by Mail Votes,637
+13,213,Murray,Dem,Jon Ossoff,Advanced Voting Votes,1090
+13,213,Murray,Dem,Jon Ossoff,Election Day Votes,569
+13,213,Murray,Dem,Jon Ossoff,Provisional Votes,0
+13,213,Murray,Dem,Jon Ossoff,TOTAL VOTES,2296
+13,213,Murray,Lib,Shane Hazel,Absentee by Mail Votes,63
+13,213,Murray,Lib,Shane Hazel,Advanced Voting Votes,194
+13,213,Murray,Lib,Shane Hazel,Election Day Votes,105
+13,213,Murray,Lib,Shane Hazel,Provisional Votes,0
+13,213,Murray,Lib,Shane Hazel,TOTAL VOTES,362
+13,215,Muscogee,I) (Rep,David A. Perdue,Absentee by Mail Votes,6599
+13,215,Muscogee,I) (Rep,David A. Perdue,Advanced Voting Votes,17160
+13,215,Muscogee,I) (Rep,David A. Perdue,Election Day Votes,6417
+13,215,Muscogee,I) (Rep,David A. Perdue,Provisional Votes,18
+13,215,Muscogee,I) (Rep,David A. Perdue,TOTAL VOTES,30194
+13,215,Muscogee,Dem,Jon Ossoff,Absentee by Mail Votes,16348
+13,215,Muscogee,Dem,Jon Ossoff,Advanced Voting Votes,24577
+13,215,Muscogee,Dem,Jon Ossoff,Election Day Votes,6498
+13,215,Muscogee,Dem,Jon Ossoff,Provisional Votes,28
+13,215,Muscogee,Dem,Jon Ossoff,TOTAL VOTES,47451
+13,215,Muscogee,Lib,Shane Hazel,Absentee by Mail Votes,481
+13,215,Muscogee,Lib,Shane Hazel,Advanced Voting Votes,822
+13,215,Muscogee,Lib,Shane Hazel,Election Day Votes,460
+13,215,Muscogee,Lib,Shane Hazel,Provisional Votes,3
+13,215,Muscogee,Lib,Shane Hazel,TOTAL VOTES,1766
+13,217,Newton,I) (Rep,David A. Perdue,Absentee by Mail Votes,4713
+13,217,Newton,I) (Rep,David A. Perdue,Advanced Voting Votes,8008
+13,217,Newton,I) (Rep,David A. Perdue,Election Day Votes,10672
+13,217,Newton,I) (Rep,David A. Perdue,Provisional Votes,14
+13,217,Newton,I) (Rep,David A. Perdue,TOTAL VOTES,23407
+13,217,Newton,Dem,Jon Ossoff,Absentee by Mail Votes,10013
+13,217,Newton,Dem,Jon Ossoff,Advanced Voting Votes,12419
+13,217,Newton,Dem,Jon Ossoff,Election Day Votes,6759
+13,217,Newton,Dem,Jon Ossoff,Provisional Votes,16
+13,217,Newton,Dem,Jon Ossoff,TOTAL VOTES,29207
+13,217,Newton,Lib,Shane Hazel,Absentee by Mail Votes,340
+13,217,Newton,Lib,Shane Hazel,Advanced Voting Votes,325
+13,217,Newton,Lib,Shane Hazel,Election Day Votes,481
+13,217,Newton,Lib,Shane Hazel,Provisional Votes,4
+13,217,Newton,Lib,Shane Hazel,TOTAL VOTES,1150
+13,219,Oconee,I) (Rep,David A. Perdue,Absentee by Mail Votes,2874
+13,219,Oconee,I) (Rep,David A. Perdue,Advanced Voting Votes,11514
+13,219,Oconee,I) (Rep,David A. Perdue,Election Day Votes,2718
+13,219,Oconee,I) (Rep,David A. Perdue,Provisional Votes,2
+13,219,Oconee,I) (Rep,David A. Perdue,TOTAL VOTES,17108
+13,219,Oconee,Dem,Jon Ossoff,Absentee by Mail Votes,2697
+13,219,Oconee,Dem,Jon Ossoff,Advanced Voting Votes,4108
+13,219,Oconee,Dem,Jon Ossoff,Election Day Votes,658
+13,219,Oconee,Dem,Jon Ossoff,Provisional Votes,2
+13,219,Oconee,Dem,Jon Ossoff,TOTAL VOTES,7465
+13,219,Oconee,Lib,Shane Hazel,Absentee by Mail Votes,107
+13,219,Oconee,Lib,Shane Hazel,Advanced Voting Votes,303
+13,219,Oconee,Lib,Shane Hazel,Election Day Votes,158
+13,219,Oconee,Lib,Shane Hazel,Provisional Votes,1
+13,219,Oconee,Lib,Shane Hazel,TOTAL VOTES,569
+13,221,Oglethorpe,I) (Rep,David A. Perdue,Absentee by Mail Votes,918
+13,221,Oglethorpe,I) (Rep,David A. Perdue,Advanced Voting Votes,3534
+13,221,Oglethorpe,I) (Rep,David A. Perdue,Election Day Votes,1046
+13,221,Oglethorpe,I) (Rep,David A. Perdue,Provisional Votes,2
+13,221,Oglethorpe,I) (Rep,David A. Perdue,TOTAL VOTES,5500
+13,221,Oglethorpe,Dem,Jon Ossoff,Absentee by Mail Votes,813
+13,221,Oglethorpe,Dem,Jon Ossoff,Advanced Voting Votes,1103
+13,221,Oglethorpe,Dem,Jon Ossoff,Election Day Votes,405
+13,221,Oglethorpe,Dem,Jon Ossoff,Provisional Votes,2
+13,221,Oglethorpe,Dem,Jon Ossoff,TOTAL VOTES,2323
+13,221,Oglethorpe,Lib,Shane Hazel,Absentee by Mail Votes,63
+13,221,Oglethorpe,Lib,Shane Hazel,Advanced Voting Votes,125
+13,221,Oglethorpe,Lib,Shane Hazel,Election Day Votes,46
+13,221,Oglethorpe,Lib,Shane Hazel,Provisional Votes,0
+13,221,Oglethorpe,Lib,Shane Hazel,TOTAL VOTES,234
+13,223,Paulding,I) (Rep,David A. Perdue,Absentee by Mail Votes,9296
+13,223,Paulding,I) (Rep,David A. Perdue,Advanced Voting Votes,34709
+13,223,Paulding,I) (Rep,David A. Perdue,Election Day Votes,9418
+13,223,Paulding,I) (Rep,David A. Perdue,Provisional Votes,0
+13,223,Paulding,I) (Rep,David A. Perdue,TOTAL VOTES,53423
+13,223,Paulding,Dem,Jon Ossoff,Absentee by Mail Votes,9831
+13,223,Paulding,Dem,Jon Ossoff,Advanced Voting Votes,15138
+13,223,Paulding,Dem,Jon Ossoff,Election Day Votes,3744
+13,223,Paulding,Dem,Jon Ossoff,Provisional Votes,0
+13,223,Paulding,Dem,Jon Ossoff,TOTAL VOTES,28713
+13,223,Paulding,Lib,Shane Hazel,Absentee by Mail Votes,571
+13,223,Paulding,Lib,Shane Hazel,Advanced Voting Votes,1128
+13,223,Paulding,Lib,Shane Hazel,Election Day Votes,604
+13,223,Paulding,Lib,Shane Hazel,Provisional Votes,0
+13,223,Paulding,Lib,Shane Hazel,TOTAL VOTES,2303
+13,225,Peach,I) (Rep,David A. Perdue,Absentee by Mail Votes,808
+13,225,Peach,I) (Rep,David A. Perdue,Advanced Voting Votes,4709
+13,225,Peach,I) (Rep,David A. Perdue,Election Day Votes,957
+13,225,Peach,I) (Rep,David A. Perdue,Provisional Votes,9
+13,225,Peach,I) (Rep,David A. Perdue,TOTAL VOTES,6483
+13,225,Peach,Dem,Jon Ossoff,Absentee by Mail Votes,1638
+13,225,Peach,Dem,Jon Ossoff,Advanced Voting Votes,3259
+13,225,Peach,Dem,Jon Ossoff,Election Day Votes,799
+13,225,Peach,Dem,Jon Ossoff,Provisional Votes,6
+13,225,Peach,Dem,Jon Ossoff,TOTAL VOTES,5702
+13,225,Peach,Lib,Shane Hazel,Absentee by Mail Votes,44
+13,225,Peach,Lib,Shane Hazel,Advanced Voting Votes,152
+13,225,Peach,Lib,Shane Hazel,Election Day Votes,50
+13,225,Peach,Lib,Shane Hazel,Provisional Votes,1
+13,225,Peach,Lib,Shane Hazel,TOTAL VOTES,247
+13,227,Pickens,I) (Rep,David A. Perdue,Absentee by Mail Votes,1776
+13,227,Pickens,I) (Rep,David A. Perdue,Advanced Voting Votes,6209
+13,227,Pickens,I) (Rep,David A. Perdue,Election Day Votes,5867
+13,227,Pickens,I) (Rep,David A. Perdue,Provisional Votes,8
+13,227,Pickens,I) (Rep,David A. Perdue,TOTAL VOTES,13860
+13,227,Pickens,Dem,Jon Ossoff,Absentee by Mail Votes,1020
+13,227,Pickens,Dem,Jon Ossoff,Advanced Voting Votes,1003
+13,227,Pickens,Dem,Jon Ossoff,Election Day Votes,655
+13,227,Pickens,Dem,Jon Ossoff,Provisional Votes,0
+13,227,Pickens,Dem,Jon Ossoff,TOTAL VOTES,2678
+13,227,Pickens,Lib,Shane Hazel,Absentee by Mail Votes,70
+13,227,Pickens,Lib,Shane Hazel,Advanced Voting Votes,138
+13,227,Pickens,Lib,Shane Hazel,Election Day Votes,223
+13,227,Pickens,Lib,Shane Hazel,Provisional Votes,0
+13,227,Pickens,Lib,Shane Hazel,TOTAL VOTES,431
+13,229,Pierce,I) (Rep,David A. Perdue,Absentee by Mail Votes,926
+13,229,Pierce,I) (Rep,David A. Perdue,Advanced Voting Votes,5700
+13,229,Pierce,I) (Rep,David A. Perdue,Election Day Votes,1184
+13,229,Pierce,I) (Rep,David A. Perdue,Provisional Votes,0
+13,229,Pierce,I) (Rep,David A. Perdue,TOTAL VOTES,7810
+13,229,Pierce,Dem,Jon Ossoff,Absentee by Mail Votes,303
+13,229,Pierce,Dem,Jon Ossoff,Advanced Voting Votes,575
+13,229,Pierce,Dem,Jon Ossoff,Election Day Votes,124
+13,229,Pierce,Dem,Jon Ossoff,Provisional Votes,0
+13,229,Pierce,Dem,Jon Ossoff,TOTAL VOTES,1002
+13,229,Pierce,Lib,Shane Hazel,Absentee by Mail Votes,23
+13,229,Pierce,Lib,Shane Hazel,Advanced Voting Votes,78
+13,229,Pierce,Lib,Shane Hazel,Election Day Votes,28
+13,229,Pierce,Lib,Shane Hazel,Provisional Votes,0
+13,229,Pierce,Lib,Shane Hazel,TOTAL VOTES,129
+13,231,Pike,I) (Rep,David A. Perdue,Absentee by Mail Votes,893
+13,231,Pike,I) (Rep,David A. Perdue,Advanced Voting Votes,5834
+13,231,Pike,I) (Rep,David A. Perdue,Election Day Votes,2318
+13,231,Pike,I) (Rep,David A. Perdue,Provisional Votes,0
+13,231,Pike,I) (Rep,David A. Perdue,TOTAL VOTES,9045
+13,231,Pike,Dem,Jon Ossoff,Absentee by Mail Votes,481
+13,231,Pike,Dem,Jon Ossoff,Advanced Voting Votes,677
+13,231,Pike,Dem,Jon Ossoff,Election Day Votes,272
+13,231,Pike,Dem,Jon Ossoff,Provisional Votes,0
+13,231,Pike,Dem,Jon Ossoff,TOTAL VOTES,1430
+13,231,Pike,Lib,Shane Hazel,Absentee by Mail Votes,35
+13,231,Pike,Lib,Shane Hazel,Advanced Voting Votes,79
+13,231,Pike,Lib,Shane Hazel,Election Day Votes,60
+13,231,Pike,Lib,Shane Hazel,Provisional Votes,0
+13,231,Pike,Lib,Shane Hazel,TOTAL VOTES,174
+13,233,Polk,I) (Rep,David A. Perdue,Absentee by Mail Votes,1645
+13,233,Polk,I) (Rep,David A. Perdue,Advanced Voting Votes,8862
+13,233,Polk,I) (Rep,David A. Perdue,Election Day Votes,2762
+13,233,Polk,I) (Rep,David A. Perdue,Provisional Votes,13
+13,233,Polk,I) (Rep,David A. Perdue,TOTAL VOTES,13282
+13,233,Polk,Dem,Jon Ossoff,Absentee by Mail Votes,1004
+13,233,Polk,Dem,Jon Ossoff,Advanced Voting Votes,1914
+13,233,Polk,Dem,Jon Ossoff,Election Day Votes,614
+13,233,Polk,Dem,Jon Ossoff,Provisional Votes,5
+13,233,Polk,Dem,Jon Ossoff,TOTAL VOTES,3537
+13,233,Polk,Lib,Shane Hazel,Absentee by Mail Votes,89
+13,233,Polk,Lib,Shane Hazel,Advanced Voting Votes,214
+13,233,Polk,Lib,Shane Hazel,Election Day Votes,112
+13,233,Polk,Lib,Shane Hazel,Provisional Votes,1
+13,233,Polk,Lib,Shane Hazel,TOTAL VOTES,416
+13,235,Pulaski,I) (Rep,David A. Perdue,Absentee by Mail Votes,314
+13,235,Pulaski,I) (Rep,David A. Perdue,Advanced Voting Votes,2141
+13,235,Pulaski,I) (Rep,David A. Perdue,Election Day Votes,332
+13,235,Pulaski,I) (Rep,David A. Perdue,Provisional Votes,0
+13,235,Pulaski,I) (Rep,David A. Perdue,TOTAL VOTES,2787
+13,235,Pulaski,Dem,Jon Ossoff,Absentee by Mail Votes,309
+13,235,Pulaski,Dem,Jon Ossoff,Advanced Voting Votes,677
+13,235,Pulaski,Dem,Jon Ossoff,Election Day Votes,153
+13,235,Pulaski,Dem,Jon Ossoff,Provisional Votes,0
+13,235,Pulaski,Dem,Jon Ossoff,TOTAL VOTES,1139
+13,235,Pulaski,Lib,Shane Hazel,Absentee by Mail Votes,14
+13,235,Pulaski,Lib,Shane Hazel,Advanced Voting Votes,48
+13,235,Pulaski,Lib,Shane Hazel,Election Day Votes,17
+13,235,Pulaski,Lib,Shane Hazel,Provisional Votes,0
+13,235,Pulaski,Lib,Shane Hazel,TOTAL VOTES,79
+13,237,Putnam,I) (Rep,David A. Perdue,Absentee by Mail Votes,1764
+13,237,Putnam,I) (Rep,David A. Perdue,Advanced Voting Votes,4978
+13,237,Putnam,I) (Rep,David A. Perdue,Election Day Votes,1536
+13,237,Putnam,I) (Rep,David A. Perdue,Provisional Votes,1
+13,237,Putnam,I) (Rep,David A. Perdue,TOTAL VOTES,8279
+13,237,Putnam,Dem,Jon Ossoff,Absentee by Mail Votes,1374
+13,237,Putnam,Dem,Jon Ossoff,Advanced Voting Votes,1464
+13,237,Putnam,Dem,Jon Ossoff,Election Day Votes,461
+13,237,Putnam,Dem,Jon Ossoff,Provisional Votes,0
+13,237,Putnam,Dem,Jon Ossoff,TOTAL VOTES,3299
+13,237,Putnam,Lib,Shane Hazel,Absentee by Mail Votes,60
+13,237,Putnam,Lib,Shane Hazel,Advanced Voting Votes,73
+13,237,Putnam,Lib,Shane Hazel,Election Day Votes,56
+13,237,Putnam,Lib,Shane Hazel,Provisional Votes,0
+13,237,Putnam,Lib,Shane Hazel,TOTAL VOTES,189
+13,239,Quitman,I) (Rep,David A. Perdue,Absentee by Mail Votes,93
+13,239,Quitman,I) (Rep,David A. Perdue,Advanced Voting Votes,349
+13,239,Quitman,I) (Rep,David A. Perdue,Election Day Votes,158
+13,239,Quitman,I) (Rep,David A. Perdue,Provisional Votes,0
+13,239,Quitman,I) (Rep,David A. Perdue,TOTAL VOTES,600
+13,239,Quitman,Dem,Jon Ossoff,Absentee by Mail Votes,125
+13,239,Quitman,Dem,Jon Ossoff,Advanced Voting Votes,188
+13,239,Quitman,Dem,Jon Ossoff,Election Day Votes,156
+13,239,Quitman,Dem,Jon Ossoff,Provisional Votes,1
+13,239,Quitman,Dem,Jon Ossoff,TOTAL VOTES,470
+13,239,Quitman,Lib,Shane Hazel,Absentee by Mail Votes,3
+13,239,Quitman,Lib,Shane Hazel,Advanced Voting Votes,4
+13,239,Quitman,Lib,Shane Hazel,Election Day Votes,8
+13,239,Quitman,Lib,Shane Hazel,Provisional Votes,0
+13,239,Quitman,Lib,Shane Hazel,TOTAL VOTES,15
+13,241,Rabun,I) (Rep,David A. Perdue,Absentee by Mail Votes,1652
+13,241,Rabun,I) (Rep,David A. Perdue,Advanced Voting Votes,4573
+13,241,Rabun,I) (Rep,David A. Perdue,Election Day Votes,1167
+13,241,Rabun,I) (Rep,David A. Perdue,Provisional Votes,0
+13,241,Rabun,I) (Rep,David A. Perdue,TOTAL VOTES,7392
+13,241,Rabun,Dem,Jon Ossoff,Absentee by Mail Votes,794
+13,241,Rabun,Dem,Jon Ossoff,Advanced Voting Votes,843
+13,241,Rabun,Dem,Jon Ossoff,Election Day Votes,188
+13,241,Rabun,Dem,Jon Ossoff,Provisional Votes,0
+13,241,Rabun,Dem,Jon Ossoff,TOTAL VOTES,1825
+13,241,Rabun,Lib,Shane Hazel,Absentee by Mail Votes,78
+13,241,Rabun,Lib,Shane Hazel,Advanced Voting Votes,111
+13,241,Rabun,Lib,Shane Hazel,Election Day Votes,66
+13,241,Rabun,Lib,Shane Hazel,Provisional Votes,0
+13,241,Rabun,Lib,Shane Hazel,TOTAL VOTES,255
+13,243,Randolph,I) (Rep,David A. Perdue,Absentee by Mail Votes,217
+13,243,Randolph,I) (Rep,David A. Perdue,Advanced Voting Votes,866
+13,243,Randolph,I) (Rep,David A. Perdue,Election Day Votes,321
+13,243,Randolph,I) (Rep,David A. Perdue,Provisional Votes,0
+13,243,Randolph,I) (Rep,David A. Perdue,TOTAL VOTES,1404
+13,243,Randolph,Dem,Jon Ossoff,Absentee by Mail Votes,437
+13,243,Randolph,Dem,Jon Ossoff,Advanced Voting Votes,771
+13,243,Randolph,Dem,Jon Ossoff,Election Day Votes,395
+13,243,Randolph,Dem,Jon Ossoff,Provisional Votes,3
+13,243,Randolph,Dem,Jon Ossoff,TOTAL VOTES,1606
+13,243,Randolph,Lib,Shane Hazel,Absentee by Mail Votes,6
+13,243,Randolph,Lib,Shane Hazel,Advanced Voting Votes,16
+13,243,Randolph,Lib,Shane Hazel,Election Day Votes,9
+13,243,Randolph,Lib,Shane Hazel,Provisional Votes,0
+13,243,Randolph,Lib,Shane Hazel,TOTAL VOTES,31
+13,245,Richmond,I) (Rep,David A. Perdue,Absentee by Mail Votes,6321
+13,245,Richmond,I) (Rep,David A. Perdue,Advanced Voting Votes,12128
+13,245,Richmond,I) (Rep,David A. Perdue,Election Day Votes,8524
+13,245,Richmond,I) (Rep,David A. Perdue,Provisional Votes,0
+13,245,Richmond,I) (Rep,David A. Perdue,TOTAL VOTES,26973
+13,245,Richmond,Dem,Jon Ossoff,Absentee by Mail Votes,19799
+13,245,Richmond,Dem,Jon Ossoff,Advanced Voting Votes,25080
+13,245,Richmond,Dem,Jon Ossoff,Election Day Votes,11595
+13,245,Richmond,Dem,Jon Ossoff,Provisional Votes,0
+13,245,Richmond,Dem,Jon Ossoff,TOTAL VOTES,56474
+13,245,Richmond,Lib,Shane Hazel,Absentee by Mail Votes,645
+13,245,Richmond,Lib,Shane Hazel,Advanced Voting Votes,769
+13,245,Richmond,Lib,Shane Hazel,Election Day Votes,699
+13,245,Richmond,Lib,Shane Hazel,Provisional Votes,0
+13,245,Richmond,Lib,Shane Hazel,TOTAL VOTES,2113
+13,247,Rockdale,I) (Rep,David A. Perdue,Absentee by Mail Votes,2949
+13,247,Rockdale,I) (Rep,David A. Perdue,Advanced Voting Votes,7335
+13,247,Rockdale,I) (Rep,David A. Perdue,Election Day Votes,2418
+13,247,Rockdale,I) (Rep,David A. Perdue,Provisional Votes,14
+13,247,Rockdale,I) (Rep,David A. Perdue,TOTAL VOTES,12716
+13,247,Rockdale,Dem,Jon Ossoff,Absentee by Mail Votes,8964
+13,247,Rockdale,Dem,Jon Ossoff,Advanced Voting Votes,18083
+13,247,Rockdale,Dem,Jon Ossoff,Election Day Votes,3574
+13,247,Rockdale,Dem,Jon Ossoff,Provisional Votes,20
+13,247,Rockdale,Dem,Jon Ossoff,TOTAL VOTES,30641
+13,247,Rockdale,Lib,Shane Hazel,Absentee by Mail Votes,227
+13,247,Rockdale,Lib,Shane Hazel,Advanced Voting Votes,462
+13,247,Rockdale,Lib,Shane Hazel,Election Day Votes,217
+13,247,Rockdale,Lib,Shane Hazel,Provisional Votes,0
+13,247,Rockdale,Lib,Shane Hazel,TOTAL VOTES,906
+13,249,Schley,I) (Rep,David A. Perdue,Absentee by Mail Votes,154
+13,249,Schley,I) (Rep,David A. Perdue,Advanced Voting Votes,1325
+13,249,Schley,I) (Rep,David A. Perdue,Election Day Votes,303
+13,249,Schley,I) (Rep,David A. Perdue,Provisional Votes,1
+13,249,Schley,I) (Rep,David A. Perdue,TOTAL VOTES,1783
+13,249,Schley,Dem,Jon Ossoff,Absentee by Mail Votes,142
+13,249,Schley,Dem,Jon Ossoff,Advanced Voting Votes,234
+13,249,Schley,Dem,Jon Ossoff,Election Day Votes,63
+13,249,Schley,Dem,Jon Ossoff,Provisional Votes,0
+13,249,Schley,Dem,Jon Ossoff,TOTAL VOTES,439
+13,249,Schley,Lib,Shane Hazel,Absentee by Mail Votes,9
+13,249,Schley,Lib,Shane Hazel,Advanced Voting Votes,18
+13,249,Schley,Lib,Shane Hazel,Election Day Votes,7
+13,249,Schley,Lib,Shane Hazel,Provisional Votes,0
+13,249,Schley,Lib,Shane Hazel,TOTAL VOTES,34
+13,251,Screven,I) (Rep,David A. Perdue,Absentee by Mail Votes,524
+13,251,Screven,I) (Rep,David A. Perdue,Advanced Voting Votes,2117
+13,251,Screven,I) (Rep,David A. Perdue,Election Day Votes,1243
+13,251,Screven,I) (Rep,David A. Perdue,Provisional Votes,8
+13,251,Screven,I) (Rep,David A. Perdue,TOTAL VOTES,3892
+13,251,Screven,Dem,Jon Ossoff,Absentee by Mail Votes,729
+13,251,Screven,Dem,Jon Ossoff,Advanced Voting Votes,1251
+13,251,Screven,Dem,Jon Ossoff,Election Day Votes,601
+13,251,Screven,Dem,Jon Ossoff,Provisional Votes,8
+13,251,Screven,Dem,Jon Ossoff,TOTAL VOTES,2589
+13,251,Screven,Lib,Shane Hazel,Absentee by Mail Votes,7
+13,251,Screven,Lib,Shane Hazel,Advanced Voting Votes,29
+13,251,Screven,Lib,Shane Hazel,Election Day Votes,29
+13,251,Screven,Lib,Shane Hazel,Provisional Votes,0
+13,251,Screven,Lib,Shane Hazel,TOTAL VOTES,65
+13,253,Seminole,I) (Rep,David A. Perdue,Absentee by Mail Votes,271
+13,253,Seminole,I) (Rep,David A. Perdue,Advanced Voting Votes,1392
+13,253,Seminole,I) (Rep,David A. Perdue,Election Day Votes,934
+13,253,Seminole,I) (Rep,David A. Perdue,Provisional Votes,0
+13,253,Seminole,I) (Rep,David A. Perdue,TOTAL VOTES,2597
+13,253,Seminole,Dem,Jon Ossoff,Absentee by Mail Votes,239
+13,253,Seminole,Dem,Jon Ossoff,Advanced Voting Votes,657
+13,253,Seminole,Dem,Jon Ossoff,Election Day Votes,291
+13,253,Seminole,Dem,Jon Ossoff,Provisional Votes,0
+13,253,Seminole,Dem,Jon Ossoff,TOTAL VOTES,1187
+13,253,Seminole,Lib,Shane Hazel,Absentee by Mail Votes,7
+13,253,Seminole,Lib,Shane Hazel,Advanced Voting Votes,26
+13,253,Seminole,Lib,Shane Hazel,Election Day Votes,21
+13,253,Seminole,Lib,Shane Hazel,Provisional Votes,0
+13,253,Seminole,Lib,Shane Hazel,TOTAL VOTES,54
+13,255,Spalding,I) (Rep,David A. Perdue,Absentee by Mail Votes,3413
+13,255,Spalding,I) (Rep,David A. Perdue,Advanced Voting Votes,8720
+13,255,Spalding,I) (Rep,David A. Perdue,Election Day Votes,5118
+13,255,Spalding,I) (Rep,David A. Perdue,Provisional Votes,517
+13,255,Spalding,I) (Rep,David A. Perdue,TOTAL VOTES,17768
+13,255,Spalding,Dem,Jon Ossoff,Absentee by Mail Votes,3957
+13,255,Spalding,Dem,Jon Ossoff,Advanced Voting Votes,4498
+13,255,Spalding,Dem,Jon Ossoff,Election Day Votes,2550
+13,255,Spalding,Dem,Jon Ossoff,Provisional Votes,350
+13,255,Spalding,Dem,Jon Ossoff,TOTAL VOTES,11355
+13,255,Spalding,Lib,Shane Hazel,Absentee by Mail Votes,193
+13,255,Spalding,Lib,Shane Hazel,Advanced Voting Votes,190
+13,255,Spalding,Lib,Shane Hazel,Election Day Votes,237
+13,255,Spalding,Lib,Shane Hazel,Provisional Votes,21
+13,255,Spalding,Lib,Shane Hazel,TOTAL VOTES,641
+13,257,Stephens,I) (Rep,David A. Perdue,Absentee by Mail Votes,1379
+13,257,Stephens,I) (Rep,David A. Perdue,Advanced Voting Votes,6766
+13,257,Stephens,I) (Rep,David A. Perdue,Election Day Votes,1204
+13,257,Stephens,I) (Rep,David A. Perdue,Provisional Votes,4
+13,257,Stephens,I) (Rep,David A. Perdue,TOTAL VOTES,9353
+13,257,Stephens,Dem,Jon Ossoff,Absentee by Mail Votes,687
+13,257,Stephens,Dem,Jon Ossoff,Advanced Voting Votes,1211
+13,257,Stephens,Dem,Jon Ossoff,Election Day Votes,289
+13,257,Stephens,Dem,Jon Ossoff,Provisional Votes,0
+13,257,Stephens,Dem,Jon Ossoff,TOTAL VOTES,2187
+13,257,Stephens,Lib,Shane Hazel,Absentee by Mail Votes,56
+13,257,Stephens,Lib,Shane Hazel,Advanced Voting Votes,118
+13,257,Stephens,Lib,Shane Hazel,Election Day Votes,54
+13,257,Stephens,Lib,Shane Hazel,Provisional Votes,0
+13,257,Stephens,Lib,Shane Hazel,TOTAL VOTES,228
+13,259,Stewart,I) (Rep,David A. Perdue,Absentee by Mail Votes,116
+13,259,Stewart,I) (Rep,David A. Perdue,Advanced Voting Votes,457
+13,259,Stewart,I) (Rep,David A. Perdue,Election Day Votes,225
+13,259,Stewart,I) (Rep,David A. Perdue,Provisional Votes,5
+13,259,Stewart,I) (Rep,David A. Perdue,TOTAL VOTES,803
+13,259,Stewart,Dem,Jon Ossoff,Absentee by Mail Votes,349
+13,259,Stewart,Dem,Jon Ossoff,Advanced Voting Votes,477
+13,259,Stewart,Dem,Jon Ossoff,Election Day Votes,282
+13,259,Stewart,Dem,Jon Ossoff,Provisional Votes,7
+13,259,Stewart,Dem,Jon Ossoff,TOTAL VOTES,1115
+13,259,Stewart,Lib,Shane Hazel,Absentee by Mail Votes,4
+13,259,Stewart,Lib,Shane Hazel,Advanced Voting Votes,18
+13,259,Stewart,Lib,Shane Hazel,Election Day Votes,13
+13,259,Stewart,Lib,Shane Hazel,Provisional Votes,0
+13,259,Stewart,Lib,Shane Hazel,TOTAL VOTES,35
+13,261,Sumter,I) (Rep,David A. Perdue,Absentee by Mail Votes,840
+13,261,Sumter,I) (Rep,David A. Perdue,Advanced Voting Votes,3381
+13,261,Sumter,I) (Rep,David A. Perdue,Election Day Votes,1510
+13,261,Sumter,I) (Rep,David A. Perdue,Provisional Votes,12
+13,261,Sumter,I) (Rep,David A. Perdue,TOTAL VOTES,5743
+13,261,Sumter,Dem,Jon Ossoff,Absentee by Mail Votes,1930
+13,261,Sumter,Dem,Jon Ossoff,Advanced Voting Votes,3056
+13,261,Sumter,Dem,Jon Ossoff,Election Day Votes,1122
+13,261,Sumter,Dem,Jon Ossoff,Provisional Votes,6
+13,261,Sumter,Dem,Jon Ossoff,TOTAL VOTES,6114
+13,261,Sumter,Lib,Shane Hazel,Absentee by Mail Votes,30
+13,261,Sumter,Lib,Shane Hazel,Advanced Voting Votes,86
+13,261,Sumter,Lib,Shane Hazel,Election Day Votes,49
+13,261,Sumter,Lib,Shane Hazel,Provisional Votes,0
+13,261,Sumter,Lib,Shane Hazel,TOTAL VOTES,165
+13,263,Talbot,I) (Rep,David A. Perdue,Absentee by Mail Votes,240
+13,263,Talbot,I) (Rep,David A. Perdue,Advanced Voting Votes,680
+13,263,Talbot,I) (Rep,David A. Perdue,Election Day Votes,465
+13,263,Talbot,I) (Rep,David A. Perdue,Provisional Votes,1
+13,263,Talbot,I) (Rep,David A. Perdue,TOTAL VOTES,1386
+13,263,Talbot,Dem,Jon Ossoff,Absentee by Mail Votes,874
+13,263,Talbot,Dem,Jon Ossoff,Advanced Voting Votes,611
+13,263,Talbot,Dem,Jon Ossoff,Election Day Votes,528
+13,263,Talbot,Dem,Jon Ossoff,Provisional Votes,0
+13,263,Talbot,Dem,Jon Ossoff,TOTAL VOTES,2013
+13,263,Talbot,Lib,Shane Hazel,Absentee by Mail Votes,15
+13,263,Talbot,Lib,Shane Hazel,Advanced Voting Votes,18
+13,263,Talbot,Lib,Shane Hazel,Election Day Votes,18
+13,263,Talbot,Lib,Shane Hazel,Provisional Votes,0
+13,263,Talbot,Lib,Shane Hazel,TOTAL VOTES,51
+13,265,Taliaferro,I) (Rep,David A. Perdue,Absentee by Mail Votes,66
+13,265,Taliaferro,I) (Rep,David A. Perdue,Advanced Voting Votes,201
+13,265,Taliaferro,I) (Rep,David A. Perdue,Election Day Votes,99
+13,265,Taliaferro,I) (Rep,David A. Perdue,Provisional Votes,0
+13,265,Taliaferro,I) (Rep,David A. Perdue,TOTAL VOTES,366
+13,265,Taliaferro,Dem,Jon Ossoff,Absentee by Mail Votes,210
+13,265,Taliaferro,Dem,Jon Ossoff,Advanced Voting Votes,214
+13,265,Taliaferro,Dem,Jon Ossoff,Election Day Votes,97
+13,265,Taliaferro,Dem,Jon Ossoff,Provisional Votes,0
+13,265,Taliaferro,Dem,Jon Ossoff,TOTAL VOTES,521
+13,265,Taliaferro,Lib,Shane Hazel,Absentee by Mail Votes,8
+13,265,Taliaferro,Lib,Shane Hazel,Advanced Voting Votes,5
+13,265,Taliaferro,Lib,Shane Hazel,Election Day Votes,2
+13,265,Taliaferro,Lib,Shane Hazel,Provisional Votes,0
+13,265,Taliaferro,Lib,Shane Hazel,TOTAL VOTES,15
+13,267,Tattnall,I) (Rep,David A. Perdue,Absentee by Mail Votes,804
+13,267,Tattnall,I) (Rep,David A. Perdue,Advanced Voting Votes,3658
+13,267,Tattnall,I) (Rep,David A. Perdue,Election Day Votes,1492
+13,267,Tattnall,I) (Rep,David A. Perdue,Provisional Votes,0
+13,267,Tattnall,I) (Rep,David A. Perdue,TOTAL VOTES,5954
+13,267,Tattnall,Dem,Jon Ossoff,Absentee by Mail Votes,508
+13,267,Tattnall,Dem,Jon Ossoff,Advanced Voting Votes,1058
+13,267,Tattnall,Dem,Jon Ossoff,Election Day Votes,412
+13,267,Tattnall,Dem,Jon Ossoff,Provisional Votes,0
+13,267,Tattnall,Dem,Jon Ossoff,TOTAL VOTES,1978
+13,267,Tattnall,Lib,Shane Hazel,Absentee by Mail Votes,29
+13,267,Tattnall,Lib,Shane Hazel,Advanced Voting Votes,73
+13,267,Tattnall,Lib,Shane Hazel,Election Day Votes,57
+13,267,Tattnall,Lib,Shane Hazel,Provisional Votes,0
+13,267,Tattnall,Lib,Shane Hazel,TOTAL VOTES,159
+13,269,Taylor,I) (Rep,David A. Perdue,Absentee by Mail Votes,298
+13,269,Taylor,I) (Rep,David A. Perdue,Advanced Voting Votes,1743
+13,269,Taylor,I) (Rep,David A. Perdue,Election Day Votes,346
+13,269,Taylor,I) (Rep,David A. Perdue,Provisional Votes,12
+13,269,Taylor,I) (Rep,David A. Perdue,TOTAL VOTES,2399
+13,269,Taylor,Dem,Jon Ossoff,Absentee by Mail Votes,451
+13,269,Taylor,Dem,Jon Ossoff,Advanced Voting Votes,586
+13,269,Taylor,Dem,Jon Ossoff,Election Day Votes,273
+13,269,Taylor,Dem,Jon Ossoff,Provisional Votes,2
+13,269,Taylor,Dem,Jon Ossoff,TOTAL VOTES,1312
+13,269,Taylor,Lib,Shane Hazel,Absentee by Mail Votes,16
+13,269,Taylor,Lib,Shane Hazel,Advanced Voting Votes,53
+13,269,Taylor,Lib,Shane Hazel,Election Day Votes,12
+13,269,Taylor,Lib,Shane Hazel,Provisional Votes,0
+13,269,Taylor,Lib,Shane Hazel,TOTAL VOTES,81
+13,271,Telfair,I) (Rep,David A. Perdue,Absentee by Mail Votes,356
+13,271,Telfair,I) (Rep,David A. Perdue,Advanced Voting Votes,1461
+13,271,Telfair,I) (Rep,David A. Perdue,Election Day Votes,932
+13,271,Telfair,I) (Rep,David A. Perdue,Provisional Votes,2
+13,271,Telfair,I) (Rep,David A. Perdue,TOTAL VOTES,2751
+13,271,Telfair,Dem,Jon Ossoff,Absentee by Mail Votes,578
+13,271,Telfair,Dem,Jon Ossoff,Advanced Voting Votes,541
+13,271,Telfair,Dem,Jon Ossoff,Election Day Votes,309
+13,271,Telfair,Dem,Jon Ossoff,Provisional Votes,6
+13,271,Telfair,Dem,Jon Ossoff,TOTAL VOTES,1434
+13,271,Telfair,Lib,Shane Hazel,Absentee by Mail Votes,11
+13,271,Telfair,Lib,Shane Hazel,Advanced Voting Votes,32
+13,271,Telfair,Lib,Shane Hazel,Election Day Votes,25
+13,271,Telfair,Lib,Shane Hazel,Provisional Votes,1
+13,271,Telfair,Lib,Shane Hazel,TOTAL VOTES,69
+13,273,Terrell,I) (Rep,David A. Perdue,Absentee by Mail Votes,273
+13,273,Terrell,I) (Rep,David A. Perdue,Advanced Voting Votes,1092
+13,273,Terrell,I) (Rep,David A. Perdue,Election Day Votes,675
+13,273,Terrell,I) (Rep,David A. Perdue,Provisional Votes,0
+13,273,Terrell,I) (Rep,David A. Perdue,TOTAL VOTES,2040
+13,273,Terrell,Dem,Jon Ossoff,Absentee by Mail Votes,805
+13,273,Terrell,Dem,Jon Ossoff,Advanced Voting Votes,923
+13,273,Terrell,Dem,Jon Ossoff,Election Day Votes,548
+13,273,Terrell,Dem,Jon Ossoff,Provisional Votes,1
+13,273,Terrell,Dem,Jon Ossoff,TOTAL VOTES,2277
+13,273,Terrell,Lib,Shane Hazel,Absentee by Mail Votes,14
+13,273,Terrell,Lib,Shane Hazel,Advanced Voting Votes,26
+13,273,Terrell,Lib,Shane Hazel,Election Day Votes,18
+13,273,Terrell,Lib,Shane Hazel,Provisional Votes,0
+13,273,Terrell,Lib,Shane Hazel,TOTAL VOTES,58
+13,275,Thomas,I) (Rep,David A. Perdue,Absentee by Mail Votes,1665
+13,275,Thomas,I) (Rep,David A. Perdue,Advanced Voting Votes,8646
+13,275,Thomas,I) (Rep,David A. Perdue,Election Day Votes,2708
+13,275,Thomas,I) (Rep,David A. Perdue,Provisional Votes,1
+13,275,Thomas,I) (Rep,David A. Perdue,TOTAL VOTES,13020
+13,275,Thomas,Dem,Jon Ossoff,Absentee by Mail Votes,2199
+13,275,Thomas,Dem,Jon Ossoff,Advanced Voting Votes,4568
+13,275,Thomas,Dem,Jon Ossoff,Election Day Votes,1387
+13,275,Thomas,Dem,Jon Ossoff,Provisional Votes,4
+13,275,Thomas,Dem,Jon Ossoff,TOTAL VOTES,8158
+13,275,Thomas,Lib,Shane Hazel,Absentee by Mail Votes,82
+13,275,Thomas,Lib,Shane Hazel,Advanced Voting Votes,202
+13,275,Thomas,Lib,Shane Hazel,Election Day Votes,138
+13,275,Thomas,Lib,Shane Hazel,Provisional Votes,0
+13,275,Thomas,Lib,Shane Hazel,TOTAL VOTES,422
+13,277,Tift,I) (Rep,David A. Perdue,Absentee by Mail Votes,1247
+13,277,Tift,I) (Rep,David A. Perdue,Advanced Voting Votes,6853
+13,277,Tift,I) (Rep,David A. Perdue,Election Day Votes,2703
+13,277,Tift,I) (Rep,David A. Perdue,Provisional Votes,11
+13,277,Tift,I) (Rep,David A. Perdue,TOTAL VOTES,10814
+13,277,Tift,Dem,Jon Ossoff,Absentee by Mail Votes,1304
+13,277,Tift,Dem,Jon Ossoff,Advanced Voting Votes,2590
+13,277,Tift,Dem,Jon Ossoff,Election Day Votes,1048
+13,277,Tift,Dem,Jon Ossoff,Provisional Votes,14
+13,277,Tift,Dem,Jon Ossoff,TOTAL VOTES,4956
+13,277,Tift,Lib,Shane Hazel,Absentee by Mail Votes,54
+13,277,Tift,Lib,Shane Hazel,Advanced Voting Votes,145
+13,277,Tift,Lib,Shane Hazel,Election Day Votes,104
+13,277,Tift,Lib,Shane Hazel,Provisional Votes,2
+13,277,Tift,Lib,Shane Hazel,TOTAL VOTES,305
+13,279,Toombs,I) (Rep,David A. Perdue,Absentee by Mail Votes,1191
+13,279,Toombs,I) (Rep,David A. Perdue,Advanced Voting Votes,4820
+13,279,Toombs,I) (Rep,David A. Perdue,Election Day Votes,1778
+13,279,Toombs,I) (Rep,David A. Perdue,Provisional Votes,4
+13,279,Toombs,I) (Rep,David A. Perdue,TOTAL VOTES,7793
+13,279,Toombs,Dem,Jon Ossoff,Absentee by Mail Votes,1001
+13,279,Toombs,Dem,Jon Ossoff,Advanced Voting Votes,1251
+13,279,Toombs,Dem,Jon Ossoff,Election Day Votes,574
+13,279,Toombs,Dem,Jon Ossoff,Provisional Votes,6
+13,279,Toombs,Dem,Jon Ossoff,TOTAL VOTES,2832
+13,279,Toombs,Lib,Shane Hazel,Absentee by Mail Votes,45
+13,279,Toombs,Lib,Shane Hazel,Advanced Voting Votes,85
+13,279,Toombs,Lib,Shane Hazel,Election Day Votes,43
+13,279,Toombs,Lib,Shane Hazel,Provisional Votes,0
+13,279,Toombs,Lib,Shane Hazel,TOTAL VOTES,173
+13,281,Towns,I) (Rep,David A. Perdue,Absentee by Mail Votes,1199
+13,281,Towns,I) (Rep,David A. Perdue,Advanced Voting Votes,4129
+13,281,Towns,I) (Rep,David A. Perdue,Election Day Votes,955
+13,281,Towns,I) (Rep,David A. Perdue,Provisional Votes,8
+13,281,Towns,I) (Rep,David A. Perdue,TOTAL VOTES,6291
+13,281,Towns,Dem,Jon Ossoff,Absentee by Mail Votes,655
+13,281,Towns,Dem,Jon Ossoff,Advanced Voting Votes,672
+13,281,Towns,Dem,Jon Ossoff,Election Day Votes,123
+13,281,Towns,Dem,Jon Ossoff,Provisional Votes,1
+13,281,Towns,Dem,Jon Ossoff,TOTAL VOTES,1451
+13,281,Towns,Lib,Shane Hazel,Absentee by Mail Votes,49
+13,281,Towns,Lib,Shane Hazel,Advanced Voting Votes,63
+13,281,Towns,Lib,Shane Hazel,Election Day Votes,34
+13,281,Towns,Lib,Shane Hazel,Provisional Votes,0
+13,281,Towns,Lib,Shane Hazel,TOTAL VOTES,146
+13,283,Treutlen,I) (Rep,David A. Perdue,Absentee by Mail Votes,280
+13,283,Treutlen,I) (Rep,David A. Perdue,Advanced Voting Votes,1393
+13,283,Treutlen,I) (Rep,David A. Perdue,Election Day Votes,405
+13,283,Treutlen,I) (Rep,David A. Perdue,Provisional Votes,0
+13,283,Treutlen,I) (Rep,David A. Perdue,TOTAL VOTES,2078
+13,283,Treutlen,Dem,Jon Ossoff,Absentee by Mail Votes,269
+13,283,Treutlen,Dem,Jon Ossoff,Advanced Voting Votes,505
+13,283,Treutlen,Dem,Jon Ossoff,Election Day Votes,119
+13,283,Treutlen,Dem,Jon Ossoff,Provisional Votes,0
+13,283,Treutlen,Dem,Jon Ossoff,TOTAL VOTES,893
+13,283,Treutlen,Lib,Shane Hazel,Absentee by Mail Votes,8
+13,283,Treutlen,Lib,Shane Hazel,Advanced Voting Votes,26
+13,283,Treutlen,Lib,Shane Hazel,Election Day Votes,18
+13,283,Treutlen,Lib,Shane Hazel,Provisional Votes,0
+13,283,Treutlen,Lib,Shane Hazel,TOTAL VOTES,52
+13,285,Troup,I) (Rep,David A. Perdue,Absentee by Mail Votes,2906
+13,285,Troup,I) (Rep,David A. Perdue,Advanced Voting Votes,10556
+13,285,Troup,I) (Rep,David A. Perdue,Election Day Votes,4656
+13,285,Troup,I) (Rep,David A. Perdue,Provisional Votes,47
+13,285,Troup,I) (Rep,David A. Perdue,TOTAL VOTES,18165
+13,285,Troup,Dem,Jon Ossoff,Absentee by Mail Votes,3238
+13,285,Troup,Dem,Jon Ossoff,Advanced Voting Votes,5118
+13,285,Troup,Dem,Jon Ossoff,Election Day Votes,2736
+13,285,Troup,Dem,Jon Ossoff,Provisional Votes,26
+13,285,Troup,Dem,Jon Ossoff,TOTAL VOTES,11118
+13,285,Troup,Lib,Shane Hazel,Absentee by Mail Votes,114
+13,285,Troup,Lib,Shane Hazel,Advanced Voting Votes,214
+13,285,Troup,Lib,Shane Hazel,Election Day Votes,205
+13,285,Troup,Lib,Shane Hazel,Provisional Votes,3
+13,285,Troup,Lib,Shane Hazel,TOTAL VOTES,536
+13,287,Turner,I) (Rep,David A. Perdue,Absentee by Mail Votes,234
+13,287,Turner,I) (Rep,David A. Perdue,Advanced Voting Votes,1733
+13,287,Turner,I) (Rep,David A. Perdue,Election Day Votes,366
+13,287,Turner,I) (Rep,David A. Perdue,Provisional Votes,1
+13,287,Turner,I) (Rep,David A. Perdue,TOTAL VOTES,2334
+13,287,Turner,Dem,Jon Ossoff,Absentee by Mail Votes,269
+13,287,Turner,Dem,Jon Ossoff,Advanced Voting Votes,753
+13,287,Turner,Dem,Jon Ossoff,Election Day Votes,322
+13,287,Turner,Dem,Jon Ossoff,Provisional Votes,1
+13,287,Turner,Dem,Jon Ossoff,TOTAL VOTES,1345
+13,287,Turner,Lib,Shane Hazel,Absentee by Mail Votes,8
+13,287,Turner,Lib,Shane Hazel,Advanced Voting Votes,34
+13,287,Turner,Lib,Shane Hazel,Election Day Votes,20
+13,287,Turner,Lib,Shane Hazel,Provisional Votes,0
+13,287,Turner,Lib,Shane Hazel,TOTAL VOTES,62
+13,289,Twiggs,I) (Rep,David A. Perdue,Absentee by Mail Votes,316
+13,289,Twiggs,I) (Rep,David A. Perdue,Advanced Voting Votes,1190
+13,289,Twiggs,I) (Rep,David A. Perdue,Election Day Votes,807
+13,289,Twiggs,I) (Rep,David A. Perdue,Provisional Votes,0
+13,289,Twiggs,I) (Rep,David A. Perdue,TOTAL VOTES,2313
+13,289,Twiggs,Dem,Jon Ossoff,Absentee by Mail Votes,686
+13,289,Twiggs,Dem,Jon Ossoff,Advanced Voting Votes,862
+13,289,Twiggs,Dem,Jon Ossoff,Election Day Votes,431
+13,289,Twiggs,Dem,Jon Ossoff,Provisional Votes,2
+13,289,Twiggs,Dem,Jon Ossoff,TOTAL VOTES,1981
+13,289,Twiggs,Lib,Shane Hazel,Absentee by Mail Votes,19
+13,289,Twiggs,Lib,Shane Hazel,Advanced Voting Votes,33
+13,289,Twiggs,Lib,Shane Hazel,Election Day Votes,35
+13,289,Twiggs,Lib,Shane Hazel,Provisional Votes,0
+13,289,Twiggs,Lib,Shane Hazel,TOTAL VOTES,87
+13,291,Union,I) (Rep,David A. Perdue,Absentee by Mail Votes,2184
+13,291,Union,I) (Rep,David A. Perdue,Advanced Voting Votes,6901
+13,291,Union,I) (Rep,David A. Perdue,Election Day Votes,3327
+13,291,Union,I) (Rep,David A. Perdue,Provisional Votes,11
+13,291,Union,I) (Rep,David A. Perdue,TOTAL VOTES,12423
+13,291,Union,Dem,Jon Ossoff,Absentee by Mail Votes,1169
+13,291,Union,Dem,Jon Ossoff,Advanced Voting Votes,1155
+13,291,Union,Dem,Jon Ossoff,Election Day Votes,292
+13,291,Union,Dem,Jon Ossoff,Provisional Votes,0
+13,291,Union,Dem,Jon Ossoff,TOTAL VOTES,2616
+13,291,Union,Lib,Shane Hazel,Absentee by Mail Votes,91
+13,291,Union,Lib,Shane Hazel,Advanced Voting Votes,146
+13,291,Union,Lib,Shane Hazel,Election Day Votes,102
+13,291,Union,Lib,Shane Hazel,Provisional Votes,0
+13,291,Union,Lib,Shane Hazel,TOTAL VOTES,339
+13,293,Upson,I) (Rep,David A. Perdue,Absentee by Mail Votes,1170
+13,293,Upson,I) (Rep,David A. Perdue,Advanced Voting Votes,6038
+13,293,Upson,I) (Rep,David A. Perdue,Election Day Votes,1355
+13,293,Upson,I) (Rep,David A. Perdue,Provisional Votes,5
+13,293,Upson,I) (Rep,David A. Perdue,TOTAL VOTES,8568
+13,293,Upson,Dem,Jon Ossoff,Absentee by Mail Votes,1474
+13,293,Upson,Dem,Jon Ossoff,Advanced Voting Votes,1910
+13,293,Upson,Dem,Jon Ossoff,Election Day Votes,616
+13,293,Upson,Dem,Jon Ossoff,Provisional Votes,0
+13,293,Upson,Dem,Jon Ossoff,TOTAL VOTES,4000
+13,293,Upson,Lib,Shane Hazel,Absentee by Mail Votes,55
+13,293,Upson,Lib,Shane Hazel,Advanced Voting Votes,107
+13,293,Upson,Lib,Shane Hazel,Election Day Votes,54
+13,293,Upson,Lib,Shane Hazel,Provisional Votes,0
+13,293,Upson,Lib,Shane Hazel,TOTAL VOTES,216
+13,295,Walker,I) (Rep,David A. Perdue,Absentee by Mail Votes,3415
+13,295,Walker,I) (Rep,David A. Perdue,Advanced Voting Votes,13805
+13,295,Walker,I) (Rep,David A. Perdue,Election Day Votes,5423
+13,295,Walker,I) (Rep,David A. Perdue,Provisional Votes,7
+13,295,Walker,I) (Rep,David A. Perdue,TOTAL VOTES,22650
+13,295,Walker,Dem,Jon Ossoff,Absentee by Mail Votes,1997
+13,295,Walker,Dem,Jon Ossoff,Advanced Voting Votes,2483
+13,295,Walker,Dem,Jon Ossoff,Election Day Votes,952
+13,295,Walker,Dem,Jon Ossoff,Provisional Votes,3
+13,295,Walker,Dem,Jon Ossoff,TOTAL VOTES,5435
+13,295,Walker,Lib,Shane Hazel,Absentee by Mail Votes,155
+13,295,Walker,Lib,Shane Hazel,Advanced Voting Votes,425
+13,295,Walker,Lib,Shane Hazel,Election Day Votes,303
+13,295,Walker,Lib,Shane Hazel,Provisional Votes,0
+13,295,Walker,Lib,Shane Hazel,TOTAL VOTES,883
+13,297,Walton,I) (Rep,David A. Perdue,Absentee by Mail Votes,5925
+13,297,Walton,I) (Rep,David A. Perdue,Advanced Voting Votes,22431
+13,297,Walton,I) (Rep,David A. Perdue,Election Day Votes,8813
+13,297,Walton,I) (Rep,David A. Perdue,Provisional Votes,0
+13,297,Walton,I) (Rep,David A. Perdue,TOTAL VOTES,37169
+13,297,Walton,Dem,Jon Ossoff,Absentee by Mail Votes,3932
+13,297,Walton,Dem,Jon Ossoff,Advanced Voting Votes,6107
+13,297,Walton,Dem,Jon Ossoff,Election Day Votes,2063
+13,297,Walton,Dem,Jon Ossoff,Provisional Votes,0
+13,297,Walton,Dem,Jon Ossoff,TOTAL VOTES,12102
+13,297,Walton,Lib,Shane Hazel,Absentee by Mail Votes,275
+13,297,Walton,Lib,Shane Hazel,Advanced Voting Votes,520
+13,297,Walton,Lib,Shane Hazel,Election Day Votes,391
+13,297,Walton,Lib,Shane Hazel,Provisional Votes,0
+13,297,Walton,Lib,Shane Hazel,TOTAL VOTES,1186
+13,299,Ware,I) (Rep,David A. Perdue,Absentee by Mail Votes,1431
+13,299,Ware,I) (Rep,David A. Perdue,Advanced Voting Votes,5864
+13,299,Ware,I) (Rep,David A. Perdue,Election Day Votes,2538
+13,299,Ware,I) (Rep,David A. Perdue,Provisional Votes,0
+13,299,Ware,I) (Rep,David A. Perdue,TOTAL VOTES,9833
+13,299,Ware,Dem,Jon Ossoff,Absentee by Mail Votes,1484
+13,299,Ware,Dem,Jon Ossoff,Advanced Voting Votes,1953
+13,299,Ware,Dem,Jon Ossoff,Election Day Votes,536
+13,299,Ware,Dem,Jon Ossoff,Provisional Votes,0
+13,299,Ware,Dem,Jon Ossoff,TOTAL VOTES,3973
+13,299,Ware,Lib,Shane Hazel,Absentee by Mail Votes,51
+13,299,Ware,Lib,Shane Hazel,Advanced Voting Votes,137
+13,299,Ware,Lib,Shane Hazel,Election Day Votes,81
+13,299,Ware,Lib,Shane Hazel,Provisional Votes,0
+13,299,Ware,Lib,Shane Hazel,TOTAL VOTES,269
+13,301,Warren,I) (Rep,David A. Perdue,Absentee by Mail Votes,215
+13,301,Warren,I) (Rep,David A. Perdue,Advanced Voting Votes,767
+13,301,Warren,I) (Rep,David A. Perdue,Election Day Votes,190
+13,301,Warren,I) (Rep,David A. Perdue,Provisional Votes,0
+13,301,Warren,I) (Rep,David A. Perdue,TOTAL VOTES,1172
+13,301,Warren,Dem,Jon Ossoff,Absentee by Mail Votes,517
+13,301,Warren,Dem,Jon Ossoff,Advanced Voting Votes,616
+13,301,Warren,Dem,Jon Ossoff,Election Day Votes,291
+13,301,Warren,Dem,Jon Ossoff,Provisional Votes,0
+13,301,Warren,Dem,Jon Ossoff,TOTAL VOTES,1424
+13,301,Warren,Lib,Shane Hazel,Absentee by Mail Votes,12
+13,301,Warren,Lib,Shane Hazel,Advanced Voting Votes,23
+13,301,Warren,Lib,Shane Hazel,Election Day Votes,11
+13,301,Warren,Lib,Shane Hazel,Provisional Votes,0
+13,301,Warren,Lib,Shane Hazel,TOTAL VOTES,46
+13,303,Washington,I) (Rep,David A. Perdue,Absentee by Mail Votes,730
+13,303,Washington,I) (Rep,David A. Perdue,Advanced Voting Votes,2441
+13,303,Washington,I) (Rep,David A. Perdue,Election Day Votes,1455
+13,303,Washington,I) (Rep,David A. Perdue,Provisional Votes,4
+13,303,Washington,I) (Rep,David A. Perdue,TOTAL VOTES,4630
+13,303,Washington,Dem,Jon Ossoff,Absentee by Mail Votes,1661
+13,303,Washington,Dem,Jon Ossoff,Advanced Voting Votes,1790
+13,303,Washington,Dem,Jon Ossoff,Election Day Votes,1020
+13,303,Washington,Dem,Jon Ossoff,Provisional Votes,6
+13,303,Washington,Dem,Jon Ossoff,TOTAL VOTES,4477
+13,303,Washington,Lib,Shane Hazel,Absentee by Mail Votes,45
+13,303,Washington,Lib,Shane Hazel,Advanced Voting Votes,64
+13,303,Washington,Lib,Shane Hazel,Election Day Votes,63
+13,303,Washington,Lib,Shane Hazel,Provisional Votes,0
+13,303,Washington,Lib,Shane Hazel,TOTAL VOTES,172
+13,305,Wayne,I) (Rep,David A. Perdue,Absentee by Mail Votes,1280
+13,305,Wayne,I) (Rep,David A. Perdue,Advanced Voting Votes,6022
+13,305,Wayne,I) (Rep,David A. Perdue,Election Day Votes,2426
+13,305,Wayne,I) (Rep,David A. Perdue,Provisional Votes,6
+13,305,Wayne,I) (Rep,David A. Perdue,TOTAL VOTES,9734
+13,305,Wayne,Dem,Jon Ossoff,Absentee by Mail Votes,705
+13,305,Wayne,Dem,Jon Ossoff,Advanced Voting Votes,1482
+13,305,Wayne,Dem,Jon Ossoff,Election Day Votes,466
+13,305,Wayne,Dem,Jon Ossoff,Provisional Votes,2
+13,305,Wayne,Dem,Jon Ossoff,TOTAL VOTES,2655
+13,305,Wayne,Lib,Shane Hazel,Absentee by Mail Votes,55
+13,305,Wayne,Lib,Shane Hazel,Advanced Voting Votes,120
+13,305,Wayne,Lib,Shane Hazel,Election Day Votes,69
+13,305,Wayne,Lib,Shane Hazel,Provisional Votes,0
+13,305,Wayne,Lib,Shane Hazel,TOTAL VOTES,244
+13,307,Webster,I) (Rep,David A. Perdue,Absentee by Mail Votes,122
+13,307,Webster,I) (Rep,David A. Perdue,Advanced Voting Votes,478
+13,307,Webster,I) (Rep,David A. Perdue,Election Day Votes,136
+13,307,Webster,I) (Rep,David A. Perdue,Provisional Votes,0
+13,307,Webster,I) (Rep,David A. Perdue,TOTAL VOTES,736
+13,307,Webster,Dem,Jon Ossoff,Absentee by Mail Votes,215
+13,307,Webster,Dem,Jon Ossoff,Advanced Voting Votes,270
+13,307,Webster,Dem,Jon Ossoff,Election Day Votes,141
+13,307,Webster,Dem,Jon Ossoff,Provisional Votes,0
+13,307,Webster,Dem,Jon Ossoff,TOTAL VOTES,626
+13,307,Webster,Lib,Shane Hazel,Absentee by Mail Votes,3
+13,307,Webster,Lib,Shane Hazel,Advanced Voting Votes,5
+13,307,Webster,Lib,Shane Hazel,Election Day Votes,2
+13,307,Webster,Lib,Shane Hazel,Provisional Votes,0
+13,307,Webster,Lib,Shane Hazel,TOTAL VOTES,10
+13,309,Wheeler,I) (Rep,David A. Perdue,Absentee by Mail Votes,194
+13,309,Wheeler,I) (Rep,David A. Perdue,Advanced Voting Votes,924
+13,309,Wheeler,I) (Rep,David A. Perdue,Election Day Votes,444
+13,309,Wheeler,I) (Rep,David A. Perdue,Provisional Votes,0
+13,309,Wheeler,I) (Rep,David A. Perdue,TOTAL VOTES,1562
+13,309,Wheeler,Dem,Jon Ossoff,Absentee by Mail Votes,191
+13,309,Wheeler,Dem,Jon Ossoff,Advanced Voting Votes,284
+13,309,Wheeler,Dem,Jon Ossoff,Election Day Votes,181
+13,309,Wheeler,Dem,Jon Ossoff,Provisional Votes,0
+13,309,Wheeler,Dem,Jon Ossoff,TOTAL VOTES,656
+13,309,Wheeler,Lib,Shane Hazel,Absentee by Mail Votes,3
+13,309,Wheeler,Lib,Shane Hazel,Advanced Voting Votes,23
+13,309,Wheeler,Lib,Shane Hazel,Election Day Votes,9
+13,309,Wheeler,Lib,Shane Hazel,Provisional Votes,0
+13,309,Wheeler,Lib,Shane Hazel,TOTAL VOTES,35
+13,311,White,I) (Rep,David A. Perdue,Absentee by Mail Votes,2046
+13,311,White,I) (Rep,David A. Perdue,Advanced Voting Votes,6634
+13,311,White,I) (Rep,David A. Perdue,Election Day Votes,3386
+13,311,White,I) (Rep,David A. Perdue,Provisional Votes,6
+13,311,White,I) (Rep,David A. Perdue,TOTAL VOTES,12072
+13,311,White,Dem,Jon Ossoff,Absentee by Mail Votes,879
+13,311,White,Dem,Jon Ossoff,Advanced Voting Votes,1015
+13,311,White,Dem,Jon Ossoff,Election Day Votes,379
+13,311,White,Dem,Jon Ossoff,Provisional Votes,0
+13,311,White,Dem,Jon Ossoff,TOTAL VOTES,2273
+13,311,White,Lib,Shane Hazel,Absentee by Mail Votes,86
+13,311,White,Lib,Shane Hazel,Advanced Voting Votes,155
+13,311,White,Lib,Shane Hazel,Election Day Votes,130
+13,311,White,Lib,Shane Hazel,Provisional Votes,0
+13,311,White,Lib,Shane Hazel,TOTAL VOTES,371
+13,313,Whitfield,I) (Rep,David A. Perdue,Absentee by Mail Votes,3444
+13,313,Whitfield,I) (Rep,David A. Perdue,Advanced Voting Votes,12957
+13,313,Whitfield,I) (Rep,David A. Perdue,Election Day Votes,8713
+13,313,Whitfield,I) (Rep,David A. Perdue,Provisional Votes,44
+13,313,Whitfield,I) (Rep,David A. Perdue,TOTAL VOTES,25158
+13,313,Whitfield,Dem,Jon Ossoff,Absentee by Mail Votes,2593
+13,313,Whitfield,Dem,Jon Ossoff,Advanced Voting Votes,4799
+13,313,Whitfield,Dem,Jon Ossoff,Election Day Votes,2767
+13,313,Whitfield,Dem,Jon Ossoff,Provisional Votes,18
+13,313,Whitfield,Dem,Jon Ossoff,TOTAL VOTES,10177
+13,313,Whitfield,Lib,Shane Hazel,Absentee by Mail Votes,175
+13,313,Whitfield,Lib,Shane Hazel,Advanced Voting Votes,388
+13,313,Whitfield,Lib,Shane Hazel,Election Day Votes,398
+13,313,Whitfield,Lib,Shane Hazel,Provisional Votes,1
+13,313,Whitfield,Lib,Shane Hazel,TOTAL VOTES,962
+13,315,Wilcox,I) (Rep,David A. Perdue,Absentee by Mail Votes,338
+13,315,Wilcox,I) (Rep,David A. Perdue,Advanced Voting Votes,1303
+13,315,Wilcox,I) (Rep,David A. Perdue,Election Day Votes,728
+13,315,Wilcox,I) (Rep,David A. Perdue,Provisional Votes,0
+13,315,Wilcox,I) (Rep,David A. Perdue,TOTAL VOTES,2369
+13,315,Wilcox,Dem,Jon Ossoff,Absentee by Mail Votes,181
+13,315,Wilcox,Dem,Jon Ossoff,Advanced Voting Votes,346
+13,315,Wilcox,Dem,Jon Ossoff,Election Day Votes,278
+13,315,Wilcox,Dem,Jon Ossoff,Provisional Votes,0
+13,315,Wilcox,Dem,Jon Ossoff,TOTAL VOTES,805
+13,315,Wilcox,Lib,Shane Hazel,Absentee by Mail Votes,12
+13,315,Wilcox,Lib,Shane Hazel,Advanced Voting Votes,25
+13,315,Wilcox,Lib,Shane Hazel,Election Day Votes,19
+13,315,Wilcox,Lib,Shane Hazel,Provisional Votes,0
+13,315,Wilcox,Lib,Shane Hazel,TOTAL VOTES,56
+13,317,Wilkes,I) (Rep,David A. Perdue,Absentee by Mail Votes,458
+13,317,Wilkes,I) (Rep,David A. Perdue,Advanced Voting Votes,1644
+13,317,Wilkes,I) (Rep,David A. Perdue,Election Day Votes,705
+13,317,Wilkes,I) (Rep,David A. Perdue,Provisional Votes,3
+13,317,Wilkes,I) (Rep,David A. Perdue,TOTAL VOTES,2810
+13,317,Wilkes,Dem,Jon Ossoff,Absentee by Mail Votes,709
+13,317,Wilkes,Dem,Jon Ossoff,Advanced Voting Votes,863
+13,317,Wilkes,Dem,Jon Ossoff,Election Day Votes,482
+13,317,Wilkes,Dem,Jon Ossoff,Provisional Votes,3
+13,317,Wilkes,Dem,Jon Ossoff,TOTAL VOTES,2057
+13,317,Wilkes,Lib,Shane Hazel,Absentee by Mail Votes,17
+13,317,Wilkes,Lib,Shane Hazel,Advanced Voting Votes,35
+13,317,Wilkes,Lib,Shane Hazel,Election Day Votes,26
+13,317,Wilkes,Lib,Shane Hazel,Provisional Votes,0
+13,317,Wilkes,Lib,Shane Hazel,TOTAL VOTES,78
+13,319,Wilkinson,I) (Rep,David A. Perdue,Absentee by Mail Votes,239
+13,319,Wilkinson,I) (Rep,David A. Perdue,Advanced Voting Votes,1099
+13,319,Wilkinson,I) (Rep,David A. Perdue,Election Day Votes,1267
+13,319,Wilkinson,I) (Rep,David A. Perdue,Provisional Votes,3
+13,319,Wilkinson,I) (Rep,David A. Perdue,TOTAL VOTES,2608
+13,319,Wilkinson,Dem,Jon Ossoff,Absentee by Mail Votes,575
+13,319,Wilkinson,Dem,Jon Ossoff,Advanced Voting Votes,914
+13,319,Wilkinson,Dem,Jon Ossoff,Election Day Votes,525
+13,319,Wilkinson,Dem,Jon Ossoff,Provisional Votes,3
+13,319,Wilkinson,Dem,Jon Ossoff,TOTAL VOTES,2017
+13,319,Wilkinson,Lib,Shane Hazel,Absentee by Mail Votes,20
+13,319,Wilkinson,Lib,Shane Hazel,Advanced Voting Votes,27
+13,319,Wilkinson,Lib,Shane Hazel,Election Day Votes,32
+13,319,Wilkinson,Lib,Shane Hazel,Provisional Votes,0
+13,319,Wilkinson,Lib,Shane Hazel,TOTAL VOTES,79
+13,321,Worth,I) (Rep,David A. Perdue,Absentee by Mail Votes,755
+13,321,Worth,I) (Rep,David A. Perdue,Advanced Voting Votes,3242
+13,321,Worth,I) (Rep,David A. Perdue,Election Day Votes,2730
+13,321,Worth,I) (Rep,David A. Perdue,Provisional Votes,0
+13,321,Worth,I) (Rep,David A. Perdue,TOTAL VOTES,6727
+13,321,Worth,Dem,Jon Ossoff,Absentee by Mail Votes,781
+13,321,Worth,Dem,Jon Ossoff,Advanced Voting Votes,966
+13,321,Worth,Dem,Jon Ossoff,Election Day Votes,580
+13,321,Worth,Dem,Jon Ossoff,Provisional Votes,0
+13,321,Worth,Dem,Jon Ossoff,TOTAL VOTES,2327
+13,321,Worth,Lib,Shane Hazel,Absentee by Mail Votes,28
+13,321,Worth,Lib,Shane Hazel,Advanced Voting Votes,73
+13,321,Worth,Lib,Shane Hazel,Election Day Votes,56
+13,321,Worth,Lib,Shane Hazel,Provisional Votes,0
+13,321,Worth,Lib,Shane Hazel,TOTAL VOTES,157

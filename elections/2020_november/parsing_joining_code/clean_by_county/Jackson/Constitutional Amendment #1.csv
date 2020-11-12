@@ -1,0 +1,5 @@
+County,Precinct,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,
+Jackson,Central Jackson,16263,1389,6330,1624,2,9345,286,1232,284,0,1802,11147,
+Jackson,North Jackson,12699,1190,4270,1429,0,6889,284,822,272,1,1379,8268,
+Jackson,West Jackson,14977,1401,6160,1880,2,9443,277,1100,272,0,1649,11092,
+Jackson,South Jackson,8012,843,2645,982,1,4471,165,445,168,0,778,5249,

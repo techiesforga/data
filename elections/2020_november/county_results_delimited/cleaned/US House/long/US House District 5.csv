@@ -1,0 +1,31 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,63,Clayton,Rep,Angela Stanton-King,Absentee by Mail Votes,1429
+13,63,Clayton,Rep,Angela Stanton-King,Advanced Voting Votes,2968
+13,63,Clayton,Rep,Angela Stanton-King,Election Day Votes,1286
+13,63,Clayton,Rep,Angela Stanton-King,Provisional Votes,18
+13,63,Clayton,Rep,Angela Stanton-King,TOTAL VOTES,5701
+13,63,Clayton,Dem,Nikema Williams,Absentee by Mail Votes,8735
+13,63,Clayton,Dem,Nikema Williams,Advanced Voting Votes,17632
+13,63,Clayton,Dem,Nikema Williams,Election Day Votes,6459
+13,63,Clayton,Dem,Nikema Williams,Provisional Votes,134
+13,63,Clayton,Dem,Nikema Williams,TOTAL VOTES,32960
+13,89,DeKalb,Rep,Angela Stanton-King,Absentee by Mail Votes,3384
+13,89,DeKalb,Rep,Angela Stanton-King,Advanced Voting Votes,5160
+13,89,DeKalb,Rep,Angela Stanton-King,Election Day Votes,2316
+13,89,DeKalb,Rep,Angela Stanton-King,Provisional Votes,42
+13,89,DeKalb,Rep,Angela Stanton-King,TOTAL VOTES,10902
+13,89,DeKalb,Dem,Nikema Williams,Absentee by Mail Votes,30967
+13,89,DeKalb,Dem,Nikema Williams,Advanced Voting Votes,42264
+13,89,DeKalb,Dem,Nikema Williams,Election Day Votes,7389
+13,89,DeKalb,Dem,Nikema Williams,Provisional Votes,218
+13,89,DeKalb,Dem,Nikema Williams,TOTAL VOTES,80838
+13,121,Fulton,Rep,Angela Stanton-King,Absentee by Mail Votes,8185
+13,121,Fulton,Rep,Angela Stanton-King,Advanced Voting Votes,21309
+13,121,Fulton,Rep,Angela Stanton-King,Election Day Votes,6037
+13,121,Fulton,Rep,Angela Stanton-King,Provisional Votes,346
+13,121,Fulton,Rep,Angela Stanton-King,TOTAL VOTES,35877
+13,121,Fulton,Dem,Nikema Williams,Absentee by Mail Votes,54576
+13,121,Fulton,Dem,Nikema Williams,Advanced Voting Votes,109630
+13,121,Fulton,Dem,Nikema Williams,Election Day Votes,20919
+13,121,Fulton,Dem,Nikema Williams,Provisional Votes,1423
+13,121,Fulton,Dem,Nikema Williams,TOTAL VOTES,186548

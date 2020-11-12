@@ -1,0 +1,2386 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,1,Appling,I) (Rep,Donald J. Trump,Absentee by Mail Votes,890
+13,1,Appling,I) (Rep,Donald J. Trump,Advanced Voting Votes,3874
+13,1,Appling,I) (Rep,Donald J. Trump,Election Day Votes,1753
+13,1,Appling,I) (Rep,Donald J. Trump,Provisional Votes,9
+13,1,Appling,I) (Rep,Donald J. Trump,TOTAL VOTES,6526
+13,1,Appling,Lib,Jo Jorgensen,Absentee by Mail Votes,5
+13,1,Appling,Lib,Jo Jorgensen,Advanced Voting Votes,26
+13,1,Appling,Lib,Jo Jorgensen,Election Day Votes,5
+13,1,Appling,Lib,Jo Jorgensen,Provisional Votes,0
+13,1,Appling,Lib,Jo Jorgensen,TOTAL VOTES,36
+13,1,Appling,Dem,Joseph R. Biden,Absentee by Mail Votes,587
+13,1,Appling,Dem,Joseph R. Biden,Advanced Voting Votes,855
+13,1,Appling,Dem,Joseph R. Biden,Election Day Votes,334
+13,1,Appling,Dem,Joseph R. Biden,Provisional Votes,3
+13,1,Appling,Dem,Joseph R. Biden,TOTAL VOTES,1779
+13,3,Atkinson,I) (Rep,Donald J. Trump,Absentee by Mail Votes,164
+13,3,Atkinson,I) (Rep,Donald J. Trump,Advanced Voting Votes,1419
+13,3,Atkinson,I) (Rep,Donald J. Trump,Election Day Votes,716
+13,3,Atkinson,I) (Rep,Donald J. Trump,Provisional Votes,1
+13,3,Atkinson,I) (Rep,Donald J. Trump,TOTAL VOTES,2300
+13,3,Atkinson,Lib,Jo Jorgensen,Absentee by Mail Votes,3
+13,3,Atkinson,Lib,Jo Jorgensen,Advanced Voting Votes,13
+13,3,Atkinson,Lib,Jo Jorgensen,Election Day Votes,14
+13,3,Atkinson,Lib,Jo Jorgensen,Provisional Votes,0
+13,3,Atkinson,Lib,Jo Jorgensen,TOTAL VOTES,30
+13,3,Atkinson,Dem,Joseph R. Biden,Absentee by Mail Votes,130
+13,3,Atkinson,Dem,Joseph R. Biden,Advanced Voting Votes,445
+13,3,Atkinson,Dem,Joseph R. Biden,Election Day Votes,250
+13,3,Atkinson,Dem,Joseph R. Biden,Provisional Votes,0
+13,3,Atkinson,Dem,Joseph R. Biden,TOTAL VOTES,825
+13,5,Bacon,I) (Rep,Donald J. Trump,Absentee by Mail Votes,487
+13,5,Bacon,I) (Rep,Donald J. Trump,Advanced Voting Votes,3099
+13,5,Bacon,I) (Rep,Donald J. Trump,Election Day Votes,431
+13,5,Bacon,I) (Rep,Donald J. Trump,Provisional Votes,1
+13,5,Bacon,I) (Rep,Donald J. Trump,TOTAL VOTES,4018
+13,5,Bacon,Lib,Jo Jorgensen,Absentee by Mail Votes,4
+13,5,Bacon,Lib,Jo Jorgensen,Advanced Voting Votes,13
+13,5,Bacon,Lib,Jo Jorgensen,Election Day Votes,8
+13,5,Bacon,Lib,Jo Jorgensen,Provisional Votes,0
+13,5,Bacon,Lib,Jo Jorgensen,TOTAL VOTES,25
+13,5,Bacon,Dem,Joseph R. Biden,Absentee by Mail Votes,196
+13,5,Bacon,Dem,Joseph R. Biden,Advanced Voting Votes,288
+13,5,Bacon,Dem,Joseph R. Biden,Election Day Votes,140
+13,5,Bacon,Dem,Joseph R. Biden,Provisional Votes,1
+13,5,Bacon,Dem,Joseph R. Biden,TOTAL VOTES,625
+13,7,Baker,I) (Rep,Donald J. Trump,Absentee by Mail Votes,138
+13,7,Baker,I) (Rep,Donald J. Trump,Advanced Voting Votes,466
+13,7,Baker,I) (Rep,Donald J. Trump,Election Day Votes,291
+13,7,Baker,I) (Rep,Donald J. Trump,Provisional Votes,2
+13,7,Baker,I) (Rep,Donald J. Trump,TOTAL VOTES,897
+13,7,Baker,Lib,Jo Jorgensen,Absentee by Mail Votes,2
+13,7,Baker,Lib,Jo Jorgensen,Advanced Voting Votes,2
+13,7,Baker,Lib,Jo Jorgensen,Election Day Votes,2
+13,7,Baker,Lib,Jo Jorgensen,Provisional Votes,0
+13,7,Baker,Lib,Jo Jorgensen,TOTAL VOTES,6
+13,7,Baker,Dem,Joseph R. Biden,Absentee by Mail Votes,234
+13,7,Baker,Dem,Joseph R. Biden,Advanced Voting Votes,269
+13,7,Baker,Dem,Joseph R. Biden,Election Day Votes,149
+13,7,Baker,Dem,Joseph R. Biden,Provisional Votes,0
+13,7,Baker,Dem,Joseph R. Biden,TOTAL VOTES,652
+13,9,Baldwin,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1290
+13,9,Baldwin,I) (Rep,Donald J. Trump,Advanced Voting Votes,5736
+13,9,Baldwin,I) (Rep,Donald J. Trump,Election Day Votes,1873
+13,9,Baldwin,I) (Rep,Donald J. Trump,Provisional Votes,4
+13,9,Baldwin,I) (Rep,Donald J. Trump,TOTAL VOTES,8903
+13,9,Baldwin,Lib,Jo Jorgensen,Absentee by Mail Votes,38
+13,9,Baldwin,Lib,Jo Jorgensen,Advanced Voting Votes,107
+13,9,Baldwin,Lib,Jo Jorgensen,Election Day Votes,63
+13,9,Baldwin,Lib,Jo Jorgensen,Provisional Votes,0
+13,9,Baldwin,Lib,Jo Jorgensen,TOTAL VOTES,208
+13,9,Baldwin,Dem,Joseph R. Biden,Absentee by Mail Votes,3000
+13,9,Baldwin,Dem,Joseph R. Biden,Advanced Voting Votes,4612
+13,9,Baldwin,Dem,Joseph R. Biden,Election Day Votes,1527
+13,9,Baldwin,Dem,Joseph R. Biden,Provisional Votes,1
+13,9,Baldwin,Dem,Joseph R. Biden,TOTAL VOTES,9140
+13,11,Banks,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1025
+13,11,Banks,I) (Rep,Donald J. Trump,Advanced Voting Votes,5116
+13,11,Banks,I) (Rep,Donald J. Trump,Election Day Votes,1644
+13,11,Banks,I) (Rep,Donald J. Trump,Provisional Votes,10
+13,11,Banks,I) (Rep,Donald J. Trump,TOTAL VOTES,7795
+13,11,Banks,Lib,Jo Jorgensen,Absentee by Mail Votes,9
+13,11,Banks,Lib,Jo Jorgensen,Advanced Voting Votes,45
+13,11,Banks,Lib,Jo Jorgensen,Election Day Votes,20
+13,11,Banks,Lib,Jo Jorgensen,Provisional Votes,0
+13,11,Banks,Lib,Jo Jorgensen,TOTAL VOTES,74
+13,11,Banks,Dem,Joseph R. Biden,Absentee by Mail Votes,344
+13,11,Banks,Dem,Joseph R. Biden,Advanced Voting Votes,435
+13,11,Banks,Dem,Joseph R. Biden,Election Day Votes,150
+13,11,Banks,Dem,Joseph R. Biden,Provisional Votes,3
+13,11,Banks,Dem,Joseph R. Biden,TOTAL VOTES,932
+13,13,Barrow,I) (Rep,Donald J. Trump,Absentee by Mail Votes,4134
+13,13,Barrow,I) (Rep,Donald J. Trump,Advanced Voting Votes,16782
+13,13,Barrow,I) (Rep,Donald J. Trump,Election Day Votes,5885
+13,13,Barrow,I) (Rep,Donald J. Trump,Provisional Votes,3
+13,13,Barrow,I) (Rep,Donald J. Trump,TOTAL VOTES,26804
+13,13,Barrow,Lib,Jo Jorgensen,Absentee by Mail Votes,131
+13,13,Barrow,Lib,Jo Jorgensen,Advanced Voting Votes,307
+13,13,Barrow,Lib,Jo Jorgensen,Election Day Votes,226
+13,13,Barrow,Lib,Jo Jorgensen,Provisional Votes,0
+13,13,Barrow,Lib,Jo Jorgensen,TOTAL VOTES,664
+13,13,Barrow,Dem,Joseph R. Biden,Absentee by Mail Votes,3583
+13,13,Barrow,Dem,Joseph R. Biden,Advanced Voting Votes,5150
+13,13,Barrow,Dem,Joseph R. Biden,Election Day Votes,1717
+13,13,Barrow,Dem,Joseph R. Biden,Provisional Votes,3
+13,13,Barrow,Dem,Joseph R. Biden,TOTAL VOTES,10453
+13,15,Bartow,I) (Rep,Donald J. Trump,Absentee by Mail Votes,5976
+13,15,Bartow,I) (Rep,Donald J. Trump,Advanced Voting Votes,21499
+13,15,Bartow,I) (Rep,Donald J. Trump,Election Day Votes,10179
+13,15,Bartow,I) (Rep,Donald J. Trump,Provisional Votes,19
+13,15,Bartow,I) (Rep,Donald J. Trump,TOTAL VOTES,37673
+13,15,Bartow,Lib,Jo Jorgensen,Absentee by Mail Votes,148
+13,15,Bartow,Lib,Jo Jorgensen,Advanced Voting Votes,275
+13,15,Bartow,Lib,Jo Jorgensen,Election Day Votes,276
+13,15,Bartow,Lib,Jo Jorgensen,Provisional Votes,2
+13,15,Bartow,Lib,Jo Jorgensen,TOTAL VOTES,701
+13,15,Bartow,Dem,Joseph R. Biden,Absentee by Mail Votes,4486
+13,15,Bartow,Dem,Joseph R. Biden,Advanced Voting Votes,5423
+13,15,Bartow,Dem,Joseph R. Biden,Election Day Votes,2175
+13,15,Bartow,Dem,Joseph R. Biden,Provisional Votes,7
+13,15,Bartow,Dem,Joseph R. Biden,TOTAL VOTES,12091
+13,17,Ben Hill,I) (Rep,Donald J. Trump,Absentee by Mail Votes,528
+13,17,Ben Hill,I) (Rep,Donald J. Trump,Advanced Voting Votes,3140
+13,17,Ben Hill,I) (Rep,Donald J. Trump,Election Day Votes,441
+13,17,Ben Hill,I) (Rep,Donald J. Trump,Provisional Votes,1
+13,17,Ben Hill,I) (Rep,Donald J. Trump,TOTAL VOTES,4110
+13,17,Ben Hill,Lib,Jo Jorgensen,Absentee by Mail Votes,8
+13,17,Ben Hill,Lib,Jo Jorgensen,Advanced Voting Votes,32
+13,17,Ben Hill,Lib,Jo Jorgensen,Election Day Votes,18
+13,17,Ben Hill,Lib,Jo Jorgensen,Provisional Votes,0
+13,17,Ben Hill,Lib,Jo Jorgensen,TOTAL VOTES,58
+13,17,Ben Hill,Dem,Joseph R. Biden,Absentee by Mail Votes,714
+13,17,Ben Hill,Dem,Joseph R. Biden,Advanced Voting Votes,1342
+13,17,Ben Hill,Dem,Joseph R. Biden,Election Day Votes,336
+13,17,Ben Hill,Dem,Joseph R. Biden,Provisional Votes,0
+13,17,Ben Hill,Dem,Joseph R. Biden,TOTAL VOTES,2392
+13,19,Berrien,I) (Rep,Donald J. Trump,Absentee by Mail Votes,749
+13,19,Berrien,I) (Rep,Donald J. Trump,Advanced Voting Votes,3825
+13,19,Berrien,I) (Rep,Donald J. Trump,Election Day Votes,1835
+13,19,Berrien,I) (Rep,Donald J. Trump,Provisional Votes,10
+13,19,Berrien,I) (Rep,Donald J. Trump,TOTAL VOTES,6419
+13,19,Berrien,Lib,Jo Jorgensen,Absentee by Mail Votes,9
+13,19,Berrien,Lib,Jo Jorgensen,Advanced Voting Votes,25
+13,19,Berrien,Lib,Jo Jorgensen,Election Day Votes,21
+13,19,Berrien,Lib,Jo Jorgensen,Provisional Votes,0
+13,19,Berrien,Lib,Jo Jorgensen,TOTAL VOTES,55
+13,19,Berrien,Dem,Joseph R. Biden,Absentee by Mail Votes,367
+13,19,Berrien,Dem,Joseph R. Biden,Advanced Voting Votes,568
+13,19,Berrien,Dem,Joseph R. Biden,Election Day Votes,333
+13,19,Berrien,Dem,Joseph R. Biden,Provisional Votes,1
+13,19,Berrien,Dem,Joseph R. Biden,TOTAL VOTES,1269
+13,21,Bibb,I) (Rep,Donald J. Trump,Absentee by Mail Votes,5374
+13,21,Bibb,I) (Rep,Donald J. Trump,Advanced Voting Votes,13234
+13,21,Bibb,I) (Rep,Donald J. Trump,Election Day Votes,7921
+13,21,Bibb,I) (Rep,Donald J. Trump,Provisional Votes,54
+13,21,Bibb,I) (Rep,Donald J. Trump,TOTAL VOTES,26583
+13,21,Bibb,Lib,Jo Jorgensen,Absentee by Mail Votes,174
+13,21,Bibb,Lib,Jo Jorgensen,Advanced Voting Votes,272
+13,21,Bibb,Lib,Jo Jorgensen,Election Day Votes,299
+13,21,Bibb,Lib,Jo Jorgensen,Provisional Votes,3
+13,21,Bibb,Lib,Jo Jorgensen,TOTAL VOTES,748
+13,21,Bibb,Dem,Joseph R. Biden,Absentee by Mail Votes,14262
+13,21,Bibb,Dem,Joseph R. Biden,Advanced Voting Votes,20380
+13,21,Bibb,Dem,Joseph R. Biden,Election Day Votes,8702
+13,21,Bibb,Dem,Joseph R. Biden,Provisional Votes,116
+13,21,Bibb,Dem,Joseph R. Biden,TOTAL VOTES,43460
+13,23,Bleckley,I) (Rep,Donald J. Trump,Absentee by Mail Votes,614
+13,23,Bleckley,I) (Rep,Donald J. Trump,Advanced Voting Votes,2770
+13,23,Bleckley,I) (Rep,Donald J. Trump,Election Day Votes,942
+13,23,Bleckley,I) (Rep,Donald J. Trump,Provisional Votes,2
+13,23,Bleckley,I) (Rep,Donald J. Trump,TOTAL VOTES,4328
+13,23,Bleckley,Lib,Jo Jorgensen,Absentee by Mail Votes,10
+13,23,Bleckley,Lib,Jo Jorgensen,Advanced Voting Votes,37
+13,23,Bleckley,Lib,Jo Jorgensen,Election Day Votes,20
+13,23,Bleckley,Lib,Jo Jorgensen,Provisional Votes,0
+13,23,Bleckley,Lib,Jo Jorgensen,TOTAL VOTES,67
+13,23,Bleckley,Dem,Joseph R. Biden,Absentee by Mail Votes,428
+13,23,Bleckley,Dem,Joseph R. Biden,Advanced Voting Votes,588
+13,23,Bleckley,Dem,Joseph R. Biden,Election Day Votes,295
+13,23,Bleckley,Dem,Joseph R. Biden,Provisional Votes,0
+13,23,Bleckley,Dem,Joseph R. Biden,TOTAL VOTES,1311
+13,25,Brantley,I) (Rep,Donald J. Trump,Absentee by Mail Votes,685
+13,25,Brantley,I) (Rep,Donald J. Trump,Advanced Voting Votes,4307
+13,25,Brantley,I) (Rep,Donald J. Trump,Election Day Votes,1992
+13,25,Brantley,I) (Rep,Donald J. Trump,Provisional Votes,7
+13,25,Brantley,I) (Rep,Donald J. Trump,TOTAL VOTES,6991
+13,25,Brantley,Lib,Jo Jorgensen,Absentee by Mail Votes,11
+13,25,Brantley,Lib,Jo Jorgensen,Advanced Voting Votes,21
+13,25,Brantley,Lib,Jo Jorgensen,Election Day Votes,24
+13,25,Brantley,Lib,Jo Jorgensen,Provisional Votes,0
+13,25,Brantley,Lib,Jo Jorgensen,TOTAL VOTES,56
+13,25,Brantley,Dem,Joseph R. Biden,Absentee by Mail Votes,204
+13,25,Brantley,Dem,Joseph R. Biden,Advanced Voting Votes,349
+13,25,Brantley,Dem,Joseph R. Biden,Election Day Votes,145
+13,25,Brantley,Dem,Joseph R. Biden,Provisional Votes,1
+13,25,Brantley,Dem,Joseph R. Biden,TOTAL VOTES,699
+13,27,Brooks,I) (Rep,Donald J. Trump,Absentee by Mail Votes,519
+13,27,Brooks,I) (Rep,Donald J. Trump,Advanced Voting Votes,2312
+13,27,Brooks,I) (Rep,Donald J. Trump,Election Day Votes,1423
+13,27,Brooks,I) (Rep,Donald J. Trump,Provisional Votes,6
+13,27,Brooks,I) (Rep,Donald J. Trump,TOTAL VOTES,4260
+13,27,Brooks,Lib,Jo Jorgensen,Absentee by Mail Votes,9
+13,27,Brooks,Lib,Jo Jorgensen,Advanced Voting Votes,25
+13,27,Brooks,Lib,Jo Jorgensen,Election Day Votes,16
+13,27,Brooks,Lib,Jo Jorgensen,Provisional Votes,0
+13,27,Brooks,Lib,Jo Jorgensen,TOTAL VOTES,50
+13,27,Brooks,Dem,Joseph R. Biden,Absentee by Mail Votes,1115
+13,27,Brooks,Dem,Joseph R. Biden,Advanced Voting Votes,1149
+13,27,Brooks,Dem,Joseph R. Biden,Election Day Votes,522
+13,27,Brooks,Dem,Joseph R. Biden,Provisional Votes,4
+13,27,Brooks,Dem,Joseph R. Biden,TOTAL VOTES,2790
+13,29,Bryan,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1588
+13,29,Bryan,I) (Rep,Donald J. Trump,Advanced Voting Votes,10072
+13,29,Bryan,I) (Rep,Donald J. Trump,Election Day Votes,2579
+13,29,Bryan,I) (Rep,Donald J. Trump,Provisional Votes,5
+13,29,Bryan,I) (Rep,Donald J. Trump,TOTAL VOTES,14244
+13,29,Bryan,Lib,Jo Jorgensen,Absentee by Mail Votes,72
+13,29,Bryan,Lib,Jo Jorgensen,Advanced Voting Votes,177
+13,29,Bryan,Lib,Jo Jorgensen,Election Day Votes,108
+13,29,Bryan,Lib,Jo Jorgensen,Provisional Votes,0
+13,29,Bryan,Lib,Jo Jorgensen,TOTAL VOTES,357
+13,29,Bryan,Dem,Joseph R. Biden,Absentee by Mail Votes,2105
+13,29,Bryan,Dem,Joseph R. Biden,Advanced Voting Votes,3794
+13,29,Bryan,Dem,Joseph R. Biden,Election Day Votes,838
+13,29,Bryan,Dem,Joseph R. Biden,Provisional Votes,2
+13,29,Bryan,Dem,Joseph R. Biden,TOTAL VOTES,6739
+13,31,Bulloch,I) (Rep,Donald J. Trump,Absentee by Mail Votes,2800
+13,31,Bulloch,I) (Rep,Donald J. Trump,Advanced Voting Votes,8910
+13,31,Bulloch,I) (Rep,Donald J. Trump,Election Day Votes,6653
+13,31,Bulloch,I) (Rep,Donald J. Trump,Provisional Votes,23
+13,31,Bulloch,I) (Rep,Donald J. Trump,TOTAL VOTES,18386
+13,31,Bulloch,Lib,Jo Jorgensen,Absentee by Mail Votes,87
+13,31,Bulloch,Lib,Jo Jorgensen,Advanced Voting Votes,175
+13,31,Bulloch,Lib,Jo Jorgensen,Election Day Votes,192
+13,31,Bulloch,Lib,Jo Jorgensen,Provisional Votes,1
+13,31,Bulloch,Lib,Jo Jorgensen,TOTAL VOTES,455
+13,31,Bulloch,Dem,Joseph R. Biden,Absentee by Mail Votes,3530
+13,31,Bulloch,Dem,Joseph R. Biden,Advanced Voting Votes,5263
+13,31,Bulloch,Dem,Joseph R. Biden,Election Day Votes,2415
+13,31,Bulloch,Dem,Joseph R. Biden,Provisional Votes,35
+13,31,Bulloch,Dem,Joseph R. Biden,TOTAL VOTES,11243
+13,33,Burke,I) (Rep,Donald J. Trump,Absentee by Mail Votes,649
+13,33,Burke,I) (Rep,Donald J. Trump,Advanced Voting Votes,2802
+13,33,Burke,I) (Rep,Donald J. Trump,Election Day Votes,1949
+13,33,Burke,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,33,Burke,I) (Rep,Donald J. Trump,TOTAL VOTES,5400
+13,33,Burke,Lib,Jo Jorgensen,Absentee by Mail Votes,14
+13,33,Burke,Lib,Jo Jorgensen,Advanced Voting Votes,36
+13,33,Burke,Lib,Jo Jorgensen,Election Day Votes,25
+13,33,Burke,Lib,Jo Jorgensen,Provisional Votes,0
+13,33,Burke,Lib,Jo Jorgensen,TOTAL VOTES,75
+13,33,Burke,Dem,Joseph R. Biden,Absentee by Mail Votes,1867
+13,33,Burke,Dem,Joseph R. Biden,Advanced Voting Votes,1852
+13,33,Burke,Dem,Joseph R. Biden,Election Day Votes,1490
+13,33,Burke,Dem,Joseph R. Biden,Provisional Votes,0
+13,33,Burke,Dem,Joseph R. Biden,TOTAL VOTES,5209
+13,35,Butts,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1136
+13,35,Butts,I) (Rep,Donald J. Trump,Advanced Voting Votes,6443
+13,35,Butts,I) (Rep,Donald J. Trump,Election Day Votes,824
+13,35,Butts,I) (Rep,Donald J. Trump,Provisional Votes,2
+13,35,Butts,I) (Rep,Donald J. Trump,TOTAL VOTES,8405
+13,35,Butts,Lib,Jo Jorgensen,Absentee by Mail Votes,20
+13,35,Butts,Lib,Jo Jorgensen,Advanced Voting Votes,49
+13,35,Butts,Lib,Jo Jorgensen,Election Day Votes,22
+13,35,Butts,Lib,Jo Jorgensen,Provisional Votes,0
+13,35,Butts,Lib,Jo Jorgensen,TOTAL VOTES,91
+13,35,Butts,Dem,Joseph R. Biden,Absentee by Mail Votes,972
+13,35,Butts,Dem,Joseph R. Biden,Advanced Voting Votes,1923
+13,35,Butts,Dem,Joseph R. Biden,Election Day Votes,376
+13,35,Butts,Dem,Joseph R. Biden,Provisional Votes,1
+13,35,Butts,Dem,Joseph R. Biden,TOTAL VOTES,3272
+13,37,Calhoun,I) (Rep,Donald J. Trump,Absentee by Mail Votes,150
+13,37,Calhoun,I) (Rep,Donald J. Trump,Advanced Voting Votes,494
+13,37,Calhoun,I) (Rep,Donald J. Trump,Election Day Votes,279
+13,37,Calhoun,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,37,Calhoun,I) (Rep,Donald J. Trump,TOTAL VOTES,923
+13,37,Calhoun,Lib,Jo Jorgensen,Absentee by Mail Votes,3
+13,37,Calhoun,Lib,Jo Jorgensen,Advanced Voting Votes,2
+13,37,Calhoun,Lib,Jo Jorgensen,Election Day Votes,6
+13,37,Calhoun,Lib,Jo Jorgensen,Provisional Votes,0
+13,37,Calhoun,Lib,Jo Jorgensen,TOTAL VOTES,11
+13,37,Calhoun,Dem,Joseph R. Biden,Absentee by Mail Votes,436
+13,37,Calhoun,Dem,Joseph R. Biden,Advanced Voting Votes,463
+13,37,Calhoun,Dem,Joseph R. Biden,Election Day Votes,361
+13,37,Calhoun,Dem,Joseph R. Biden,Provisional Votes,0
+13,37,Calhoun,Dem,Joseph R. Biden,TOTAL VOTES,1260
+13,39,Camden,I) (Rep,Donald J. Trump,Absentee by Mail Votes,2161
+13,39,Camden,I) (Rep,Donald J. Trump,Advanced Voting Votes,9465
+13,39,Camden,I) (Rep,Donald J. Trump,Election Day Votes,3621
+13,39,Camden,I) (Rep,Donald J. Trump,Provisional Votes,4
+13,39,Camden,I) (Rep,Donald J. Trump,TOTAL VOTES,15251
+13,39,Camden,Lib,Jo Jorgensen,Absentee by Mail Votes,95
+13,39,Camden,Lib,Jo Jorgensen,Advanced Voting Votes,205
+13,39,Camden,Lib,Jo Jorgensen,Election Day Votes,170
+13,39,Camden,Lib,Jo Jorgensen,Provisional Votes,0
+13,39,Camden,Lib,Jo Jorgensen,TOTAL VOTES,470
+13,39,Camden,Dem,Joseph R. Biden,Absentee by Mail Votes,2777
+13,39,Camden,Dem,Joseph R. Biden,Advanced Voting Votes,4021
+13,39,Camden,Dem,Joseph R. Biden,Election Day Votes,1166
+13,39,Camden,Dem,Joseph R. Biden,Provisional Votes,3
+13,39,Camden,Dem,Joseph R. Biden,TOTAL VOTES,7967
+13,43,Candler,I) (Rep,Donald J. Trump,Absentee by Mail Votes,375
+13,43,Candler,I) (Rep,Donald J. Trump,Advanced Voting Votes,1172
+13,43,Candler,I) (Rep,Donald J. Trump,Election Day Votes,1587
+13,43,Candler,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,43,Candler,I) (Rep,Donald J. Trump,TOTAL VOTES,3134
+13,43,Candler,Lib,Jo Jorgensen,Absentee by Mail Votes,4
+13,43,Candler,Lib,Jo Jorgensen,Advanced Voting Votes,2
+13,43,Candler,Lib,Jo Jorgensen,Election Day Votes,23
+13,43,Candler,Lib,Jo Jorgensen,Provisional Votes,0
+13,43,Candler,Lib,Jo Jorgensen,TOTAL VOTES,29
+13,43,Candler,Dem,Joseph R. Biden,Absentee by Mail Votes,376
+13,43,Candler,Dem,Joseph R. Biden,Advanced Voting Votes,363
+13,43,Candler,Dem,Joseph R. Biden,Election Day Votes,529
+13,43,Candler,Dem,Joseph R. Biden,Provisional Votes,1
+13,43,Candler,Dem,Joseph R. Biden,TOTAL VOTES,1269
+13,45,Carroll,I) (Rep,Donald J. Trump,Absentee by Mail Votes,4699
+13,45,Carroll,I) (Rep,Donald J. Trump,Advanced Voting Votes,21676
+13,45,Carroll,I) (Rep,Donald J. Trump,Election Day Votes,11071
+13,45,Carroll,I) (Rep,Donald J. Trump,Provisional Votes,30
+13,45,Carroll,I) (Rep,Donald J. Trump,TOTAL VOTES,37476
+13,45,Carroll,Lib,Jo Jorgensen,Absentee by Mail Votes,125
+13,45,Carroll,Lib,Jo Jorgensen,Advanced Voting Votes,357
+13,45,Carroll,Lib,Jo Jorgensen,Election Day Votes,278
+13,45,Carroll,Lib,Jo Jorgensen,Provisional Votes,0
+13,45,Carroll,Lib,Jo Jorgensen,TOTAL VOTES,760
+13,45,Carroll,Dem,Joseph R. Biden,Absentee by Mail Votes,4634
+13,45,Carroll,Dem,Joseph R. Biden,Advanced Voting Votes,8582
+13,45,Carroll,Dem,Joseph R. Biden,Election Day Votes,3007
+13,45,Carroll,Dem,Joseph R. Biden,Provisional Votes,15
+13,45,Carroll,Dem,Joseph R. Biden,TOTAL VOTES,16238
+13,47,Catoosa,I) (Rep,Donald J. Trump,Absentee by Mail Votes,2952
+13,47,Catoosa,I) (Rep,Donald J. Trump,Advanced Voting Votes,17025
+13,47,Catoosa,I) (Rep,Donald J. Trump,Election Day Votes,5170
+13,47,Catoosa,I) (Rep,Donald J. Trump,Provisional Votes,20
+13,47,Catoosa,I) (Rep,Donald J. Trump,TOTAL VOTES,25167
+13,47,Catoosa,Lib,Jo Jorgensen,Absentee by Mail Votes,78
+13,47,Catoosa,Lib,Jo Jorgensen,Advanced Voting Votes,236
+13,47,Catoosa,Lib,Jo Jorgensen,Election Day Votes,178
+13,47,Catoosa,Lib,Jo Jorgensen,Provisional Votes,2
+13,47,Catoosa,Lib,Jo Jorgensen,TOTAL VOTES,494
+13,47,Catoosa,Dem,Joseph R. Biden,Absentee by Mail Votes,2130
+13,47,Catoosa,Dem,Joseph R. Biden,Advanced Voting Votes,3823
+13,47,Catoosa,Dem,Joseph R. Biden,Election Day Votes,976
+13,47,Catoosa,Dem,Joseph R. Biden,Provisional Votes,3
+13,47,Catoosa,Dem,Joseph R. Biden,TOTAL VOTES,6932
+13,49,Charlton,I) (Rep,Donald J. Trump,Absentee by Mail Votes,397
+13,49,Charlton,I) (Rep,Donald J. Trump,Advanced Voting Votes,1896
+13,49,Charlton,I) (Rep,Donald J. Trump,Election Day Votes,1124
+13,49,Charlton,I) (Rep,Donald J. Trump,Provisional Votes,2
+13,49,Charlton,I) (Rep,Donald J. Trump,TOTAL VOTES,3419
+13,49,Charlton,Lib,Jo Jorgensen,Absentee by Mail Votes,7
+13,49,Charlton,Lib,Jo Jorgensen,Advanced Voting Votes,20
+13,49,Charlton,Lib,Jo Jorgensen,Election Day Votes,17
+13,49,Charlton,Lib,Jo Jorgensen,Provisional Votes,0
+13,49,Charlton,Lib,Jo Jorgensen,TOTAL VOTES,44
+13,49,Charlton,Dem,Joseph R. Biden,Absentee by Mail Votes,294
+13,49,Charlton,Dem,Joseph R. Biden,Advanced Voting Votes,576
+13,49,Charlton,Dem,Joseph R. Biden,Election Day Votes,233
+13,49,Charlton,Dem,Joseph R. Biden,Provisional Votes,0
+13,49,Charlton,Dem,Joseph R. Biden,TOTAL VOTES,1103
+13,51,Chatham,I) (Rep,Donald J. Trump,Absentee by Mail Votes,11832
+13,51,Chatham,I) (Rep,Donald J. Trump,Advanced Voting Votes,23014
+13,51,Chatham,I) (Rep,Donald J. Trump,Election Day Votes,18346
+13,51,Chatham,I) (Rep,Donald J. Trump,Provisional Votes,96
+13,51,Chatham,I) (Rep,Donald J. Trump,TOTAL VOTES,53288
+13,51,Chatham,Lib,Jo Jorgensen,Absentee by Mail Votes,509
+13,51,Chatham,Lib,Jo Jorgensen,Advanced Voting Votes,519
+13,51,Chatham,Lib,Jo Jorgensen,Election Day Votes,889
+13,51,Chatham,Lib,Jo Jorgensen,Provisional Votes,15
+13,51,Chatham,Lib,Jo Jorgensen,TOTAL VOTES,1932
+13,51,Chatham,Dem,Joseph R. Biden,Absentee by Mail Votes,29152
+13,51,Chatham,Dem,Joseph R. Biden,Advanced Voting Votes,31085
+13,51,Chatham,Dem,Joseph R. Biden,Election Day Votes,17952
+13,51,Chatham,Dem,Joseph R. Biden,Provisional Votes,180
+13,51,Chatham,Dem,Joseph R. Biden,TOTAL VOTES,78369
+13,53,Chattahoochee,I) (Rep,Donald J. Trump,Absentee by Mail Votes,132
+13,53,Chattahoochee,I) (Rep,Donald J. Trump,Advanced Voting Votes,455
+13,53,Chattahoochee,I) (Rep,Donald J. Trump,Election Day Votes,291
+13,53,Chattahoochee,I) (Rep,Donald J. Trump,Provisional Votes,2
+13,53,Chattahoochee,I) (Rep,Donald J. Trump,TOTAL VOTES,880
+13,53,Chattahoochee,Lib,Jo Jorgensen,Absentee by Mail Votes,9
+13,53,Chattahoochee,Lib,Jo Jorgensen,Advanced Voting Votes,8
+13,53,Chattahoochee,Lib,Jo Jorgensen,Election Day Votes,17
+13,53,Chattahoochee,Lib,Jo Jorgensen,Provisional Votes,1
+13,53,Chattahoochee,Lib,Jo Jorgensen,TOTAL VOTES,35
+13,53,Chattahoochee,Dem,Joseph R. Biden,Absentee by Mail Votes,166
+13,53,Chattahoochee,Dem,Joseph R. Biden,Advanced Voting Votes,350
+13,53,Chattahoochee,Dem,Joseph R. Biden,Election Day Votes,150
+13,53,Chattahoochee,Dem,Joseph R. Biden,Provisional Votes,1
+13,53,Chattahoochee,Dem,Joseph R. Biden,TOTAL VOTES,667
+13,55,Chattooga,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1102
+13,55,Chattooga,I) (Rep,Donald J. Trump,Advanced Voting Votes,4492
+13,55,Chattooga,I) (Rep,Donald J. Trump,Election Day Votes,2464
+13,55,Chattooga,I) (Rep,Donald J. Trump,Provisional Votes,6
+13,55,Chattooga,I) (Rep,Donald J. Trump,TOTAL VOTES,8064
+13,55,Chattooga,Lib,Jo Jorgensen,Absentee by Mail Votes,25
+13,55,Chattooga,Lib,Jo Jorgensen,Advanced Voting Votes,57
+13,55,Chattooga,Lib,Jo Jorgensen,Election Day Votes,50
+13,55,Chattooga,Lib,Jo Jorgensen,Provisional Votes,0
+13,55,Chattooga,Lib,Jo Jorgensen,TOTAL VOTES,132
+13,55,Chattooga,Dem,Joseph R. Biden,Absentee by Mail Votes,649
+13,55,Chattooga,Dem,Joseph R. Biden,Advanced Voting Votes,837
+13,55,Chattooga,Dem,Joseph R. Biden,Election Day Votes,366
+13,55,Chattooga,Dem,Joseph R. Biden,Provisional Votes,2
+13,55,Chattooga,Dem,Joseph R. Biden,TOTAL VOTES,1854
+13,57,Cherokee,I) (Rep,Donald J. Trump,Absentee by Mail Votes,19639
+13,57,Cherokee,I) (Rep,Donald J. Trump,Advanced Voting Votes,56171
+13,57,Cherokee,I) (Rep,Donald J. Trump,Election Day Votes,23758
+13,57,Cherokee,I) (Rep,Donald J. Trump,Provisional Votes,19
+13,57,Cherokee,I) (Rep,Donald J. Trump,TOTAL VOTES,99587
+13,57,Cherokee,Lib,Jo Jorgensen,Absentee by Mail Votes,628
+13,57,Cherokee,Lib,Jo Jorgensen,Advanced Voting Votes,899
+13,57,Cherokee,Lib,Jo Jorgensen,Election Day Votes,921
+13,57,Cherokee,Lib,Jo Jorgensen,Provisional Votes,1
+13,57,Cherokee,Lib,Jo Jorgensen,TOTAL VOTES,2449
+13,57,Cherokee,Dem,Joseph R. Biden,Absentee by Mail Votes,17261
+13,57,Cherokee,Dem,Joseph R. Biden,Advanced Voting Votes,18929
+13,57,Cherokee,Dem,Joseph R. Biden,Election Day Votes,6598
+13,57,Cherokee,Dem,Joseph R. Biden,Provisional Votes,6
+13,57,Cherokee,Dem,Joseph R. Biden,TOTAL VOTES,42794
+13,59,Clarke,I) (Rep,Donald J. Trump,Absentee by Mail Votes,4014
+13,59,Clarke,I) (Rep,Donald J. Trump,Advanced Voting Votes,6974
+13,59,Clarke,I) (Rep,Donald J. Trump,Election Day Votes,3409
+13,59,Clarke,I) (Rep,Donald J. Trump,Provisional Votes,15
+13,59,Clarke,I) (Rep,Donald J. Trump,TOTAL VOTES,14412
+13,59,Clarke,Lib,Jo Jorgensen,Absentee by Mail Votes,241
+13,59,Clarke,Lib,Jo Jorgensen,Advanced Voting Votes,325
+13,59,Clarke,Lib,Jo Jorgensen,Election Day Votes,268
+13,59,Clarke,Lib,Jo Jorgensen,Provisional Votes,3
+13,59,Clarke,Lib,Jo Jorgensen,TOTAL VOTES,837
+13,59,Clarke,Dem,Joseph R. Biden,Absentee by Mail Votes,14250
+13,59,Clarke,Dem,Joseph R. Biden,Advanced Voting Votes,16357
+13,59,Clarke,Dem,Joseph R. Biden,Election Day Votes,5323
+13,59,Clarke,Dem,Joseph R. Biden,Provisional Votes,39
+13,59,Clarke,Dem,Joseph R. Biden,TOTAL VOTES,35969
+13,61,Clay,I) (Rep,Donald J. Trump,Absentee by Mail Votes,105
+13,61,Clay,I) (Rep,Donald J. Trump,Advanced Voting Votes,401
+13,61,Clay,I) (Rep,Donald J. Trump,Election Day Votes,131
+13,61,Clay,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,61,Clay,I) (Rep,Donald J. Trump,TOTAL VOTES,637
+13,61,Clay,Lib,Jo Jorgensen,Absentee by Mail Votes,2
+13,61,Clay,Lib,Jo Jorgensen,Advanced Voting Votes,0
+13,61,Clay,Lib,Jo Jorgensen,Election Day Votes,5
+13,61,Clay,Lib,Jo Jorgensen,Provisional Votes,0
+13,61,Clay,Lib,Jo Jorgensen,TOTAL VOTES,7
+13,61,Clay,Dem,Joseph R. Biden,Absentee by Mail Votes,296
+13,61,Clay,Dem,Joseph R. Biden,Advanced Voting Votes,329
+13,61,Clay,Dem,Joseph R. Biden,Election Day Votes,165
+13,61,Clay,Dem,Joseph R. Biden,Provisional Votes,0
+13,61,Clay,Dem,Joseph R. Biden,TOTAL VOTES,790
+13,63,Clayton,I) (Rep,Donald J. Trump,Absentee by Mail Votes,4366
+13,63,Clayton,I) (Rep,Donald J. Trump,Advanced Voting Votes,7988
+13,63,Clayton,I) (Rep,Donald J. Trump,Election Day Votes,3403
+13,63,Clayton,I) (Rep,Donald J. Trump,Provisional Votes,56
+13,63,Clayton,I) (Rep,Donald J. Trump,TOTAL VOTES,15813
+13,63,Clayton,Lib,Jo Jorgensen,Absentee by Mail Votes,312
+13,63,Clayton,Lib,Jo Jorgensen,Advanced Voting Votes,397
+13,63,Clayton,Lib,Jo Jorgensen,Election Day Votes,343
+13,63,Clayton,Lib,Jo Jorgensen,Provisional Votes,3
+13,63,Clayton,Lib,Jo Jorgensen,TOTAL VOTES,1055
+13,63,Clayton,Dem,Joseph R. Biden,Absentee by Mail Votes,27109
+13,63,Clayton,Dem,Joseph R. Biden,Advanced Voting Votes,51347
+13,63,Clayton,Dem,Joseph R. Biden,Election Day Votes,16580
+13,63,Clayton,Dem,Joseph R. Biden,Provisional Votes,440
+13,63,Clayton,Dem,Joseph R. Biden,TOTAL VOTES,95476
+13,65,Clinch,I) (Rep,Donald J. Trump,Absentee by Mail Votes,209
+13,65,Clinch,I) (Rep,Donald J. Trump,Advanced Voting Votes,1277
+13,65,Clinch,I) (Rep,Donald J. Trump,Election Day Votes,618
+13,65,Clinch,I) (Rep,Donald J. Trump,Provisional Votes,1
+13,65,Clinch,I) (Rep,Donald J. Trump,TOTAL VOTES,2105
+13,65,Clinch,Lib,Jo Jorgensen,Absentee by Mail Votes,2
+13,65,Clinch,Lib,Jo Jorgensen,Advanced Voting Votes,8
+13,65,Clinch,Lib,Jo Jorgensen,Election Day Votes,2
+13,65,Clinch,Lib,Jo Jorgensen,Provisional Votes,0
+13,65,Clinch,Lib,Jo Jorgensen,TOTAL VOTES,12
+13,65,Clinch,Dem,Joseph R. Biden,Absentee by Mail Votes,156
+13,65,Clinch,Dem,Joseph R. Biden,Advanced Voting Votes,356
+13,65,Clinch,Dem,Joseph R. Biden,Election Day Votes,235
+13,65,Clinch,Dem,Joseph R. Biden,Provisional Votes,0
+13,65,Clinch,Dem,Joseph R. Biden,TOTAL VOTES,747
+13,67,Cobb,I) (Rep,Donald J. Trump,Absentee by Mail Votes,50764
+13,67,Cobb,I) (Rep,Donald J. Trump,Advanced Voting Votes,76907
+13,67,Cobb,I) (Rep,Donald J. Trump,Election Day Votes,37609
+13,67,Cobb,I) (Rep,Donald J. Trump,Provisional Votes,179
+13,67,Cobb,I) (Rep,Donald J. Trump,TOTAL VOTES,165459
+13,67,Cobb,Lib,Jo Jorgensen,Absentee by Mail Votes,2320
+13,67,Cobb,Lib,Jo Jorgensen,Advanced Voting Votes,1952
+13,67,Cobb,Lib,Jo Jorgensen,Election Day Votes,2157
+13,67,Cobb,Lib,Jo Jorgensen,Provisional Votes,12
+13,67,Cobb,Lib,Jo Jorgensen,TOTAL VOTES,6441
+13,67,Cobb,Dem,Joseph R. Biden,Absentee by Mail Votes,95511
+13,67,Cobb,Dem,Joseph R. Biden,Advanced Voting Votes,95387
+13,67,Cobb,Dem,Joseph R. Biden,Election Day Votes,30599
+13,67,Cobb,Dem,Joseph R. Biden,Provisional Votes,347
+13,67,Cobb,Dem,Joseph R. Biden,TOTAL VOTES,221844
+13,69,Coffee,I) (Rep,Donald J. Trump,Absentee by Mail Votes,917
+13,69,Coffee,I) (Rep,Donald J. Trump,Advanced Voting Votes,7066
+13,69,Coffee,I) (Rep,Donald J. Trump,Election Day Votes,2587
+13,69,Coffee,I) (Rep,Donald J. Trump,Provisional Votes,8
+13,69,Coffee,I) (Rep,Donald J. Trump,TOTAL VOTES,10578
+13,69,Coffee,Lib,Jo Jorgensen,Absentee by Mail Votes,17
+13,69,Coffee,Lib,Jo Jorgensen,Advanced Voting Votes,67
+13,69,Coffee,Lib,Jo Jorgensen,Election Day Votes,41
+13,69,Coffee,Lib,Jo Jorgensen,Provisional Votes,0
+13,69,Coffee,Lib,Jo Jorgensen,TOTAL VOTES,125
+13,69,Coffee,Dem,Joseph R. Biden,Absentee by Mail Votes,995
+13,69,Coffee,Dem,Joseph R. Biden,Advanced Voting Votes,2411
+13,69,Coffee,Dem,Joseph R. Biden,Election Day Votes,1100
+13,69,Coffee,Dem,Joseph R. Biden,Provisional Votes,5
+13,69,Coffee,Dem,Joseph R. Biden,TOTAL VOTES,4511
+13,71,Colquitt,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1365
+13,71,Colquitt,I) (Rep,Donald J. Trump,Advanced Voting Votes,6132
+13,71,Colquitt,I) (Rep,Donald J. Trump,Election Day Votes,4270
+13,71,Colquitt,I) (Rep,Donald J. Trump,Provisional Votes,10
+13,71,Colquitt,I) (Rep,Donald J. Trump,TOTAL VOTES,11777
+13,71,Colquitt,Lib,Jo Jorgensen,Absentee by Mail Votes,20
+13,71,Colquitt,Lib,Jo Jorgensen,Advanced Voting Votes,49
+13,71,Colquitt,Lib,Jo Jorgensen,Election Day Votes,50
+13,71,Colquitt,Lib,Jo Jorgensen,Provisional Votes,0
+13,71,Colquitt,Lib,Jo Jorgensen,TOTAL VOTES,119
+13,71,Colquitt,Dem,Joseph R. Biden,Absentee by Mail Votes,1199
+13,71,Colquitt,Dem,Joseph R. Biden,Advanced Voting Votes,1877
+13,71,Colquitt,Dem,Joseph R. Biden,Election Day Votes,1108
+13,71,Colquitt,Dem,Joseph R. Biden,Provisional Votes,3
+13,71,Colquitt,Dem,Joseph R. Biden,TOTAL VOTES,4187
+13,73,Columbia,I) (Rep,Donald J. Trump,Absentee by Mail Votes,7023
+13,73,Columbia,I) (Rep,Donald J. Trump,Advanced Voting Votes,29643
+13,73,Columbia,I) (Rep,Donald J. Trump,Election Day Votes,13300
+13,73,Columbia,I) (Rep,Donald J. Trump,Provisional Votes,47
+13,73,Columbia,I) (Rep,Donald J. Trump,TOTAL VOTES,50013
+13,73,Columbia,Lib,Jo Jorgensen,Absentee by Mail Votes,241
+13,73,Columbia,Lib,Jo Jorgensen,Advanced Voting Votes,575
+13,73,Columbia,Lib,Jo Jorgensen,Election Day Votes,514
+13,73,Columbia,Lib,Jo Jorgensen,Provisional Votes,0
+13,73,Columbia,Lib,Jo Jorgensen,TOTAL VOTES,1330
+13,73,Columbia,Dem,Joseph R. Biden,Absentee by Mail Votes,9546
+13,73,Columbia,Dem,Joseph R. Biden,Advanced Voting Votes,14648
+13,73,Columbia,Dem,Joseph R. Biden,Election Day Votes,5009
+13,73,Columbia,Dem,Joseph R. Biden,Provisional Votes,33
+13,73,Columbia,Dem,Joseph R. Biden,TOTAL VOTES,29236
+13,75,Cook,I) (Rep,Donald J. Trump,Absentee by Mail Votes,486
+13,75,Cook,I) (Rep,Donald J. Trump,Advanced Voting Votes,3301
+13,75,Cook,I) (Rep,Donald J. Trump,Election Day Votes,1113
+13,75,Cook,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,75,Cook,I) (Rep,Donald J. Trump,TOTAL VOTES,4900
+13,75,Cook,Lib,Jo Jorgensen,Absentee by Mail Votes,14
+13,75,Cook,Lib,Jo Jorgensen,Advanced Voting Votes,36
+13,75,Cook,Lib,Jo Jorgensen,Election Day Votes,26
+13,75,Cook,Lib,Jo Jorgensen,Provisional Votes,0
+13,75,Cook,Lib,Jo Jorgensen,TOTAL VOTES,76
+13,75,Cook,Dem,Joseph R. Biden,Absentee by Mail Votes,512
+13,75,Cook,Dem,Joseph R. Biden,Advanced Voting Votes,1008
+13,75,Cook,Dem,Joseph R. Biden,Election Day Votes,538
+13,75,Cook,Dem,Joseph R. Biden,Provisional Votes,1
+13,75,Cook,Dem,Joseph R. Biden,TOTAL VOTES,2059
+13,77,Coweta,I) (Rep,Donald J. Trump,Absentee by Mail Votes,9400
+13,77,Coweta,I) (Rep,Donald J. Trump,Advanced Voting Votes,23824
+13,77,Coweta,I) (Rep,Donald J. Trump,Election Day Votes,18273
+13,77,Coweta,I) (Rep,Donald J. Trump,Provisional Votes,4
+13,77,Coweta,I) (Rep,Donald J. Trump,TOTAL VOTES,51501
+13,77,Coweta,Lib,Jo Jorgensen,Absentee by Mail Votes,304
+13,77,Coweta,Lib,Jo Jorgensen,Advanced Voting Votes,283
+13,77,Coweta,Lib,Jo Jorgensen,Election Day Votes,498
+13,77,Coweta,Lib,Jo Jorgensen,Provisional Votes,3
+13,77,Coweta,Lib,Jo Jorgensen,TOTAL VOTES,1088
+13,77,Coweta,Dem,Joseph R. Biden,Absentee by Mail Votes,9288
+13,77,Coweta,Dem,Joseph R. Biden,Advanced Voting Votes,9578
+13,77,Coweta,Dem,Joseph R. Biden,Election Day Votes,5330
+13,77,Coweta,Dem,Joseph R. Biden,Provisional Votes,14
+13,77,Coweta,Dem,Joseph R. Biden,TOTAL VOTES,24210
+13,79,Crawford,I) (Rep,Donald J. Trump,Absentee by Mail Votes,562
+13,79,Crawford,I) (Rep,Donald J. Trump,Advanced Voting Votes,2713
+13,79,Crawford,I) (Rep,Donald J. Trump,Election Day Votes,1152
+13,79,Crawford,I) (Rep,Donald J. Trump,Provisional Votes,1
+13,79,Crawford,I) (Rep,Donald J. Trump,TOTAL VOTES,4428
+13,79,Crawford,Lib,Jo Jorgensen,Absentee by Mail Votes,10
+13,79,Crawford,Lib,Jo Jorgensen,Advanced Voting Votes,28
+13,79,Crawford,Lib,Jo Jorgensen,Election Day Votes,21
+13,79,Crawford,Lib,Jo Jorgensen,Provisional Votes,0
+13,79,Crawford,Lib,Jo Jorgensen,TOTAL VOTES,59
+13,79,Crawford,Dem,Joseph R. Biden,Absentee by Mail Votes,524
+13,79,Crawford,Dem,Joseph R. Biden,Advanced Voting Votes,827
+13,79,Crawford,Dem,Joseph R. Biden,Election Day Votes,263
+13,79,Crawford,Dem,Joseph R. Biden,Provisional Votes,1
+13,79,Crawford,Dem,Joseph R. Biden,TOTAL VOTES,1615
+13,81,Crisp,I) (Rep,Donald J. Trump,Absentee by Mail Votes,780
+13,81,Crisp,I) (Rep,Donald J. Trump,Advanced Voting Votes,3227
+13,81,Crisp,I) (Rep,Donald J. Trump,Election Day Votes,977
+13,81,Crisp,I) (Rep,Donald J. Trump,Provisional Votes,3
+13,81,Crisp,I) (Rep,Donald J. Trump,TOTAL VOTES,4987
+13,81,Crisp,Lib,Jo Jorgensen,Absentee by Mail Votes,10
+13,81,Crisp,Lib,Jo Jorgensen,Advanced Voting Votes,33
+13,81,Crisp,Lib,Jo Jorgensen,Election Day Votes,23
+13,81,Crisp,Lib,Jo Jorgensen,Provisional Votes,0
+13,81,Crisp,Lib,Jo Jorgensen,TOTAL VOTES,66
+13,81,Crisp,Dem,Joseph R. Biden,Absentee by Mail Votes,886
+13,81,Crisp,Dem,Joseph R. Biden,Advanced Voting Votes,1527
+13,81,Crisp,Dem,Joseph R. Biden,Election Day Votes,571
+13,81,Crisp,Dem,Joseph R. Biden,Provisional Votes,2
+13,81,Crisp,Dem,Joseph R. Biden,TOTAL VOTES,2986
+13,83,Dade,I) (Rep,Donald J. Trump,Absentee by Mail Votes,635
+13,83,Dade,I) (Rep,Donald J. Trump,Advanced Voting Votes,3414
+13,83,Dade,I) (Rep,Donald J. Trump,Election Day Votes,2010
+13,83,Dade,I) (Rep,Donald J. Trump,Provisional Votes,7
+13,83,Dade,I) (Rep,Donald J. Trump,TOTAL VOTES,6066
+13,83,Dade,Lib,Jo Jorgensen,Absentee by Mail Votes,12
+13,83,Dade,Lib,Jo Jorgensen,Advanced Voting Votes,44
+13,83,Dade,Lib,Jo Jorgensen,Election Day Votes,51
+13,83,Dade,Lib,Jo Jorgensen,Provisional Votes,0
+13,83,Dade,Lib,Jo Jorgensen,TOTAL VOTES,107
+13,83,Dade,Dem,Joseph R. Biden,Absentee by Mail Votes,377
+13,83,Dade,Dem,Joseph R. Biden,Advanced Voting Votes,640
+13,83,Dade,Dem,Joseph R. Biden,Election Day Votes,243
+13,83,Dade,Dem,Joseph R. Biden,Provisional Votes,1
+13,83,Dade,Dem,Joseph R. Biden,TOTAL VOTES,1261
+13,85,Dawson,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1964
+13,85,Dawson,I) (Rep,Donald J. Trump,Advanced Voting Votes,9095
+13,85,Dawson,I) (Rep,Donald J. Trump,Election Day Votes,2336
+13,85,Dawson,I) (Rep,Donald J. Trump,Provisional Votes,3
+13,85,Dawson,I) (Rep,Donald J. Trump,TOTAL VOTES,13398
+13,85,Dawson,Lib,Jo Jorgensen,Absentee by Mail Votes,44
+13,85,Dawson,Lib,Jo Jorgensen,Advanced Voting Votes,90
+13,85,Dawson,Lib,Jo Jorgensen,Election Day Votes,62
+13,85,Dawson,Lib,Jo Jorgensen,Provisional Votes,1
+13,85,Dawson,Lib,Jo Jorgensen,TOTAL VOTES,197
+13,85,Dawson,Dem,Joseph R. Biden,Absentee by Mail Votes,1051
+13,85,Dawson,Dem,Joseph R. Biden,Advanced Voting Votes,1181
+13,85,Dawson,Dem,Joseph R. Biden,Election Day Votes,254
+13,85,Dawson,Dem,Joseph R. Biden,Provisional Votes,0
+13,85,Dawson,Dem,Joseph R. Biden,TOTAL VOTES,2486
+13,87,Decatur,I) (Rep,Donald J. Trump,Absentee by Mail Votes,832
+13,87,Decatur,I) (Rep,Donald J. Trump,Advanced Voting Votes,4451
+13,87,Decatur,I) (Rep,Donald J. Trump,Election Day Votes,1469
+13,87,Decatur,I) (Rep,Donald J. Trump,Provisional Votes,6
+13,87,Decatur,I) (Rep,Donald J. Trump,TOTAL VOTES,6758
+13,87,Decatur,Lib,Jo Jorgensen,Absentee by Mail Votes,23
+13,87,Decatur,Lib,Jo Jorgensen,Advanced Voting Votes,46
+13,87,Decatur,Lib,Jo Jorgensen,Election Day Votes,20
+13,87,Decatur,Lib,Jo Jorgensen,Provisional Votes,0
+13,87,Decatur,Lib,Jo Jorgensen,TOTAL VOTES,89
+13,87,Decatur,Dem,Joseph R. Biden,Absentee by Mail Votes,1472
+13,87,Decatur,Dem,Joseph R. Biden,Advanced Voting Votes,2512
+13,87,Decatur,Dem,Joseph R. Biden,Election Day Votes,788
+13,87,Decatur,Dem,Joseph R. Biden,Provisional Votes,8
+13,87,Decatur,Dem,Joseph R. Biden,TOTAL VOTES,4780
+13,89,DeKalb,I) (Rep,Donald J. Trump,Absentee by Mail Votes,16066
+13,89,DeKalb,I) (Rep,Donald J. Trump,Advanced Voting Votes,29966
+13,89,DeKalb,I) (Rep,Donald J. Trump,Election Day Votes,12126
+13,89,DeKalb,I) (Rep,Donald J. Trump,Provisional Votes,203
+13,89,DeKalb,I) (Rep,Donald J. Trump,TOTAL VOTES,58361
+13,89,DeKalb,Lib,Jo Jorgensen,Absentee by Mail Votes,1354
+13,89,DeKalb,Lib,Jo Jorgensen,Advanced Voting Votes,1707
+13,89,DeKalb,Lib,Jo Jorgensen,Election Day Votes,1122
+13,89,DeKalb,Lib,Jo Jorgensen,Provisional Votes,19
+13,89,DeKalb,Lib,Jo Jorgensen,TOTAL VOTES,4202
+13,89,DeKalb,Dem,Joseph R. Biden,Absentee by Mail Votes,110551
+13,89,DeKalb,Dem,Joseph R. Biden,Advanced Voting Votes,162717
+13,89,DeKalb,Dem,Joseph R. Biden,Election Day Votes,33626
+13,89,DeKalb,Dem,Joseph R. Biden,Provisional Votes,1208
+13,89,DeKalb,Dem,Joseph R. Biden,TOTAL VOTES,308102
+13,91,Dodge,I) (Rep,Donald J. Trump,Absentee by Mail Votes,711
+13,91,Dodge,I) (Rep,Donald J. Trump,Advanced Voting Votes,2793
+13,91,Dodge,I) (Rep,Donald J. Trump,Election Day Votes,2335
+13,91,Dodge,I) (Rep,Donald J. Trump,Provisional Votes,4
+13,91,Dodge,I) (Rep,Donald J. Trump,TOTAL VOTES,5843
+13,91,Dodge,Lib,Jo Jorgensen,Absentee by Mail Votes,10
+13,91,Dodge,Lib,Jo Jorgensen,Advanced Voting Votes,11
+13,91,Dodge,Lib,Jo Jorgensen,Election Day Votes,34
+13,91,Dodge,Lib,Jo Jorgensen,Provisional Votes,1
+13,91,Dodge,Lib,Jo Jorgensen,TOTAL VOTES,56
+13,91,Dodge,Dem,Joseph R. Biden,Absentee by Mail Votes,580
+13,91,Dodge,Dem,Joseph R. Biden,Advanced Voting Votes,1040
+13,91,Dodge,Dem,Joseph R. Biden,Election Day Votes,550
+13,91,Dodge,Dem,Joseph R. Biden,Provisional Votes,1
+13,91,Dodge,Dem,Joseph R. Biden,TOTAL VOTES,2171
+13,93,Dooly,I) (Rep,Donald J. Trump,Absentee by Mail Votes,259
+13,93,Dooly,I) (Rep,Donald J. Trump,Advanced Voting Votes,1431
+13,93,Dooly,I) (Rep,Donald J. Trump,Election Day Votes,466
+13,93,Dooly,I) (Rep,Donald J. Trump,Provisional Votes,3
+13,93,Dooly,I) (Rep,Donald J. Trump,TOTAL VOTES,2159
+13,93,Dooly,Lib,Jo Jorgensen,Absentee by Mail Votes,7
+13,93,Dooly,Lib,Jo Jorgensen,Advanced Voting Votes,18
+13,93,Dooly,Lib,Jo Jorgensen,Election Day Votes,10
+13,93,Dooly,Lib,Jo Jorgensen,Provisional Votes,0
+13,93,Dooly,Lib,Jo Jorgensen,TOTAL VOTES,35
+13,93,Dooly,Dem,Joseph R. Biden,Absentee by Mail Votes,476
+13,93,Dooly,Dem,Joseph R. Biden,Advanced Voting Votes,951
+13,93,Dooly,Dem,Joseph R. Biden,Election Day Votes,482
+13,93,Dooly,Dem,Joseph R. Biden,Provisional Votes,2
+13,93,Dooly,Dem,Joseph R. Biden,TOTAL VOTES,1911
+13,95,Dougherty,I) (Rep,Donald J. Trump,Absentee by Mail Votes,2350
+13,95,Dougherty,I) (Rep,Donald J. Trump,Advanced Voting Votes,3818
+13,95,Dougherty,I) (Rep,Donald J. Trump,Election Day Votes,4259
+13,95,Dougherty,I) (Rep,Donald J. Trump,Provisional Votes,22
+13,95,Dougherty,I) (Rep,Donald J. Trump,TOTAL VOTES,10449
+13,95,Dougherty,Lib,Jo Jorgensen,Absentee by Mail Votes,70
+13,95,Dougherty,Lib,Jo Jorgensen,Advanced Voting Votes,74
+13,95,Dougherty,Lib,Jo Jorgensen,Election Day Votes,133
+13,95,Dougherty,Lib,Jo Jorgensen,Provisional Votes,3
+13,95,Dougherty,Lib,Jo Jorgensen,TOTAL VOTES,280
+13,95,Dougherty,Dem,Joseph R. Biden,Absentee by Mail Votes,8054
+13,95,Dougherty,Dem,Joseph R. Biden,Advanced Voting Votes,9124
+13,95,Dougherty,Dem,Joseph R. Biden,Election Day Votes,7317
+13,95,Dougherty,Dem,Joseph R. Biden,Provisional Votes,84
+13,95,Dougherty,Dem,Joseph R. Biden,TOTAL VOTES,24579
+13,97,Douglas,I) (Rep,Donald J. Trump,Absentee by Mail Votes,5434
+13,97,Douglas,I) (Rep,Donald J. Trump,Advanced Voting Votes,15139
+13,97,Douglas,I) (Rep,Donald J. Trump,Election Day Votes,4735
+13,97,Douglas,I) (Rep,Donald J. Trump,Provisional Votes,15
+13,97,Douglas,I) (Rep,Donald J. Trump,TOTAL VOTES,25323
+13,97,Douglas,Lib,Jo Jorgensen,Absentee by Mail Votes,227
+13,97,Douglas,Lib,Jo Jorgensen,Advanced Voting Votes,349
+13,97,Douglas,Lib,Jo Jorgensen,Election Day Votes,252
+13,97,Douglas,Lib,Jo Jorgensen,Provisional Votes,2
+13,97,Douglas,Lib,Jo Jorgensen,TOTAL VOTES,830
+13,97,Douglas,Dem,Joseph R. Biden,Absentee by Mail Votes,13998
+13,97,Douglas,Dem,Joseph R. Biden,Advanced Voting Votes,22804
+13,97,Douglas,Dem,Joseph R. Biden,Election Day Votes,5807
+13,97,Douglas,Dem,Joseph R. Biden,Provisional Votes,44
+13,97,Douglas,Dem,Joseph R. Biden,TOTAL VOTES,42653
+13,99,Early,I) (Rep,Donald J. Trump,Absentee by Mail Votes,416
+13,99,Early,I) (Rep,Donald J. Trump,Advanced Voting Votes,1504
+13,99,Early,I) (Rep,Donald J. Trump,Election Day Votes,799
+13,99,Early,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,99,Early,I) (Rep,Donald J. Trump,TOTAL VOTES,2719
+13,99,Early,Lib,Jo Jorgensen,Absentee by Mail Votes,6
+13,99,Early,Lib,Jo Jorgensen,Advanced Voting Votes,15
+13,99,Early,Lib,Jo Jorgensen,Election Day Votes,7
+13,99,Early,Lib,Jo Jorgensen,Provisional Votes,0
+13,99,Early,Lib,Jo Jorgensen,TOTAL VOTES,28
+13,99,Early,Dem,Joseph R. Biden,Absentee by Mail Votes,684
+13,99,Early,Dem,Joseph R. Biden,Advanced Voting Votes,1107
+13,99,Early,Dem,Joseph R. Biden,Election Day Votes,646
+13,99,Early,Dem,Joseph R. Biden,Provisional Votes,0
+13,99,Early,Dem,Joseph R. Biden,TOTAL VOTES,2437
+13,101,Echols,I) (Rep,Donald J. Trump,Absentee by Mail Votes,121
+13,101,Echols,I) (Rep,Donald J. Trump,Advanced Voting Votes,909
+13,101,Echols,I) (Rep,Donald J. Trump,Election Day Votes,226
+13,101,Echols,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,101,Echols,I) (Rep,Donald J. Trump,TOTAL VOTES,1256
+13,101,Echols,Lib,Jo Jorgensen,Absentee by Mail Votes,3
+13,101,Echols,Lib,Jo Jorgensen,Advanced Voting Votes,11
+13,101,Echols,Lib,Jo Jorgensen,Election Day Votes,4
+13,101,Echols,Lib,Jo Jorgensen,Provisional Votes,0
+13,101,Echols,Lib,Jo Jorgensen,TOTAL VOTES,18
+13,101,Echols,Dem,Joseph R. Biden,Absentee by Mail Votes,32
+13,101,Echols,Dem,Joseph R. Biden,Advanced Voting Votes,102
+13,101,Echols,Dem,Joseph R. Biden,Election Day Votes,33
+13,101,Echols,Dem,Joseph R. Biden,Provisional Votes,0
+13,101,Echols,Dem,Joseph R. Biden,TOTAL VOTES,167
+13,103,Effingham,I) (Rep,Donald J. Trump,Absentee by Mail Votes,2520
+13,103,Effingham,I) (Rep,Donald J. Trump,Advanced Voting Votes,13471
+13,103,Effingham,I) (Rep,Donald J. Trump,Election Day Votes,7350
+13,103,Effingham,I) (Rep,Donald J. Trump,Provisional Votes,17
+13,103,Effingham,I) (Rep,Donald J. Trump,TOTAL VOTES,23358
+13,103,Effingham,Lib,Jo Jorgensen,Absentee by Mail Votes,92
+13,103,Effingham,Lib,Jo Jorgensen,Advanced Voting Votes,167
+13,103,Effingham,Lib,Jo Jorgensen,Election Day Votes,233
+13,103,Effingham,Lib,Jo Jorgensen,Provisional Votes,0
+13,103,Effingham,Lib,Jo Jorgensen,TOTAL VOTES,492
+13,103,Effingham,Dem,Joseph R. Biden,Absentee by Mail Votes,2333
+13,103,Effingham,Dem,Joseph R. Biden,Advanced Voting Votes,3623
+13,103,Effingham,Dem,Joseph R. Biden,Election Day Votes,1752
+13,103,Effingham,Dem,Joseph R. Biden,Provisional Votes,12
+13,103,Effingham,Dem,Joseph R. Biden,TOTAL VOTES,7720
+13,105,Elbert,I) (Rep,Donald J. Trump,Absentee by Mail Votes,981
+13,105,Elbert,I) (Rep,Donald J. Trump,Advanced Voting Votes,3408
+13,105,Elbert,I) (Rep,Donald J. Trump,Election Day Votes,1837
+13,105,Elbert,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,105,Elbert,I) (Rep,Donald J. Trump,TOTAL VOTES,6226
+13,105,Elbert,Lib,Jo Jorgensen,Absentee by Mail Votes,13
+13,105,Elbert,Lib,Jo Jorgensen,Advanced Voting Votes,23
+13,105,Elbert,Lib,Jo Jorgensen,Election Day Votes,30
+13,105,Elbert,Lib,Jo Jorgensen,Provisional Votes,0
+13,105,Elbert,Lib,Jo Jorgensen,TOTAL VOTES,66
+13,105,Elbert,Dem,Joseph R. Biden,Absentee by Mail Votes,1082
+13,105,Elbert,Dem,Joseph R. Biden,Advanced Voting Votes,1268
+13,105,Elbert,Dem,Joseph R. Biden,Election Day Votes,529
+13,105,Elbert,Dem,Joseph R. Biden,Provisional Votes,0
+13,105,Elbert,Dem,Joseph R. Biden,TOTAL VOTES,2879
+13,107,Emanuel,I) (Rep,Donald J. Trump,Absentee by Mail Votes,896
+13,107,Emanuel,I) (Rep,Donald J. Trump,Advanced Voting Votes,3126
+13,107,Emanuel,I) (Rep,Donald J. Trump,Election Day Votes,2528
+13,107,Emanuel,I) (Rep,Donald J. Trump,Provisional Votes,1
+13,107,Emanuel,I) (Rep,Donald J. Trump,TOTAL VOTES,6551
+13,107,Emanuel,Lib,Jo Jorgensen,Absentee by Mail Votes,7
+13,107,Emanuel,Lib,Jo Jorgensen,Advanced Voting Votes,22
+13,107,Emanuel,Lib,Jo Jorgensen,Election Day Votes,36
+13,107,Emanuel,Lib,Jo Jorgensen,Provisional Votes,1
+13,107,Emanuel,Lib,Jo Jorgensen,TOTAL VOTES,66
+13,107,Emanuel,Dem,Joseph R. Biden,Absentee by Mail Votes,808
+13,107,Emanuel,Dem,Joseph R. Biden,Advanced Voting Votes,1234
+13,107,Emanuel,Dem,Joseph R. Biden,Election Day Votes,842
+13,107,Emanuel,Dem,Joseph R. Biden,Provisional Votes,0
+13,107,Emanuel,Dem,Joseph R. Biden,TOTAL VOTES,2884
+13,109,Evans,I) (Rep,Donald J. Trump,Absentee by Mail Votes,491
+13,109,Evans,I) (Rep,Donald J. Trump,Advanced Voting Votes,1926
+13,109,Evans,I) (Rep,Donald J. Trump,Election Day Votes,471
+13,109,Evans,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,109,Evans,I) (Rep,Donald J. Trump,TOTAL VOTES,2888
+13,109,Evans,Lib,Jo Jorgensen,Absentee by Mail Votes,12
+13,109,Evans,Lib,Jo Jorgensen,Advanced Voting Votes,11
+13,109,Evans,Lib,Jo Jorgensen,Election Day Votes,12
+13,109,Evans,Lib,Jo Jorgensen,Provisional Votes,0
+13,109,Evans,Lib,Jo Jorgensen,TOTAL VOTES,35
+13,109,Evans,Dem,Joseph R. Biden,Absentee by Mail Votes,347
+13,109,Evans,Dem,Joseph R. Biden,Advanced Voting Votes,741
+13,109,Evans,Dem,Joseph R. Biden,Election Day Votes,236
+13,109,Evans,Dem,Joseph R. Biden,Provisional Votes,0
+13,109,Evans,Dem,Joseph R. Biden,TOTAL VOTES,1324
+13,111,Fannin,I) (Rep,Donald J. Trump,Absentee by Mail Votes,2253
+13,111,Fannin,I) (Rep,Donald J. Trump,Advanced Voting Votes,5730
+13,111,Fannin,I) (Rep,Donald J. Trump,Election Day Votes,4163
+13,111,Fannin,I) (Rep,Donald J. Trump,Provisional Votes,23
+13,111,Fannin,I) (Rep,Donald J. Trump,TOTAL VOTES,12169
+13,111,Fannin,Lib,Jo Jorgensen,Absentee by Mail Votes,32
+13,111,Fannin,Lib,Jo Jorgensen,Advanced Voting Votes,35
+13,111,Fannin,Lib,Jo Jorgensen,Election Day Votes,43
+13,111,Fannin,Lib,Jo Jorgensen,Provisional Votes,0
+13,111,Fannin,Lib,Jo Jorgensen,TOTAL VOTES,110
+13,111,Fannin,Dem,Joseph R. Biden,Absentee by Mail Votes,1159
+13,111,Fannin,Dem,Joseph R. Biden,Advanced Voting Votes,1028
+13,111,Fannin,Dem,Joseph R. Biden,Election Day Votes,384
+13,111,Fannin,Dem,Joseph R. Biden,Provisional Votes,0
+13,111,Fannin,Dem,Joseph R. Biden,TOTAL VOTES,2571
+13,113,Fayette,I) (Rep,Donald J. Trump,Absentee by Mail Votes,7379
+13,113,Fayette,I) (Rep,Donald J. Trump,Advanced Voting Votes,22585
+13,113,Fayette,I) (Rep,Donald J. Trump,Election Day Votes,6352
+13,113,Fayette,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,113,Fayette,I) (Rep,Donald J. Trump,TOTAL VOTES,36316
+13,113,Fayette,Lib,Jo Jorgensen,Absentee by Mail Votes,232
+13,113,Fayette,Lib,Jo Jorgensen,Advanced Voting Votes,420
+13,113,Fayette,Lib,Jo Jorgensen,Election Day Votes,279
+13,113,Fayette,Lib,Jo Jorgensen,Provisional Votes,0
+13,113,Fayette,Lib,Jo Jorgensen,TOTAL VOTES,931
+13,113,Fayette,Dem,Joseph R. Biden,Absentee by Mail Votes,11148
+13,113,Fayette,Dem,Joseph R. Biden,Advanced Voting Votes,17315
+13,113,Fayette,Dem,Joseph R. Biden,Election Day Votes,3400
+13,113,Fayette,Dem,Joseph R. Biden,Provisional Votes,0
+13,113,Fayette,Dem,Joseph R. Biden,TOTAL VOTES,31863
+13,115,Floyd,I) (Rep,Donald J. Trump,Absentee by Mail Votes,4436
+13,115,Floyd,I) (Rep,Donald J. Trump,Advanced Voting Votes,14612
+13,115,Floyd,I) (Rep,Donald J. Trump,Election Day Votes,7897
+13,115,Floyd,I) (Rep,Donald J. Trump,Provisional Votes,114
+13,115,Floyd,I) (Rep,Donald J. Trump,TOTAL VOTES,27059
+13,115,Floyd,Lib,Jo Jorgensen,Absentee by Mail Votes,98
+13,115,Floyd,Lib,Jo Jorgensen,Advanced Voting Votes,199
+13,115,Floyd,Lib,Jo Jorgensen,Election Day Votes,199
+13,115,Floyd,Lib,Jo Jorgensen,Provisional Votes,0
+13,115,Floyd,Lib,Jo Jorgensen,TOTAL VOTES,496
+13,115,Floyd,Dem,Joseph R. Biden,Absentee by Mail Votes,3976
+13,115,Floyd,Dem,Joseph R. Biden,Advanced Voting Votes,4806
+13,115,Floyd,Dem,Joseph R. Biden,Election Day Votes,2154
+13,115,Floyd,Dem,Joseph R. Biden,Provisional Votes,23
+13,115,Floyd,Dem,Joseph R. Biden,TOTAL VOTES,10959
+13,117,Forsyth,I) (Rep,Donald J. Trump,Absentee by Mail Votes,14612
+13,117,Forsyth,I) (Rep,Donald J. Trump,Advanced Voting Votes,60739
+13,117,Forsyth,I) (Rep,Donald J. Trump,Election Day Votes,9740
+13,117,Forsyth,I) (Rep,Donald J. Trump,Provisional Votes,31
+13,117,Forsyth,I) (Rep,Donald J. Trump,TOTAL VOTES,85122
+13,117,Forsyth,Lib,Jo Jorgensen,Absentee by Mail Votes,477
+13,117,Forsyth,Lib,Jo Jorgensen,Advanced Voting Votes,1087
+13,117,Forsyth,Lib,Jo Jorgensen,Election Day Votes,415
+13,117,Forsyth,Lib,Jo Jorgensen,Provisional Votes,1
+13,117,Forsyth,Lib,Jo Jorgensen,TOTAL VOTES,1980
+13,117,Forsyth,Dem,Joseph R. Biden,Absentee by Mail Votes,15682
+13,117,Forsyth,Dem,Joseph R. Biden,Advanced Voting Votes,23125
+13,117,Forsyth,Dem,Joseph R. Biden,Election Day Votes,3375
+13,117,Forsyth,Dem,Joseph R. Biden,Provisional Votes,21
+13,117,Forsyth,Dem,Joseph R. Biden,TOTAL VOTES,42203
+13,119,Franklin,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1404
+13,119,Franklin,I) (Rep,Donald J. Trump,Advanced Voting Votes,5364
+13,119,Franklin,I) (Rep,Donald J. Trump,Election Day Votes,2299
+13,119,Franklin,I) (Rep,Donald J. Trump,Provisional Votes,2
+13,119,Franklin,I) (Rep,Donald J. Trump,TOTAL VOTES,9069
+13,119,Franklin,Lib,Jo Jorgensen,Absentee by Mail Votes,25
+13,119,Franklin,Lib,Jo Jorgensen,Advanced Voting Votes,47
+13,119,Franklin,Lib,Jo Jorgensen,Election Day Votes,31
+13,119,Franklin,Lib,Jo Jorgensen,Provisional Votes,0
+13,119,Franklin,Lib,Jo Jorgensen,TOTAL VOTES,103
+13,119,Franklin,Dem,Joseph R. Biden,Absentee by Mail Votes,598
+13,119,Franklin,Dem,Joseph R. Biden,Advanced Voting Votes,647
+13,119,Franklin,Dem,Joseph R. Biden,Election Day Votes,348
+13,119,Franklin,Dem,Joseph R. Biden,Provisional Votes,0
+13,119,Franklin,Dem,Joseph R. Biden,TOTAL VOTES,1593
+13,121,Fulton,I) (Rep,Donald J. Trump,Absentee by Mail Votes,29479
+13,121,Fulton,I) (Rep,Donald J. Trump,Advanced Voting Votes,87071
+13,121,Fulton,I) (Rep,Donald J. Trump,Election Day Votes,19250
+13,121,Fulton,I) (Rep,Donald J. Trump,Provisional Votes,916
+13,121,Fulton,I) (Rep,Donald J. Trump,TOTAL VOTES,136716
+13,121,Fulton,Lib,Jo Jorgensen,Absentee by Mail Votes,1727
+13,121,Fulton,Lib,Jo Jorgensen,Advanced Voting Votes,2994
+13,121,Fulton,Lib,Jo Jorgensen,Election Day Votes,1422
+13,121,Fulton,Lib,Jo Jorgensen,Provisional Votes,96
+13,121,Fulton,Lib,Jo Jorgensen,TOTAL VOTES,6239
+13,121,Fulton,Dem,Joseph R. Biden,Absentee by Mail Votes,115788
+13,121,Fulton,Dem,Joseph R. Biden,Advanced Voting Votes,223614
+13,121,Fulton,Dem,Joseph R. Biden,Election Day Votes,37168
+13,121,Fulton,Dem,Joseph R. Biden,Provisional Votes,2525
+13,121,Fulton,Dem,Joseph R. Biden,TOTAL VOTES,379095
+13,123,Gilmer,I) (Rep,Donald J. Trump,Absentee by Mail Votes,2183
+13,123,Gilmer,I) (Rep,Donald J. Trump,Advanced Voting Votes,6863
+13,123,Gilmer,I) (Rep,Donald J. Trump,Election Day Votes,4371
+13,123,Gilmer,I) (Rep,Donald J. Trump,Provisional Votes,12
+13,123,Gilmer,I) (Rep,Donald J. Trump,TOTAL VOTES,13429
+13,123,Gilmer,Lib,Jo Jorgensen,Absentee by Mail Votes,35
+13,123,Gilmer,Lib,Jo Jorgensen,Advanced Voting Votes,64
+13,123,Gilmer,Lib,Jo Jorgensen,Election Day Votes,64
+13,123,Gilmer,Lib,Jo Jorgensen,Provisional Votes,1
+13,123,Gilmer,Lib,Jo Jorgensen,TOTAL VOTES,164
+13,123,Gilmer,Dem,Joseph R. Biden,Absentee by Mail Votes,1270
+13,123,Gilmer,Dem,Joseph R. Biden,Advanced Voting Votes,1209
+13,123,Gilmer,Dem,Joseph R. Biden,Election Day Votes,453
+13,123,Gilmer,Dem,Joseph R. Biden,Provisional Votes,0
+13,123,Gilmer,Dem,Joseph R. Biden,TOTAL VOTES,2932
+13,125,Glascock,I) (Rep,Donald J. Trump,Absentee by Mail Votes,205
+13,125,Glascock,I) (Rep,Donald J. Trump,Advanced Voting Votes,795
+13,125,Glascock,I) (Rep,Donald J. Trump,Election Day Votes,403
+13,125,Glascock,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,125,Glascock,I) (Rep,Donald J. Trump,TOTAL VOTES,1403
+13,125,Glascock,Lib,Jo Jorgensen,Absentee by Mail Votes,1
+13,125,Glascock,Lib,Jo Jorgensen,Advanced Voting Votes,4
+13,125,Glascock,Lib,Jo Jorgensen,Election Day Votes,3
+13,125,Glascock,Lib,Jo Jorgensen,Provisional Votes,0
+13,125,Glascock,Lib,Jo Jorgensen,TOTAL VOTES,8
+13,125,Glascock,Dem,Joseph R. Biden,Absentee by Mail Votes,53
+13,125,Glascock,Dem,Joseph R. Biden,Advanced Voting Votes,62
+13,125,Glascock,Dem,Joseph R. Biden,Election Day Votes,40
+13,125,Glascock,Dem,Joseph R. Biden,Provisional Votes,0
+13,125,Glascock,Dem,Joseph R. Biden,TOTAL VOTES,155
+13,127,Glynn,I) (Rep,Donald J. Trump,Absentee by Mail Votes,4388
+13,127,Glynn,I) (Rep,Donald J. Trump,Advanced Voting Votes,16492
+13,127,Glynn,I) (Rep,Donald J. Trump,Election Day Votes,4701
+13,127,Glynn,I) (Rep,Donald J. Trump,Provisional Votes,35
+13,127,Glynn,I) (Rep,Donald J. Trump,TOTAL VOTES,25616
+13,127,Glynn,Lib,Jo Jorgensen,Absentee by Mail Votes,105
+13,127,Glynn,Lib,Jo Jorgensen,Advanced Voting Votes,234
+13,127,Glynn,Lib,Jo Jorgensen,Election Day Votes,149
+13,127,Glynn,Lib,Jo Jorgensen,Provisional Votes,1
+13,127,Glynn,Lib,Jo Jorgensen,TOTAL VOTES,489
+13,127,Glynn,Dem,Joseph R. Biden,Absentee by Mail Votes,5735
+13,127,Glynn,Dem,Joseph R. Biden,Advanced Voting Votes,7969
+13,127,Glynn,Dem,Joseph R. Biden,Election Day Votes,2153
+13,127,Glynn,Dem,Joseph R. Biden,Provisional Votes,22
+13,127,Glynn,Dem,Joseph R. Biden,TOTAL VOTES,15879
+13,129,Gordon,I) (Rep,Donald J. Trump,Absentee by Mail Votes,2538
+13,129,Gordon,I) (Rep,Donald J. Trump,Advanced Voting Votes,9866
+13,129,Gordon,I) (Rep,Donald J. Trump,Election Day Votes,6986
+13,129,Gordon,I) (Rep,Donald J. Trump,Provisional Votes,15
+13,129,Gordon,I) (Rep,Donald J. Trump,TOTAL VOTES,19405
+13,129,Gordon,Lib,Jo Jorgensen,Absentee by Mail Votes,51
+13,129,Gordon,Lib,Jo Jorgensen,Advanced Voting Votes,86
+13,129,Gordon,Lib,Jo Jorgensen,Election Day Votes,107
+13,129,Gordon,Lib,Jo Jorgensen,Provisional Votes,0
+13,129,Gordon,Lib,Jo Jorgensen,TOTAL VOTES,244
+13,129,Gordon,Dem,Joseph R. Biden,Absentee by Mail Votes,1464
+13,129,Gordon,Dem,Joseph R. Biden,Advanced Voting Votes,1916
+13,129,Gordon,Dem,Joseph R. Biden,Election Day Votes,1003
+13,129,Gordon,Dem,Joseph R. Biden,Provisional Votes,1
+13,129,Gordon,Dem,Joseph R. Biden,TOTAL VOTES,4384
+13,131,Grady,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1103
+13,131,Grady,I) (Rep,Donald J. Trump,Advanced Voting Votes,3896
+13,131,Grady,I) (Rep,Donald J. Trump,Election Day Votes,2028
+13,131,Grady,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,131,Grady,I) (Rep,Donald J. Trump,TOTAL VOTES,7027
+13,131,Grady,Lib,Jo Jorgensen,Absentee by Mail Votes,11
+13,131,Grady,Lib,Jo Jorgensen,Advanced Voting Votes,18
+13,131,Grady,Lib,Jo Jorgensen,Election Day Votes,25
+13,131,Grady,Lib,Jo Jorgensen,Provisional Votes,0
+13,131,Grady,Lib,Jo Jorgensen,TOTAL VOTES,54
+13,131,Grady,Dem,Joseph R. Biden,Absentee by Mail Votes,1112
+13,131,Grady,Dem,Joseph R. Biden,Advanced Voting Votes,1861
+13,131,Grady,Dem,Joseph R. Biden,Election Day Votes,635
+13,131,Grady,Dem,Joseph R. Biden,Provisional Votes,0
+13,131,Grady,Dem,Joseph R. Biden,TOTAL VOTES,3608
+13,133,Greene,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1275
+13,133,Greene,I) (Rep,Donald J. Trump,Advanced Voting Votes,4947
+13,133,Greene,I) (Rep,Donald J. Trump,Election Day Votes,844
+13,133,Greene,I) (Rep,Donald J. Trump,Provisional Votes,2
+13,133,Greene,I) (Rep,Donald J. Trump,TOTAL VOTES,7068
+13,133,Greene,Lib,Jo Jorgensen,Absentee by Mail Votes,19
+13,133,Greene,Lib,Jo Jorgensen,Advanced Voting Votes,51
+13,133,Greene,Lib,Jo Jorgensen,Election Day Votes,21
+13,133,Greene,Lib,Jo Jorgensen,Provisional Votes,0
+13,133,Greene,Lib,Jo Jorgensen,TOTAL VOTES,91
+13,133,Greene,Dem,Joseph R. Biden,Absentee by Mail Votes,1532
+13,133,Greene,Dem,Joseph R. Biden,Advanced Voting Votes,1965
+13,133,Greene,Dem,Joseph R. Biden,Election Day Votes,583
+13,133,Greene,Dem,Joseph R. Biden,Provisional Votes,8
+13,133,Greene,Dem,Joseph R. Biden,TOTAL VOTES,4088
+13,135,Gwinnett,I) (Rep,Donald J. Trump,Absentee by Mail Votes,40396
+13,135,Gwinnett,I) (Rep,Donald J. Trump,Advanced Voting Votes,90472
+13,135,Gwinnett,I) (Rep,Donald J. Trump,Election Day Votes,35271
+13,135,Gwinnett,I) (Rep,Donald J. Trump,Provisional Votes,274
+13,135,Gwinnett,I) (Rep,Donald J. Trump,TOTAL VOTES,166413
+13,135,Gwinnett,Lib,Jo Jorgensen,Absentee by Mail Votes,1679
+13,135,Gwinnett,Lib,Jo Jorgensen,Advanced Voting Votes,2186
+13,135,Gwinnett,Lib,Jo Jorgensen,Election Day Votes,1742
+13,135,Gwinnett,Lib,Jo Jorgensen,Provisional Votes,18
+13,135,Gwinnett,Lib,Jo Jorgensen,TOTAL VOTES,5625
+13,135,Gwinnett,Dem,Joseph R. Biden,Absentee by Mail Votes,81502
+13,135,Gwinnett,Dem,Joseph R. Biden,Advanced Voting Votes,124125
+13,135,Gwinnett,Dem,Joseph R. Biden,Election Day Votes,35793
+13,135,Gwinnett,Dem,Joseph R. Biden,Provisional Votes,407
+13,135,Gwinnett,Dem,Joseph R. Biden,TOTAL VOTES,241827
+13,137,Habersham,I) (Rep,Donald J. Trump,Absentee by Mail Votes,2905
+13,137,Habersham,I) (Rep,Donald J. Trump,Advanced Voting Votes,11083
+13,137,Habersham,I) (Rep,Donald J. Trump,Election Day Votes,2628
+13,137,Habersham,I) (Rep,Donald J. Trump,Provisional Votes,21
+13,137,Habersham,I) (Rep,Donald J. Trump,TOTAL VOTES,16637
+13,137,Habersham,Lib,Jo Jorgensen,Absentee by Mail Votes,42
+13,137,Habersham,Lib,Jo Jorgensen,Advanced Voting Votes,126
+13,137,Habersham,Lib,Jo Jorgensen,Election Day Votes,64
+13,137,Habersham,Lib,Jo Jorgensen,Provisional Votes,0
+13,137,Habersham,Lib,Jo Jorgensen,TOTAL VOTES,232
+13,137,Habersham,Dem,Joseph R. Biden,Absentee by Mail Votes,1315
+13,137,Habersham,Dem,Joseph R. Biden,Advanced Voting Votes,1733
+13,137,Habersham,Dem,Joseph R. Biden,Election Day Votes,511
+13,137,Habersham,Dem,Joseph R. Biden,Provisional Votes,4
+13,137,Habersham,Dem,Joseph R. Biden,TOTAL VOTES,3563
+13,139,Hall,I) (Rep,Donald J. Trump,Absentee by Mail Votes,11995
+13,139,Hall,I) (Rep,Donald J. Trump,Advanced Voting Votes,40999
+13,139,Hall,I) (Rep,Donald J. Trump,Election Day Votes,11111
+13,139,Hall,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,139,Hall,I) (Rep,Donald J. Trump,TOTAL VOTES,64105
+13,139,Hall,Lib,Jo Jorgensen,Absentee by Mail Votes,304
+13,139,Hall,Lib,Jo Jorgensen,Advanced Voting Votes,611
+13,139,Hall,Lib,Jo Jorgensen,Election Day Votes,402
+13,139,Hall,Lib,Jo Jorgensen,Provisional Votes,0
+13,139,Hall,Lib,Jo Jorgensen,TOTAL VOTES,1317
+13,139,Hall,Dem,Joseph R. Biden,Absentee by Mail Votes,9204
+13,139,Hall,Dem,Joseph R. Biden,Advanced Voting Votes,11951
+13,139,Hall,Dem,Joseph R. Biden,Election Day Votes,3847
+13,139,Hall,Dem,Joseph R. Biden,Provisional Votes,0
+13,139,Hall,Dem,Joseph R. Biden,TOTAL VOTES,25002
+13,141,Hancock,I) (Rep,Donald J. Trump,Absentee by Mail Votes,244
+13,141,Hancock,I) (Rep,Donald J. Trump,Advanced Voting Votes,641
+13,141,Hancock,I) (Rep,Donald J. Trump,Election Day Votes,274
+13,141,Hancock,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,141,Hancock,I) (Rep,Donald J. Trump,TOTAL VOTES,1159
+13,141,Hancock,Lib,Jo Jorgensen,Absentee by Mail Votes,7
+13,141,Hancock,Lib,Jo Jorgensen,Advanced Voting Votes,4
+13,141,Hancock,Lib,Jo Jorgensen,Election Day Votes,10
+13,141,Hancock,Lib,Jo Jorgensen,Provisional Votes,0
+13,141,Hancock,Lib,Jo Jorgensen,TOTAL VOTES,21
+13,141,Hancock,Dem,Joseph R. Biden,Absentee by Mail Votes,1223
+13,141,Hancock,Dem,Joseph R. Biden,Advanced Voting Votes,1135
+13,141,Hancock,Dem,Joseph R. Biden,Election Day Votes,624
+13,141,Hancock,Dem,Joseph R. Biden,Provisional Votes,3
+13,141,Hancock,Dem,Joseph R. Biden,TOTAL VOTES,2985
+13,143,Haralson,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1786
+13,143,Haralson,I) (Rep,Donald J. Trump,Advanced Voting Votes,6224
+13,143,Haralson,I) (Rep,Donald J. Trump,Election Day Votes,4317
+13,143,Haralson,I) (Rep,Donald J. Trump,Provisional Votes,4
+13,143,Haralson,I) (Rep,Donald J. Trump,TOTAL VOTES,12331
+13,143,Haralson,Lib,Jo Jorgensen,Absentee by Mail Votes,30
+13,143,Haralson,Lib,Jo Jorgensen,Advanced Voting Votes,40
+13,143,Haralson,Lib,Jo Jorgensen,Election Day Votes,55
+13,143,Haralson,Lib,Jo Jorgensen,Provisional Votes,0
+13,143,Haralson,Lib,Jo Jorgensen,TOTAL VOTES,125
+13,143,Haralson,Dem,Joseph R. Biden,Absentee by Mail Votes,671
+13,143,Haralson,Dem,Joseph R. Biden,Advanced Voting Votes,746
+13,143,Haralson,Dem,Joseph R. Biden,Election Day Votes,375
+13,143,Haralson,Dem,Joseph R. Biden,Provisional Votes,0
+13,143,Haralson,Dem,Joseph R. Biden,TOTAL VOTES,1792
+13,145,Harris,I) (Rep,Donald J. Trump,Absentee by Mail Votes,2087
+13,145,Harris,I) (Rep,Donald J. Trump,Advanced Voting Votes,6627
+13,145,Harris,I) (Rep,Donald J. Trump,Election Day Votes,5592
+13,145,Harris,I) (Rep,Donald J. Trump,Provisional Votes,13
+13,145,Harris,I) (Rep,Donald J. Trump,TOTAL VOTES,14319
+13,145,Harris,Lib,Jo Jorgensen,Absentee by Mail Votes,62
+13,145,Harris,Lib,Jo Jorgensen,Advanced Voting Votes,50
+13,145,Harris,Lib,Jo Jorgensen,Election Day Votes,103
+13,145,Harris,Lib,Jo Jorgensen,Provisional Votes,0
+13,145,Harris,Lib,Jo Jorgensen,TOTAL VOTES,215
+13,145,Harris,Dem,Joseph R. Biden,Absentee by Mail Votes,2067
+13,145,Harris,Dem,Joseph R. Biden,Advanced Voting Votes,2106
+13,145,Harris,Dem,Joseph R. Biden,Election Day Votes,1278
+13,145,Harris,Dem,Joseph R. Biden,Provisional Votes,6
+13,145,Harris,Dem,Joseph R. Biden,TOTAL VOTES,5457
+13,147,Hart,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1437
+13,147,Hart,I) (Rep,Donald J. Trump,Advanced Voting Votes,5687
+13,147,Hart,I) (Rep,Donald J. Trump,Election Day Votes,2338
+13,147,Hart,I) (Rep,Donald J. Trump,Provisional Votes,2
+13,147,Hart,I) (Rep,Donald J. Trump,TOTAL VOTES,9464
+13,147,Hart,Lib,Jo Jorgensen,Absentee by Mail Votes,20
+13,147,Hart,Lib,Jo Jorgensen,Advanced Voting Votes,43
+13,147,Hart,Lib,Jo Jorgensen,Election Day Votes,43
+13,147,Hart,Lib,Jo Jorgensen,Provisional Votes,0
+13,147,Hart,Lib,Jo Jorgensen,TOTAL VOTES,106
+13,147,Hart,Dem,Joseph R. Biden,Absentee by Mail Votes,1128
+13,147,Hart,Dem,Joseph R. Biden,Advanced Voting Votes,1467
+13,147,Hart,Dem,Joseph R. Biden,Election Day Votes,560
+13,147,Hart,Dem,Joseph R. Biden,Provisional Votes,2
+13,147,Hart,Dem,Joseph R. Biden,TOTAL VOTES,3157
+13,149,Heard,I) (Rep,Donald J. Trump,Absentee by Mail Votes,677
+13,149,Heard,I) (Rep,Donald J. Trump,Advanced Voting Votes,2197
+13,149,Heard,I) (Rep,Donald J. Trump,Election Day Votes,1641
+13,149,Heard,I) (Rep,Donald J. Trump,Provisional Votes,1
+13,149,Heard,I) (Rep,Donald J. Trump,TOTAL VOTES,4516
+13,149,Heard,Lib,Jo Jorgensen,Absentee by Mail Votes,11
+13,149,Heard,Lib,Jo Jorgensen,Advanced Voting Votes,19
+13,149,Heard,Lib,Jo Jorgensen,Election Day Votes,21
+13,149,Heard,Lib,Jo Jorgensen,Provisional Votes,0
+13,149,Heard,Lib,Jo Jorgensen,TOTAL VOTES,51
+13,149,Heard,Dem,Joseph R. Biden,Absentee by Mail Votes,296
+13,149,Heard,Dem,Joseph R. Biden,Advanced Voting Votes,343
+13,149,Heard,Dem,Joseph R. Biden,Election Day Votes,184
+13,149,Heard,Dem,Joseph R. Biden,Provisional Votes,1
+13,149,Heard,Dem,Joseph R. Biden,TOTAL VOTES,824
+13,151,Henry,I) (Rep,Donald J. Trump,Absentee by Mail Votes,8134
+13,151,Henry,I) (Rep,Donald J. Trump,Advanced Voting Votes,31879
+13,151,Henry,I) (Rep,Donald J. Trump,Election Day Votes,8143
+13,151,Henry,I) (Rep,Donald J. Trump,Provisional Votes,31
+13,151,Henry,I) (Rep,Donald J. Trump,TOTAL VOTES,48187
+13,151,Henry,Lib,Jo Jorgensen,Absentee by Mail Votes,310
+13,151,Henry,Lib,Jo Jorgensen,Advanced Voting Votes,645
+13,151,Henry,Lib,Jo Jorgensen,Election Day Votes,322
+13,151,Henry,Lib,Jo Jorgensen,Provisional Votes,2
+13,151,Henry,Lib,Jo Jorgensen,TOTAL VOTES,1279
+13,151,Henry,Dem,Joseph R. Biden,Absentee by Mail Votes,20858
+13,151,Henry,Dem,Joseph R. Biden,Advanced Voting Votes,44156
+13,151,Henry,Dem,Joseph R. Biden,Election Day Votes,8191
+13,151,Henry,Dem,Joseph R. Biden,Provisional Votes,71
+13,151,Henry,Dem,Joseph R. Biden,TOTAL VOTES,73276
+13,153,Houston,I) (Rep,Donald J. Trump,Absentee by Mail Votes,8163
+13,153,Houston,I) (Rep,Donald J. Trump,Advanced Voting Votes,21677
+13,153,Houston,I) (Rep,Donald J. Trump,Election Day Votes,11644
+13,153,Houston,I) (Rep,Donald J. Trump,Provisional Votes,50
+13,153,Houston,I) (Rep,Donald J. Trump,TOTAL VOTES,41534
+13,153,Houston,Lib,Jo Jorgensen,Absentee by Mail Votes,294
+13,153,Houston,Lib,Jo Jorgensen,Advanced Voting Votes,339
+13,153,Houston,Lib,Jo Jorgensen,Election Day Votes,422
+13,153,Houston,Lib,Jo Jorgensen,Provisional Votes,2
+13,153,Houston,Lib,Jo Jorgensen,TOTAL VOTES,1057
+13,153,Houston,Dem,Joseph R. Biden,Absentee by Mail Votes,11867
+13,153,Houston,Dem,Joseph R. Biden,Advanced Voting Votes,13970
+13,153,Houston,Dem,Joseph R. Biden,Election Day Votes,6349
+13,153,Houston,Dem,Joseph R. Biden,Provisional Votes,46
+13,153,Houston,Dem,Joseph R. Biden,TOTAL VOTES,32232
+13,155,Irwin,I) (Rep,Donald J. Trump,Absentee by Mail Votes,369
+13,155,Irwin,I) (Rep,Donald J. Trump,Advanced Voting Votes,2106
+13,155,Irwin,I) (Rep,Donald J. Trump,Election Day Votes,655
+13,155,Irwin,I) (Rep,Donald J. Trump,Provisional Votes,4
+13,155,Irwin,I) (Rep,Donald J. Trump,TOTAL VOTES,3134
+13,155,Irwin,Lib,Jo Jorgensen,Absentee by Mail Votes,1
+13,155,Irwin,Lib,Jo Jorgensen,Advanced Voting Votes,17
+13,155,Irwin,Lib,Jo Jorgensen,Election Day Votes,8
+13,155,Irwin,Lib,Jo Jorgensen,Provisional Votes,0
+13,155,Irwin,Lib,Jo Jorgensen,TOTAL VOTES,26
+13,155,Irwin,Dem,Joseph R. Biden,Absentee by Mail Votes,257
+13,155,Irwin,Dem,Joseph R. Biden,Advanced Voting Votes,523
+13,155,Irwin,Dem,Joseph R. Biden,Election Day Votes,227
+13,155,Irwin,Dem,Joseph R. Biden,Provisional Votes,1
+13,155,Irwin,Dem,Joseph R. Biden,TOTAL VOTES,1008
+13,157,Jackson,I) (Rep,Donald J. Trump,Absentee by Mail Votes,4395
+13,157,Jackson,I) (Rep,Donald J. Trump,Advanced Voting Votes,20135
+13,157,Jackson,I) (Rep,Donald J. Trump,Election Day Votes,4961
+13,157,Jackson,I) (Rep,Donald J. Trump,Provisional Votes,6
+13,157,Jackson,I) (Rep,Donald J. Trump,TOTAL VOTES,29497
+13,157,Jackson,Lib,Jo Jorgensen,Absentee by Mail Votes,116
+13,157,Jackson,Lib,Jo Jorgensen,Advanced Voting Votes,258
+13,157,Jackson,Lib,Jo Jorgensen,Election Day Votes,157
+13,157,Jackson,Lib,Jo Jorgensen,Provisional Votes,0
+13,157,Jackson,Lib,Jo Jorgensen,TOTAL VOTES,531
+13,157,Jackson,Dem,Joseph R. Biden,Absentee by Mail Votes,2797
+13,157,Jackson,Dem,Joseph R. Biden,Advanced Voting Votes,3791
+13,157,Jackson,Dem,Joseph R. Biden,Election Day Votes,1053
+13,157,Jackson,Dem,Joseph R. Biden,Provisional Votes,1
+13,157,Jackson,Dem,Joseph R. Biden,TOTAL VOTES,7642
+13,159,Jasper,I) (Rep,Donald J. Trump,Absentee by Mail Votes,808
+13,159,Jasper,I) (Rep,Donald J. Trump,Advanced Voting Votes,3455
+13,159,Jasper,I) (Rep,Donald J. Trump,Election Day Votes,1547
+13,159,Jasper,I) (Rep,Donald J. Trump,Provisional Votes,12
+13,159,Jasper,I) (Rep,Donald J. Trump,TOTAL VOTES,5822
+13,159,Jasper,Lib,Jo Jorgensen,Absentee by Mail Votes,18
+13,159,Jasper,Lib,Jo Jorgensen,Advanced Voting Votes,21
+13,159,Jasper,Lib,Jo Jorgensen,Election Day Votes,22
+13,159,Jasper,Lib,Jo Jorgensen,Provisional Votes,0
+13,159,Jasper,Lib,Jo Jorgensen,TOTAL VOTES,61
+13,159,Jasper,Dem,Joseph R. Biden,Absentee by Mail Votes,680
+13,159,Jasper,Dem,Joseph R. Biden,Advanced Voting Votes,785
+13,159,Jasper,Dem,Joseph R. Biden,Election Day Votes,294
+13,159,Jasper,Dem,Joseph R. Biden,Provisional Votes,2
+13,159,Jasper,Dem,Joseph R. Biden,TOTAL VOTES,1761
+13,161,Jeff Davis,I) (Rep,Donald J. Trump,Absentee by Mail Votes,528
+13,161,Jeff Davis,I) (Rep,Donald J. Trump,Advanced Voting Votes,2749
+13,161,Jeff Davis,I) (Rep,Donald J. Trump,Election Day Votes,1418
+13,161,Jeff Davis,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,161,Jeff Davis,I) (Rep,Donald J. Trump,TOTAL VOTES,4695
+13,161,Jeff Davis,Lib,Jo Jorgensen,Absentee by Mail Votes,13
+13,161,Jeff Davis,Lib,Jo Jorgensen,Advanced Voting Votes,17
+13,161,Jeff Davis,Lib,Jo Jorgensen,Election Day Votes,18
+13,161,Jeff Davis,Lib,Jo Jorgensen,Provisional Votes,0
+13,161,Jeff Davis,Lib,Jo Jorgensen,TOTAL VOTES,48
+13,161,Jeff Davis,Dem,Joseph R. Biden,Absentee by Mail Votes,273
+13,161,Jeff Davis,Dem,Joseph R. Biden,Advanced Voting Votes,507
+13,161,Jeff Davis,Dem,Joseph R. Biden,Election Day Votes,248
+13,161,Jeff Davis,Dem,Joseph R. Biden,Provisional Votes,0
+13,161,Jeff Davis,Dem,Joseph R. Biden,TOTAL VOTES,1028
+13,163,Jefferson,I) (Rep,Donald J. Trump,Absentee by Mail Votes,446
+13,163,Jefferson,I) (Rep,Donald J. Trump,Advanced Voting Votes,1992
+13,163,Jefferson,I) (Rep,Donald J. Trump,Election Day Votes,1096
+13,163,Jefferson,I) (Rep,Donald J. Trump,Provisional Votes,3
+13,163,Jefferson,I) (Rep,Donald J. Trump,TOTAL VOTES,3537
+13,163,Jefferson,Lib,Jo Jorgensen,Absentee by Mail Votes,6
+13,163,Jefferson,Lib,Jo Jorgensen,Advanced Voting Votes,20
+13,163,Jefferson,Lib,Jo Jorgensen,Election Day Votes,18
+13,163,Jefferson,Lib,Jo Jorgensen,Provisional Votes,0
+13,163,Jefferson,Lib,Jo Jorgensen,TOTAL VOTES,44
+13,163,Jefferson,Dem,Joseph R. Biden,Absentee by Mail Votes,1274
+13,163,Jefferson,Dem,Joseph R. Biden,Advanced Voting Votes,1723
+13,163,Jefferson,Dem,Joseph R. Biden,Election Day Votes,1056
+13,163,Jefferson,Dem,Joseph R. Biden,Provisional Votes,8
+13,163,Jefferson,Dem,Joseph R. Biden,TOTAL VOTES,4061
+13,165,Jenkins,I) (Rep,Donald J. Trump,Absentee by Mail Votes,335
+13,165,Jenkins,I) (Rep,Donald J. Trump,Advanced Voting Votes,1244
+13,165,Jenkins,I) (Rep,Donald J. Trump,Election Day Votes,579
+13,165,Jenkins,I) (Rep,Donald J. Trump,Provisional Votes,3
+13,165,Jenkins,I) (Rep,Donald J. Trump,TOTAL VOTES,2161
+13,165,Jenkins,Lib,Jo Jorgensen,Absentee by Mail Votes,5
+13,165,Jenkins,Lib,Jo Jorgensen,Advanced Voting Votes,8
+13,165,Jenkins,Lib,Jo Jorgensen,Election Day Votes,15
+13,165,Jenkins,Lib,Jo Jorgensen,Provisional Votes,0
+13,165,Jenkins,Lib,Jo Jorgensen,TOTAL VOTES,28
+13,165,Jenkins,Dem,Joseph R. Biden,Absentee by Mail Votes,416
+13,165,Jenkins,Dem,Joseph R. Biden,Advanced Voting Votes,557
+13,165,Jenkins,Dem,Joseph R. Biden,Election Day Votes,292
+13,165,Jenkins,Dem,Joseph R. Biden,Provisional Votes,1
+13,165,Jenkins,Dem,Joseph R. Biden,TOTAL VOTES,1266
+13,167,Johnson,I) (Rep,Donald J. Trump,Absentee by Mail Votes,331
+13,167,Johnson,I) (Rep,Donald J. Trump,Advanced Voting Votes,1748
+13,167,Johnson,I) (Rep,Donald J. Trump,Election Day Votes,771
+13,167,Johnson,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,167,Johnson,I) (Rep,Donald J. Trump,TOTAL VOTES,2850
+13,167,Johnson,Lib,Jo Jorgensen,Absentee by Mail Votes,6
+13,167,Johnson,Lib,Jo Jorgensen,Advanced Voting Votes,13
+13,167,Johnson,Lib,Jo Jorgensen,Election Day Votes,9
+13,167,Johnson,Lib,Jo Jorgensen,Provisional Votes,0
+13,167,Johnson,Lib,Jo Jorgensen,TOTAL VOTES,28
+13,167,Johnson,Dem,Joseph R. Biden,Absentee by Mail Votes,420
+13,167,Johnson,Dem,Joseph R. Biden,Advanced Voting Votes,593
+13,167,Johnson,Dem,Joseph R. Biden,Election Day Votes,209
+13,167,Johnson,Dem,Joseph R. Biden,Provisional Votes,0
+13,167,Johnson,Dem,Joseph R. Biden,TOTAL VOTES,1222
+13,169,Jones,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1272
+13,169,Jones,I) (Rep,Donald J. Trump,Advanced Voting Votes,5666
+13,169,Jones,I) (Rep,Donald J. Trump,Election Day Votes,3023
+13,169,Jones,I) (Rep,Donald J. Trump,Provisional Votes,4
+13,169,Jones,I) (Rep,Donald J. Trump,TOTAL VOTES,9965
+13,169,Jones,Lib,Jo Jorgensen,Absentee by Mail Votes,18
+13,169,Jones,Lib,Jo Jorgensen,Advanced Voting Votes,47
+13,169,Jones,Lib,Jo Jorgensen,Election Day Votes,47
+13,169,Jones,Lib,Jo Jorgensen,Provisional Votes,1
+13,169,Jones,Lib,Jo Jorgensen,TOTAL VOTES,113
+13,169,Jones,Dem,Joseph R. Biden,Absentee by Mail Votes,1689
+13,169,Jones,Dem,Joseph R. Biden,Advanced Voting Votes,2356
+13,169,Jones,Dem,Joseph R. Biden,Election Day Votes,841
+13,169,Jones,Dem,Joseph R. Biden,Provisional Votes,2
+13,169,Jones,Dem,Joseph R. Biden,TOTAL VOTES,4888
+13,171,Lamar,I) (Rep,Donald J. Trump,Absentee by Mail Votes,807
+13,171,Lamar,I) (Rep,Donald J. Trump,Advanced Voting Votes,3772
+13,171,Lamar,I) (Rep,Donald J. Trump,Election Day Votes,1743
+13,171,Lamar,I) (Rep,Donald J. Trump,Provisional Votes,8
+13,171,Lamar,I) (Rep,Donald J. Trump,TOTAL VOTES,6330
+13,171,Lamar,Lib,Jo Jorgensen,Absentee by Mail Votes,14
+13,171,Lamar,Lib,Jo Jorgensen,Advanced Voting Votes,40
+13,171,Lamar,Lib,Jo Jorgensen,Election Day Votes,40
+13,171,Lamar,Lib,Jo Jorgensen,Provisional Votes,0
+13,171,Lamar,Lib,Jo Jorgensen,TOTAL VOTES,94
+13,171,Lamar,Dem,Joseph R. Biden,Absentee by Mail Votes,936
+13,171,Lamar,Dem,Joseph R. Biden,Advanced Voting Votes,1204
+13,171,Lamar,Dem,Joseph R. Biden,Election Day Votes,472
+13,171,Lamar,Dem,Joseph R. Biden,Provisional Votes,3
+13,171,Lamar,Dem,Joseph R. Biden,TOTAL VOTES,2615
+13,173,Lanier,I) (Rep,Donald J. Trump,Absentee by Mail Votes,250
+13,173,Lanier,I) (Rep,Donald J. Trump,Advanced Voting Votes,1778
+13,173,Lanier,I) (Rep,Donald J. Trump,Election Day Votes,481
+13,173,Lanier,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,173,Lanier,I) (Rep,Donald J. Trump,TOTAL VOTES,2509
+13,173,Lanier,Lib,Jo Jorgensen,Absentee by Mail Votes,10
+13,173,Lanier,Lib,Jo Jorgensen,Advanced Voting Votes,25
+13,173,Lanier,Lib,Jo Jorgensen,Election Day Votes,13
+13,173,Lanier,Lib,Jo Jorgensen,Provisional Votes,0
+13,173,Lanier,Lib,Jo Jorgensen,TOTAL VOTES,48
+13,173,Lanier,Dem,Joseph R. Biden,Absentee by Mail Votes,298
+13,173,Lanier,Dem,Joseph R. Biden,Advanced Voting Votes,517
+13,173,Lanier,Dem,Joseph R. Biden,Election Day Votes,204
+13,173,Lanier,Dem,Joseph R. Biden,Provisional Votes,0
+13,173,Lanier,Dem,Joseph R. Biden,TOTAL VOTES,1019
+13,175,Laurens,I) (Rep,Donald J. Trump,Absentee by Mail Votes,2351
+13,175,Laurens,I) (Rep,Donald J. Trump,Advanced Voting Votes,6479
+13,175,Laurens,I) (Rep,Donald J. Trump,Election Day Votes,5660
+13,175,Laurens,I) (Rep,Donald J. Trump,Provisional Votes,3
+13,175,Laurens,I) (Rep,Donald J. Trump,TOTAL VOTES,14493
+13,175,Laurens,Lib,Jo Jorgensen,Absentee by Mail Votes,38
+13,175,Laurens,Lib,Jo Jorgensen,Advanced Voting Votes,63
+13,175,Laurens,Lib,Jo Jorgensen,Election Day Votes,62
+13,175,Laurens,Lib,Jo Jorgensen,Provisional Votes,0
+13,175,Laurens,Lib,Jo Jorgensen,TOTAL VOTES,163
+13,175,Laurens,Dem,Joseph R. Biden,Absentee by Mail Votes,2735
+13,175,Laurens,Dem,Joseph R. Biden,Advanced Voting Votes,3451
+13,175,Laurens,Dem,Joseph R. Biden,Election Day Votes,1884
+13,175,Laurens,Dem,Joseph R. Biden,Provisional Votes,3
+13,175,Laurens,Dem,Joseph R. Biden,TOTAL VOTES,8073
+13,177,Lee,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1221
+13,177,Lee,I) (Rep,Donald J. Trump,Advanced Voting Votes,7728
+13,177,Lee,I) (Rep,Donald J. Trump,Election Day Votes,3054
+13,177,Lee,I) (Rep,Donald J. Trump,Provisional Votes,4
+13,177,Lee,I) (Rep,Donald J. Trump,TOTAL VOTES,12007
+13,177,Lee,Lib,Jo Jorgensen,Absentee by Mail Votes,19
+13,177,Lee,Lib,Jo Jorgensen,Advanced Voting Votes,68
+13,177,Lee,Lib,Jo Jorgensen,Election Day Votes,62
+13,177,Lee,Lib,Jo Jorgensen,Provisional Votes,0
+13,177,Lee,Lib,Jo Jorgensen,TOTAL VOTES,149
+13,177,Lee,Dem,Joseph R. Biden,Absentee by Mail Votes,1243
+13,177,Lee,Dem,Joseph R. Biden,Advanced Voting Votes,2418
+13,177,Lee,Dem,Joseph R. Biden,Election Day Votes,895
+13,177,Lee,Dem,Joseph R. Biden,Provisional Votes,2
+13,177,Lee,Dem,Joseph R. Biden,TOTAL VOTES,4558
+13,179,Liberty,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1299
+13,179,Liberty,I) (Rep,Donald J. Trump,Advanced Voting Votes,4941
+13,179,Liberty,I) (Rep,Donald J. Trump,Election Day Votes,1704
+13,179,Liberty,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,179,Liberty,I) (Rep,Donald J. Trump,TOTAL VOTES,7944
+13,179,Liberty,Lib,Jo Jorgensen,Absentee by Mail Votes,93
+13,179,Liberty,Lib,Jo Jorgensen,Advanced Voting Votes,136
+13,179,Liberty,Lib,Jo Jorgensen,Election Day Votes,102
+13,179,Liberty,Lib,Jo Jorgensen,Provisional Votes,0
+13,179,Liberty,Lib,Jo Jorgensen,TOTAL VOTES,331
+13,179,Liberty,Dem,Joseph R. Biden,Absentee by Mail Votes,4256
+13,179,Liberty,Dem,Joseph R. Biden,Advanced Voting Votes,7129
+13,179,Liberty,Dem,Joseph R. Biden,Election Day Votes,1666
+13,179,Liberty,Dem,Joseph R. Biden,Provisional Votes,0
+13,179,Liberty,Dem,Joseph R. Biden,TOTAL VOTES,13051
+13,181,Lincoln,I) (Rep,Donald J. Trump,Absentee by Mail Votes,439
+13,181,Lincoln,I) (Rep,Donald J. Trump,Advanced Voting Votes,1832
+13,181,Lincoln,I) (Rep,Donald J. Trump,Election Day Votes,904
+13,181,Lincoln,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,181,Lincoln,I) (Rep,Donald J. Trump,TOTAL VOTES,3175
+13,181,Lincoln,Lib,Jo Jorgensen,Absentee by Mail Votes,10
+13,181,Lincoln,Lib,Jo Jorgensen,Advanced Voting Votes,13
+13,181,Lincoln,Lib,Jo Jorgensen,Election Day Votes,13
+13,181,Lincoln,Lib,Jo Jorgensen,Provisional Votes,0
+13,181,Lincoln,Lib,Jo Jorgensen,TOTAL VOTES,36
+13,181,Lincoln,Dem,Joseph R. Biden,Absentee by Mail Votes,628
+13,181,Lincoln,Dem,Joseph R. Biden,Advanced Voting Votes,540
+13,181,Lincoln,Dem,Joseph R. Biden,Election Day Votes,264
+13,181,Lincoln,Dem,Joseph R. Biden,Provisional Votes,0
+13,181,Lincoln,Dem,Joseph R. Biden,TOTAL VOTES,1432
+13,183,Long,I) (Rep,Donald J. Trump,Absentee by Mail Votes,290
+13,183,Long,I) (Rep,Donald J. Trump,Advanced Voting Votes,2102
+13,183,Long,I) (Rep,Donald J. Trump,Election Day Votes,1126
+13,183,Long,I) (Rep,Donald J. Trump,Provisional Votes,10
+13,183,Long,I) (Rep,Donald J. Trump,TOTAL VOTES,3528
+13,183,Long,Lib,Jo Jorgensen,Absentee by Mail Votes,14
+13,183,Long,Lib,Jo Jorgensen,Advanced Voting Votes,48
+13,183,Long,Lib,Jo Jorgensen,Election Day Votes,33
+13,183,Long,Lib,Jo Jorgensen,Provisional Votes,0
+13,183,Long,Lib,Jo Jorgensen,TOTAL VOTES,95
+13,183,Long,Dem,Joseph R. Biden,Absentee by Mail Votes,500
+13,183,Long,Dem,Joseph R. Biden,Advanced Voting Votes,1148
+13,183,Long,Dem,Joseph R. Biden,Election Day Votes,379
+13,183,Long,Dem,Joseph R. Biden,Provisional Votes,6
+13,183,Long,Dem,Joseph R. Biden,TOTAL VOTES,2033
+13,185,Lowndes,I) (Rep,Donald J. Trump,Absentee by Mail Votes,3379
+13,185,Lowndes,I) (Rep,Donald J. Trump,Advanced Voting Votes,16795
+13,185,Lowndes,I) (Rep,Donald J. Trump,Election Day Votes,5351
+13,185,Lowndes,I) (Rep,Donald J. Trump,Provisional Votes,166
+13,185,Lowndes,I) (Rep,Donald J. Trump,TOTAL VOTES,25691
+13,185,Lowndes,Lib,Jo Jorgensen,Absentee by Mail Votes,122
+13,185,Lowndes,Lib,Jo Jorgensen,Advanced Voting Votes,249
+13,185,Lowndes,Lib,Jo Jorgensen,Election Day Votes,168
+13,185,Lowndes,Lib,Jo Jorgensen,Provisional Votes,8
+13,185,Lowndes,Lib,Jo Jorgensen,TOTAL VOTES,547
+13,185,Lowndes,Dem,Joseph R. Biden,Absentee by Mail Votes,5929
+13,185,Lowndes,Dem,Joseph R. Biden,Advanced Voting Votes,11017
+13,185,Lowndes,Dem,Joseph R. Biden,Election Day Votes,2892
+13,185,Lowndes,Dem,Joseph R. Biden,Provisional Votes,279
+13,185,Lowndes,Dem,Joseph R. Biden,TOTAL VOTES,20117
+13,187,Lumpkin,I) (Rep,Donald J. Trump,Absentee by Mail Votes,2020
+13,187,Lumpkin,I) (Rep,Donald J. Trump,Advanced Voting Votes,8138
+13,187,Lumpkin,I) (Rep,Donald J. Trump,Election Day Votes,2002
+13,187,Lumpkin,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,187,Lumpkin,I) (Rep,Donald J. Trump,TOTAL VOTES,12160
+13,187,Lumpkin,Lib,Jo Jorgensen,Absentee by Mail Votes,48
+13,187,Lumpkin,Lib,Jo Jorgensen,Advanced Voting Votes,131
+13,187,Lumpkin,Lib,Jo Jorgensen,Election Day Votes,63
+13,187,Lumpkin,Lib,Jo Jorgensen,Provisional Votes,0
+13,187,Lumpkin,Lib,Jo Jorgensen,TOTAL VOTES,242
+13,187,Lumpkin,Dem,Joseph R. Biden,Absentee by Mail Votes,1241
+13,187,Lumpkin,Dem,Joseph R. Biden,Advanced Voting Votes,1549
+13,187,Lumpkin,Dem,Joseph R. Biden,Election Day Votes,332
+13,187,Lumpkin,Dem,Joseph R. Biden,Provisional Votes,0
+13,187,Lumpkin,Dem,Joseph R. Biden,TOTAL VOTES,3122
+13,193,Macon,I) (Rep,Donald J. Trump,Absentee by Mail Votes,139
+13,193,Macon,I) (Rep,Donald J. Trump,Advanced Voting Votes,1296
+13,193,Macon,I) (Rep,Donald J. Trump,Election Day Votes,348
+13,193,Macon,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,193,Macon,I) (Rep,Donald J. Trump,TOTAL VOTES,1783
+13,193,Macon,Lib,Jo Jorgensen,Absentee by Mail Votes,2
+13,193,Macon,Lib,Jo Jorgensen,Advanced Voting Votes,10
+13,193,Macon,Lib,Jo Jorgensen,Election Day Votes,10
+13,193,Macon,Lib,Jo Jorgensen,Provisional Votes,0
+13,193,Macon,Lib,Jo Jorgensen,TOTAL VOTES,22
+13,193,Macon,Dem,Joseph R. Biden,Absentee by Mail Votes,706
+13,193,Macon,Dem,Joseph R. Biden,Advanced Voting Votes,1459
+13,193,Macon,Dem,Joseph R. Biden,Election Day Votes,692
+13,193,Macon,Dem,Joseph R. Biden,Provisional Votes,0
+13,193,Macon,Dem,Joseph R. Biden,TOTAL VOTES,2857
+13,195,Madison,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1718
+13,195,Madison,I) (Rep,Donald J. Trump,Advanced Voting Votes,6103
+13,195,Madison,I) (Rep,Donald J. Trump,Election Day Votes,3502
+13,195,Madison,I) (Rep,Donald J. Trump,Provisional Votes,3
+13,195,Madison,I) (Rep,Donald J. Trump,TOTAL VOTES,11326
+13,195,Madison,Lib,Jo Jorgensen,Absentee by Mail Votes,40
+13,195,Madison,Lib,Jo Jorgensen,Advanced Voting Votes,77
+13,195,Madison,Lib,Jo Jorgensen,Election Day Votes,83
+13,195,Madison,Lib,Jo Jorgensen,Provisional Votes,0
+13,195,Madison,Lib,Jo Jorgensen,TOTAL VOTES,200
+13,195,Madison,Dem,Joseph R. Biden,Absentee by Mail Votes,1192
+13,195,Madison,Dem,Joseph R. Biden,Advanced Voting Votes,1478
+13,195,Madison,Dem,Joseph R. Biden,Election Day Votes,740
+13,195,Madison,Dem,Joseph R. Biden,Provisional Votes,1
+13,195,Madison,Dem,Joseph R. Biden,TOTAL VOTES,3411
+13,197,Marion,I) (Rep,Donald J. Trump,Absentee by Mail Votes,295
+13,197,Marion,I) (Rep,Donald J. Trump,Advanced Voting Votes,1221
+13,197,Marion,I) (Rep,Donald J. Trump,Election Day Votes,759
+13,197,Marion,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,197,Marion,I) (Rep,Donald J. Trump,TOTAL VOTES,2275
+13,197,Marion,Lib,Jo Jorgensen,Absentee by Mail Votes,6
+13,197,Marion,Lib,Jo Jorgensen,Advanced Voting Votes,20
+13,197,Marion,Lib,Jo Jorgensen,Election Day Votes,12
+13,197,Marion,Lib,Jo Jorgensen,Provisional Votes,0
+13,197,Marion,Lib,Jo Jorgensen,TOTAL VOTES,38
+13,197,Marion,Dem,Joseph R. Biden,Absentee by Mail Votes,471
+13,197,Marion,Dem,Joseph R. Biden,Advanced Voting Votes,620
+13,197,Marion,Dem,Joseph R. Biden,Election Day Votes,220
+13,197,Marion,Dem,Joseph R. Biden,Provisional Votes,0
+13,197,Marion,Dem,Joseph R. Biden,TOTAL VOTES,1311
+13,189,McDuffie,I) (Rep,Donald J. Trump,Absentee by Mail Votes,898
+13,189,McDuffie,I) (Rep,Donald J. Trump,Advanced Voting Votes,4445
+13,189,McDuffie,I) (Rep,Donald J. Trump,Election Day Votes,826
+13,189,McDuffie,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,189,McDuffie,I) (Rep,Donald J. Trump,TOTAL VOTES,6169
+13,189,McDuffie,Lib,Jo Jorgensen,Absentee by Mail Votes,23
+13,189,McDuffie,Lib,Jo Jorgensen,Advanced Voting Votes,55
+13,189,McDuffie,Lib,Jo Jorgensen,Election Day Votes,40
+13,189,McDuffie,Lib,Jo Jorgensen,Provisional Votes,0
+13,189,McDuffie,Lib,Jo Jorgensen,TOTAL VOTES,118
+13,189,McDuffie,Dem,Joseph R. Biden,Absentee by Mail Votes,1522
+13,189,McDuffie,Dem,Joseph R. Biden,Advanced Voting Votes,2046
+13,189,McDuffie,Dem,Joseph R. Biden,Election Day Votes,600
+13,189,McDuffie,Dem,Joseph R. Biden,Provisional Votes,0
+13,189,McDuffie,Dem,Joseph R. Biden,TOTAL VOTES,4168
+13,191,McIntosh,I) (Rep,Donald J. Trump,Absentee by Mail Votes,834
+13,191,McIntosh,I) (Rep,Donald J. Trump,Advanced Voting Votes,2371
+13,191,McIntosh,I) (Rep,Donald J. Trump,Election Day Votes,810
+13,191,McIntosh,I) (Rep,Donald J. Trump,Provisional Votes,1
+13,191,McIntosh,I) (Rep,Donald J. Trump,TOTAL VOTES,4016
+13,191,McIntosh,Lib,Jo Jorgensen,Absentee by Mail Votes,15
+13,191,McIntosh,Lib,Jo Jorgensen,Advanced Voting Votes,19
+13,191,McIntosh,Lib,Jo Jorgensen,Election Day Votes,34
+13,191,McIntosh,Lib,Jo Jorgensen,Provisional Votes,0
+13,191,McIntosh,Lib,Jo Jorgensen,TOTAL VOTES,68
+13,191,McIntosh,Dem,Joseph R. Biden,Absentee by Mail Votes,853
+13,191,McIntosh,Dem,Joseph R. Biden,Advanced Voting Votes,1317
+13,191,McIntosh,Dem,Joseph R. Biden,Election Day Votes,442
+13,191,McIntosh,Dem,Joseph R. Biden,Provisional Votes,0
+13,191,McIntosh,Dem,Joseph R. Biden,TOTAL VOTES,2612
+13,199,Meriwether,I) (Rep,Donald J. Trump,Absentee by Mail Votes,980
+13,199,Meriwether,I) (Rep,Donald J. Trump,Advanced Voting Votes,3312
+13,199,Meriwether,I) (Rep,Donald J. Trump,Election Day Votes,2230
+13,199,Meriwether,I) (Rep,Donald J. Trump,Provisional Votes,2
+13,199,Meriwether,I) (Rep,Donald J. Trump,TOTAL VOTES,6524
+13,199,Meriwether,Lib,Jo Jorgensen,Absentee by Mail Votes,17
+13,199,Meriwether,Lib,Jo Jorgensen,Advanced Voting Votes,24
+13,199,Meriwether,Lib,Jo Jorgensen,Election Day Votes,25
+13,199,Meriwether,Lib,Jo Jorgensen,Provisional Votes,0
+13,199,Meriwether,Lib,Jo Jorgensen,TOTAL VOTES,66
+13,199,Meriwether,Dem,Joseph R. Biden,Absentee by Mail Votes,1489
+13,199,Meriwether,Dem,Joseph R. Biden,Advanced Voting Votes,1604
+13,199,Meriwether,Dem,Joseph R. Biden,Election Day Votes,1189
+13,199,Meriwether,Dem,Joseph R. Biden,Provisional Votes,5
+13,199,Meriwether,Dem,Joseph R. Biden,TOTAL VOTES,4287
+13,201,Miller,I) (Rep,Donald J. Trump,Absentee by Mail Votes,264
+13,201,Miller,I) (Rep,Donald J. Trump,Advanced Voting Votes,1269
+13,201,Miller,I) (Rep,Donald J. Trump,Election Day Votes,530
+13,201,Miller,I) (Rep,Donald J. Trump,Provisional Votes,3
+13,201,Miller,I) (Rep,Donald J. Trump,TOTAL VOTES,2066
+13,201,Miller,Lib,Jo Jorgensen,Absentee by Mail Votes,2
+13,201,Miller,Lib,Jo Jorgensen,Advanced Voting Votes,11
+13,201,Miller,Lib,Jo Jorgensen,Election Day Votes,7
+13,201,Miller,Lib,Jo Jorgensen,Provisional Votes,0
+13,201,Miller,Lib,Jo Jorgensen,TOTAL VOTES,20
+13,201,Miller,Dem,Joseph R. Biden,Absentee by Mail Votes,221
+13,201,Miller,Dem,Joseph R. Biden,Advanced Voting Votes,354
+13,201,Miller,Dem,Joseph R. Biden,Election Day Votes,174
+13,201,Miller,Dem,Joseph R. Biden,Provisional Votes,0
+13,201,Miller,Dem,Joseph R. Biden,TOTAL VOTES,749
+13,205,Mitchell,I) (Rep,Donald J. Trump,Absentee by Mail Votes,681
+13,205,Mitchell,I) (Rep,Donald J. Trump,Advanced Voting Votes,2701
+13,205,Mitchell,I) (Rep,Donald J. Trump,Election Day Votes,1551
+13,205,Mitchell,I) (Rep,Donald J. Trump,Provisional Votes,2
+13,205,Mitchell,I) (Rep,Donald J. Trump,TOTAL VOTES,4935
+13,205,Mitchell,Lib,Jo Jorgensen,Absentee by Mail Votes,9
+13,205,Mitchell,Lib,Jo Jorgensen,Advanced Voting Votes,7
+13,205,Mitchell,Lib,Jo Jorgensen,Election Day Votes,17
+13,205,Mitchell,Lib,Jo Jorgensen,Provisional Votes,0
+13,205,Mitchell,Lib,Jo Jorgensen,TOTAL VOTES,33
+13,205,Mitchell,Dem,Joseph R. Biden,Absentee by Mail Votes,1499
+13,205,Mitchell,Dem,Joseph R. Biden,Advanced Voting Votes,1673
+13,205,Mitchell,Dem,Joseph R. Biden,Election Day Votes,818
+13,205,Mitchell,Dem,Joseph R. Biden,Provisional Votes,5
+13,205,Mitchell,Dem,Joseph R. Biden,TOTAL VOTES,3995
+13,207,Monroe,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1062
+13,207,Monroe,I) (Rep,Donald J. Trump,Advanced Voting Votes,6890
+13,207,Monroe,I) (Rep,Donald J. Trump,Election Day Votes,3102
+13,207,Monroe,I) (Rep,Donald J. Trump,Provisional Votes,6
+13,207,Monroe,I) (Rep,Donald J. Trump,TOTAL VOTES,11060
+13,207,Monroe,Lib,Jo Jorgensen,Absentee by Mail Votes,27
+13,207,Monroe,Lib,Jo Jorgensen,Advanced Voting Votes,69
+13,207,Monroe,Lib,Jo Jorgensen,Election Day Votes,52
+13,207,Monroe,Lib,Jo Jorgensen,Provisional Votes,0
+13,207,Monroe,Lib,Jo Jorgensen,TOTAL VOTES,148
+13,207,Monroe,Dem,Joseph R. Biden,Absentee by Mail Votes,1372
+13,207,Monroe,Dem,Joseph R. Biden,Advanced Voting Votes,2320
+13,207,Monroe,Dem,Joseph R. Biden,Election Day Votes,690
+13,207,Monroe,Dem,Joseph R. Biden,Provisional Votes,2
+13,207,Monroe,Dem,Joseph R. Biden,TOTAL VOTES,4384
+13,209,Montgomery,I) (Rep,Donald J. Trump,Absentee by Mail Votes,356
+13,209,Montgomery,I) (Rep,Donald J. Trump,Advanced Voting Votes,1495
+13,209,Montgomery,I) (Rep,Donald J. Trump,Election Day Votes,1109
+13,209,Montgomery,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,209,Montgomery,I) (Rep,Donald J. Trump,TOTAL VOTES,2960
+13,209,Montgomery,Lib,Jo Jorgensen,Absentee by Mail Votes,3
+13,209,Montgomery,Lib,Jo Jorgensen,Advanced Voting Votes,12
+13,209,Montgomery,Lib,Jo Jorgensen,Election Day Votes,12
+13,209,Montgomery,Lib,Jo Jorgensen,Provisional Votes,0
+13,209,Montgomery,Lib,Jo Jorgensen,TOTAL VOTES,27
+13,209,Montgomery,Dem,Joseph R. Biden,Absentee by Mail Votes,310
+13,209,Montgomery,Dem,Joseph R. Biden,Advanced Voting Votes,419
+13,209,Montgomery,Dem,Joseph R. Biden,Election Day Votes,250
+13,209,Montgomery,Dem,Joseph R. Biden,Provisional Votes,0
+13,209,Montgomery,Dem,Joseph R. Biden,TOTAL VOTES,979
+13,211,Morgan,I) (Rep,Donald J. Trump,Absentee by Mail Votes,938
+13,211,Morgan,I) (Rep,Donald J. Trump,Advanced Voting Votes,5424
+13,211,Morgan,I) (Rep,Donald J. Trump,Election Day Votes,1865
+13,211,Morgan,I) (Rep,Donald J. Trump,Provisional Votes,3
+13,211,Morgan,I) (Rep,Donald J. Trump,TOTAL VOTES,8230
+13,211,Morgan,Lib,Jo Jorgensen,Absentee by Mail Votes,19
+13,211,Morgan,Lib,Jo Jorgensen,Advanced Voting Votes,53
+13,211,Morgan,Lib,Jo Jorgensen,Election Day Votes,50
+13,211,Morgan,Lib,Jo Jorgensen,Provisional Votes,0
+13,211,Morgan,Lib,Jo Jorgensen,TOTAL VOTES,122
+13,211,Morgan,Dem,Joseph R. Biden,Absentee by Mail Votes,1042
+13,211,Morgan,Dem,Joseph R. Biden,Advanced Voting Votes,1815
+13,211,Morgan,Dem,Joseph R. Biden,Election Day Votes,496
+13,211,Morgan,Dem,Joseph R. Biden,Provisional Votes,2
+13,211,Morgan,Dem,Joseph R. Biden,TOTAL VOTES,3355
+13,213,Murray,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1361
+13,213,Murray,I) (Rep,Donald J. Trump,Advanced Voting Votes,7689
+13,213,Murray,I) (Rep,Donald J. Trump,Election Day Votes,3893
+13,213,Murray,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,213,Murray,I) (Rep,Donald J. Trump,TOTAL VOTES,12943
+13,213,Murray,Lib,Jo Jorgensen,Absentee by Mail Votes,22
+13,213,Murray,Lib,Jo Jorgensen,Advanced Voting Votes,72
+13,213,Murray,Lib,Jo Jorgensen,Election Day Votes,50
+13,213,Murray,Lib,Jo Jorgensen,Provisional Votes,0
+13,213,Murray,Lib,Jo Jorgensen,TOTAL VOTES,144
+13,213,Murray,Dem,Joseph R. Biden,Absentee by Mail Votes,679
+13,213,Murray,Dem,Joseph R. Biden,Advanced Voting Votes,1093
+13,213,Murray,Dem,Joseph R. Biden,Election Day Votes,530
+13,213,Murray,Dem,Joseph R. Biden,Provisional Votes,0
+13,213,Murray,Dem,Joseph R. Biden,TOTAL VOTES,2302
+13,215,Muscogee,I) (Rep,Donald J. Trump,Absentee by Mail Votes,6368
+13,215,Muscogee,I) (Rep,Donald J. Trump,Advanced Voting Votes,17106
+13,215,Muscogee,I) (Rep,Donald J. Trump,Election Day Votes,6527
+13,215,Muscogee,I) (Rep,Donald J. Trump,Provisional Votes,17
+13,215,Muscogee,I) (Rep,Donald J. Trump,TOTAL VOTES,30018
+13,215,Muscogee,Lib,Jo Jorgensen,Absentee by Mail Votes,257
+13,215,Muscogee,Lib,Jo Jorgensen,Advanced Voting Votes,397
+13,215,Muscogee,Lib,Jo Jorgensen,Election Day Votes,305
+13,215,Muscogee,Lib,Jo Jorgensen,Provisional Votes,2
+13,215,Muscogee,Lib,Jo Jorgensen,TOTAL VOTES,961
+13,215,Muscogee,Dem,Joseph R. Biden,Absentee by Mail Votes,17586
+13,215,Muscogee,Dem,Joseph R. Biden,Advanced Voting Votes,25227
+13,215,Muscogee,Dem,Joseph R. Biden,Election Day Votes,6579
+13,215,Muscogee,Dem,Joseph R. Biden,Provisional Votes,33
+13,215,Muscogee,Dem,Joseph R. Biden,TOTAL VOTES,49425
+13,217,Newton,I) (Rep,Donald J. Trump,Absentee by Mail Votes,4859
+13,217,Newton,I) (Rep,Donald J. Trump,Advanced Voting Votes,8103
+13,217,Newton,I) (Rep,Donald J. Trump,Election Day Votes,10888
+13,217,Newton,I) (Rep,Donald J. Trump,Provisional Votes,17
+13,217,Newton,I) (Rep,Donald J. Trump,TOTAL VOTES,23867
+13,217,Newton,Lib,Jo Jorgensen,Absentee by Mail Votes,158
+13,217,Newton,Lib,Jo Jorgensen,Advanced Voting Votes,129
+13,217,Newton,Lib,Jo Jorgensen,Election Day Votes,289
+13,217,Newton,Lib,Jo Jorgensen,Provisional Votes,0
+13,217,Newton,Lib,Jo Jorgensen,TOTAL VOTES,576
+13,217,Newton,Dem,Joseph R. Biden,Absentee by Mail Votes,10459
+13,217,Newton,Dem,Joseph R. Biden,Advanced Voting Votes,12556
+13,217,Newton,Dem,Joseph R. Biden,Election Day Votes,6745
+13,217,Newton,Dem,Joseph R. Biden,Provisional Votes,21
+13,217,Newton,Dem,Joseph R. Biden,TOTAL VOTES,29781
+13,219,Oconee,I) (Rep,Donald J. Trump,Absentee by Mail Votes,2696
+13,219,Oconee,I) (Rep,Donald J. Trump,Advanced Voting Votes,11216
+13,219,Oconee,I) (Rep,Donald J. Trump,Election Day Votes,2680
+13,219,Oconee,I) (Rep,Donald J. Trump,Provisional Votes,3
+13,219,Oconee,I) (Rep,Donald J. Trump,TOTAL VOTES,16595
+13,219,Oconee,Lib,Jo Jorgensen,Absentee by Mail Votes,76
+13,219,Oconee,Lib,Jo Jorgensen,Advanced Voting Votes,222
+13,219,Oconee,Lib,Jo Jorgensen,Election Day Votes,113
+13,219,Oconee,Lib,Jo Jorgensen,Provisional Votes,0
+13,219,Oconee,Lib,Jo Jorgensen,TOTAL VOTES,411
+13,219,Oconee,Dem,Joseph R. Biden,Absentee by Mail Votes,2993
+13,219,Oconee,Dem,Joseph R. Biden,Advanced Voting Votes,4444
+13,219,Oconee,Dem,Joseph R. Biden,Election Day Votes,723
+13,219,Oconee,Dem,Joseph R. Biden,Provisional Votes,2
+13,219,Oconee,Dem,Joseph R. Biden,TOTAL VOTES,8162
+13,221,Oglethorpe,I) (Rep,Donald J. Trump,Absentee by Mail Votes,946
+13,221,Oglethorpe,I) (Rep,Donald J. Trump,Advanced Voting Votes,3584
+13,221,Oglethorpe,I) (Rep,Donald J. Trump,Election Day Votes,1061
+13,221,Oglethorpe,I) (Rep,Donald J. Trump,Provisional Votes,2
+13,221,Oglethorpe,I) (Rep,Donald J. Trump,TOTAL VOTES,5593
+13,221,Oglethorpe,Lib,Jo Jorgensen,Absentee by Mail Votes,28
+13,221,Oglethorpe,Lib,Jo Jorgensen,Advanced Voting Votes,47
+13,221,Oglethorpe,Lib,Jo Jorgensen,Election Day Votes,26
+13,221,Oglethorpe,Lib,Jo Jorgensen,Provisional Votes,1
+13,221,Oglethorpe,Lib,Jo Jorgensen,TOTAL VOTES,102
+13,221,Oglethorpe,Dem,Joseph R. Biden,Absentee by Mail Votes,868
+13,221,Oglethorpe,Dem,Joseph R. Biden,Advanced Voting Votes,1150
+13,221,Oglethorpe,Dem,Joseph R. Biden,Election Day Votes,417
+13,221,Oglethorpe,Dem,Joseph R. Biden,Provisional Votes,1
+13,221,Oglethorpe,Dem,Joseph R. Biden,TOTAL VOTES,2436
+13,223,Paulding,I) (Rep,Donald J. Trump,Absentee by Mail Votes,9576
+13,223,Paulding,I) (Rep,Donald J. Trump,Advanced Voting Votes,35174
+13,223,Paulding,I) (Rep,Donald J. Trump,Election Day Votes,9710
+13,223,Paulding,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,223,Paulding,I) (Rep,Donald J. Trump,TOTAL VOTES,54460
+13,223,Paulding,Lib,Jo Jorgensen,Absentee by Mail Votes,278
+13,223,Paulding,Lib,Jo Jorgensen,Advanced Voting Votes,550
+13,223,Paulding,Lib,Jo Jorgensen,Election Day Votes,327
+13,223,Paulding,Lib,Jo Jorgensen,Provisional Votes,0
+13,223,Paulding,Lib,Jo Jorgensen,TOTAL VOTES,1155
+13,223,Paulding,Dem,Joseph R. Biden,Absentee by Mail Votes,10519
+13,223,Paulding,Dem,Joseph R. Biden,Advanced Voting Votes,15376
+13,223,Paulding,Dem,Joseph R. Biden,Election Day Votes,3763
+13,223,Paulding,Dem,Joseph R. Biden,Provisional Votes,0
+13,223,Paulding,Dem,Joseph R. Biden,TOTAL VOTES,29658
+13,225,Peach,I) (Rep,Donald J. Trump,Absentee by Mail Votes,810
+13,225,Peach,I) (Rep,Donald J. Trump,Advanced Voting Votes,4728
+13,225,Peach,I) (Rep,Donald J. Trump,Election Day Votes,954
+13,225,Peach,I) (Rep,Donald J. Trump,Provisional Votes,10
+13,225,Peach,I) (Rep,Donald J. Trump,TOTAL VOTES,6502
+13,225,Peach,Lib,Jo Jorgensen,Absentee by Mail Votes,12
+13,225,Peach,Lib,Jo Jorgensen,Advanced Voting Votes,66
+13,225,Peach,Lib,Jo Jorgensen,Election Day Votes,44
+13,225,Peach,Lib,Jo Jorgensen,Provisional Votes,1
+13,225,Peach,Lib,Jo Jorgensen,TOTAL VOTES,123
+13,225,Peach,Dem,Joseph R. Biden,Absentee by Mail Votes,1741
+13,225,Peach,Dem,Joseph R. Biden,Advanced Voting Votes,3364
+13,225,Peach,Dem,Joseph R. Biden,Election Day Votes,809
+13,225,Peach,Dem,Joseph R. Biden,Provisional Votes,6
+13,225,Peach,Dem,Joseph R. Biden,TOTAL VOTES,5920
+13,227,Pickens,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1786
+13,227,Pickens,I) (Rep,Donald J. Trump,Advanced Voting Votes,6287
+13,227,Pickens,I) (Rep,Donald J. Trump,Election Day Votes,5994
+13,227,Pickens,I) (Rep,Donald J. Trump,Provisional Votes,8
+13,227,Pickens,I) (Rep,Donald J. Trump,TOTAL VOTES,14075
+13,227,Pickens,Lib,Jo Jorgensen,Absentee by Mail Votes,34
+13,227,Pickens,Lib,Jo Jorgensen,Advanced Voting Votes,64
+13,227,Pickens,Lib,Jo Jorgensen,Election Day Votes,135
+13,227,Pickens,Lib,Jo Jorgensen,Provisional Votes,0
+13,227,Pickens,Lib,Jo Jorgensen,TOTAL VOTES,233
+13,227,Pickens,Dem,Joseph R. Biden,Absentee by Mail Votes,1119
+13,227,Pickens,Dem,Joseph R. Biden,Advanced Voting Votes,1044
+13,227,Pickens,Dem,Joseph R. Biden,Election Day Votes,645
+13,227,Pickens,Dem,Joseph R. Biden,Provisional Votes,0
+13,227,Pickens,Dem,Joseph R. Biden,TOTAL VOTES,2808
+13,229,Pierce,I) (Rep,Donald J. Trump,Absentee by Mail Votes,923
+13,229,Pierce,I) (Rep,Donald J. Trump,Advanced Voting Votes,5768
+13,229,Pierce,I) (Rep,Donald J. Trump,Election Day Votes,1208
+13,229,Pierce,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,229,Pierce,I) (Rep,Donald J. Trump,TOTAL VOTES,7899
+13,229,Pierce,Lib,Jo Jorgensen,Absentee by Mail Votes,6
+13,229,Pierce,Lib,Jo Jorgensen,Advanced Voting Votes,29
+13,229,Pierce,Lib,Jo Jorgensen,Election Day Votes,14
+13,229,Pierce,Lib,Jo Jorgensen,Provisional Votes,0
+13,229,Pierce,Lib,Jo Jorgensen,TOTAL VOTES,49
+13,229,Pierce,Dem,Joseph R. Biden,Absentee by Mail Votes,368
+13,229,Pierce,Dem,Joseph R. Biden,Advanced Voting Votes,610
+13,229,Pierce,Dem,Joseph R. Biden,Election Day Votes,122
+13,229,Pierce,Dem,Joseph R. Biden,Provisional Votes,0
+13,229,Pierce,Dem,Joseph R. Biden,TOTAL VOTES,1100
+13,231,Pike,I) (Rep,Donald J. Trump,Absentee by Mail Votes,922
+13,231,Pike,I) (Rep,Donald J. Trump,Advanced Voting Votes,5864
+13,231,Pike,I) (Rep,Donald J. Trump,Election Day Votes,2341
+13,231,Pike,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,231,Pike,I) (Rep,Donald J. Trump,TOTAL VOTES,9127
+13,231,Pike,Lib,Jo Jorgensen,Absentee by Mail Votes,20
+13,231,Pike,Lib,Jo Jorgensen,Advanced Voting Votes,41
+13,231,Pike,Lib,Jo Jorgensen,Election Day Votes,27
+13,231,Pike,Lib,Jo Jorgensen,Provisional Votes,0
+13,231,Pike,Lib,Jo Jorgensen,TOTAL VOTES,88
+13,231,Pike,Dem,Joseph R. Biden,Absentee by Mail Votes,525
+13,231,Pike,Dem,Joseph R. Biden,Advanced Voting Votes,695
+13,231,Pike,Dem,Joseph R. Biden,Election Day Votes,285
+13,231,Pike,Dem,Joseph R. Biden,Provisional Votes,0
+13,231,Pike,Dem,Joseph R. Biden,TOTAL VOTES,1505
+13,233,Polk,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1707
+13,233,Polk,I) (Rep,Donald J. Trump,Advanced Voting Votes,9021
+13,233,Polk,I) (Rep,Donald J. Trump,Election Day Votes,2849
+13,233,Polk,I) (Rep,Donald J. Trump,Provisional Votes,12
+13,233,Polk,I) (Rep,Donald J. Trump,TOTAL VOTES,13589
+13,233,Polk,Lib,Jo Jorgensen,Absentee by Mail Votes,24
+13,233,Polk,Lib,Jo Jorgensen,Advanced Voting Votes,67
+13,233,Polk,Lib,Jo Jorgensen,Election Day Votes,58
+13,233,Polk,Lib,Jo Jorgensen,Provisional Votes,3
+13,233,Polk,Lib,Jo Jorgensen,TOTAL VOTES,152
+13,233,Polk,Dem,Joseph R. Biden,Absentee by Mail Votes,1088
+13,233,Polk,Dem,Joseph R. Biden,Advanced Voting Votes,1957
+13,233,Polk,Dem,Joseph R. Biden,Election Day Votes,607
+13,233,Polk,Dem,Joseph R. Biden,Provisional Votes,6
+13,233,Polk,Dem,Joseph R. Biden,TOTAL VOTES,3658
+13,235,Pulaski,I) (Rep,Donald J. Trump,Absentee by Mail Votes,313
+13,235,Pulaski,I) (Rep,Donald J. Trump,Advanced Voting Votes,2155
+13,235,Pulaski,I) (Rep,Donald J. Trump,Election Day Votes,336
+13,235,Pulaski,I) (Rep,Donald J. Trump,Provisional Votes,1
+13,235,Pulaski,I) (Rep,Donald J. Trump,TOTAL VOTES,2805
+13,235,Pulaski,Lib,Jo Jorgensen,Absentee by Mail Votes,9
+13,235,Pulaski,Lib,Jo Jorgensen,Advanced Voting Votes,18
+13,235,Pulaski,Lib,Jo Jorgensen,Election Day Votes,10
+13,235,Pulaski,Lib,Jo Jorgensen,Provisional Votes,0
+13,235,Pulaski,Lib,Jo Jorgensen,TOTAL VOTES,37
+13,235,Pulaski,Dem,Joseph R. Biden,Absentee by Mail Votes,337
+13,235,Pulaski,Dem,Joseph R. Biden,Advanced Voting Votes,715
+13,235,Pulaski,Dem,Joseph R. Biden,Election Day Votes,165
+13,235,Pulaski,Dem,Joseph R. Biden,Provisional Votes,0
+13,235,Pulaski,Dem,Joseph R. Biden,TOTAL VOTES,1217
+13,237,Putnam,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1760
+13,237,Putnam,I) (Rep,Donald J. Trump,Advanced Voting Votes,4983
+13,237,Putnam,I) (Rep,Donald J. Trump,Election Day Votes,1547
+13,237,Putnam,I) (Rep,Donald J. Trump,Provisional Votes,1
+13,237,Putnam,I) (Rep,Donald J. Trump,TOTAL VOTES,8291
+13,237,Putnam,Lib,Jo Jorgensen,Absentee by Mail Votes,34
+13,237,Putnam,Lib,Jo Jorgensen,Advanced Voting Votes,47
+13,237,Putnam,Lib,Jo Jorgensen,Election Day Votes,35
+13,237,Putnam,Lib,Jo Jorgensen,Provisional Votes,0
+13,237,Putnam,Lib,Jo Jorgensen,TOTAL VOTES,116
+13,237,Putnam,Dem,Joseph R. Biden,Absentee by Mail Votes,1478
+13,237,Putnam,Dem,Joseph R. Biden,Advanced Voting Votes,1500
+13,237,Putnam,Dem,Joseph R. Biden,Election Day Votes,470
+13,237,Putnam,Dem,Joseph R. Biden,Provisional Votes,0
+13,237,Putnam,Dem,Joseph R. Biden,TOTAL VOTES,3448
+13,239,Quitman,I) (Rep,Donald J. Trump,Absentee by Mail Votes,88
+13,239,Quitman,I) (Rep,Donald J. Trump,Advanced Voting Votes,353
+13,239,Quitman,I) (Rep,Donald J. Trump,Election Day Votes,163
+13,239,Quitman,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,239,Quitman,I) (Rep,Donald J. Trump,TOTAL VOTES,604
+13,239,Quitman,Lib,Jo Jorgensen,Absentee by Mail Votes,1
+13,239,Quitman,Lib,Jo Jorgensen,Advanced Voting Votes,1
+13,239,Quitman,Lib,Jo Jorgensen,Election Day Votes,3
+13,239,Quitman,Lib,Jo Jorgensen,Provisional Votes,0
+13,239,Quitman,Lib,Jo Jorgensen,TOTAL VOTES,5
+13,239,Quitman,Dem,Joseph R. Biden,Absentee by Mail Votes,137
+13,239,Quitman,Dem,Joseph R. Biden,Advanced Voting Votes,196
+13,239,Quitman,Dem,Joseph R. Biden,Election Day Votes,163
+13,239,Quitman,Dem,Joseph R. Biden,Provisional Votes,1
+13,239,Quitman,Dem,Joseph R. Biden,TOTAL VOTES,497
+13,241,Rabun,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1663
+13,241,Rabun,I) (Rep,Donald J. Trump,Advanced Voting Votes,4604
+13,241,Rabun,I) (Rep,Donald J. Trump,Election Day Votes,1207
+13,241,Rabun,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,241,Rabun,I) (Rep,Donald J. Trump,TOTAL VOTES,7474
+13,241,Rabun,Lib,Jo Jorgensen,Absentee by Mail Votes,33
+13,241,Rabun,Lib,Jo Jorgensen,Advanced Voting Votes,49
+13,241,Rabun,Lib,Jo Jorgensen,Election Day Votes,28
+13,241,Rabun,Lib,Jo Jorgensen,Provisional Votes,0
+13,241,Rabun,Lib,Jo Jorgensen,TOTAL VOTES,110
+13,241,Rabun,Dem,Joseph R. Biden,Absentee by Mail Votes,888
+13,241,Rabun,Dem,Joseph R. Biden,Advanced Voting Votes,897
+13,241,Rabun,Dem,Joseph R. Biden,Election Day Votes,199
+13,241,Rabun,Dem,Joseph R. Biden,Provisional Votes,0
+13,241,Rabun,Dem,Joseph R. Biden,TOTAL VOTES,1984
+13,243,Randolph,I) (Rep,Donald J. Trump,Absentee by Mail Votes,214
+13,243,Randolph,I) (Rep,Donald J. Trump,Advanced Voting Votes,856
+13,243,Randolph,I) (Rep,Donald J. Trump,Election Day Votes,321
+13,243,Randolph,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,243,Randolph,I) (Rep,Donald J. Trump,TOTAL VOTES,1391
+13,243,Randolph,Lib,Jo Jorgensen,Absentee by Mail Votes,2
+13,243,Randolph,Lib,Jo Jorgensen,Advanced Voting Votes,4
+13,243,Randolph,Lib,Jo Jorgensen,Election Day Votes,6
+13,243,Randolph,Lib,Jo Jorgensen,Provisional Votes,0
+13,243,Randolph,Lib,Jo Jorgensen,TOTAL VOTES,12
+13,243,Randolph,Dem,Joseph R. Biden,Absentee by Mail Votes,464
+13,243,Randolph,Dem,Joseph R. Biden,Advanced Voting Votes,802
+13,243,Randolph,Dem,Joseph R. Biden,Election Day Votes,402
+13,243,Randolph,Dem,Joseph R. Biden,Provisional Votes,3
+13,243,Randolph,Dem,Joseph R. Biden,TOTAL VOTES,1671
+13,245,Richmond,I) (Rep,Donald J. Trump,Absentee by Mail Votes,6192
+13,245,Richmond,I) (Rep,Donald J. Trump,Advanced Voting Votes,11931
+13,245,Richmond,I) (Rep,Donald J. Trump,Election Day Votes,8584
+13,245,Richmond,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,245,Richmond,I) (Rep,Donald J. Trump,TOTAL VOTES,26707
+13,245,Richmond,Lib,Jo Jorgensen,Absentee by Mail Votes,314
+13,245,Richmond,Lib,Jo Jorgensen,Advanced Voting Votes,359
+13,245,Richmond,Lib,Jo Jorgensen,Election Day Votes,428
+13,245,Richmond,Lib,Jo Jorgensen,Provisional Votes,0
+13,245,Richmond,Lib,Jo Jorgensen,TOTAL VOTES,1101
+13,245,Richmond,Dem,Joseph R. Biden,Absentee by Mail Votes,21160
+13,245,Richmond,Dem,Joseph R. Biden,Advanced Voting Votes,25777
+13,245,Richmond,Dem,Joseph R. Biden,Election Day Votes,11839
+13,245,Richmond,Dem,Joseph R. Biden,Provisional Votes,0
+13,245,Richmond,Dem,Joseph R. Biden,TOTAL VOTES,58776
+13,247,Rockdale,I) (Rep,Donald J. Trump,Absentee by Mail Votes,3005
+13,247,Rockdale,I) (Rep,Donald J. Trump,Advanced Voting Votes,7466
+13,247,Rockdale,I) (Rep,Donald J. Trump,Election Day Votes,2526
+13,247,Rockdale,I) (Rep,Donald J. Trump,Provisional Votes,15
+13,247,Rockdale,I) (Rep,Donald J. Trump,TOTAL VOTES,13012
+13,247,Rockdale,Lib,Jo Jorgensen,Absentee by Mail Votes,115
+13,247,Rockdale,Lib,Jo Jorgensen,Advanced Voting Votes,189
+13,247,Rockdale,Lib,Jo Jorgensen,Election Day Votes,126
+13,247,Rockdale,Lib,Jo Jorgensen,Provisional Votes,0
+13,247,Rockdale,Lib,Jo Jorgensen,TOTAL VOTES,430
+13,247,Rockdale,Dem,Joseph R. Biden,Absentee by Mail Votes,9429
+13,247,Rockdale,Dem,Joseph R. Biden,Advanced Voting Votes,18248
+13,247,Rockdale,Dem,Joseph R. Biden,Election Day Votes,3543
+13,247,Rockdale,Dem,Joseph R. Biden,Provisional Votes,24
+13,247,Rockdale,Dem,Joseph R. Biden,TOTAL VOTES,31244
+13,249,Schley,I) (Rep,Donald J. Trump,Absentee by Mail Votes,154
+13,249,Schley,I) (Rep,Donald J. Trump,Advanced Voting Votes,1341
+13,249,Schley,I) (Rep,Donald J. Trump,Election Day Votes,304
+13,249,Schley,I) (Rep,Donald J. Trump,Provisional Votes,1
+13,249,Schley,I) (Rep,Donald J. Trump,TOTAL VOTES,1800
+13,249,Schley,Lib,Jo Jorgensen,Absentee by Mail Votes,3
+13,249,Schley,Lib,Jo Jorgensen,Advanced Voting Votes,6
+13,249,Schley,Lib,Jo Jorgensen,Election Day Votes,4
+13,249,Schley,Lib,Jo Jorgensen,Provisional Votes,0
+13,249,Schley,Lib,Jo Jorgensen,TOTAL VOTES,13
+13,249,Schley,Dem,Joseph R. Biden,Absentee by Mail Votes,157
+13,249,Schley,Dem,Joseph R. Biden,Advanced Voting Votes,240
+13,249,Schley,Dem,Joseph R. Biden,Election Day Votes,65
+13,249,Schley,Dem,Joseph R. Biden,Provisional Votes,0
+13,249,Schley,Dem,Joseph R. Biden,TOTAL VOTES,462
+13,251,Screven,I) (Rep,Donald J. Trump,Absentee by Mail Votes,505
+13,251,Screven,I) (Rep,Donald J. Trump,Advanced Voting Votes,2140
+13,251,Screven,I) (Rep,Donald J. Trump,Election Day Votes,1260
+13,251,Screven,I) (Rep,Donald J. Trump,Provisional Votes,10
+13,251,Screven,I) (Rep,Donald J. Trump,TOTAL VOTES,3915
+13,251,Screven,Lib,Jo Jorgensen,Absentee by Mail Votes,5
+13,251,Screven,Lib,Jo Jorgensen,Advanced Voting Votes,22
+13,251,Screven,Lib,Jo Jorgensen,Election Day Votes,24
+13,251,Screven,Lib,Jo Jorgensen,Provisional Votes,0
+13,251,Screven,Lib,Jo Jorgensen,TOTAL VOTES,51
+13,251,Screven,Dem,Joseph R. Biden,Absentee by Mail Votes,789
+13,251,Screven,Dem,Joseph R. Biden,Advanced Voting Votes,1264
+13,251,Screven,Dem,Joseph R. Biden,Election Day Votes,601
+13,251,Screven,Dem,Joseph R. Biden,Provisional Votes,7
+13,251,Screven,Dem,Joseph R. Biden,TOTAL VOTES,2661
+13,253,Seminole,I) (Rep,Donald J. Trump,Absentee by Mail Votes,277
+13,253,Seminole,I) (Rep,Donald J. Trump,Advanced Voting Votes,1390
+13,253,Seminole,I) (Rep,Donald J. Trump,Election Day Votes,944
+13,253,Seminole,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,253,Seminole,I) (Rep,Donald J. Trump,TOTAL VOTES,2611
+13,253,Seminole,Lib,Jo Jorgensen,Absentee by Mail Votes,1
+13,253,Seminole,Lib,Jo Jorgensen,Advanced Voting Votes,3
+13,253,Seminole,Lib,Jo Jorgensen,Election Day Votes,15
+13,253,Seminole,Lib,Jo Jorgensen,Provisional Votes,0
+13,253,Seminole,Lib,Jo Jorgensen,TOTAL VOTES,19
+13,253,Seminole,Dem,Joseph R. Biden,Absentee by Mail Votes,269
+13,253,Seminole,Dem,Joseph R. Biden,Advanced Voting Votes,691
+13,253,Seminole,Dem,Joseph R. Biden,Election Day Votes,294
+13,253,Seminole,Dem,Joseph R. Biden,Provisional Votes,0
+13,253,Seminole,Dem,Joseph R. Biden,TOTAL VOTES,1254
+13,255,Spalding,I) (Rep,Donald J. Trump,Absentee by Mail Votes,3490
+13,255,Spalding,I) (Rep,Donald J. Trump,Advanced Voting Votes,8801
+13,255,Spalding,I) (Rep,Donald J. Trump,Election Day Votes,5234
+13,255,Spalding,I) (Rep,Donald J. Trump,Provisional Votes,532
+13,255,Spalding,I) (Rep,Donald J. Trump,TOTAL VOTES,18057
+13,255,Spalding,Lib,Jo Jorgensen,Absentee by Mail Votes,53
+13,255,Spalding,Lib,Jo Jorgensen,Advanced Voting Votes,78
+13,255,Spalding,Lib,Jo Jorgensen,Election Day Votes,132
+13,255,Spalding,Lib,Jo Jorgensen,Provisional Votes,12
+13,255,Spalding,Lib,Jo Jorgensen,TOTAL VOTES,275
+13,255,Spalding,Dem,Joseph R. Biden,Absentee by Mail Votes,4264
+13,255,Spalding,Dem,Joseph R. Biden,Advanced Voting Votes,4600
+13,255,Spalding,Dem,Joseph R. Biden,Election Day Votes,2554
+13,255,Spalding,Dem,Joseph R. Biden,Provisional Votes,366
+13,255,Spalding,Dem,Joseph R. Biden,TOTAL VOTES,11784
+13,257,Stephens,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1365
+13,257,Stephens,I) (Rep,Donald J. Trump,Advanced Voting Votes,6765
+13,257,Stephens,I) (Rep,Donald J. Trump,Election Day Votes,1234
+13,257,Stephens,I) (Rep,Donald J. Trump,Provisional Votes,4
+13,257,Stephens,I) (Rep,Donald J. Trump,TOTAL VOTES,9368
+13,257,Stephens,Lib,Jo Jorgensen,Absentee by Mail Votes,24
+13,257,Stephens,Lib,Jo Jorgensen,Advanced Voting Votes,75
+13,257,Stephens,Lib,Jo Jorgensen,Election Day Votes,33
+13,257,Stephens,Lib,Jo Jorgensen,Provisional Votes,0
+13,257,Stephens,Lib,Jo Jorgensen,TOTAL VOTES,132
+13,257,Stephens,Dem,Joseph R. Biden,Absentee by Mail Votes,806
+13,257,Stephens,Dem,Joseph R. Biden,Advanced Voting Votes,1288
+13,257,Stephens,Dem,Joseph R. Biden,Election Day Votes,291
+13,257,Stephens,Dem,Joseph R. Biden,Provisional Votes,0
+13,257,Stephens,Dem,Joseph R. Biden,TOTAL VOTES,2385
+13,259,Stewart,I) (Rep,Donald J. Trump,Absentee by Mail Votes,105
+13,259,Stewart,I) (Rep,Donald J. Trump,Advanced Voting Votes,462
+13,259,Stewart,I) (Rep,Donald J. Trump,Election Day Votes,229
+13,259,Stewart,I) (Rep,Donald J. Trump,Provisional Votes,5
+13,259,Stewart,I) (Rep,Donald J. Trump,TOTAL VOTES,801
+13,259,Stewart,Lib,Jo Jorgensen,Absentee by Mail Votes,2
+13,259,Stewart,Lib,Jo Jorgensen,Advanced Voting Votes,3
+13,259,Stewart,Lib,Jo Jorgensen,Election Day Votes,2
+13,259,Stewart,Lib,Jo Jorgensen,Provisional Votes,0
+13,259,Stewart,Lib,Jo Jorgensen,TOTAL VOTES,7
+13,259,Stewart,Dem,Joseph R. Biden,Absentee by Mail Votes,378
+13,259,Stewart,Dem,Joseph R. Biden,Advanced Voting Votes,505
+13,259,Stewart,Dem,Joseph R. Biden,Election Day Votes,292
+13,259,Stewart,Dem,Joseph R. Biden,Provisional Votes,7
+13,259,Stewart,Dem,Joseph R. Biden,TOTAL VOTES,1182
+13,261,Sumter,I) (Rep,Donald J. Trump,Absentee by Mail Votes,837
+13,261,Sumter,I) (Rep,Donald J. Trump,Advanced Voting Votes,3358
+13,261,Sumter,I) (Rep,Donald J. Trump,Election Day Votes,1524
+13,261,Sumter,I) (Rep,Donald J. Trump,Provisional Votes,13
+13,261,Sumter,I) (Rep,Donald J. Trump,TOTAL VOTES,5732
+13,261,Sumter,Lib,Jo Jorgensen,Absentee by Mail Votes,18
+13,261,Sumter,Lib,Jo Jorgensen,Advanced Voting Votes,56
+13,261,Sumter,Lib,Jo Jorgensen,Election Day Votes,26
+13,261,Sumter,Lib,Jo Jorgensen,Provisional Votes,0
+13,261,Sumter,Lib,Jo Jorgensen,TOTAL VOTES,100
+13,261,Sumter,Dem,Joseph R. Biden,Absentee by Mail Votes,2023
+13,261,Sumter,Dem,Joseph R. Biden,Advanced Voting Votes,3150
+13,261,Sumter,Dem,Joseph R. Biden,Election Day Votes,1139
+13,261,Sumter,Dem,Joseph R. Biden,Provisional Votes,6
+13,261,Sumter,Dem,Joseph R. Biden,TOTAL VOTES,6318
+13,263,Talbot,I) (Rep,Donald J. Trump,Absentee by Mail Votes,241
+13,263,Talbot,I) (Rep,Donald J. Trump,Advanced Voting Votes,686
+13,263,Talbot,I) (Rep,Donald J. Trump,Election Day Votes,464
+13,263,Talbot,I) (Rep,Donald J. Trump,Provisional Votes,1
+13,263,Talbot,I) (Rep,Donald J. Trump,TOTAL VOTES,1392
+13,263,Talbot,Lib,Jo Jorgensen,Absentee by Mail Votes,2
+13,263,Talbot,Lib,Jo Jorgensen,Advanced Voting Votes,5
+13,263,Talbot,Lib,Jo Jorgensen,Election Day Votes,9
+13,263,Talbot,Lib,Jo Jorgensen,Provisional Votes,0
+13,263,Talbot,Lib,Jo Jorgensen,TOTAL VOTES,16
+13,263,Talbot,Dem,Joseph R. Biden,Absentee by Mail Votes,955
+13,263,Talbot,Dem,Joseph R. Biden,Advanced Voting Votes,618
+13,263,Talbot,Dem,Joseph R. Biden,Election Day Votes,541
+13,263,Talbot,Dem,Joseph R. Biden,Provisional Votes,0
+13,263,Talbot,Dem,Joseph R. Biden,TOTAL VOTES,2114
+13,265,Taliaferro,I) (Rep,Donald J. Trump,Absentee by Mail Votes,64
+13,265,Taliaferro,I) (Rep,Donald J. Trump,Advanced Voting Votes,200
+13,265,Taliaferro,I) (Rep,Donald J. Trump,Election Day Votes,96
+13,265,Taliaferro,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,265,Taliaferro,I) (Rep,Donald J. Trump,TOTAL VOTES,360
+13,265,Taliaferro,Lib,Jo Jorgensen,Absentee by Mail Votes,1
+13,265,Taliaferro,Lib,Jo Jorgensen,Advanced Voting Votes,2
+13,265,Taliaferro,Lib,Jo Jorgensen,Election Day Votes,4
+13,265,Taliaferro,Lib,Jo Jorgensen,Provisional Votes,0
+13,265,Taliaferro,Lib,Jo Jorgensen,TOTAL VOTES,7
+13,265,Taliaferro,Dem,Joseph R. Biden,Absentee by Mail Votes,237
+13,265,Taliaferro,Dem,Joseph R. Biden,Advanced Voting Votes,223
+13,265,Taliaferro,Dem,Joseph R. Biden,Election Day Votes,100
+13,265,Taliaferro,Dem,Joseph R. Biden,Provisional Votes,1
+13,265,Taliaferro,Dem,Joseph R. Biden,TOTAL VOTES,561
+13,267,Tattnall,I) (Rep,Donald J. Trump,Absentee by Mail Votes,818
+13,267,Tattnall,I) (Rep,Donald J. Trump,Advanced Voting Votes,3699
+13,267,Tattnall,I) (Rep,Donald J. Trump,Election Day Votes,1536
+13,267,Tattnall,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,267,Tattnall,I) (Rep,Donald J. Trump,TOTAL VOTES,6053
+13,267,Tattnall,Lib,Jo Jorgensen,Absentee by Mail Votes,10
+13,267,Tattnall,Lib,Jo Jorgensen,Advanced Voting Votes,25
+13,267,Tattnall,Lib,Jo Jorgensen,Election Day Votes,34
+13,267,Tattnall,Lib,Jo Jorgensen,Provisional Votes,0
+13,267,Tattnall,Lib,Jo Jorgensen,TOTAL VOTES,69
+13,267,Tattnall,Dem,Joseph R. Biden,Absentee by Mail Votes,546
+13,267,Tattnall,Dem,Joseph R. Biden,Advanced Voting Votes,1103
+13,267,Tattnall,Dem,Joseph R. Biden,Election Day Votes,412
+13,267,Tattnall,Dem,Joseph R. Biden,Provisional Votes,0
+13,267,Tattnall,Dem,Joseph R. Biden,TOTAL VOTES,2061
+13,269,Taylor,I) (Rep,Donald J. Trump,Absentee by Mail Votes,292
+13,269,Taylor,I) (Rep,Donald J. Trump,Advanced Voting Votes,1764
+13,269,Taylor,I) (Rep,Donald J. Trump,Election Day Votes,349
+13,269,Taylor,I) (Rep,Donald J. Trump,Provisional Votes,13
+13,269,Taylor,I) (Rep,Donald J. Trump,TOTAL VOTES,2418
+13,269,Taylor,Lib,Jo Jorgensen,Absentee by Mail Votes,3
+13,269,Taylor,Lib,Jo Jorgensen,Advanced Voting Votes,18
+13,269,Taylor,Lib,Jo Jorgensen,Election Day Votes,13
+13,269,Taylor,Lib,Jo Jorgensen,Provisional Votes,0
+13,269,Taylor,Lib,Jo Jorgensen,TOTAL VOTES,34
+13,269,Taylor,Dem,Joseph R. Biden,Absentee by Mail Votes,489
+13,269,Taylor,Dem,Joseph R. Biden,Advanced Voting Votes,624
+13,269,Taylor,Dem,Joseph R. Biden,Election Day Votes,272
+13,269,Taylor,Dem,Joseph R. Biden,Provisional Votes,2
+13,269,Taylor,Dem,Joseph R. Biden,TOTAL VOTES,1387
+13,271,Telfair,I) (Rep,Donald J. Trump,Absentee by Mail Votes,358
+13,271,Telfair,I) (Rep,Donald J. Trump,Advanced Voting Votes,1506
+13,271,Telfair,I) (Rep,Donald J. Trump,Election Day Votes,958
+13,271,Telfair,I) (Rep,Donald J. Trump,Provisional Votes,3
+13,271,Telfair,I) (Rep,Donald J. Trump,TOTAL VOTES,2825
+13,271,Telfair,Lib,Jo Jorgensen,Absentee by Mail Votes,2
+13,271,Telfair,Lib,Jo Jorgensen,Advanced Voting Votes,9
+13,271,Telfair,Lib,Jo Jorgensen,Election Day Votes,10
+13,271,Telfair,Lib,Jo Jorgensen,Provisional Votes,0
+13,271,Telfair,Lib,Jo Jorgensen,TOTAL VOTES,21
+13,271,Telfair,Dem,Joseph R. Biden,Absentee by Mail Votes,618
+13,271,Telfair,Dem,Joseph R. Biden,Advanced Voting Votes,545
+13,271,Telfair,Dem,Joseph R. Biden,Election Day Votes,317
+13,271,Telfair,Dem,Joseph R. Biden,Provisional Votes,6
+13,271,Telfair,Dem,Joseph R. Biden,TOTAL VOTES,1486
+13,273,Terrell,I) (Rep,Donald J. Trump,Absentee by Mail Votes,270
+13,273,Terrell,I) (Rep,Donald J. Trump,Advanced Voting Votes,1069
+13,273,Terrell,I) (Rep,Donald J. Trump,Election Day Votes,665
+13,273,Terrell,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,273,Terrell,I) (Rep,Donald J. Trump,TOTAL VOTES,2004
+13,273,Terrell,Lib,Jo Jorgensen,Absentee by Mail Votes,12
+13,273,Terrell,Lib,Jo Jorgensen,Advanced Voting Votes,9
+13,273,Terrell,Lib,Jo Jorgensen,Election Day Votes,15
+13,273,Terrell,Lib,Jo Jorgensen,Provisional Votes,0
+13,273,Terrell,Lib,Jo Jorgensen,TOTAL VOTES,36
+13,273,Terrell,Dem,Joseph R. Biden,Absentee by Mail Votes,839
+13,273,Terrell,Dem,Joseph R. Biden,Advanced Voting Votes,969
+13,273,Terrell,Dem,Joseph R. Biden,Election Day Votes,567
+13,273,Terrell,Dem,Joseph R. Biden,Provisional Votes,1
+13,273,Terrell,Dem,Joseph R. Biden,TOTAL VOTES,2376
+13,275,Thomas,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1670
+13,275,Thomas,I) (Rep,Donald J. Trump,Advanced Voting Votes,8565
+13,275,Thomas,I) (Rep,Donald J. Trump,Election Day Votes,2718
+13,275,Thomas,I) (Rep,Donald J. Trump,Provisional Votes,1
+13,275,Thomas,I) (Rep,Donald J. Trump,TOTAL VOTES,12954
+13,275,Thomas,Lib,Jo Jorgensen,Absentee by Mail Votes,35
+13,275,Thomas,Lib,Jo Jorgensen,Advanced Voting Votes,91
+13,275,Thomas,Lib,Jo Jorgensen,Election Day Votes,65
+13,275,Thomas,Lib,Jo Jorgensen,Provisional Votes,0
+13,275,Thomas,Lib,Jo Jorgensen,TOTAL VOTES,191
+13,275,Thomas,Dem,Joseph R. Biden,Absentee by Mail Votes,2412
+13,275,Thomas,Dem,Joseph R. Biden,Advanced Voting Votes,4819
+13,275,Thomas,Dem,Joseph R. Biden,Election Day Votes,1473
+13,275,Thomas,Dem,Joseph R. Biden,Provisional Votes,4
+13,275,Thomas,Dem,Joseph R. Biden,TOTAL VOTES,8708
+13,277,Tift,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1221
+13,277,Tift,I) (Rep,Donald J. Trump,Advanced Voting Votes,6833
+13,277,Tift,I) (Rep,Donald J. Trump,Election Day Votes,2721
+13,277,Tift,I) (Rep,Donald J. Trump,Provisional Votes,9
+13,277,Tift,I) (Rep,Donald J. Trump,TOTAL VOTES,10784
+13,277,Tift,Lib,Jo Jorgensen,Absentee by Mail Votes,33
+13,277,Tift,Lib,Jo Jorgensen,Advanced Voting Votes,88
+13,277,Tift,Lib,Jo Jorgensen,Election Day Votes,54
+13,277,Tift,Lib,Jo Jorgensen,Provisional Votes,2
+13,277,Tift,Lib,Jo Jorgensen,TOTAL VOTES,177
+13,277,Tift,Dem,Joseph R. Biden,Absentee by Mail Votes,1464
+13,277,Tift,Dem,Joseph R. Biden,Advanced Voting Votes,2732
+13,277,Tift,Dem,Joseph R. Biden,Election Day Votes,1110
+13,277,Tift,Dem,Joseph R. Biden,Provisional Votes,16
+13,277,Tift,Dem,Joseph R. Biden,TOTAL VOTES,5322
+13,279,Toombs,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1217
+13,279,Toombs,I) (Rep,Donald J. Trump,Advanced Voting Votes,4852
+13,279,Toombs,I) (Rep,Donald J. Trump,Election Day Votes,1797
+13,279,Toombs,I) (Rep,Donald J. Trump,Provisional Votes,6
+13,279,Toombs,I) (Rep,Donald J. Trump,TOTAL VOTES,7872
+13,279,Toombs,Lib,Jo Jorgensen,Absentee by Mail Votes,16
+13,279,Toombs,Lib,Jo Jorgensen,Advanced Voting Votes,38
+13,279,Toombs,Lib,Jo Jorgensen,Election Day Votes,49
+13,279,Toombs,Lib,Jo Jorgensen,Provisional Votes,0
+13,279,Toombs,Lib,Jo Jorgensen,TOTAL VOTES,103
+13,279,Toombs,Dem,Joseph R. Biden,Absentee by Mail Votes,1078
+13,279,Toombs,Dem,Joseph R. Biden,Advanced Voting Votes,1288
+13,279,Toombs,Dem,Joseph R. Biden,Election Day Votes,569
+13,279,Toombs,Dem,Joseph R. Biden,Provisional Votes,4
+13,279,Toombs,Dem,Joseph R. Biden,TOTAL VOTES,2939
+13,281,Towns,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1227
+13,281,Towns,I) (Rep,Donald J. Trump,Advanced Voting Votes,4165
+13,281,Towns,I) (Rep,Donald J. Trump,Election Day Votes,984
+13,281,Towns,I) (Rep,Donald J. Trump,Provisional Votes,8
+13,281,Towns,I) (Rep,Donald J. Trump,TOTAL VOTES,6384
+13,281,Towns,Lib,Jo Jorgensen,Absentee by Mail Votes,10
+13,281,Towns,Lib,Jo Jorgensen,Advanced Voting Votes,18
+13,281,Towns,Lib,Jo Jorgensen,Election Day Votes,17
+13,281,Towns,Lib,Jo Jorgensen,Provisional Votes,0
+13,281,Towns,Lib,Jo Jorgensen,TOTAL VOTES,45
+13,281,Towns,Dem,Joseph R. Biden,Absentee by Mail Votes,711
+13,281,Towns,Dem,Joseph R. Biden,Advanced Voting Votes,720
+13,281,Towns,Dem,Joseph R. Biden,Election Day Votes,118
+13,281,Towns,Dem,Joseph R. Biden,Provisional Votes,1
+13,281,Towns,Dem,Joseph R. Biden,TOTAL VOTES,1550
+13,283,Treutlen,I) (Rep,Donald J. Trump,Absentee by Mail Votes,274
+13,283,Treutlen,I) (Rep,Donald J. Trump,Advanced Voting Votes,1409
+13,283,Treutlen,I) (Rep,Donald J. Trump,Election Day Votes,418
+13,283,Treutlen,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,283,Treutlen,I) (Rep,Donald J. Trump,TOTAL VOTES,2101
+13,283,Treutlen,Lib,Jo Jorgensen,Absentee by Mail Votes,4
+13,283,Treutlen,Lib,Jo Jorgensen,Advanced Voting Votes,10
+13,283,Treutlen,Lib,Jo Jorgensen,Election Day Votes,10
+13,283,Treutlen,Lib,Jo Jorgensen,Provisional Votes,0
+13,283,Treutlen,Lib,Jo Jorgensen,TOTAL VOTES,24
+13,283,Treutlen,Dem,Joseph R. Biden,Absentee by Mail Votes,303
+13,283,Treutlen,Dem,Joseph R. Biden,Advanced Voting Votes,526
+13,283,Treutlen,Dem,Joseph R. Biden,Election Day Votes,123
+13,283,Treutlen,Dem,Joseph R. Biden,Provisional Votes,0
+13,283,Treutlen,Dem,Joseph R. Biden,TOTAL VOTES,952
+13,285,Troup,I) (Rep,Donald J. Trump,Absentee by Mail Votes,2908
+13,285,Troup,I) (Rep,Donald J. Trump,Advanced Voting Votes,10519
+13,285,Troup,I) (Rep,Donald J. Trump,Election Day Votes,4673
+13,285,Troup,I) (Rep,Donald J. Trump,Provisional Votes,46
+13,285,Troup,I) (Rep,Donald J. Trump,TOTAL VOTES,18146
+13,285,Troup,Lib,Jo Jorgensen,Absentee by Mail Votes,60
+13,285,Troup,Lib,Jo Jorgensen,Advanced Voting Votes,129
+13,285,Troup,Lib,Jo Jorgensen,Election Day Votes,139
+13,285,Troup,Lib,Jo Jorgensen,Provisional Votes,0
+13,285,Troup,Lib,Jo Jorgensen,TOTAL VOTES,328
+13,285,Troup,Dem,Joseph R. Biden,Absentee by Mail Votes,3466
+13,285,Troup,Dem,Joseph R. Biden,Advanced Voting Votes,5276
+13,285,Troup,Dem,Joseph R. Biden,Election Day Votes,2809
+13,285,Troup,Dem,Joseph R. Biden,Provisional Votes,34
+13,285,Troup,Dem,Joseph R. Biden,TOTAL VOTES,11585
+13,287,Turner,I) (Rep,Donald J. Trump,Absentee by Mail Votes,233
+13,287,Turner,I) (Rep,Donald J. Trump,Advanced Voting Votes,1738
+13,287,Turner,I) (Rep,Donald J. Trump,Election Day Votes,377
+13,287,Turner,I) (Rep,Donald J. Trump,Provisional Votes,1
+13,287,Turner,I) (Rep,Donald J. Trump,TOTAL VOTES,2349
+13,287,Turner,Lib,Jo Jorgensen,Absentee by Mail Votes,5
+13,287,Turner,Lib,Jo Jorgensen,Advanced Voting Votes,22
+13,287,Turner,Lib,Jo Jorgensen,Election Day Votes,6
+13,287,Turner,Lib,Jo Jorgensen,Provisional Votes,0
+13,287,Turner,Lib,Jo Jorgensen,TOTAL VOTES,33
+13,287,Turner,Dem,Joseph R. Biden,Absentee by Mail Votes,289
+13,287,Turner,Dem,Joseph R. Biden,Advanced Voting Votes,788
+13,287,Turner,Dem,Joseph R. Biden,Election Day Votes,332
+13,287,Turner,Dem,Joseph R. Biden,Provisional Votes,1
+13,287,Turner,Dem,Joseph R. Biden,TOTAL VOTES,1410
+13,289,Twiggs,I) (Rep,Donald J. Trump,Absentee by Mail Votes,310
+13,289,Twiggs,I) (Rep,Donald J. Trump,Advanced Voting Votes,1219
+13,289,Twiggs,I) (Rep,Donald J. Trump,Election Day Votes,841
+13,289,Twiggs,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,289,Twiggs,I) (Rep,Donald J. Trump,TOTAL VOTES,2370
+13,289,Twiggs,Lib,Jo Jorgensen,Absentee by Mail Votes,7
+13,289,Twiggs,Lib,Jo Jorgensen,Advanced Voting Votes,8
+13,289,Twiggs,Lib,Jo Jorgensen,Election Day Votes,15
+13,289,Twiggs,Lib,Jo Jorgensen,Provisional Votes,0
+13,289,Twiggs,Lib,Jo Jorgensen,TOTAL VOTES,30
+13,289,Twiggs,Dem,Joseph R. Biden,Absentee by Mail Votes,736
+13,289,Twiggs,Dem,Joseph R. Biden,Advanced Voting Votes,878
+13,289,Twiggs,Dem,Joseph R. Biden,Election Day Votes,426
+13,289,Twiggs,Dem,Joseph R. Biden,Provisional Votes,4
+13,289,Twiggs,Dem,Joseph R. Biden,TOTAL VOTES,2044
+13,291,Union,I) (Rep,Donald J. Trump,Absentee by Mail Votes,2232
+13,291,Union,I) (Rep,Donald J. Trump,Advanced Voting Votes,7008
+13,291,Union,I) (Rep,Donald J. Trump,Election Day Votes,3400
+13,291,Union,I) (Rep,Donald J. Trump,Provisional Votes,11
+13,291,Union,I) (Rep,Donald J. Trump,TOTAL VOTES,12651
+13,291,Union,Lib,Jo Jorgensen,Absentee by Mail Votes,23
+13,291,Union,Lib,Jo Jorgensen,Advanced Voting Votes,36
+13,291,Union,Lib,Jo Jorgensen,Election Day Votes,49
+13,291,Union,Lib,Jo Jorgensen,Provisional Votes,0
+13,291,Union,Lib,Jo Jorgensen,TOTAL VOTES,108
+13,291,Union,Dem,Joseph R. Biden,Absentee by Mail Votes,1303
+13,291,Union,Dem,Joseph R. Biden,Advanced Voting Votes,1198
+13,291,Union,Dem,Joseph R. Biden,Election Day Votes,300
+13,291,Union,Dem,Joseph R. Biden,Provisional Votes,0
+13,291,Union,Dem,Joseph R. Biden,TOTAL VOTES,2801
+13,293,Upson,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1175
+13,293,Upson,I) (Rep,Donald J. Trump,Advanced Voting Votes,6063
+13,293,Upson,I) (Rep,Donald J. Trump,Election Day Votes,1364
+13,293,Upson,I) (Rep,Donald J. Trump,Provisional Votes,6
+13,293,Upson,I) (Rep,Donald J. Trump,TOTAL VOTES,8608
+13,293,Upson,Lib,Jo Jorgensen,Absentee by Mail Votes,20
+13,293,Upson,Lib,Jo Jorgensen,Advanced Voting Votes,48
+13,293,Upson,Lib,Jo Jorgensen,Election Day Votes,28
+13,293,Upson,Lib,Jo Jorgensen,Provisional Votes,0
+13,293,Upson,Lib,Jo Jorgensen,TOTAL VOTES,96
+13,293,Upson,Dem,Joseph R. Biden,Absentee by Mail Votes,1572
+13,293,Upson,Dem,Joseph R. Biden,Advanced Voting Votes,1983
+13,293,Upson,Dem,Joseph R. Biden,Election Day Votes,646
+13,293,Upson,Dem,Joseph R. Biden,Provisional Votes,0
+13,293,Upson,Dem,Joseph R. Biden,TOTAL VOTES,4201
+13,295,Walker,I) (Rep,Donald J. Trump,Absentee by Mail Votes,3517
+13,295,Walker,I) (Rep,Donald J. Trump,Advanced Voting Votes,14089
+13,295,Walker,I) (Rep,Donald J. Trump,Election Day Votes,5560
+13,295,Walker,I) (Rep,Donald J. Trump,Provisional Votes,8
+13,295,Walker,I) (Rep,Donald J. Trump,TOTAL VOTES,23174
+13,295,Walker,Lib,Jo Jorgensen,Absentee by Mail Votes,76
+13,295,Walker,Lib,Jo Jorgensen,Advanced Voting Votes,173
+13,295,Walker,Lib,Jo Jorgensen,Election Day Votes,162
+13,295,Walker,Lib,Jo Jorgensen,Provisional Votes,0
+13,295,Walker,Lib,Jo Jorgensen,TOTAL VOTES,411
+13,295,Walker,Dem,Joseph R. Biden,Absentee by Mail Votes,2206
+13,295,Walker,Dem,Joseph R. Biden,Advanced Voting Votes,2567
+13,295,Walker,Dem,Joseph R. Biden,Election Day Votes,994
+13,295,Walker,Dem,Joseph R. Biden,Provisional Votes,2
+13,295,Walker,Dem,Joseph R. Biden,TOTAL VOTES,5769
+13,297,Walton,I) (Rep,Donald J. Trump,Absentee by Mail Votes,6047
+13,297,Walton,I) (Rep,Donald J. Trump,Advanced Voting Votes,22593
+13,297,Walton,I) (Rep,Donald J. Trump,Election Day Votes,8977
+13,297,Walton,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,297,Walton,I) (Rep,Donald J. Trump,TOTAL VOTES,37617
+13,297,Walton,Lib,Jo Jorgensen,Absentee by Mail Votes,111
+13,297,Walton,Lib,Jo Jorgensen,Advanced Voting Votes,235
+13,297,Walton,Lib,Jo Jorgensen,Election Day Votes,215
+13,297,Walton,Lib,Jo Jorgensen,Provisional Votes,0
+13,297,Walton,Lib,Jo Jorgensen,TOTAL VOTES,561
+13,297,Walton,Dem,Joseph R. Biden,Absentee by Mail Votes,4266
+13,297,Walton,Dem,Joseph R. Biden,Advanced Voting Votes,6272
+13,297,Walton,Dem,Joseph R. Biden,Election Day Votes,2096
+13,297,Walton,Dem,Joseph R. Biden,Provisional Votes,0
+13,297,Walton,Dem,Joseph R. Biden,TOTAL VOTES,12634
+13,299,Ware,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1453
+13,299,Ware,I) (Rep,Donald J. Trump,Advanced Voting Votes,5900
+13,299,Ware,I) (Rep,Donald J. Trump,Election Day Votes,2577
+13,299,Ware,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,299,Ware,I) (Rep,Donald J. Trump,TOTAL VOTES,9930
+13,299,Ware,Lib,Jo Jorgensen,Absentee by Mail Votes,19
+13,299,Ware,Lib,Jo Jorgensen,Advanced Voting Votes,52
+13,299,Ware,Lib,Jo Jorgensen,Election Day Votes,46
+13,299,Ware,Lib,Jo Jorgensen,Provisional Votes,0
+13,299,Ware,Lib,Jo Jorgensen,TOTAL VOTES,117
+13,299,Ware,Dem,Joseph R. Biden,Absentee by Mail Votes,1620
+13,299,Ware,Dem,Joseph R. Biden,Advanced Voting Votes,2066
+13,299,Ware,Dem,Joseph R. Biden,Election Day Votes,563
+13,299,Ware,Dem,Joseph R. Biden,Provisional Votes,0
+13,299,Ware,Dem,Joseph R. Biden,TOTAL VOTES,4249
+13,301,Warren,I) (Rep,Donald J. Trump,Absentee by Mail Votes,216
+13,301,Warren,I) (Rep,Donald J. Trump,Advanced Voting Votes,771
+13,301,Warren,I) (Rep,Donald J. Trump,Election Day Votes,190
+13,301,Warren,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,301,Warren,I) (Rep,Donald J. Trump,TOTAL VOTES,1177
+13,301,Warren,Lib,Jo Jorgensen,Absentee by Mail Votes,1
+13,301,Warren,Lib,Jo Jorgensen,Advanced Voting Votes,9
+13,301,Warren,Lib,Jo Jorgensen,Election Day Votes,6
+13,301,Warren,Lib,Jo Jorgensen,Provisional Votes,0
+13,301,Warren,Lib,Jo Jorgensen,TOTAL VOTES,16
+13,301,Warren,Dem,Joseph R. Biden,Absentee by Mail Votes,559
+13,301,Warren,Dem,Joseph R. Biden,Advanced Voting Votes,632
+13,301,Warren,Dem,Joseph R. Biden,Election Day Votes,297
+13,301,Warren,Dem,Joseph R. Biden,Provisional Votes,0
+13,301,Warren,Dem,Joseph R. Biden,TOTAL VOTES,1488
+13,303,Washington,I) (Rep,Donald J. Trump,Absentee by Mail Votes,719
+13,303,Washington,I) (Rep,Donald J. Trump,Advanced Voting Votes,2458
+13,303,Washington,I) (Rep,Donald J. Trump,Election Day Votes,1481
+13,303,Washington,I) (Rep,Donald J. Trump,Provisional Votes,5
+13,303,Washington,I) (Rep,Donald J. Trump,TOTAL VOTES,4663
+13,303,Washington,Lib,Jo Jorgensen,Absentee by Mail Votes,14
+13,303,Washington,Lib,Jo Jorgensen,Advanced Voting Votes,27
+13,303,Washington,Lib,Jo Jorgensen,Election Day Votes,25
+13,303,Washington,Lib,Jo Jorgensen,Provisional Votes,0
+13,303,Washington,Lib,Jo Jorgensen,TOTAL VOTES,66
+13,303,Washington,Dem,Joseph R. Biden,Absentee by Mail Votes,1811
+13,303,Washington,Dem,Joseph R. Biden,Advanced Voting Votes,1843
+13,303,Washington,Dem,Joseph R. Biden,Election Day Votes,1071
+13,303,Washington,Dem,Joseph R. Biden,Provisional Votes,5
+13,303,Washington,Dem,Joseph R. Biden,TOTAL VOTES,4730
+13,305,Wayne,I) (Rep,Donald J. Trump,Absentee by Mail Votes,1354
+13,305,Wayne,I) (Rep,Donald J. Trump,Advanced Voting Votes,6131
+13,305,Wayne,I) (Rep,Donald J. Trump,Election Day Votes,2495
+13,305,Wayne,I) (Rep,Donald J. Trump,Provisional Votes,7
+13,305,Wayne,I) (Rep,Donald J. Trump,TOTAL VOTES,9987
+13,305,Wayne,Lib,Jo Jorgensen,Absentee by Mail Votes,16
+13,305,Wayne,Lib,Jo Jorgensen,Advanced Voting Votes,53
+13,305,Wayne,Lib,Jo Jorgensen,Election Day Votes,35
+13,305,Wayne,Lib,Jo Jorgensen,Provisional Votes,0
+13,305,Wayne,Lib,Jo Jorgensen,TOTAL VOTES,104
+13,305,Wayne,Dem,Joseph R. Biden,Absentee by Mail Votes,736
+13,305,Wayne,Dem,Joseph R. Biden,Advanced Voting Votes,1489
+13,305,Wayne,Dem,Joseph R. Biden,Election Day Votes,460
+13,305,Wayne,Dem,Joseph R. Biden,Provisional Votes,2
+13,305,Wayne,Dem,Joseph R. Biden,TOTAL VOTES,2687
+13,307,Webster,I) (Rep,Donald J. Trump,Absentee by Mail Votes,121
+13,307,Webster,I) (Rep,Donald J. Trump,Advanced Voting Votes,488
+13,307,Webster,I) (Rep,Donald J. Trump,Election Day Votes,139
+13,307,Webster,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,307,Webster,I) (Rep,Donald J. Trump,TOTAL VOTES,748
+13,307,Webster,Lib,Jo Jorgensen,Absentee by Mail Votes,2
+13,307,Webster,Lib,Jo Jorgensen,Advanced Voting Votes,1
+13,307,Webster,Lib,Jo Jorgensen,Election Day Votes,0
+13,307,Webster,Lib,Jo Jorgensen,Provisional Votes,0
+13,307,Webster,Lib,Jo Jorgensen,TOTAL VOTES,3
+13,307,Webster,Dem,Joseph R. Biden,Absentee by Mail Votes,227
+13,307,Webster,Dem,Joseph R. Biden,Advanced Voting Votes,270
+13,307,Webster,Dem,Joseph R. Biden,Election Day Votes,142
+13,307,Webster,Dem,Joseph R. Biden,Provisional Votes,0
+13,307,Webster,Dem,Joseph R. Biden,TOTAL VOTES,639
+13,309,Wheeler,I) (Rep,Donald J. Trump,Absentee by Mail Votes,202
+13,309,Wheeler,I) (Rep,Donald J. Trump,Advanced Voting Votes,943
+13,309,Wheeler,I) (Rep,Donald J. Trump,Election Day Votes,438
+13,309,Wheeler,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,309,Wheeler,I) (Rep,Donald J. Trump,TOTAL VOTES,1583
+13,309,Wheeler,Lib,Jo Jorgensen,Absentee by Mail Votes,1
+13,309,Wheeler,Lib,Jo Jorgensen,Advanced Voting Votes,7
+13,309,Wheeler,Lib,Jo Jorgensen,Election Day Votes,5
+13,309,Wheeler,Lib,Jo Jorgensen,Provisional Votes,0
+13,309,Wheeler,Lib,Jo Jorgensen,TOTAL VOTES,13
+13,309,Wheeler,Dem,Joseph R. Biden,Absentee by Mail Votes,194
+13,309,Wheeler,Dem,Joseph R. Biden,Advanced Voting Votes,297
+13,309,Wheeler,Dem,Joseph R. Biden,Election Day Votes,197
+13,309,Wheeler,Dem,Joseph R. Biden,Provisional Votes,0
+13,309,Wheeler,Dem,Joseph R. Biden,TOTAL VOTES,688
+13,311,White,I) (Rep,Donald J. Trump,Absentee by Mail Votes,2088
+13,311,White,I) (Rep,Donald J. Trump,Advanced Voting Votes,6680
+13,311,White,I) (Rep,Donald J. Trump,Election Day Votes,3448
+13,311,White,I) (Rep,Donald J. Trump,Provisional Votes,6
+13,311,White,I) (Rep,Donald J. Trump,TOTAL VOTES,12222
+13,311,White,Lib,Jo Jorgensen,Absentee by Mail Votes,27
+13,311,White,Lib,Jo Jorgensen,Advanced Voting Votes,76
+13,311,White,Lib,Jo Jorgensen,Election Day Votes,80
+13,311,White,Lib,Jo Jorgensen,Provisional Votes,0
+13,311,White,Lib,Jo Jorgensen,TOTAL VOTES,183
+13,311,White,Dem,Joseph R. Biden,Absentee by Mail Votes,973
+13,311,White,Dem,Joseph R. Biden,Advanced Voting Votes,1066
+13,311,White,Dem,Joseph R. Biden,Election Day Votes,372
+13,311,White,Dem,Joseph R. Biden,Provisional Votes,0
+13,311,White,Dem,Joseph R. Biden,TOTAL VOTES,2411
+13,313,Whitfield,I) (Rep,Donald J. Trump,Absentee by Mail Votes,3544
+13,313,Whitfield,I) (Rep,Donald J. Trump,Advanced Voting Votes,13084
+13,313,Whitfield,I) (Rep,Donald J. Trump,Election Day Votes,8963
+13,313,Whitfield,I) (Rep,Donald J. Trump,Provisional Votes,45
+13,313,Whitfield,I) (Rep,Donald J. Trump,TOTAL VOTES,25636
+13,313,Whitfield,Lib,Jo Jorgensen,Absentee by Mail Votes,84
+13,313,Whitfield,Lib,Jo Jorgensen,Advanced Voting Votes,162
+13,313,Whitfield,Lib,Jo Jorgensen,Election Day Votes,194
+13,313,Whitfield,Lib,Jo Jorgensen,Provisional Votes,0
+13,313,Whitfield,Lib,Jo Jorgensen,TOTAL VOTES,440
+13,313,Whitfield,Dem,Joseph R. Biden,Absentee by Mail Votes,2840
+13,313,Whitfield,Dem,Joseph R. Biden,Advanced Voting Votes,4997
+13,313,Whitfield,Dem,Joseph R. Biden,Election Day Votes,2814
+13,313,Whitfield,Dem,Joseph R. Biden,Provisional Votes,19
+13,313,Whitfield,Dem,Joseph R. Biden,TOTAL VOTES,10670
+13,315,Wilcox,I) (Rep,Donald J. Trump,Absentee by Mail Votes,343
+13,315,Wilcox,I) (Rep,Donald J. Trump,Advanced Voting Votes,1317
+13,315,Wilcox,I) (Rep,Donald J. Trump,Election Day Votes,743
+13,315,Wilcox,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,315,Wilcox,I) (Rep,Donald J. Trump,TOTAL VOTES,2403
+13,315,Wilcox,Lib,Jo Jorgensen,Absentee by Mail Votes,2
+13,315,Wilcox,Lib,Jo Jorgensen,Advanced Voting Votes,6
+13,315,Wilcox,Lib,Jo Jorgensen,Election Day Votes,8
+13,315,Wilcox,Lib,Jo Jorgensen,Provisional Votes,0
+13,315,Wilcox,Lib,Jo Jorgensen,TOTAL VOTES,16
+13,315,Wilcox,Dem,Joseph R. Biden,Absentee by Mail Votes,212
+13,315,Wilcox,Dem,Joseph R. Biden,Advanced Voting Votes,365
+13,315,Wilcox,Dem,Joseph R. Biden,Election Day Votes,285
+13,315,Wilcox,Dem,Joseph R. Biden,Provisional Votes,0
+13,315,Wilcox,Dem,Joseph R. Biden,TOTAL VOTES,862
+13,317,Wilkes,I) (Rep,Donald J. Trump,Absentee by Mail Votes,467
+13,317,Wilkes,I) (Rep,Donald J. Trump,Advanced Voting Votes,1649
+13,317,Wilkes,I) (Rep,Donald J. Trump,Election Day Votes,704
+13,317,Wilkes,I) (Rep,Donald J. Trump,Provisional Votes,3
+13,317,Wilkes,I) (Rep,Donald J. Trump,TOTAL VOTES,2823
+13,317,Wilkes,Lib,Jo Jorgensen,Absentee by Mail Votes,11
+13,317,Wilkes,Lib,Jo Jorgensen,Advanced Voting Votes,20
+13,317,Wilkes,Lib,Jo Jorgensen,Election Day Votes,16
+13,317,Wilkes,Lib,Jo Jorgensen,Provisional Votes,0
+13,317,Wilkes,Lib,Jo Jorgensen,TOTAL VOTES,47
+13,317,Wilkes,Dem,Joseph R. Biden,Absentee by Mail Votes,754
+13,317,Wilkes,Dem,Joseph R. Biden,Advanced Voting Votes,897
+13,317,Wilkes,Dem,Joseph R. Biden,Election Day Votes,504
+13,317,Wilkes,Dem,Joseph R. Biden,Provisional Votes,4
+13,317,Wilkes,Dem,Joseph R. Biden,TOTAL VOTES,2159
+13,319,Wilkinson,I) (Rep,Donald J. Trump,Absentee by Mail Votes,259
+13,319,Wilkinson,I) (Rep,Donald J. Trump,Advanced Voting Votes,1109
+13,319,Wilkinson,I) (Rep,Donald J. Trump,Election Day Votes,1293
+13,319,Wilkinson,I) (Rep,Donald J. Trump,Provisional Votes,3
+13,319,Wilkinson,I) (Rep,Donald J. Trump,TOTAL VOTES,2664
+13,319,Wilkinson,Lib,Jo Jorgensen,Absentee by Mail Votes,4
+13,319,Wilkinson,Lib,Jo Jorgensen,Advanced Voting Votes,10
+13,319,Wilkinson,Lib,Jo Jorgensen,Election Day Votes,17
+13,319,Wilkinson,Lib,Jo Jorgensen,Provisional Votes,0
+13,319,Wilkinson,Lib,Jo Jorgensen,TOTAL VOTES,31
+13,319,Wilkinson,Dem,Joseph R. Biden,Absentee by Mail Votes,602
+13,319,Wilkinson,Dem,Joseph R. Biden,Advanced Voting Votes,942
+13,319,Wilkinson,Dem,Joseph R. Biden,Election Day Votes,528
+13,319,Wilkinson,Dem,Joseph R. Biden,Provisional Votes,3
+13,319,Wilkinson,Dem,Joseph R. Biden,TOTAL VOTES,2075
+13,321,Worth,I) (Rep,Donald J. Trump,Absentee by Mail Votes,766
+13,321,Worth,I) (Rep,Donald J. Trump,Advanced Voting Votes,3285
+13,321,Worth,I) (Rep,Donald J. Trump,Election Day Votes,2780
+13,321,Worth,I) (Rep,Donald J. Trump,Provisional Votes,0
+13,321,Worth,I) (Rep,Donald J. Trump,TOTAL VOTES,6831
+13,321,Worth,Lib,Jo Jorgensen,Absentee by Mail Votes,10
+13,321,Worth,Lib,Jo Jorgensen,Advanced Voting Votes,28
+13,321,Worth,Lib,Jo Jorgensen,Election Day Votes,22
+13,321,Worth,Lib,Jo Jorgensen,Provisional Votes,0
+13,321,Worth,Lib,Jo Jorgensen,TOTAL VOTES,60
+13,321,Worth,Dem,Joseph R. Biden,Absentee by Mail Votes,820
+13,321,Worth,Dem,Joseph R. Biden,Advanced Voting Votes,994
+13,321,Worth,Dem,Joseph R. Biden,Election Day Votes,581
+13,321,Worth,Dem,Joseph R. Biden,Provisional Votes,0
+13,321,Worth,Dem,Joseph R. Biden,TOTAL VOTES,2395

@@ -1,0 +1,191 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,1,Appling,Dem,Liz Johnson,Absentee by Mail Votes,557
+13,1,Appling,Dem,Liz Johnson,Advanced Voting Votes,808
+13,1,Appling,Dem,Liz Johnson,Election Day Votes,322
+13,1,Appling,Dem,Liz Johnson,Provisional Votes,3
+13,1,Appling,Dem,Liz Johnson,TOTAL VOTES,1690
+13,1,Appling,I) (Rep,Rick W. Allen,Absentee by Mail Votes,876
+13,1,Appling,I) (Rep,Rick W. Allen,Advanced Voting Votes,3775
+13,1,Appling,I) (Rep,Rick W. Allen,Election Day Votes,1676
+13,1,Appling,I) (Rep,Rick W. Allen,Provisional Votes,8
+13,1,Appling,I) (Rep,Rick W. Allen,TOTAL VOTES,6335
+13,31,Bulloch,Dem,Liz Johnson,Absentee by Mail Votes,3303
+13,31,Bulloch,Dem,Liz Johnson,Advanced Voting Votes,5018
+13,31,Bulloch,Dem,Liz Johnson,Election Day Votes,2337
+13,31,Bulloch,Dem,Liz Johnson,Provisional Votes,31
+13,31,Bulloch,Dem,Liz Johnson,TOTAL VOTES,10689
+13,31,Bulloch,I) (Rep,Rick W. Allen,Absentee by Mail Votes,2992
+13,31,Bulloch,I) (Rep,Rick W. Allen,Advanced Voting Votes,9089
+13,31,Bulloch,I) (Rep,Rick W. Allen,Election Day Votes,6709
+13,31,Bulloch,I) (Rep,Rick W. Allen,Provisional Votes,23
+13,31,Bulloch,I) (Rep,Rick W. Allen,TOTAL VOTES,18813
+13,33,Burke,Dem,Liz Johnson,Absentee by Mail Votes,1793
+13,33,Burke,Dem,Liz Johnson,Advanced Voting Votes,1764
+13,33,Burke,Dem,Liz Johnson,Election Day Votes,1402
+13,33,Burke,Dem,Liz Johnson,Provisional Votes,0
+13,33,Burke,Dem,Liz Johnson,TOTAL VOTES,4959
+13,33,Burke,I) (Rep,Rick W. Allen,Absentee by Mail Votes,691
+13,33,Burke,I) (Rep,Rick W. Allen,Advanced Voting Votes,2831
+13,33,Burke,I) (Rep,Rick W. Allen,Election Day Votes,1951
+13,33,Burke,I) (Rep,Rick W. Allen,Provisional Votes,0
+13,33,Burke,I) (Rep,Rick W. Allen,TOTAL VOTES,5473
+13,43,Candler,Dem,Liz Johnson,Absentee by Mail Votes,350
+13,43,Candler,Dem,Liz Johnson,Advanced Voting Votes,335
+13,43,Candler,Dem,Liz Johnson,Election Day Votes,489
+13,43,Candler,Dem,Liz Johnson,Provisional Votes,1
+13,43,Candler,Dem,Liz Johnson,TOTAL VOTES,1175
+13,43,Candler,I) (Rep,Rick W. Allen,Absentee by Mail Votes,393
+13,43,Candler,I) (Rep,Rick W. Allen,Advanced Voting Votes,1153
+13,43,Candler,I) (Rep,Rick W. Allen,Election Day Votes,1599
+13,43,Candler,I) (Rep,Rick W. Allen,Provisional Votes,0
+13,43,Candler,I) (Rep,Rick W. Allen,TOTAL VOTES,3145
+13,69,Coffee,Dem,Liz Johnson,Absentee by Mail Votes,938
+13,69,Coffee,Dem,Liz Johnson,Advanced Voting Votes,2247
+13,69,Coffee,Dem,Liz Johnson,Election Day Votes,1054
+13,69,Coffee,Dem,Liz Johnson,Provisional Votes,4
+13,69,Coffee,Dem,Liz Johnson,TOTAL VOTES,4243
+13,69,Coffee,I) (Rep,Rick W. Allen,Absentee by Mail Votes,916
+13,69,Coffee,I) (Rep,Rick W. Allen,Advanced Voting Votes,6909
+13,69,Coffee,I) (Rep,Rick W. Allen,Election Day Votes,2483
+13,69,Coffee,I) (Rep,Rick W. Allen,Provisional Votes,7
+13,69,Coffee,I) (Rep,Rick W. Allen,TOTAL VOTES,10315
+13,73,Columbia,Dem,Liz Johnson,Absentee by Mail Votes,7711
+13,73,Columbia,Dem,Liz Johnson,Advanced Voting Votes,12205
+13,73,Columbia,Dem,Liz Johnson,Election Day Votes,4030
+13,73,Columbia,Dem,Liz Johnson,Provisional Votes,25
+13,73,Columbia,Dem,Liz Johnson,TOTAL VOTES,23971
+13,73,Columbia,I) (Rep,Rick W. Allen,Absentee by Mail Votes,6898
+13,73,Columbia,I) (Rep,Rick W. Allen,Advanced Voting Votes,25727
+13,73,Columbia,I) (Rep,Rick W. Allen,Election Day Votes,11334
+13,73,Columbia,I) (Rep,Rick W. Allen,Provisional Votes,40
+13,73,Columbia,I) (Rep,Rick W. Allen,TOTAL VOTES,43999
+13,103,Effingham,Dem,Liz Johnson,Absentee by Mail Votes,723
+13,103,Effingham,Dem,Liz Johnson,Advanced Voting Votes,1201
+13,103,Effingham,Dem,Liz Johnson,Election Day Votes,636
+13,103,Effingham,Dem,Liz Johnson,Provisional Votes,3
+13,103,Effingham,Dem,Liz Johnson,TOTAL VOTES,2563
+13,103,Effingham,I) (Rep,Rick W. Allen,Absentee by Mail Votes,1000
+13,103,Effingham,I) (Rep,Rick W. Allen,Advanced Voting Votes,5569
+13,103,Effingham,I) (Rep,Rick W. Allen,Election Day Votes,2575
+13,103,Effingham,I) (Rep,Rick W. Allen,Provisional Votes,4
+13,103,Effingham,I) (Rep,Rick W. Allen,TOTAL VOTES,9148
+13,107,Emanuel,Dem,Liz Johnson,Absentee by Mail Votes,732
+13,107,Emanuel,Dem,Liz Johnson,Advanced Voting Votes,1119
+13,107,Emanuel,Dem,Liz Johnson,Election Day Votes,762
+13,107,Emanuel,Dem,Liz Johnson,Provisional Votes,1
+13,107,Emanuel,Dem,Liz Johnson,TOTAL VOTES,2614
+13,107,Emanuel,I) (Rep,Rick W. Allen,Absentee by Mail Votes,932
+13,107,Emanuel,I) (Rep,Rick W. Allen,Advanced Voting Votes,3107
+13,107,Emanuel,I) (Rep,Rick W. Allen,Election Day Votes,2526
+13,107,Emanuel,I) (Rep,Rick W. Allen,Provisional Votes,1
+13,107,Emanuel,I) (Rep,Rick W. Allen,TOTAL VOTES,6566
+13,109,Evans,Dem,Liz Johnson,Absentee by Mail Votes,312
+13,109,Evans,Dem,Liz Johnson,Advanced Voting Votes,688
+13,109,Evans,Dem,Liz Johnson,Election Day Votes,217
+13,109,Evans,Dem,Liz Johnson,Provisional Votes,0
+13,109,Evans,Dem,Liz Johnson,TOTAL VOTES,1217
+13,109,Evans,I) (Rep,Rick W. Allen,Absentee by Mail Votes,508
+13,109,Evans,I) (Rep,Rick W. Allen,Advanced Voting Votes,1917
+13,109,Evans,I) (Rep,Rick W. Allen,Election Day Votes,474
+13,109,Evans,I) (Rep,Rick W. Allen,Provisional Votes,0
+13,109,Evans,I) (Rep,Rick W. Allen,TOTAL VOTES,2899
+13,161,Jeff Davis,Dem,Liz Johnson,Absentee by Mail Votes,254
+13,161,Jeff Davis,Dem,Liz Johnson,Advanced Voting Votes,488
+13,161,Jeff Davis,Dem,Liz Johnson,Election Day Votes,253
+13,161,Jeff Davis,Dem,Liz Johnson,Provisional Votes,0
+13,161,Jeff Davis,Dem,Liz Johnson,TOTAL VOTES,995
+13,161,Jeff Davis,I) (Rep,Rick W. Allen,Absentee by Mail Votes,530
+13,161,Jeff Davis,I) (Rep,Rick W. Allen,Advanced Voting Votes,2646
+13,161,Jeff Davis,I) (Rep,Rick W. Allen,Election Day Votes,1353
+13,161,Jeff Davis,I) (Rep,Rick W. Allen,Provisional Votes,0
+13,161,Jeff Davis,I) (Rep,Rick W. Allen,TOTAL VOTES,4529
+13,165,Jenkins,Dem,Liz Johnson,Absentee by Mail Votes,386
+13,165,Jenkins,Dem,Liz Johnson,Advanced Voting Votes,512
+13,165,Jenkins,Dem,Liz Johnson,Election Day Votes,282
+13,165,Jenkins,Dem,Liz Johnson,Provisional Votes,1
+13,165,Jenkins,Dem,Liz Johnson,TOTAL VOTES,1181
+13,165,Jenkins,I) (Rep,Rick W. Allen,Absentee by Mail Votes,358
+13,165,Jenkins,I) (Rep,Rick W. Allen,Advanced Voting Votes,1237
+13,165,Jenkins,I) (Rep,Rick W. Allen,Election Day Votes,576
+13,165,Jenkins,I) (Rep,Rick W. Allen,Provisional Votes,3
+13,165,Jenkins,I) (Rep,Rick W. Allen,TOTAL VOTES,2174
+13,175,Laurens,Dem,Liz Johnson,Absentee by Mail Votes,2602
+13,175,Laurens,Dem,Liz Johnson,Advanced Voting Votes,3248
+13,175,Laurens,Dem,Liz Johnson,Election Day Votes,1795
+13,175,Laurens,Dem,Liz Johnson,Provisional Votes,3
+13,175,Laurens,Dem,Liz Johnson,TOTAL VOTES,7648
+13,175,Laurens,I) (Rep,Rick W. Allen,Absentee by Mail Votes,2405
+13,175,Laurens,I) (Rep,Rick W. Allen,Advanced Voting Votes,6504
+13,175,Laurens,I) (Rep,Rick W. Allen,Election Day Votes,5603
+13,175,Laurens,I) (Rep,Rick W. Allen,Provisional Votes,3
+13,175,Laurens,I) (Rep,Rick W. Allen,TOTAL VOTES,14515
+13,209,Montgomery,Dem,Liz Johnson,Absentee by Mail Votes,281
+13,209,Montgomery,Dem,Liz Johnson,Advanced Voting Votes,375
+13,209,Montgomery,Dem,Liz Johnson,Election Day Votes,243
+13,209,Montgomery,Dem,Liz Johnson,Provisional Votes,0
+13,209,Montgomery,Dem,Liz Johnson,TOTAL VOTES,899
+13,209,Montgomery,I) (Rep,Rick W. Allen,Absentee by Mail Votes,355
+13,209,Montgomery,I) (Rep,Rick W. Allen,Advanced Voting Votes,1491
+13,209,Montgomery,I) (Rep,Rick W. Allen,Election Day Votes,1096
+13,209,Montgomery,I) (Rep,Rick W. Allen,Provisional Votes,0
+13,209,Montgomery,I) (Rep,Rick W. Allen,TOTAL VOTES,2942
+13,245,Richmond,Dem,Liz Johnson,Absentee by Mail Votes,20160
+13,245,Richmond,Dem,Liz Johnson,Advanced Voting Votes,24752
+13,245,Richmond,Dem,Liz Johnson,Election Day Votes,11358
+13,245,Richmond,Dem,Liz Johnson,Provisional Votes,0
+13,245,Richmond,Dem,Liz Johnson,TOTAL VOTES,56270
+13,245,Richmond,I) (Rep,Rick W. Allen,Absentee by Mail Votes,7014
+13,245,Richmond,I) (Rep,Rick W. Allen,Advanced Voting Votes,12617
+13,245,Richmond,I) (Rep,Rick W. Allen,Election Day Votes,8988
+13,245,Richmond,I) (Rep,Rick W. Allen,Provisional Votes,0
+13,245,Richmond,I) (Rep,Rick W. Allen,TOTAL VOTES,28619
+13,251,Screven,Dem,Liz Johnson,Absentee by Mail Votes,739
+13,251,Screven,Dem,Liz Johnson,Advanced Voting Votes,1180
+13,251,Screven,Dem,Liz Johnson,Election Day Votes,568
+13,251,Screven,Dem,Liz Johnson,Provisional Votes,7
+13,251,Screven,Dem,Liz Johnson,TOTAL VOTES,2494
+13,251,Screven,I) (Rep,Rick W. Allen,Absentee by Mail Votes,539
+13,251,Screven,I) (Rep,Rick W. Allen,Advanced Voting Votes,2157
+13,251,Screven,I) (Rep,Rick W. Allen,Election Day Votes,1264
+13,251,Screven,I) (Rep,Rick W. Allen,Provisional Votes,10
+13,251,Screven,I) (Rep,Rick W. Allen,TOTAL VOTES,3970
+13,267,Tattnall,Dem,Liz Johnson,Absentee by Mail Votes,503
+13,267,Tattnall,Dem,Liz Johnson,Advanced Voting Votes,997
+13,267,Tattnall,Dem,Liz Johnson,Election Day Votes,379
+13,267,Tattnall,Dem,Liz Johnson,Provisional Votes,0
+13,267,Tattnall,Dem,Liz Johnson,TOTAL VOTES,1879
+13,267,Tattnall,I) (Rep,Rick W. Allen,Absentee by Mail Votes,838
+13,267,Tattnall,I) (Rep,Rick W. Allen,Advanced Voting Votes,3653
+13,267,Tattnall,I) (Rep,Rick W. Allen,Election Day Votes,1529
+13,267,Tattnall,I) (Rep,Rick W. Allen,Provisional Votes,0
+13,267,Tattnall,I) (Rep,Rick W. Allen,TOTAL VOTES,6020
+13,279,Toombs,Dem,Liz Johnson,Absentee by Mail Votes,997
+13,279,Toombs,Dem,Liz Johnson,Advanced Voting Votes,1183
+13,279,Toombs,Dem,Liz Johnson,Election Day Votes,555
+13,279,Toombs,Dem,Liz Johnson,Provisional Votes,3
+13,279,Toombs,Dem,Liz Johnson,TOTAL VOTES,2738
+13,279,Toombs,I) (Rep,Rick W. Allen,Absentee by Mail Votes,1246
+13,279,Toombs,I) (Rep,Rick W. Allen,Advanced Voting Votes,4838
+13,279,Toombs,I) (Rep,Rick W. Allen,Election Day Votes,1786
+13,279,Toombs,I) (Rep,Rick W. Allen,Provisional Votes,6
+13,279,Toombs,I) (Rep,Rick W. Allen,TOTAL VOTES,7876
+13,283,Treutlen,Dem,Liz Johnson,Absentee by Mail Votes,276
+13,283,Treutlen,Dem,Liz Johnson,Advanced Voting Votes,476
+13,283,Treutlen,Dem,Liz Johnson,Election Day Votes,111
+13,283,Treutlen,Dem,Liz Johnson,Provisional Votes,0
+13,283,Treutlen,Dem,Liz Johnson,TOTAL VOTES,863
+13,283,Treutlen,I) (Rep,Rick W. Allen,Absentee by Mail Votes,279
+13,283,Treutlen,I) (Rep,Rick W. Allen,Advanced Voting Votes,1383
+13,283,Treutlen,I) (Rep,Rick W. Allen,Election Day Votes,405
+13,283,Treutlen,I) (Rep,Rick W. Allen,Provisional Votes,0
+13,283,Treutlen,I) (Rep,Rick W. Allen,TOTAL VOTES,2067
+13,309,Wheeler,Dem,Liz Johnson,Absentee by Mail Votes,184
+13,309,Wheeler,Dem,Liz Johnson,Advanced Voting Votes,279
+13,309,Wheeler,Dem,Liz Johnson,Election Day Votes,191
+13,309,Wheeler,Dem,Liz Johnson,Provisional Votes,0
+13,309,Wheeler,Dem,Liz Johnson,TOTAL VOTES,654
+13,309,Wheeler,I) (Rep,Rick W. Allen,Absentee by Mail Votes,196
+13,309,Wheeler,I) (Rep,Rick W. Allen,Advanced Voting Votes,925
+13,309,Wheeler,I) (Rep,Rick W. Allen,Election Day Votes,428
+13,309,Wheeler,I) (Rep,Rick W. Allen,Provisional Votes,0
+13,309,Wheeler,I) (Rep,Rick W. Allen,TOTAL VOTES,1549

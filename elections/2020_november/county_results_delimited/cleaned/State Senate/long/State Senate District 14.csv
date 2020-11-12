@@ -1,0 +1,31 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,15,Bartow,I) (Rep,Bruce Thompson,Absentee by Mail Votes,3508
+13,15,Bartow,I) (Rep,Bruce Thompson,Advanced Voting Votes,12351
+13,15,Bartow,I) (Rep,Bruce Thompson,Election Day Votes,5709
+13,15,Bartow,I) (Rep,Bruce Thompson,Provisional Votes,9
+13,15,Bartow,I) (Rep,Bruce Thompson,TOTAL VOTES,21577
+13,15,Bartow,Dem,Travis Johnson,Absentee by Mail Votes,2592
+13,15,Bartow,Dem,Travis Johnson,Advanced Voting Votes,3212
+13,15,Bartow,Dem,Travis Johnson,Election Day Votes,1363
+13,15,Bartow,Dem,Travis Johnson,Provisional Votes,5
+13,15,Bartow,Dem,Travis Johnson,TOTAL VOTES,7172
+13,57,Cherokee,I) (Rep,Bruce Thompson,Absentee by Mail Votes,7743
+13,57,Cherokee,I) (Rep,Bruce Thompson,Advanced Voting Votes,21062
+13,57,Cherokee,I) (Rep,Bruce Thompson,Election Day Votes,9864
+13,57,Cherokee,I) (Rep,Bruce Thompson,Provisional Votes,3
+13,57,Cherokee,I) (Rep,Bruce Thompson,TOTAL VOTES,38672
+13,57,Cherokee,Dem,Travis Johnson,Absentee by Mail Votes,6132
+13,57,Cherokee,Dem,Travis Johnson,Advanced Voting Votes,6982
+13,57,Cherokee,Dem,Travis Johnson,Election Day Votes,2731
+13,57,Cherokee,Dem,Travis Johnson,Provisional Votes,4
+13,57,Cherokee,Dem,Travis Johnson,TOTAL VOTES,15849
+13,67,Cobb,I) (Rep,Bruce Thompson,Absentee by Mail Votes,1779
+13,67,Cobb,I) (Rep,Bruce Thompson,Advanced Voting Votes,2779
+13,67,Cobb,I) (Rep,Bruce Thompson,Election Day Votes,1724
+13,67,Cobb,I) (Rep,Bruce Thompson,Provisional Votes,2
+13,67,Cobb,I) (Rep,Bruce Thompson,TOTAL VOTES,6284
+13,67,Cobb,Dem,Travis Johnson,Absentee by Mail Votes,2306
+13,67,Cobb,Dem,Travis Johnson,Advanced Voting Votes,2310
+13,67,Cobb,Dem,Travis Johnson,Election Day Votes,865
+13,67,Cobb,Dem,Travis Johnson,Provisional Votes,3
+13,67,Cobb,Dem,Travis Johnson,TOTAL VOTES,5484

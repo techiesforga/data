@@ -1,0 +1,291 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,7,Baker,Rep,Don Cole,Absentee by Mail Votes,87
+13,7,Baker,Rep,Don Cole,Advanced Voting Votes,407
+13,7,Baker,Rep,Don Cole,Election Day Votes,241
+13,7,Baker,Rep,Don Cole,Provisional Votes,1
+13,7,Baker,Rep,Don Cole,TOTAL VOTES,736
+13,7,Baker,I) (Dem,Sanford Bishop,Absentee by Mail Votes,279
+13,7,Baker,I) (Dem,Sanford Bishop,Advanced Voting Votes,310
+13,7,Baker,I) (Dem,Sanford Bishop,Election Day Votes,190
+13,7,Baker,I) (Dem,Sanford Bishop,Provisional Votes,1
+13,7,Baker,I) (Dem,Sanford Bishop,TOTAL VOTES,780
+13,21,Bibb,Rep,Don Cole,Absentee by Mail Votes,2273
+13,21,Bibb,Rep,Don Cole,Advanced Voting Votes,6072
+13,21,Bibb,Rep,Don Cole,Election Day Votes,4379
+13,21,Bibb,Rep,Don Cole,Provisional Votes,20
+13,21,Bibb,Rep,Don Cole,TOTAL VOTES,12744
+13,21,Bibb,I) (Dem,Sanford Bishop,Absentee by Mail Votes,10437
+13,21,Bibb,I) (Dem,Sanford Bishop,Advanced Voting Votes,14749
+13,21,Bibb,I) (Dem,Sanford Bishop,Election Day Votes,6731
+13,21,Bibb,I) (Dem,Sanford Bishop,Provisional Votes,84
+13,21,Bibb,I) (Dem,Sanford Bishop,TOTAL VOTES,32001
+13,37,Calhoun,Rep,Don Cole,Absentee by Mail Votes,97
+13,37,Calhoun,Rep,Don Cole,Advanced Voting Votes,394
+13,37,Calhoun,Rep,Don Cole,Election Day Votes,203
+13,37,Calhoun,Rep,Don Cole,Provisional Votes,0
+13,37,Calhoun,Rep,Don Cole,TOTAL VOTES,694
+13,37,Calhoun,I) (Dem,Sanford Bishop,Absentee by Mail Votes,487
+13,37,Calhoun,I) (Dem,Sanford Bishop,Advanced Voting Votes,545
+13,37,Calhoun,I) (Dem,Sanford Bishop,Election Day Votes,433
+13,37,Calhoun,I) (Dem,Sanford Bishop,Provisional Votes,0
+13,37,Calhoun,I) (Dem,Sanford Bishop,TOTAL VOTES,1465
+13,53,Chattahoochee,Rep,Don Cole,Absentee by Mail Votes,112
+13,53,Chattahoochee,Rep,Don Cole,Advanced Voting Votes,420
+13,53,Chattahoochee,Rep,Don Cole,Election Day Votes,279
+13,53,Chattahoochee,Rep,Don Cole,Provisional Votes,2
+13,53,Chattahoochee,Rep,Don Cole,TOTAL VOTES,813
+13,53,Chattahoochee,I) (Dem,Sanford Bishop,Absentee by Mail Votes,184
+13,53,Chattahoochee,I) (Dem,Sanford Bishop,Advanced Voting Votes,366
+13,53,Chattahoochee,I) (Dem,Sanford Bishop,Election Day Votes,164
+13,53,Chattahoochee,I) (Dem,Sanford Bishop,Provisional Votes,1
+13,53,Chattahoochee,I) (Dem,Sanford Bishop,TOTAL VOTES,715
+13,61,Clay,Rep,Don Cole,Absentee by Mail Votes,102
+13,61,Clay,Rep,Don Cole,Advanced Voting Votes,371
+13,61,Clay,Rep,Don Cole,Election Day Votes,108
+13,61,Clay,Rep,Don Cole,Provisional Votes,0
+13,61,Clay,Rep,Don Cole,TOTAL VOTES,581
+13,61,Clay,I) (Dem,Sanford Bishop,Absentee by Mail Votes,303
+13,61,Clay,I) (Dem,Sanford Bishop,Advanced Voting Votes,350
+13,61,Clay,I) (Dem,Sanford Bishop,Election Day Votes,186
+13,61,Clay,I) (Dem,Sanford Bishop,Provisional Votes,0
+13,61,Clay,I) (Dem,Sanford Bishop,TOTAL VOTES,839
+13,79,Crawford,Rep,Don Cole,Absentee by Mail Votes,516
+13,79,Crawford,Rep,Don Cole,Advanced Voting Votes,2568
+13,79,Crawford,Rep,Don Cole,Election Day Votes,1080
+13,79,Crawford,Rep,Don Cole,Provisional Votes,1
+13,79,Crawford,Rep,Don Cole,TOTAL VOTES,4165
+13,79,Crawford,I) (Dem,Sanford Bishop,Absentee by Mail Votes,557
+13,79,Crawford,I) (Dem,Sanford Bishop,Advanced Voting Votes,902
+13,79,Crawford,I) (Dem,Sanford Bishop,Election Day Votes,314
+13,79,Crawford,I) (Dem,Sanford Bishop,Provisional Votes,1
+13,79,Crawford,I) (Dem,Sanford Bishop,TOTAL VOTES,1774
+13,81,Crisp,Rep,Don Cole,Absentee by Mail Votes,742
+13,81,Crisp,Rep,Don Cole,Advanced Voting Votes,3129
+13,81,Crisp,Rep,Don Cole,Election Day Votes,916
+13,81,Crisp,Rep,Don Cole,Provisional Votes,4
+13,81,Crisp,Rep,Don Cole,TOTAL VOTES,4791
+13,81,Crisp,I) (Dem,Sanford Bishop,Absentee by Mail Votes,922
+13,81,Crisp,I) (Dem,Sanford Bishop,Advanced Voting Votes,1607
+13,81,Crisp,I) (Dem,Sanford Bishop,Election Day Votes,627
+13,81,Crisp,I) (Dem,Sanford Bishop,Provisional Votes,1
+13,81,Crisp,I) (Dem,Sanford Bishop,TOTAL VOTES,3157
+13,87,Decatur,Rep,Don Cole,Absentee by Mail Votes,750
+13,87,Decatur,Rep,Don Cole,Advanced Voting Votes,4158
+13,87,Decatur,Rep,Don Cole,Election Day Votes,1341
+13,87,Decatur,Rep,Don Cole,Provisional Votes,4
+13,87,Decatur,Rep,Don Cole,TOTAL VOTES,6253
+13,87,Decatur,I) (Dem,Sanford Bishop,Absentee by Mail Votes,1532
+13,87,Decatur,I) (Dem,Sanford Bishop,Advanced Voting Votes,2697
+13,87,Decatur,I) (Dem,Sanford Bishop,Election Day Votes,890
+13,87,Decatur,I) (Dem,Sanford Bishop,Provisional Votes,9
+13,87,Decatur,I) (Dem,Sanford Bishop,TOTAL VOTES,5128
+13,93,Dooly,Rep,Don Cole,Absentee by Mail Votes,239
+13,93,Dooly,Rep,Don Cole,Advanced Voting Votes,1318
+13,93,Dooly,Rep,Don Cole,Election Day Votes,428
+13,93,Dooly,Rep,Don Cole,Provisional Votes,3
+13,93,Dooly,Rep,Don Cole,TOTAL VOTES,1988
+13,93,Dooly,I) (Dem,Sanford Bishop,Absentee by Mail Votes,492
+13,93,Dooly,I) (Dem,Sanford Bishop,Advanced Voting Votes,1003
+13,93,Dooly,I) (Dem,Sanford Bishop,Election Day Votes,498
+13,93,Dooly,I) (Dem,Sanford Bishop,Provisional Votes,1
+13,93,Dooly,I) (Dem,Sanford Bishop,TOTAL VOTES,1994
+13,95,Dougherty,Rep,Don Cole,Absentee by Mail Votes,2107
+13,95,Dougherty,Rep,Don Cole,Advanced Voting Votes,3595
+13,95,Dougherty,Rep,Don Cole,Election Day Votes,3730
+13,95,Dougherty,Rep,Don Cole,Provisional Votes,13
+13,95,Dougherty,Rep,Don Cole,TOTAL VOTES,9445
+13,95,Dougherty,I) (Dem,Sanford Bishop,Absentee by Mail Votes,8239
+13,95,Dougherty,I) (Dem,Sanford Bishop,Advanced Voting Votes,9275
+13,95,Dougherty,I) (Dem,Sanford Bishop,Election Day Votes,7823
+13,95,Dougherty,I) (Dem,Sanford Bishop,Provisional Votes,92
+13,95,Dougherty,I) (Dem,Sanford Bishop,TOTAL VOTES,25429
+13,99,Early,Rep,Don Cole,Absentee by Mail Votes,351
+13,99,Early,Rep,Don Cole,Advanced Voting Votes,1377
+13,99,Early,Rep,Don Cole,Election Day Votes,703
+13,99,Early,Rep,Don Cole,Provisional Votes,0
+13,99,Early,Rep,Don Cole,TOTAL VOTES,2431
+13,99,Early,I) (Dem,Sanford Bishop,Absentee by Mail Votes,748
+13,99,Early,I) (Dem,Sanford Bishop,Advanced Voting Votes,1188
+13,99,Early,I) (Dem,Sanford Bishop,Election Day Votes,707
+13,99,Early,I) (Dem,Sanford Bishop,Provisional Votes,0
+13,99,Early,I) (Dem,Sanford Bishop,TOTAL VOTES,2643
+13,131,Grady,Rep,Don Cole,Absentee by Mail Votes,1017
+13,131,Grady,Rep,Don Cole,Advanced Voting Votes,3695
+13,131,Grady,Rep,Don Cole,Election Day Votes,1868
+13,131,Grady,Rep,Don Cole,Provisional Votes,0
+13,131,Grady,Rep,Don Cole,TOTAL VOTES,6580
+13,131,Grady,I) (Dem,Sanford Bishop,Absentee by Mail Votes,1171
+13,131,Grady,I) (Dem,Sanford Bishop,Advanced Voting Votes,1988
+13,131,Grady,I) (Dem,Sanford Bishop,Election Day Votes,758
+13,131,Grady,I) (Dem,Sanford Bishop,Provisional Votes,0
+13,131,Grady,I) (Dem,Sanford Bishop,TOTAL VOTES,3917
+13,177,Lee,Rep,Don Cole,Absentee by Mail Votes,1144
+13,177,Lee,Rep,Don Cole,Advanced Voting Votes,7356
+13,177,Lee,Rep,Don Cole,Election Day Votes,2832
+13,177,Lee,Rep,Don Cole,Provisional Votes,3
+13,177,Lee,Rep,Don Cole,TOTAL VOTES,11335
+13,177,Lee,I) (Dem,Sanford Bishop,Absentee by Mail Votes,1283
+13,177,Lee,I) (Dem,Sanford Bishop,Advanced Voting Votes,2736
+13,177,Lee,I) (Dem,Sanford Bishop,Election Day Votes,1112
+13,177,Lee,I) (Dem,Sanford Bishop,Provisional Votes,3
+13,177,Lee,I) (Dem,Sanford Bishop,TOTAL VOTES,5134
+13,193,Macon,Rep,Don Cole,Absentee by Mail Votes,118
+13,193,Macon,Rep,Don Cole,Advanced Voting Votes,1186
+13,193,Macon,Rep,Don Cole,Election Day Votes,310
+13,193,Macon,Rep,Don Cole,Provisional Votes,0
+13,193,Macon,Rep,Don Cole,TOTAL VOTES,1614
+13,193,Macon,I) (Dem,Sanford Bishop,Absentee by Mail Votes,718
+13,193,Macon,I) (Dem,Sanford Bishop,Advanced Voting Votes,1495
+13,193,Macon,I) (Dem,Sanford Bishop,Election Day Votes,703
+13,193,Macon,I) (Dem,Sanford Bishop,Provisional Votes,0
+13,193,Macon,I) (Dem,Sanford Bishop,TOTAL VOTES,2916
+13,197,Marion,Rep,Don Cole,Absentee by Mail Votes,282
+13,197,Marion,Rep,Don Cole,Advanced Voting Votes,1129
+13,197,Marion,Rep,Don Cole,Election Day Votes,681
+13,197,Marion,Rep,Don Cole,Provisional Votes,0
+13,197,Marion,Rep,Don Cole,TOTAL VOTES,2092
+13,197,Marion,I) (Dem,Sanford Bishop,Absentee by Mail Votes,491
+13,197,Marion,I) (Dem,Sanford Bishop,Advanced Voting Votes,694
+13,197,Marion,I) (Dem,Sanford Bishop,Election Day Votes,291
+13,197,Marion,I) (Dem,Sanford Bishop,Provisional Votes,0
+13,197,Marion,I) (Dem,Sanford Bishop,TOTAL VOTES,1476
+13,201,Miller,Rep,Don Cole,Absentee by Mail Votes,236
+13,201,Miller,Rep,Don Cole,Advanced Voting Votes,1152
+13,201,Miller,Rep,Don Cole,Election Day Votes,478
+13,201,Miller,Rep,Don Cole,Provisional Votes,2
+13,201,Miller,Rep,Don Cole,TOTAL VOTES,1868
+13,201,Miller,I) (Dem,Sanford Bishop,Absentee by Mail Votes,241
+13,201,Miller,I) (Dem,Sanford Bishop,Advanced Voting Votes,422
+13,201,Miller,I) (Dem,Sanford Bishop,Election Day Votes,208
+13,201,Miller,I) (Dem,Sanford Bishop,Provisional Votes,0
+13,201,Miller,I) (Dem,Sanford Bishop,TOTAL VOTES,871
+13,205,Mitchell,Rep,Don Cole,Absentee by Mail Votes,570
+13,205,Mitchell,Rep,Don Cole,Advanced Voting Votes,2463
+13,205,Mitchell,Rep,Don Cole,Election Day Votes,1367
+13,205,Mitchell,Rep,Don Cole,Provisional Votes,0
+13,205,Mitchell,Rep,Don Cole,TOTAL VOTES,4400
+13,205,Mitchell,I) (Dem,Sanford Bishop,Absentee by Mail Votes,1589
+13,205,Mitchell,I) (Dem,Sanford Bishop,Advanced Voting Votes,1848
+13,205,Mitchell,I) (Dem,Sanford Bishop,Election Day Votes,985
+13,205,Mitchell,I) (Dem,Sanford Bishop,Provisional Votes,7
+13,205,Mitchell,I) (Dem,Sanford Bishop,TOTAL VOTES,4429
+13,215,Muscogee,Rep,Don Cole,Absentee by Mail Votes,3357
+13,215,Muscogee,Rep,Don Cole,Advanced Voting Votes,8684
+13,215,Muscogee,Rep,Don Cole,Election Day Votes,3171
+13,215,Muscogee,Rep,Don Cole,Provisional Votes,9
+13,215,Muscogee,Rep,Don Cole,TOTAL VOTES,15221
+13,215,Muscogee,I) (Dem,Sanford Bishop,Absentee by Mail Votes,14312
+13,215,Muscogee,I) (Dem,Sanford Bishop,Advanced Voting Votes,21291
+13,215,Muscogee,I) (Dem,Sanford Bishop,Election Day Votes,5646
+13,215,Muscogee,I) (Dem,Sanford Bishop,Provisional Votes,22
+13,215,Muscogee,I) (Dem,Sanford Bishop,TOTAL VOTES,41271
+13,225,Peach,Rep,Don Cole,Absentee by Mail Votes,752
+13,225,Peach,Rep,Don Cole,Advanced Voting Votes,4510
+13,225,Peach,Rep,Don Cole,Election Day Votes,895
+13,225,Peach,Rep,Don Cole,Provisional Votes,13
+13,225,Peach,Rep,Don Cole,TOTAL VOTES,6170
+13,225,Peach,I) (Dem,Sanford Bishop,Absentee by Mail Votes,1755
+13,225,Peach,I) (Dem,Sanford Bishop,Advanced Voting Votes,3453
+13,225,Peach,I) (Dem,Sanford Bishop,Election Day Votes,847
+13,225,Peach,I) (Dem,Sanford Bishop,Provisional Votes,4
+13,225,Peach,I) (Dem,Sanford Bishop,TOTAL VOTES,6059
+13,239,Quitman,Rep,Don Cole,Absentee by Mail Votes,77
+13,239,Quitman,Rep,Don Cole,Advanced Voting Votes,316
+13,239,Quitman,Rep,Don Cole,Election Day Votes,129
+13,239,Quitman,Rep,Don Cole,Provisional Votes,0
+13,239,Quitman,Rep,Don Cole,TOTAL VOTES,522
+13,239,Quitman,I) (Dem,Sanford Bishop,Absentee by Mail Votes,145
+13,239,Quitman,I) (Dem,Sanford Bishop,Advanced Voting Votes,212
+13,239,Quitman,I) (Dem,Sanford Bishop,Election Day Votes,186
+13,239,Quitman,I) (Dem,Sanford Bishop,Provisional Votes,1
+13,239,Quitman,I) (Dem,Sanford Bishop,TOTAL VOTES,544
+13,243,Randolph,Rep,Don Cole,Absentee by Mail Votes,161
+13,243,Randolph,Rep,Don Cole,Advanced Voting Votes,747
+13,243,Randolph,Rep,Don Cole,Election Day Votes,253
+13,243,Randolph,Rep,Don Cole,Provisional Votes,0
+13,243,Randolph,Rep,Don Cole,TOTAL VOTES,1161
+13,243,Randolph,I) (Dem,Sanford Bishop,Absentee by Mail Votes,507
+13,243,Randolph,I) (Dem,Sanford Bishop,Advanced Voting Votes,889
+13,243,Randolph,I) (Dem,Sanford Bishop,Election Day Votes,464
+13,243,Randolph,I) (Dem,Sanford Bishop,Provisional Votes,3
+13,243,Randolph,I) (Dem,Sanford Bishop,TOTAL VOTES,1863
+13,249,Schley,Rep,Don Cole,Absentee by Mail Votes,140
+13,249,Schley,Rep,Don Cole,Advanced Voting Votes,1260
+13,249,Schley,Rep,Don Cole,Election Day Votes,274
+13,249,Schley,Rep,Don Cole,Provisional Votes,1
+13,249,Schley,Rep,Don Cole,TOTAL VOTES,1675
+13,249,Schley,I) (Dem,Sanford Bishop,Absentee by Mail Votes,171
+13,249,Schley,I) (Dem,Sanford Bishop,Advanced Voting Votes,290
+13,249,Schley,I) (Dem,Sanford Bishop,Election Day Votes,92
+13,249,Schley,I) (Dem,Sanford Bishop,Provisional Votes,0
+13,249,Schley,I) (Dem,Sanford Bishop,TOTAL VOTES,553
+13,253,Seminole,Rep,Don Cole,Absentee by Mail Votes,245
+13,253,Seminole,Rep,Don Cole,Advanced Voting Votes,1314
+13,253,Seminole,Rep,Don Cole,Election Day Votes,861
+13,253,Seminole,Rep,Don Cole,Provisional Votes,0
+13,253,Seminole,Rep,Don Cole,TOTAL VOTES,2420
+13,253,Seminole,I) (Dem,Sanford Bishop,Absentee by Mail Votes,287
+13,253,Seminole,I) (Dem,Sanford Bishop,Advanced Voting Votes,727
+13,253,Seminole,I) (Dem,Sanford Bishop,Election Day Votes,347
+13,253,Seminole,I) (Dem,Sanford Bishop,Provisional Votes,0
+13,253,Seminole,I) (Dem,Sanford Bishop,TOTAL VOTES,1361
+13,259,Stewart,Rep,Don Cole,Absentee by Mail Votes,88
+13,259,Stewart,Rep,Don Cole,Advanced Voting Votes,417
+13,259,Stewart,Rep,Don Cole,Election Day Votes,188
+13,259,Stewart,Rep,Don Cole,Provisional Votes,3
+13,259,Stewart,Rep,Don Cole,TOTAL VOTES,696
+13,259,Stewart,I) (Dem,Sanford Bishop,Absentee by Mail Votes,394
+13,259,Stewart,I) (Dem,Sanford Bishop,Advanced Voting Votes,529
+13,259,Stewart,I) (Dem,Sanford Bishop,Election Day Votes,315
+13,259,Stewart,I) (Dem,Sanford Bishop,Provisional Votes,9
+13,259,Stewart,I) (Dem,Sanford Bishop,TOTAL VOTES,1247
+13,261,Sumter,Rep,Don Cole,Absentee by Mail Votes,734
+13,261,Sumter,Rep,Don Cole,Advanced Voting Votes,3099
+13,261,Sumter,Rep,Don Cole,Election Day Votes,1362
+13,261,Sumter,Rep,Don Cole,Provisional Votes,10
+13,261,Sumter,Rep,Don Cole,TOTAL VOTES,5205
+13,261,Sumter,I) (Dem,Sanford Bishop,Absentee by Mail Votes,2115
+13,261,Sumter,I) (Dem,Sanford Bishop,Advanced Voting Votes,3373
+13,261,Sumter,I) (Dem,Sanford Bishop,Election Day Votes,1294
+13,261,Sumter,I) (Dem,Sanford Bishop,Provisional Votes,8
+13,261,Sumter,I) (Dem,Sanford Bishop,TOTAL VOTES,6790
+13,263,Talbot,Rep,Don Cole,Absentee by Mail Votes,204
+13,263,Talbot,Rep,Don Cole,Advanced Voting Votes,634
+13,263,Talbot,Rep,Don Cole,Election Day Votes,435
+13,263,Talbot,Rep,Don Cole,Provisional Votes,1
+13,263,Talbot,Rep,Don Cole,TOTAL VOTES,1274
+13,263,Talbot,I) (Dem,Sanford Bishop,Absentee by Mail Votes,974
+13,263,Talbot,I) (Dem,Sanford Bishop,Advanced Voting Votes,646
+13,263,Talbot,I) (Dem,Sanford Bishop,Election Day Votes,560
+13,263,Talbot,I) (Dem,Sanford Bishop,Provisional Votes,0
+13,263,Talbot,I) (Dem,Sanford Bishop,TOTAL VOTES,2180
+13,269,Taylor,Rep,Don Cole,Absentee by Mail Votes,265
+13,269,Taylor,Rep,Don Cole,Advanced Voting Votes,1657
+13,269,Taylor,Rep,Don Cole,Election Day Votes,327
+13,269,Taylor,Rep,Don Cole,Provisional Votes,12
+13,269,Taylor,Rep,Don Cole,TOTAL VOTES,2261
+13,269,Taylor,I) (Dem,Sanford Bishop,Absentee by Mail Votes,509
+13,269,Taylor,I) (Dem,Sanford Bishop,Advanced Voting Votes,688
+13,269,Taylor,I) (Dem,Sanford Bishop,Election Day Votes,284
+13,269,Taylor,I) (Dem,Sanford Bishop,Provisional Votes,3
+13,269,Taylor,I) (Dem,Sanford Bishop,TOTAL VOTES,1484
+13,273,Terrell,Rep,Don Cole,Absentee by Mail Votes,229
+13,273,Terrell,Rep,Don Cole,Advanced Voting Votes,960
+13,273,Terrell,Rep,Don Cole,Election Day Votes,589
+13,273,Terrell,Rep,Don Cole,Provisional Votes,0
+13,273,Terrell,Rep,Don Cole,TOTAL VOTES,1778
+13,273,Terrell,I) (Dem,Sanford Bishop,Absentee by Mail Votes,875
+13,273,Terrell,I) (Dem,Sanford Bishop,Advanced Voting Votes,1067
+13,273,Terrell,I) (Dem,Sanford Bishop,Election Day Votes,648
+13,273,Terrell,I) (Dem,Sanford Bishop,Provisional Votes,1
+13,273,Terrell,I) (Dem,Sanford Bishop,TOTAL VOTES,2591
+13,307,Webster,Rep,Don Cole,Absentee by Mail Votes,103
+13,307,Webster,Rep,Don Cole,Advanced Voting Votes,461
+13,307,Webster,Rep,Don Cole,Election Day Votes,112
+13,307,Webster,Rep,Don Cole,Provisional Votes,0
+13,307,Webster,Rep,Don Cole,TOTAL VOTES,676
+13,307,Webster,I) (Dem,Sanford Bishop,Absentee by Mail Votes,244
+13,307,Webster,I) (Dem,Sanford Bishop,Advanced Voting Votes,291
+13,307,Webster,I) (Dem,Sanford Bishop,Election Day Votes,164
+13,307,Webster,I) (Dem,Sanford Bishop,Provisional Votes,0
+13,307,Webster,I) (Dem,Sanford Bishop,TOTAL VOTES,699

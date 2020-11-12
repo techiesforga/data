@@ -1,0 +1,131 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,45,Carroll,I) (Rep,Drew Ferguson,Absentee by Mail Votes,4918
+13,45,Carroll,I) (Rep,Drew Ferguson,Advanced Voting Votes,21911
+13,45,Carroll,I) (Rep,Drew Ferguson,Election Day Votes,11175
+13,45,Carroll,I) (Rep,Drew Ferguson,Provisional Votes,30
+13,45,Carroll,I) (Rep,Drew Ferguson,TOTAL VOTES,38034
+13,45,Carroll,Dem,Val Almonord,Absentee by Mail Votes,4256
+13,45,Carroll,Dem,Val Almonord,Advanced Voting Votes,7979
+13,45,Carroll,Dem,Val Almonord,Election Day Votes,2790
+13,45,Carroll,Dem,Val Almonord,Provisional Votes,13
+13,45,Carroll,Dem,Val Almonord,TOTAL VOTES,15038
+13,77,Coweta,I) (Rep,Drew Ferguson,Absentee by Mail Votes,10126
+13,77,Coweta,I) (Rep,Drew Ferguson,Advanced Voting Votes,24179
+13,77,Coweta,I) (Rep,Drew Ferguson,Election Day Votes,18650
+13,77,Coweta,I) (Rep,Drew Ferguson,Provisional Votes,4
+13,77,Coweta,I) (Rep,Drew Ferguson,TOTAL VOTES,52959
+13,77,Coweta,Dem,Val Almonord,Absentee by Mail Votes,8384
+13,77,Coweta,Dem,Val Almonord,Advanced Voting Votes,8793
+13,77,Coweta,Dem,Val Almonord,Election Day Votes,4835
+13,77,Coweta,Dem,Val Almonord,Provisional Votes,16
+13,77,Coweta,Dem,Val Almonord,TOTAL VOTES,22028
+13,113,Fayette,I) (Rep,Drew Ferguson,Absentee by Mail Votes,7003
+13,113,Fayette,I) (Rep,Drew Ferguson,Advanced Voting Votes,21167
+13,113,Fayette,I) (Rep,Drew Ferguson,Election Day Votes,5891
+13,113,Fayette,I) (Rep,Drew Ferguson,Provisional Votes,0
+13,113,Fayette,I) (Rep,Drew Ferguson,TOTAL VOTES,34061
+13,113,Fayette,Dem,Val Almonord,Absentee by Mail Votes,7405
+13,113,Fayette,Dem,Val Almonord,Advanced Voting Votes,12305
+13,113,Fayette,Dem,Val Almonord,Election Day Votes,2271
+13,113,Fayette,Dem,Val Almonord,Provisional Votes,0
+13,113,Fayette,Dem,Val Almonord,TOTAL VOTES,21981
+13,145,Harris,I) (Rep,Drew Ferguson,Absentee by Mail Votes,2265
+13,145,Harris,I) (Rep,Drew Ferguson,Advanced Voting Votes,6695
+13,145,Harris,I) (Rep,Drew Ferguson,Election Day Votes,5681
+13,145,Harris,I) (Rep,Drew Ferguson,Provisional Votes,14
+13,145,Harris,I) (Rep,Drew Ferguson,TOTAL VOTES,14655
+13,145,Harris,Dem,Val Almonord,Absentee by Mail Votes,1851
+13,145,Harris,Dem,Val Almonord,Advanced Voting Votes,1921
+13,145,Harris,Dem,Val Almonord,Election Day Votes,1112
+13,145,Harris,Dem,Val Almonord,Provisional Votes,4
+13,145,Harris,Dem,Val Almonord,TOTAL VOTES,4888
+13,149,Heard,I) (Rep,Drew Ferguson,Absentee by Mail Votes,690
+13,149,Heard,I) (Rep,Drew Ferguson,Advanced Voting Votes,2141
+13,149,Heard,I) (Rep,Drew Ferguson,Election Day Votes,1612
+13,149,Heard,I) (Rep,Drew Ferguson,Provisional Votes,1
+13,149,Heard,I) (Rep,Drew Ferguson,TOTAL VOTES,4444
+13,149,Heard,Dem,Val Almonord,Absentee by Mail Votes,271
+13,149,Heard,Dem,Val Almonord,Advanced Voting Votes,312
+13,149,Heard,Dem,Val Almonord,Election Day Votes,155
+13,149,Heard,Dem,Val Almonord,Provisional Votes,1
+13,149,Heard,Dem,Val Almonord,TOTAL VOTES,739
+13,151,Henry,I) (Rep,Drew Ferguson,Absentee by Mail Votes,2417
+13,151,Henry,I) (Rep,Drew Ferguson,Advanced Voting Votes,9382
+13,151,Henry,I) (Rep,Drew Ferguson,Election Day Votes,2075
+13,151,Henry,I) (Rep,Drew Ferguson,Provisional Votes,6
+13,151,Henry,I) (Rep,Drew Ferguson,TOTAL VOTES,13880
+13,151,Henry,Dem,Val Almonord,Absentee by Mail Votes,6646
+13,151,Henry,Dem,Val Almonord,Advanced Voting Votes,13504
+13,151,Henry,Dem,Val Almonord,Election Day Votes,2892
+13,151,Henry,Dem,Val Almonord,Provisional Votes,10
+13,151,Henry,Dem,Val Almonord,TOTAL VOTES,23052
+13,171,Lamar,I) (Rep,Drew Ferguson,Absentee by Mail Votes,838
+13,171,Lamar,I) (Rep,Drew Ferguson,Advanced Voting Votes,3776
+13,171,Lamar,I) (Rep,Drew Ferguson,Election Day Votes,1744
+13,171,Lamar,I) (Rep,Drew Ferguson,Provisional Votes,7
+13,171,Lamar,I) (Rep,Drew Ferguson,TOTAL VOTES,6365
+13,171,Lamar,Dem,Val Almonord,Absentee by Mail Votes,874
+13,171,Lamar,Dem,Val Almonord,Advanced Voting Votes,1111
+13,171,Lamar,Dem,Val Almonord,Election Day Votes,460
+13,171,Lamar,Dem,Val Almonord,Provisional Votes,2
+13,171,Lamar,Dem,Val Almonord,TOTAL VOTES,2447
+13,199,Meriwether,I) (Rep,Drew Ferguson,Absentee by Mail Votes,1022
+13,199,Meriwether,I) (Rep,Drew Ferguson,Advanced Voting Votes,3290
+13,199,Meriwether,I) (Rep,Drew Ferguson,Election Day Votes,2209
+13,199,Meriwether,I) (Rep,Drew Ferguson,Provisional Votes,2
+13,199,Meriwether,I) (Rep,Drew Ferguson,TOTAL VOTES,6523
+13,199,Meriwether,Dem,Val Almonord,Absentee by Mail Votes,1389
+13,199,Meriwether,Dem,Val Almonord,Advanced Voting Votes,1500
+13,199,Meriwether,Dem,Val Almonord,Election Day Votes,1114
+13,199,Meriwether,Dem,Val Almonord,Provisional Votes,4
+13,199,Meriwether,Dem,Val Almonord,TOTAL VOTES,4007
+13,215,Muscogee,I) (Rep,Drew Ferguson,Absentee by Mail Votes,3073
+13,215,Muscogee,I) (Rep,Drew Ferguson,Advanced Voting Votes,8074
+13,215,Muscogee,I) (Rep,Drew Ferguson,Election Day Votes,3151
+13,215,Muscogee,I) (Rep,Drew Ferguson,Provisional Votes,10
+13,215,Muscogee,I) (Rep,Drew Ferguson,TOTAL VOTES,14308
+13,215,Muscogee,Dem,Val Almonord,Absentee by Mail Votes,2994
+13,215,Muscogee,Dem,Val Almonord,Advanced Voting Votes,3965
+13,215,Muscogee,Dem,Val Almonord,Election Day Votes,1124
+13,215,Muscogee,Dem,Val Almonord,Provisional Votes,5
+13,215,Muscogee,Dem,Val Almonord,TOTAL VOTES,8088
+13,231,Pike,I) (Rep,Drew Ferguson,Absentee by Mail Votes,944
+13,231,Pike,I) (Rep,Drew Ferguson,Advanced Voting Votes,5832
+13,231,Pike,I) (Rep,Drew Ferguson,Election Day Votes,2336
+13,231,Pike,I) (Rep,Drew Ferguson,Provisional Votes,0
+13,231,Pike,I) (Rep,Drew Ferguson,TOTAL VOTES,9112
+13,231,Pike,Dem,Val Almonord,Absentee by Mail Votes,489
+13,231,Pike,Dem,Val Almonord,Advanced Voting Votes,630
+13,231,Pike,Dem,Val Almonord,Election Day Votes,250
+13,231,Pike,Dem,Val Almonord,Provisional Votes,0
+13,231,Pike,Dem,Val Almonord,TOTAL VOTES,1369
+13,255,Spalding,I) (Rep,Drew Ferguson,Absentee by Mail Votes,3599
+13,255,Spalding,I) (Rep,Drew Ferguson,Advanced Voting Votes,8780
+13,255,Spalding,I) (Rep,Drew Ferguson,Election Day Votes,5264
+13,255,Spalding,I) (Rep,Drew Ferguson,Provisional Votes,539
+13,255,Spalding,I) (Rep,Drew Ferguson,TOTAL VOTES,18182
+13,255,Spalding,Dem,Val Almonord,Absentee by Mail Votes,3973
+13,255,Spalding,Dem,Val Almonord,Advanced Voting Votes,4319
+13,255,Spalding,Dem,Val Almonord,Election Day Votes,2447
+13,255,Spalding,Dem,Val Almonord,Provisional Votes,332
+13,255,Spalding,Dem,Val Almonord,TOTAL VOTES,11071
+13,285,Troup,I) (Rep,Drew Ferguson,Absentee by Mail Votes,3157
+13,285,Troup,I) (Rep,Drew Ferguson,Advanced Voting Votes,10820
+13,285,Troup,I) (Rep,Drew Ferguson,Election Day Votes,4858
+13,285,Troup,I) (Rep,Drew Ferguson,Provisional Votes,49
+13,285,Troup,I) (Rep,Drew Ferguson,TOTAL VOTES,18884
+13,285,Troup,Dem,Val Almonord,Absentee by Mail Votes,3150
+13,285,Troup,Dem,Val Almonord,Advanced Voting Votes,4785
+13,285,Troup,Dem,Val Almonord,Election Day Votes,2523
+13,285,Troup,Dem,Val Almonord,Provisional Votes,28
+13,285,Troup,Dem,Val Almonord,TOTAL VOTES,10486
+13,293,Upson,I) (Rep,Drew Ferguson,Absentee by Mail Votes,1235
+13,293,Upson,I) (Rep,Drew Ferguson,Advanced Voting Votes,6045
+13,293,Upson,I) (Rep,Drew Ferguson,Election Day Votes,1380
+13,293,Upson,I) (Rep,Drew Ferguson,Provisional Votes,4
+13,293,Upson,I) (Rep,Drew Ferguson,TOTAL VOTES,8664
+13,293,Upson,Dem,Val Almonord,Absentee by Mail Votes,1438
+13,293,Upson,Dem,Val Almonord,Advanced Voting Votes,1774
+13,293,Upson,Dem,Val Almonord,Election Day Votes,594
+13,293,Upson,Dem,Val Almonord,Provisional Votes,0
+13,293,Upson,Dem,Val Almonord,TOTAL VOTES,3806

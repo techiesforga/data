@@ -1,0 +1,21 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,121,Fulton,Rep,Matt Reeves,Absentee by Mail Votes,3146
+13,121,Fulton,Rep,Matt Reeves,Advanced Voting Votes,9376
+13,121,Fulton,Rep,Matt Reeves,Election Day Votes,1795
+13,121,Fulton,Rep,Matt Reeves,Provisional Votes,67
+13,121,Fulton,Rep,Matt Reeves,TOTAL VOTES,14384
+13,121,Fulton,Dem,Michelle Au,Absentee by Mail Votes,6233
+13,121,Fulton,Dem,Michelle Au,Advanced Voting Votes,9618
+13,121,Fulton,Dem,Michelle Au,Election Day Votes,1120
+13,121,Fulton,Dem,Michelle Au,Provisional Votes,56
+13,121,Fulton,Dem,Michelle Au,TOTAL VOTES,17027
+13,135,Gwinnett,Rep,Matt Reeves,Absentee by Mail Votes,6779
+13,135,Gwinnett,Rep,Matt Reeves,Advanced Voting Votes,12000
+13,135,Gwinnett,Rep,Matt Reeves,Election Day Votes,5172
+13,135,Gwinnett,Rep,Matt Reeves,Provisional Votes,23
+13,135,Gwinnett,Rep,Matt Reeves,TOTAL VOTES,23974
+13,135,Gwinnett,Dem,Michelle Au,Absentee by Mail Votes,12224
+13,135,Gwinnett,Dem,Michelle Au,Advanced Voting Votes,15228
+13,135,Gwinnett,Dem,Michelle Au,Election Day Votes,4656
+13,135,Gwinnett,Dem,Michelle Au,Provisional Votes,46
+13,135,Gwinnett,Dem,Michelle Au,TOTAL VOTES,32154

@@ -1,0 +1,4 @@
+County,Precinct,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,
+Taylor,Precinct 1,1108,107,265,116,2,490,30,79,32,0,141,631,
+Taylor,Precinct 5,2219,152,761,154,4,1071,50,288,48,3,389,1460,
+Taylor,Precinct 6,2073,181,603,312,2,1098,71,204,62,0,337,1435,
