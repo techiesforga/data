@@ -1,0 +1,121 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,47,Catoosa,Dem,Kevin Van Ausdal,Absentee by Mail Votes,1939
+13,47,Catoosa,Dem,Kevin Van Ausdal,Advanced Voting Votes,3741
+13,47,Catoosa,Dem,Kevin Van Ausdal,Election Day Votes,992
+13,47,Catoosa,Dem,Kevin Van Ausdal,Provisional Votes,4
+13,47,Catoosa,Dem,Kevin Van Ausdal,TOTAL VOTES,6676
+13,47,Catoosa,Rep,Marjorie Taylor Greene,Absentee by Mail Votes,2910
+13,47,Catoosa,Rep,Marjorie Taylor Greene,Advanced Voting Votes,16740
+13,47,Catoosa,Rep,Marjorie Taylor Greene,Election Day Votes,5096
+13,47,Catoosa,Rep,Marjorie Taylor Greene,Provisional Votes,20
+13,47,Catoosa,Rep,Marjorie Taylor Greene,TOTAL VOTES,24766
+13,55,Chattooga,Dem,Kevin Van Ausdal,Absentee by Mail Votes,607
+13,55,Chattooga,Dem,Kevin Van Ausdal,Advanced Voting Votes,871
+13,55,Chattooga,Dem,Kevin Van Ausdal,Election Day Votes,392
+13,55,Chattooga,Dem,Kevin Van Ausdal,Provisional Votes,2
+13,55,Chattooga,Dem,Kevin Van Ausdal,TOTAL VOTES,1872
+13,55,Chattooga,Rep,Marjorie Taylor Greene,Absentee by Mail Votes,1040
+13,55,Chattooga,Rep,Marjorie Taylor Greene,Advanced Voting Votes,4269
+13,55,Chattooga,Rep,Marjorie Taylor Greene,Election Day Votes,2360
+13,55,Chattooga,Rep,Marjorie Taylor Greene,Provisional Votes,4
+13,55,Chattooga,Rep,Marjorie Taylor Greene,TOTAL VOTES,7673
+13,83,Dade,Dem,Kevin Van Ausdal,Absentee by Mail Votes,330
+13,83,Dade,Dem,Kevin Van Ausdal,Advanced Voting Votes,638
+13,83,Dade,Dem,Kevin Van Ausdal,Election Day Votes,253
+13,83,Dade,Dem,Kevin Van Ausdal,Provisional Votes,1
+13,83,Dade,Dem,Kevin Van Ausdal,TOTAL VOTES,1222
+13,83,Dade,Rep,Marjorie Taylor Greene,Absentee by Mail Votes,628
+13,83,Dade,Rep,Marjorie Taylor Greene,Advanced Voting Votes,3319
+13,83,Dade,Rep,Marjorie Taylor Greene,Election Day Votes,1940
+13,83,Dade,Rep,Marjorie Taylor Greene,Provisional Votes,6
+13,83,Dade,Rep,Marjorie Taylor Greene,TOTAL VOTES,5893
+13,115,Floyd,Dem,Kevin Van Ausdal,Absentee by Mail Votes,3464
+13,115,Floyd,Dem,Kevin Van Ausdal,Advanced Voting Votes,4664
+13,115,Floyd,Dem,Kevin Van Ausdal,Election Day Votes,2193
+13,115,Floyd,Dem,Kevin Van Ausdal,Provisional Votes,18
+13,115,Floyd,Dem,Kevin Van Ausdal,TOTAL VOTES,10339
+13,115,Floyd,Rep,Marjorie Taylor Greene,Absentee by Mail Votes,4244
+13,115,Floyd,Rep,Marjorie Taylor Greene,Advanced Voting Votes,14035
+13,115,Floyd,Rep,Marjorie Taylor Greene,Election Day Votes,7670
+13,115,Floyd,Rep,Marjorie Taylor Greene,Provisional Votes,106
+13,115,Floyd,Rep,Marjorie Taylor Greene,TOTAL VOTES,26055
+13,129,Gordon,Dem,Kevin Van Ausdal,Absentee by Mail Votes,1365
+13,129,Gordon,Dem,Kevin Van Ausdal,Advanced Voting Votes,1916
+13,129,Gordon,Dem,Kevin Van Ausdal,Election Day Votes,1081
+13,129,Gordon,Dem,Kevin Van Ausdal,Provisional Votes,0
+13,129,Gordon,Dem,Kevin Van Ausdal,TOTAL VOTES,4362
+13,129,Gordon,Rep,Marjorie Taylor Greene,Absentee by Mail Votes,2407
+13,129,Gordon,Rep,Marjorie Taylor Greene,Advanced Voting Votes,9496
+13,129,Gordon,Rep,Marjorie Taylor Greene,Election Day Votes,6691
+13,129,Gordon,Rep,Marjorie Taylor Greene,Provisional Votes,14
+13,129,Gordon,Rep,Marjorie Taylor Greene,TOTAL VOTES,18608
+13,143,Haralson,Dem,Kevin Van Ausdal,Absentee by Mail Votes,649
+13,143,Haralson,Dem,Kevin Van Ausdal,Advanced Voting Votes,736
+13,143,Haralson,Dem,Kevin Van Ausdal,Election Day Votes,383
+13,143,Haralson,Dem,Kevin Van Ausdal,Provisional Votes,0
+13,143,Haralson,Dem,Kevin Van Ausdal,TOTAL VOTES,1768
+13,143,Haralson,Rep,Marjorie Taylor Greene,Absentee by Mail Votes,1729
+13,143,Haralson,Rep,Marjorie Taylor Greene,Advanced Voting Votes,6108
+13,143,Haralson,Rep,Marjorie Taylor Greene,Election Day Votes,4210
+13,143,Haralson,Rep,Marjorie Taylor Greene,Provisional Votes,4
+13,143,Haralson,Rep,Marjorie Taylor Greene,TOTAL VOTES,12051
+13,213,Murray,Dem,Kevin Van Ausdal,Absentee by Mail Votes,640
+13,213,Murray,Dem,Kevin Van Ausdal,Advanced Voting Votes,1076
+13,213,Murray,Dem,Kevin Van Ausdal,Election Day Votes,531
+13,213,Murray,Dem,Kevin Van Ausdal,Provisional Votes,0
+13,213,Murray,Dem,Kevin Van Ausdal,TOTAL VOTES,2247
+13,213,Murray,Rep,Marjorie Taylor Greene,Absentee by Mail Votes,1339
+13,213,Murray,Rep,Marjorie Taylor Greene,Advanced Voting Votes,7444
+13,213,Murray,Rep,Marjorie Taylor Greene,Election Day Votes,3743
+13,213,Murray,Rep,Marjorie Taylor Greene,Provisional Votes,0
+13,213,Murray,Rep,Marjorie Taylor Greene,TOTAL VOTES,12526
+13,223,Paulding,Dem,Kevin Van Ausdal,Absentee by Mail Votes,9951
+13,223,Paulding,Dem,Kevin Van Ausdal,Advanced Voting Votes,14885
+13,223,Paulding,Dem,Kevin Van Ausdal,Election Day Votes,3617
+13,223,Paulding,Dem,Kevin Van Ausdal,Provisional Votes,0
+13,223,Paulding,Dem,Kevin Van Ausdal,TOTAL VOTES,28453
+13,223,Paulding,Rep,Marjorie Taylor Greene,Absentee by Mail Votes,9639
+13,223,Paulding,Rep,Marjorie Taylor Greene,Advanced Voting Votes,35085
+13,223,Paulding,Rep,Marjorie Taylor Greene,Election Day Votes,9740
+13,223,Paulding,Rep,Marjorie Taylor Greene,Provisional Votes,0
+13,223,Paulding,Rep,Marjorie Taylor Greene,TOTAL VOTES,54464
+13,227,Pickens,Dem,Kevin Van Ausdal,Absentee by Mail Votes,232
+13,227,Pickens,Dem,Kevin Van Ausdal,Advanced Voting Votes,269
+13,227,Pickens,Dem,Kevin Van Ausdal,Election Day Votes,196
+13,227,Pickens,Dem,Kevin Van Ausdal,Provisional Votes,0
+13,227,Pickens,Dem,Kevin Van Ausdal,TOTAL VOTES,697
+13,227,Pickens,Rep,Marjorie Taylor Greene,Absentee by Mail Votes,539
+13,227,Pickens,Rep,Marjorie Taylor Greene,Advanced Voting Votes,2025
+13,227,Pickens,Rep,Marjorie Taylor Greene,Election Day Votes,2519
+13,227,Pickens,Rep,Marjorie Taylor Greene,Provisional Votes,5
+13,227,Pickens,Rep,Marjorie Taylor Greene,TOTAL VOTES,5088
+13,233,Polk,Dem,Kevin Van Ausdal,Absentee by Mail Votes,1014
+13,233,Polk,Dem,Kevin Van Ausdal,Advanced Voting Votes,1883
+13,233,Polk,Dem,Kevin Van Ausdal,Election Day Votes,586
+13,233,Polk,Dem,Kevin Van Ausdal,Provisional Votes,8
+13,233,Polk,Dem,Kevin Van Ausdal,TOTAL VOTES,3491
+13,233,Polk,Rep,Marjorie Taylor Greene,Absentee by Mail Votes,1625
+13,233,Polk,Rep,Marjorie Taylor Greene,Advanced Voting Votes,8821
+13,233,Polk,Rep,Marjorie Taylor Greene,Election Day Votes,2796
+13,233,Polk,Rep,Marjorie Taylor Greene,Provisional Votes,12
+13,233,Polk,Rep,Marjorie Taylor Greene,TOTAL VOTES,13254
+13,295,Walker,Dem,Kevin Van Ausdal,Absentee by Mail Votes,2032
+13,295,Walker,Dem,Kevin Van Ausdal,Advanced Voting Votes,2525
+13,295,Walker,Dem,Kevin Van Ausdal,Election Day Votes,989
+13,295,Walker,Dem,Kevin Van Ausdal,Provisional Votes,2
+13,295,Walker,Dem,Kevin Van Ausdal,TOTAL VOTES,5548
+13,295,Walker,Rep,Marjorie Taylor Greene,Absentee by Mail Votes,3451
+13,295,Walker,Rep,Marjorie Taylor Greene,Advanced Voting Votes,13754
+13,295,Walker,Rep,Marjorie Taylor Greene,Election Day Votes,5501
+13,295,Walker,Rep,Marjorie Taylor Greene,Provisional Votes,8
+13,295,Walker,Rep,Marjorie Taylor Greene,TOTAL VOTES,22714
+13,313,Whitfield,Dem,Kevin Van Ausdal,Absentee by Mail Votes,2598
+13,313,Whitfield,Dem,Kevin Van Ausdal,Advanced Voting Votes,4790
+13,313,Whitfield,Dem,Kevin Van Ausdal,Election Day Votes,2739
+13,313,Whitfield,Dem,Kevin Van Ausdal,Provisional Votes,17
+13,313,Whitfield,Dem,Kevin Van Ausdal,TOTAL VOTES,10144
+13,313,Whitfield,Rep,Marjorie Taylor Greene,Absentee by Mail Votes,3423
+13,313,Whitfield,Rep,Marjorie Taylor Greene,Advanced Voting Votes,12627
+13,313,Whitfield,Rep,Marjorie Taylor Greene,Election Day Votes,8620
+13,313,Whitfield,Rep,Marjorie Taylor Greene,Provisional Votes,45
+13,313,Whitfield,Rep,Marjorie Taylor Greene,TOTAL VOTES,24715
