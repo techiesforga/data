@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Stan Gunter (Rep)_Election Day Votes,Stan Gunter (Rep)_Advanced Voting Votes,Stan Gunter (Rep)_Absentee by Mail Votes,Stan Gunter (Rep)_Provisional Votes,Stan Gunter (Rep)_Choice Total,Dave Cooper (Dem)_Election Day Votes,Dave Cooper (Dem)_Advanced Voting Votes,Dave Cooper (Dem)_Absentee by Mail Votes,Dave Cooper (Dem)_Provisional Votes,Dave Cooper (Dem)_Choice Total,Total,
-Towns,Young Harris,3323,365,1189,390,1,1945,58,223,200,0,481,2426,
-Towns,Macedonia,3828,322,1502,422,2,2248,44,218,211,0,473,2721,
-Towns,Hiawassee,3542,266,1426,449,4,2145,34,229,216,0,479,2624,
+index,County,Precinct,Registered Voters,Stan Gunter (Rep)_Election Day Votes,Stan Gunter (Rep)_Advanced Voting Votes,Stan Gunter (Rep)_Absentee by Mail Votes,Stan Gunter (Rep)_Provisional Votes,Stan Gunter (Rep)_Choice Total,Dave Cooper (Dem)_Election Day Votes,Dave Cooper (Dem)_Advanced Voting Votes,Dave Cooper (Dem)_Absentee by Mail Votes,Dave Cooper (Dem)_Provisional Votes,Dave Cooper (Dem)_Choice Total,Total,
+0,Towns,Young Harris,3323,365,1189,390,1,1945,58,223,200,0,481,2426,
+1,Towns,Macedonia,3828,322,1502,422,2,2248,44,218,211,0,473,2721,
+2,Towns,Hiawassee,3542,266,1426,449,4,2145,34,229,216,0,479,2624,

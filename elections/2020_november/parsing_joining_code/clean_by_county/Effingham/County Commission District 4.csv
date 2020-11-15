@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Reggie Loper (I) (Rep)_Election Day Votes,Reggie Loper (I) (Rep)_Advanced Voting Votes,Reggie Loper (I) (Rep)_Absentee by Mail Votes,Reggie Loper (I) (Rep)_Provisional Votes,Reggie Loper (I) (Rep)_Choice Total,Total,
-Effingham,4A,3726,536,1393,293,0,2222,2222,
-Effingham,4B,1888,263,585,156,0,1004,1004,
-Effingham,4C,2837,467,1028,233,0,1728,1728,
+index,County,Precinct,Registered Voters,Reggie Loper (I) (Rep)_Election Day Votes,Reggie Loper (I) (Rep)_Advanced Voting Votes,Reggie Loper (I) (Rep)_Absentee by Mail Votes,Reggie Loper (I) (Rep)_Provisional Votes,Reggie Loper (I) (Rep)_Choice Total,Total,
+0,Effingham,4A,3726,536,1393,293,0,2222,2222,
+1,Effingham,4B,1888,263,585,156,0,1004,1004,
+2,Effingham,4C,2837,467,1028,233,0,1728,1728,

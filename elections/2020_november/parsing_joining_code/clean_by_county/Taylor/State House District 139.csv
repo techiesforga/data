@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Patty Bentley (I) (Dem)_Election Day Votes,Patty Bentley (I) (Dem)_Advanced Voting Votes,Patty Bentley (I) (Dem)_Absentee by Mail Votes,Patty Bentley (I) (Dem)_Provisional Votes,Patty Bentley (I) (Dem)_Choice Total,Total,
-Taylor,Precinct 1,1108,143,340,141,2,626,626,
-Taylor,Precinct 5,2219,148,746,156,3,1053,1053,
-Taylor,Precinct 6,2073,195,605,320,2,1122,1122,
+index,County,Precinct,Registered Voters,Patty Bentley (I) (Dem)_Election Day Votes,Patty Bentley (I) (Dem)_Advanced Voting Votes,Patty Bentley (I) (Dem)_Absentee by Mail Votes,Patty Bentley (I) (Dem)_Provisional Votes,Patty Bentley (I) (Dem)_Choice Total,Total,
+0,Taylor,Precinct 1,1108,143,340,141,2,626,626,
+1,Taylor,Precinct 5,2219,148,746,156,3,1053,1053,
+2,Taylor,Precinct 6,2073,195,605,320,2,1122,1122,

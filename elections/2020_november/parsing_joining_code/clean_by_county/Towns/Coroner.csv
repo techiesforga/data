@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Tamela Cooper (Rep)_Election Day Votes,Tamela Cooper (Rep)_Advanced Voting Votes,Tamela Cooper (Rep)_Absentee by Mail Votes,Tamela Cooper (Rep)_Provisional Votes,Tamela Cooper (Rep)_Choice Total,Total,
-Towns,Young Harris,3323,402,1272,486,1,2161,2161,
-Towns,Macedonia,3828,346,1568,520,2,2436,2436,
-Towns,Hiawassee,3542,288,1525,521,4,2338,2338,
+index,County,Precinct,Registered Voters,Tamela Cooper (Rep)_Election Day Votes,Tamela Cooper (Rep)_Advanced Voting Votes,Tamela Cooper (Rep)_Absentee by Mail Votes,Tamela Cooper (Rep)_Provisional Votes,Tamela Cooper (Rep)_Choice Total,Total,
+0,Towns,Young Harris,3323,402,1272,486,1,2161,2161,
+1,Towns,Macedonia,3828,346,1568,520,2,2436,2436,
+2,Towns,Hiawassee,3542,288,1525,521,4,2338,2338,

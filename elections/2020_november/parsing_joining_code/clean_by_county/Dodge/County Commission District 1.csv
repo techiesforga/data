@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Sharon Cobb Flanagan (Rep)_Election Day Votes,Sharon Cobb Flanagan (Rep)_Advanced Voting Votes,Sharon Cobb Flanagan (Rep)_Absentee by Mail Votes,Sharon Cobb Flanagan (Rep)_Provisional Votes,Sharon Cobb Flanagan (Rep)_Choice Total,John Battle (Dem)_Election Day Votes,John Battle (Dem)_Advanced Voting Votes,John Battle (Dem)_Absentee by Mail Votes,John Battle (Dem)_Provisional Votes,John Battle (Dem)_Choice Total,Total,
-Dodge,Eddin,1037,46,85,12,0,143,2,15,18,0,35,178,
-Dodge,Lee,4816,211,807,209,0,1227,67,182,69,0,318,1545,
-Dodge,Rawlins,923,173,264,55,0,492,31,64,46,0,141,633,
+index,County,Precinct,Registered Voters,Sharon Cobb Flanagan (Rep)_Election Day Votes,Sharon Cobb Flanagan (Rep)_Advanced Voting Votes,Sharon Cobb Flanagan (Rep)_Absentee by Mail Votes,Sharon Cobb Flanagan (Rep)_Provisional Votes,Sharon Cobb Flanagan (Rep)_Choice Total,John Battle (Dem)_Election Day Votes,John Battle (Dem)_Advanced Voting Votes,John Battle (Dem)_Absentee by Mail Votes,John Battle (Dem)_Provisional Votes,John Battle (Dem)_Choice Total,Total,
+0,Dodge,Eddin,1037,46,85,12,0,143,2,15,18,0,35,178,
+1,Dodge,Lee,4816,211,807,209,0,1227,67,182,69,0,318,1545,
+2,Dodge,Rawlins,923,173,264,55,0,492,31,64,46,0,141,633,

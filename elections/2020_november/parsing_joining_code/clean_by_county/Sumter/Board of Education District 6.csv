@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Vincent L. Kearse_Election Day Votes,Vincent L. Kearse_Advanced Voting Votes,Vincent L. Kearse_Absentee by Mail Votes,Vincent L. Kearse_Provisional Votes,Vincent L. Kearse_Choice Total,Total,
-Sumter,GSW Conf Center,3044,49,202,58,1,310,310,
-Sumter,Rec Dept,2667,48,154,76,0,278,278,
-Sumter,Reese Park,3064,101,227,147,0,475,475,
+index,County,Precinct,Registered Voters,Vincent L. Kearse_Election Day Votes,Vincent L. Kearse_Advanced Voting Votes,Vincent L. Kearse_Absentee by Mail Votes,Vincent L. Kearse_Provisional Votes,Vincent L. Kearse_Choice Total,Total,
+0,Sumter,GSW Conf Center,3044,49,202,58,1,310,310,
+1,Sumter,Rec Dept,2667,48,154,76,0,278,278,
+2,Sumter,Reese Park,3064,101,227,147,0,475,475,

@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Burt Jones (I) (Rep)_Election Day Votes,Burt Jones (I) (Rep)_Advanced Voting Votes,Burt Jones (I) (Rep)_Absentee by Mail Votes,Burt Jones (I) (Rep)_Provisional Votes,Burt Jones (I) (Rep)_Choice Total,Veronica Brinson (Dem)_Election Day Votes,Veronica Brinson (Dem)_Advanced Voting Votes,Veronica Brinson (Dem)_Absentee by Mail Votes,Veronica Brinson (Dem)_Provisional Votes,Veronica Brinson (Dem)_Choice Total,Total,
-Jasper,Wyatt,1940,439,481,138,1,1059,79,77,107,1,264,1323,
-Jasper,Monticello,4516,274,1547,374,10,2205,164,515,398,0,1077,3282,
-Jasper,Martin-Burney,3976,814,1434,349,1,2598,49,124,111,0,284,2882,
+index,County,Precinct,Registered Voters,Burt Jones (I) (Rep)_Election Day Votes,Burt Jones (I) (Rep)_Advanced Voting Votes,Burt Jones (I) (Rep)_Absentee by Mail Votes,Burt Jones (I) (Rep)_Provisional Votes,Burt Jones (I) (Rep)_Choice Total,Veronica Brinson (Dem)_Election Day Votes,Veronica Brinson (Dem)_Advanced Voting Votes,Veronica Brinson (Dem)_Absentee by Mail Votes,Veronica Brinson (Dem)_Provisional Votes,Veronica Brinson (Dem)_Choice Total,Total,
+0,Jasper,Wyatt,1940,439,481,138,1,1059,79,77,107,1,264,1323,
+1,Jasper,Monticello,4516,274,1547,374,10,2205,164,515,398,0,1077,3282,
+2,Jasper,Martin-Burney,3976,814,1434,349,1,2598,49,124,111,0,284,2882,

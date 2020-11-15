@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Elaine Wilson (I) (Rep)_Election Day Votes,Elaine Wilson (I) (Rep)_Advanced Voting Votes,Elaine Wilson (I) (Rep)_Absentee by Mail Votes,Elaine Wilson (I) (Rep)_Provisional Votes,Elaine Wilson (I) (Rep)_Choice Total,Total,
-Dawson,West,2723,405,978,401,0,1784,1784,
-Dawson,Central,9891,964,4451,863,2,6280,6280,
-Dawson,East,8915,1071,3846,1018,0,5935,5935,
+index,County,Precinct,Registered Voters,Elaine Wilson (I) (Rep)_Election Day Votes,Elaine Wilson (I) (Rep)_Advanced Voting Votes,Elaine Wilson (I) (Rep)_Absentee by Mail Votes,Elaine Wilson (I) (Rep)_Provisional Votes,Elaine Wilson (I) (Rep)_Choice Total,Total,
+0,Dawson,West,2723,405,978,401,0,1784,1784,
+1,Dawson,Central,9891,964,4451,863,2,6280,6280,
+2,Dawson,East,8915,1071,3846,1018,0,5935,5935,

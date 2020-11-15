@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,David A. Perdue (I) (Rep)_Election Day Votes,David A. Perdue (I) (Rep)_Advanced Voting Votes,David A. Perdue (I) (Rep)_Absentee by Mail Votes,David A. Perdue (I) (Rep)_Provisional Votes,David A. Perdue (I) (Rep)_Choice Total,Jon Ossoff (Dem)_Election Day Votes,Jon Ossoff (Dem)_Advanced Voting Votes,Jon Ossoff (Dem)_Absentee by Mail Votes,Jon Ossoff (Dem)_Provisional Votes,Jon Ossoff (Dem)_Choice Total,Shane Hazel (Lib)_Election Day Votes,Shane Hazel (Lib)_Advanced Voting Votes,Shane Hazel (Lib)_Absentee by Mail Votes,Shane Hazel (Lib)_Provisional Votes,Shane Hazel (Lib)_Choice Total,Total,
-Irwin,Irwinville,1796,291,695,153,0,1139,34,56,23,0,113,4,13,0,0,17,1269,
-Irwin,Ocilla,3642,228,1125,171,3,1527,182,409,183,1,775,10,31,4,0,45,2347,
-Irwin,Holt,675,115,265,49,0,429,25,39,30,0,94,1,3,1,0,5,528,
+index,County,Precinct,Registered Voters,David A. Perdue (I) (Rep)_Election Day Votes,David A. Perdue (I) (Rep)_Advanced Voting Votes,David A. Perdue (I) (Rep)_Absentee by Mail Votes,David A. Perdue (I) (Rep)_Provisional Votes,David A. Perdue (I) (Rep)_Choice Total,Jon Ossoff (Dem)_Election Day Votes,Jon Ossoff (Dem)_Advanced Voting Votes,Jon Ossoff (Dem)_Absentee by Mail Votes,Jon Ossoff (Dem)_Provisional Votes,Jon Ossoff (Dem)_Choice Total,Shane Hazel (Lib)_Election Day Votes,Shane Hazel (Lib)_Advanced Voting Votes,Shane Hazel (Lib)_Absentee by Mail Votes,Shane Hazel (Lib)_Provisional Votes,Shane Hazel (Lib)_Choice Total,Total,
+0,Irwin,Irwinville,1796,291,695,153,0,1139,34,56,23,0,113,4,13,0,0,17,1269,
+1,Irwin,Ocilla,3642,228,1125,171,3,1527,182,409,183,1,775,10,31,4,0,45,2347,
+2,Irwin,Holt,675,115,265,49,0,429,25,39,30,0,94,1,3,1,0,5,528,

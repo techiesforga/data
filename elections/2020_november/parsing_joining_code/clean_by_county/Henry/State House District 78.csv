@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Demetrius Douglas (I) (Dem)_Election Day Votes,Demetrius Douglas (I) (Dem)_Advanced Voting Votes,Demetrius Douglas (I) (Dem)_Absentee by Mail Votes,Demetrius Douglas (I) (Dem)_Provisional Votes,Demetrius Douglas (I) (Dem)_Choice Total,Total,
-Henry,Red Oak,5610,393,2355,919,0,3667,3667,
-Henry,Stockbridge Central,4416,318,1418,583,1,2320,2320,
+index,County,Precinct,Registered Voters,Demetrius Douglas (I) (Dem)_Election Day Votes,Demetrius Douglas (I) (Dem)_Advanced Voting Votes,Demetrius Douglas (I) (Dem)_Absentee by Mail Votes,Demetrius Douglas (I) (Dem)_Provisional Votes,Demetrius Douglas (I) (Dem)_Choice Total,Total,
+0,Henry,Red Oak,5610,393,2355,919,0,3667,3667,
+1,Henry,Stockbridge Central,4416,318,1418,583,1,2320,2320,

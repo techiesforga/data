@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Jeffery Smith (I) (Rep)_Election Day Votes,Jeffery Smith (I) (Rep)_Advanced Voting Votes,Jeffery Smith (I) (Rep)_Absentee by Mail Votes,Jeffery Smith (I) (Rep)_Provisional Votes,Jeffery Smith (I) (Rep)_Choice Total,Total,
-Greene,Greensboro,3999,91,447,131,2,671,671,
-Greene,Union Point,1873,103,282,105,0,490,490,
-Greene,Old Salem,6961,71,570,131,0,772,772,
+index,County,Precinct,Registered Voters,Jeffery Smith (I) (Rep)_Election Day Votes,Jeffery Smith (I) (Rep)_Advanced Voting Votes,Jeffery Smith (I) (Rep)_Absentee by Mail Votes,Jeffery Smith (I) (Rep)_Provisional Votes,Jeffery Smith (I) (Rep)_Choice Total,Total,
+0,Greene,Greensboro,3999,91,447,131,2,671,671,
+1,Greene,Union Point,1873,103,282,105,0,490,490,
+2,Greene,Old Salem,6961,71,570,131,0,772,772,

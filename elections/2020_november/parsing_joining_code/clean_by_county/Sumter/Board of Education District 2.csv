@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Patricia M. Harris_Election Day Votes,Patricia M. Harris_Advanced Voting Votes,Patricia M. Harris_Absentee by Mail Votes,Patricia M. Harris_Provisional Votes,Patricia M. Harris_Choice Total,Meda Dubose Krenson_Election Day Votes,Meda Dubose Krenson_Advanced Voting Votes,Meda Dubose Krenson_Absentee by Mail Votes,Meda Dubose Krenson_Provisional Votes,Meda Dubose Krenson_Choice Total,Total,
-Sumter,Agri-Center,2059,33,167,80,0,280,19,48,9,0,76,356,
-Sumter,GSW Conf Center,3044,62,220,86,0,368,34,167,62,0,263,631,
-Sumter,Rec Dept,2667,67,183,127,0,377,3,13,12,0,28,405,
+index,County,Precinct,Registered Voters,Patricia M. Harris_Election Day Votes,Patricia M. Harris_Advanced Voting Votes,Patricia M. Harris_Absentee by Mail Votes,Patricia M. Harris_Provisional Votes,Patricia M. Harris_Choice Total,Meda Dubose Krenson_Election Day Votes,Meda Dubose Krenson_Advanced Voting Votes,Meda Dubose Krenson_Absentee by Mail Votes,Meda Dubose Krenson_Provisional Votes,Meda Dubose Krenson_Choice Total,Total,
+0,Sumter,Agri-Center,2059,33,167,80,0,280,19,48,9,0,76,356,
+1,Sumter,GSW Conf Center,3044,62,220,86,0,368,34,167,62,0,263,631,
+2,Sumter,Rec Dept,2667,67,183,127,0,377,3,13,12,0,28,405,

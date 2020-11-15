@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Chip McEver (I)_Election Day Votes,Chip McEver (I)_Advanced Voting Votes,Chip McEver (I)_Absentee by Mail Votes,Chip McEver (I)_Provisional Votes,Chip McEver (I)_Choice Total,Total,
-Jackson,Central Jackson,16263,371,1238,330,0,1939,1939,
-Jackson,West Jackson,14977,182,859,229,0,1270,1270,
+index,County,Precinct,Registered Voters,Chip McEver (I)_Election Day Votes,Chip McEver (I)_Advanced Voting Votes,Chip McEver (I)_Absentee by Mail Votes,Chip McEver (I)_Provisional Votes,Chip McEver (I)_Choice Total,Total,
+0,Jackson,Central Jackson,16263,371,1238,330,0,1939,1939,
+1,Jackson,West Jackson,14977,182,859,229,0,1270,1270,

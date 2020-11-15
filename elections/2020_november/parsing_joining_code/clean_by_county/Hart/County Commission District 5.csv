@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Joey Dorsey (I) (Rep)_Election Day Votes,Joey Dorsey (I) (Rep)_Advanced Voting Votes,Joey Dorsey (I) (Rep)_Absentee by Mail Votes,Joey Dorsey (I) (Rep)_Provisional Votes,Joey Dorsey (I) (Rep)_Choice Total,Total,
-Hart,Goldmine,1901,382,651,209,0,1242,1242,
-Hart,Bowersville,1395,58,92,15,0,165,165,
-Hart,Bio,1374,241,458,110,0,809,809,
+index,County,Precinct,Registered Voters,Joey Dorsey (I) (Rep)_Election Day Votes,Joey Dorsey (I) (Rep)_Advanced Voting Votes,Joey Dorsey (I) (Rep)_Absentee by Mail Votes,Joey Dorsey (I) (Rep)_Provisional Votes,Joey Dorsey (I) (Rep)_Choice Total,Total,
+0,Hart,Goldmine,1901,382,651,209,0,1242,1242,
+1,Hart,Bowersville,1395,58,92,15,0,165,165,
+2,Hart,Bio,1374,241,458,110,0,809,809,

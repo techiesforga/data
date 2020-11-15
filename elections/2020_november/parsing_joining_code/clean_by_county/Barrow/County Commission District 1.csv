@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Joe Goodman (I) (Rep)_Election Day Votes,Joe Goodman (I) (Rep)_Advanced Voting Votes,Joe Goodman (I) (Rep)_Absentee by Mail Votes,Joe Goodman (I) (Rep)_Provisional Votes,Joe Goodman (I) (Rep)_Choice Total,Total,
-Barrow,01 Bethlehem Community Center 3359,45,118,40,0,203,203,,
-Barrow,05 Fire Station 1 (Statham),8336,1086,3061,886,0,5033,5033,
-Barrow,08 First Baptist Church Winder7009,141,366,115,0,622,622,,
+index,County,Precinct,Registered Voters,Joe Goodman (I) (Rep)_Election Day Votes,Joe Goodman (I) (Rep)_Advanced Voting Votes,Joe Goodman (I) (Rep)_Absentee by Mail Votes,Joe Goodman (I) (Rep)_Provisional Votes,Joe Goodman (I) (Rep)_Choice Total,Total,
+0,Barrow,01 Bethlehem Community Center 3359,45,118,40,0,203,203,,
+1,Barrow,05 Fire Station 1 (Statham),8336,1086,3061,886,0,5033,5033,
+2,Barrow,08 First Baptist Church Winder7009,141,366,115,0,622,622,,

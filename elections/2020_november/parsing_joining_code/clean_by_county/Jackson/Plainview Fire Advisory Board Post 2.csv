@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Dwight Langford (I)_Election Day Votes,Dwight Langford (I)_Advanced Voting Votes,Dwight Langford (I)_Absentee by Mail Votes,Dwight Langford (I)_Provisional Votes,Dwight Langford (I)_Choice Total,Total,
-Jackson,Central Jackson,16263,0,2,0,0,2,2,
-Jackson,North Jackson,12699,173,718,173,0,1064,1064,
+index,County,Precinct,Registered Voters,Dwight Langford (I)_Election Day Votes,Dwight Langford (I)_Advanced Voting Votes,Dwight Langford (I)_Absentee by Mail Votes,Dwight Langford (I)_Provisional Votes,Dwight Langford (I)_Choice Total,Total,
+0,Jackson,Central Jackson,16263,0,2,0,0,2,2,
+1,Jackson,North Jackson,12699,173,718,173,0,1064,1064,

@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Billy Thurmond (I) (Rep)_Election Day Votes,Billy Thurmond (I) (Rep)_Advanced Voting Votes,Billy Thurmond (I) (Rep)_Absentee by Mail Votes,Billy Thurmond (I) (Rep)_Provisional Votes,Billy Thurmond (I) (Rep)_Choice Total,Total,
-Dawson,West,2723,405,997,408,0,1810,1810,
-Dawson,Central,9891,970,4487,882,2,6341,6341,
-Dawson,East,8915,1083,3884,1054,1,6022,6022,
+index,County,Precinct,Registered Voters,Billy Thurmond (I) (Rep)_Election Day Votes,Billy Thurmond (I) (Rep)_Advanced Voting Votes,Billy Thurmond (I) (Rep)_Absentee by Mail Votes,Billy Thurmond (I) (Rep)_Provisional Votes,Billy Thurmond (I) (Rep)_Choice Total,Total,
+0,Dawson,West,2723,405,997,408,0,1810,1810,
+1,Dawson,Central,9891,970,4487,882,2,6341,6341,
+2,Dawson,East,8915,1083,3884,1054,1,6022,6022,

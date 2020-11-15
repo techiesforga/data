@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Chad Brown (I) (Rep)_Election Day Votes,Chad Brown (I) (Rep)_Advanced Voting Votes,Chad Brown (I) (Rep)_Absentee by Mail Votes,Chad Brown (I) (Rep)_Provisional Votes,Chad Brown (I) (Rep)_Choice Total,Total,
-Clinch,Arabia,108,61,12,4,0,77,77,
-Clinch,Dupont,338,76,43,10,0,129,129,
-Clinch,Homerville,3262,54,275,48,0,377,377,
+index,County,Precinct,Registered Voters,Chad Brown (I) (Rep)_Election Day Votes,Chad Brown (I) (Rep)_Advanced Voting Votes,Chad Brown (I) (Rep)_Absentee by Mail Votes,Chad Brown (I) (Rep)_Provisional Votes,Chad Brown (I) (Rep)_Choice Total,Total,
+0,Clinch,Arabia,108,61,12,4,0,77,77,
+1,Clinch,Dupont,338,76,43,10,0,129,129,
+2,Clinch,Homerville,3262,54,275,48,0,377,377,

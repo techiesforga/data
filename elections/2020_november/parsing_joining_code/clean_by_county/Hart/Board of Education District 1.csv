@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Lonnie Robinson (I) (Dem)_Election Day Votes,Lonnie Robinson (I) (Dem)_Advanced Voting Votes,Lonnie Robinson (I) (Dem)_Absentee by Mail Votes,Lonnie Robinson (I) (Dem)_Provisional Votes,Lonnie Robinson (I) (Dem)_Choice Total,Total,
-Hart,Hartwell,6451,175,491,241,0,907,907,
-Hart,Cokesbury,1162,144,224,111,0,479,479,
-Hart,Bio,1374,21,74,40,0,135,135,
+index,County,Precinct,Registered Voters,Lonnie Robinson (I) (Dem)_Election Day Votes,Lonnie Robinson (I) (Dem)_Advanced Voting Votes,Lonnie Robinson (I) (Dem)_Absentee by Mail Votes,Lonnie Robinson (I) (Dem)_Provisional Votes,Lonnie Robinson (I) (Dem)_Choice Total,Total,
+0,Hart,Hartwell,6451,175,491,241,0,907,907,
+1,Hart,Cokesbury,1162,144,224,111,0,479,479,
+2,Hart,Bio,1374,21,74,40,0,135,135,

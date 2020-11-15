@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Darriel Nobles (I) (Rep)_Election Day Votes,Darriel Nobles (I) (Rep)_Advanced Voting Votes,Darriel Nobles (I) (Rep)_Absentee by Mail Votes,Darriel Nobles (I) (Rep)_Provisional Votes,Darriel Nobles (I) (Rep)_Choice Total,Total,
-Toombs,15361 Lyons,0,229,817,187,0,1233,1233,
-Toombs,39 Newbranch,0,153,184,36,0,373,373,
-Toombs,514 STIALC,0,176,545,143,1,865,865,
+index,County,Precinct,Registered Voters,Darriel Nobles (I) (Rep)_Election Day Votes,Darriel Nobles (I) (Rep)_Advanced Voting Votes,Darriel Nobles (I) (Rep)_Absentee by Mail Votes,Darriel Nobles (I) (Rep)_Provisional Votes,Darriel Nobles (I) (Rep)_Choice Total,Total,
+0,Toombs,15361 Lyons,0,229,817,187,0,1233,1233,
+1,Toombs,39 Newbranch,0,153,184,36,0,373,373,
+2,Toombs,514 STIALC,0,176,545,143,1,865,865,

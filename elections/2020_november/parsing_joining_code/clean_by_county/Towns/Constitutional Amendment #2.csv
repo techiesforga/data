@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,
-Towns,Young Harris,3323,294,950,420,1,1665,114,337,136,0,587,2252,
-Towns,Macedonia,3828,236,1074,419,1,1730,102,480,153,2,737,2467,
-Towns,Hiawassee,3542,203,1078,439,2,1722,79,454,164,1,698,2420,
+index,County,Precinct,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,
+0,Towns,Young Harris,3323,294,950,420,1,1665,114,337,136,0,587,2252,
+1,Towns,Macedonia,3828,236,1074,419,1,1730,102,480,153,2,737,2467,
+2,Towns,Hiawassee,3542,203,1078,439,2,1722,79,454,164,1,698,2420,

@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Myra Exum (I) (Rep)_Election Day Votes,Myra Exum (I) (Rep)_Advanced Voting Votes,Myra Exum (I) (Rep)_Absentee by Mail Votes,Myra Exum (I) (Rep)_Provisional Votes,Myra Exum (I) (Rep)_Choice Total,Total,
-Brooks,Quitman,4117,19,62,15,0,96,96,
-Brooks,Briggs,2317,197,322,96,0,615,615,
-Brooks,Morven,1962,191,305,97,0,593,593,
+index,County,Precinct,Registered Voters,Myra Exum (I) (Rep)_Election Day Votes,Myra Exum (I) (Rep)_Advanced Voting Votes,Myra Exum (I) (Rep)_Absentee by Mail Votes,Myra Exum (I) (Rep)_Provisional Votes,Myra Exum (I) (Rep)_Choice Total,Total,
+0,Brooks,Quitman,4117,19,62,15,0,96,96,
+1,Brooks,Briggs,2317,197,322,96,0,615,615,
+2,Brooks,Morven,1962,191,305,97,0,593,593,

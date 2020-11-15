@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,William E. Harrell (Rep)_Election Day Votes,William E. Harrell (Rep)_Advanced Voting Votes,William E. Harrell (Rep)_Absentee by Mail Votes,William E. Harrell (Rep)_Provisional Votes,William E. Harrell (Rep)_Choice Total,Total,
-McIntosh,Townsend,564,85,115,138,0,338,338,
-McIntosh,South Newport,2095,333,722,335,0,1390,1390,
+index,County,Precinct,Registered Voters,William E. Harrell (Rep)_Election Day Votes,William E. Harrell (Rep)_Advanced Voting Votes,William E. Harrell (Rep)_Absentee by Mail Votes,William E. Harrell (Rep)_Provisional Votes,William E. Harrell (Rep)_Choice Total,Total,
+0,McIntosh,Townsend,564,85,115,138,0,338,338,
+1,McIntosh,South Newport,2095,333,722,335,0,1390,1390,

@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Cliff Bradshaw (I) (Rep)_Election Day Votes,Cliff Bradshaw (I) (Rep)_Advanced Voting Votes,Cliff Bradshaw (I) (Rep)_Absentee by Mail Votes,Cliff Bradshaw (I) (Rep)_Provisional Votes,Cliff Bradshaw (I) (Rep)_Choice Total,Total,
-Towns,Young Harris,3323,406,1285,484,1,2176,2176,
-Towns,Macedonia,3828,346,1608,526,1,2481,2481,
-Towns,Hiawassee,3542,281,1539,536,4,2360,2360,
+index,County,Precinct,Registered Voters,Cliff Bradshaw (I) (Rep)_Election Day Votes,Cliff Bradshaw (I) (Rep)_Advanced Voting Votes,Cliff Bradshaw (I) (Rep)_Absentee by Mail Votes,Cliff Bradshaw (I) (Rep)_Provisional Votes,Cliff Bradshaw (I) (Rep)_Choice Total,Total,
+0,Towns,Young Harris,3323,406,1285,484,1,2176,2176,
+1,Towns,Macedonia,3828,346,1608,526,1,2481,2481,
+2,Towns,Hiawassee,3542,281,1539,536,4,2360,2360,

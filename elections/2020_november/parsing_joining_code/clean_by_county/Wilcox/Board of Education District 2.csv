@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,William H. Dozier (I) (Dem)_Election Day Votes,William H. Dozier (I) (Dem)_Advanced Voting Votes,William H. Dozier (I) (Dem)_Absentee by Mail Votes,William H. Dozier (I) (Dem)_Provisional Votes,William H. Dozier (I) (Dem)_Choice Total,Total,
-Wilcox,Abbeville North 2,441,42,92,36,0,170,170,
-Wilcox,Pineview 2,630,58,30,20,0,108,108,
-Wilcox,Abbeville South 5,1123,23,102,29,0,154,154,
+index,County,Precinct,Registered Voters,William H. Dozier (I) (Dem)_Election Day Votes,William H. Dozier (I) (Dem)_Advanced Voting Votes,William H. Dozier (I) (Dem)_Absentee by Mail Votes,William H. Dozier (I) (Dem)_Provisional Votes,William H. Dozier (I) (Dem)_Choice Total,Total,
+0,Wilcox,Abbeville North 2,441,42,92,36,0,170,170,
+1,Wilcox,Pineview 2,630,58,30,20,0,108,108,
+2,Wilcox,Abbeville South 5,1123,23,102,29,0,154,154,

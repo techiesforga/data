@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,J. C. Warren (I) (Dem)_Election Day Votes,J. C. Warren (I) (Dem)_Advanced Voting Votes,J. C. Warren (I) (Dem)_Absentee by Mail Votes,J. C. Warren (I) (Dem)_Provisional Votes,J. C. Warren (I) (Dem)_Choice Total,Total,
-Screven,Jenk Hill Fire Sta,0,149,357,132,1,639,639,
-Screven,Cooperville Fire Station,0,31,82,45,3,161,161,
+index,County,Precinct,Registered Voters,J. C. Warren (I) (Dem)_Election Day Votes,J. C. Warren (I) (Dem)_Advanced Voting Votes,J. C. Warren (I) (Dem)_Absentee by Mail Votes,J. C. Warren (I) (Dem)_Provisional Votes,J. C. Warren (I) (Dem)_Choice Total,Total,
+0,Screven,Jenk Hill Fire Sta,0,149,357,132,1,639,639,
+1,Screven,Cooperville Fire Station,0,31,82,45,3,161,161,

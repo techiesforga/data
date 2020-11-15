@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Jesse Houle_Election Day Votes,Jesse Houle_Advanced Voting Votes,Jesse Houle_Absentee by Mail Votes,Jesse Houle_Provisional Votes,Jesse Houle_Choice Total,Chad Lowery_Election Day Votes,Chad Lowery_Advanced Voting Votes,Chad Lowery_Absentee by Mail Votes,Chad Lowery_Provisional Votes,Chad Lowery_Choice Total,Total,
-Clarke,6A,3780,158,516,483,2,1159,194,552,401,0,1147,2306,
-Clarke,6B,3865,157,506,562,0,1225,188,457,390,0,1035,2260,
-Clarke,6D,1701,114,376,310,0,800,89,166,123,0,378,1178,
+index,County,Precinct,Registered Voters,Jesse Houle_Election Day Votes,Jesse Houle_Advanced Voting Votes,Jesse Houle_Absentee by Mail Votes,Jesse Houle_Provisional Votes,Jesse Houle_Choice Total,Chad Lowery_Election Day Votes,Chad Lowery_Advanced Voting Votes,Chad Lowery_Absentee by Mail Votes,Chad Lowery_Provisional Votes,Chad Lowery_Choice Total,Total,
+0,Clarke,6A,3780,158,516,483,2,1159,194,552,401,0,1147,2306,
+1,Clarke,6B,3865,157,506,562,0,1225,188,457,390,0,1035,2260,
+2,Clarke,6D,1701,114,376,310,0,800,89,166,123,0,378,1178,

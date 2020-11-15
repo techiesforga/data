@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Donnie Pope (I) (Rep)_Election Day Votes,Donnie Pope (I) (Rep)_Advanced Voting Votes,Donnie Pope (I) (Rep)_Absentee by Mail Votes,Donnie Pope (I) (Rep)_Provisional Votes,Donnie Pope (I) (Rep)_Choice Total,Total,
-Jasper,Wyatt,1940,493,542,189,1,1225,1225,
-Jasper,Monticello,4516,374,1883,594,10,2861,2861,
-Jasper,Martin-Burney,3976,861,1508,411,1,2781,2781,
+index,County,Precinct,Registered Voters,Donnie Pope (I) (Rep)_Election Day Votes,Donnie Pope (I) (Rep)_Advanced Voting Votes,Donnie Pope (I) (Rep)_Absentee by Mail Votes,Donnie Pope (I) (Rep)_Provisional Votes,Donnie Pope (I) (Rep)_Choice Total,Total,
+0,Jasper,Wyatt,1940,493,542,189,1,1225,1225,
+1,Jasper,Monticello,4516,374,1883,594,10,2861,2861,
+2,Jasper,Martin-Burney,3976,861,1508,411,1,2781,2781,

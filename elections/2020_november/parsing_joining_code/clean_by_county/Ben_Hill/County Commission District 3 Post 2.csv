@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Daniel Cowan (I) (Rep)_Election Day Votes,Daniel Cowan (I) (Rep)_Advanced Voting Votes,Daniel Cowan (I) (Rep)_Absentee by Mail Votes,Daniel Cowan (I) (Rep)_Provisional Votes,Daniel Cowan (I) (Rep)_Choice Total,Total,
-Ben Hill,East,3956,48,284,53,0,385,385,
-Ben Hill,West,5898,294,2187,420,0,2901,2901,
+index,County,Precinct,Registered Voters,Daniel Cowan (I) (Rep)_Election Day Votes,Daniel Cowan (I) (Rep)_Advanced Voting Votes,Daniel Cowan (I) (Rep)_Absentee by Mail Votes,Daniel Cowan (I) (Rep)_Provisional Votes,Daniel Cowan (I) (Rep)_Choice Total,Total,
+0,Ben Hill,East,3956,48,284,53,0,385,385,
+1,Ben Hill,West,5898,294,2187,420,0,2901,2901,

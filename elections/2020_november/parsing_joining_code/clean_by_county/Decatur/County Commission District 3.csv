@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Dennis Brinson (I) (Dem)_Election Day Votes,Dennis Brinson (I) (Dem)_Advanced Voting Votes,Dennis Brinson (I) (Dem)_Absentee by Mail Votes,Dennis Brinson (I) (Dem)_Provisional Votes,Dennis Brinson (I) (Dem)_Choice Total,Total,
-Decatur,Bainbridge-Coliseum,5641,59,192,76,0,327,327,
-Decatur,BDGE-Fairgrounds,3308,187,735,280,1,1203,1203,
+index,County,Precinct,Registered Voters,Dennis Brinson (I) (Dem)_Election Day Votes,Dennis Brinson (I) (Dem)_Advanced Voting Votes,Dennis Brinson (I) (Dem)_Absentee by Mail Votes,Dennis Brinson (I) (Dem)_Provisional Votes,Dennis Brinson (I) (Dem)_Choice Total,Total,
+0,Decatur,Bainbridge-Coliseum,5641,59,192,76,0,327,327,
+1,Decatur,BDGE-Fairgrounds,3308,187,735,280,1,1203,1203,

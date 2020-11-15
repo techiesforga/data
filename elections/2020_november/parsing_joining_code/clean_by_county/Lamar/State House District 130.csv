@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,David Knight (I) (Rep)_Election Day Votes,David Knight (I) (Rep)_Advanced Voting Votes,David Knight (I) (Rep)_Absentee by Mail Votes,David Knight (I) (Rep)_Provisional Votes,David Knight (I) (Rep)_Choice Total,Sheila Henley (Dem)_Election Day Votes,Sheila Henley (Dem)_Advanced Voting Votes,Sheila Henley (Dem)_Absentee by Mail Votes,Sheila Henley (Dem)_Provisional Votes,Sheila Henley (Dem)_Choice Total,Total,
-Lamar,Chappell Mill V FD,1577,307,572,105,1,985,27,81,94,0,202,1187,
-Lamar,Senior Citizen Bldg,1337,131,365,81,1,578,69,141,102,0,312,890,
-Lamar,Milner,3948,682,1391,294,1,2368,114,234,150,1,499,2867,
+index,County,Precinct,Registered Voters,David Knight (I) (Rep)_Election Day Votes,David Knight (I) (Rep)_Advanced Voting Votes,David Knight (I) (Rep)_Absentee by Mail Votes,David Knight (I) (Rep)_Provisional Votes,David Knight (I) (Rep)_Choice Total,Sheila Henley (Dem)_Election Day Votes,Sheila Henley (Dem)_Advanced Voting Votes,Sheila Henley (Dem)_Absentee by Mail Votes,Sheila Henley (Dem)_Provisional Votes,Sheila Henley (Dem)_Choice Total,Total,
+0,Lamar,Chappell Mill V FD,1577,307,572,105,1,985,27,81,94,0,202,1187,
+1,Lamar,Senior Citizen Bldg,1337,131,365,81,1,578,69,141,102,0,312,890,
+2,Lamar,Milner,3948,682,1391,294,1,2368,114,234,150,1,499,2867,

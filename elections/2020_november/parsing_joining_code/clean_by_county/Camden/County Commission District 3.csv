@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Trevor W. Readdick (Rep)_Election Day Votes,Trevor W. Readdick (Rep)_Advanced Voting Votes,Trevor W. Readdick (Rep)_Absentee by Mail Votes,Trevor W. Readdick (Rep)_Provisional Votes,Trevor W. Readdick (Rep)_Choice Total,Total,
-Camden,North St Marys,2095,222,409,128,0,759,759,
-Camden,South St Marys,2139,95,255,101,1,452,452,
-Camden,Mush Bluff,2816,307,865,224,0,1396,1396,
+index,County,Precinct,Registered Voters,Trevor W. Readdick (Rep)_Election Day Votes,Trevor W. Readdick (Rep)_Advanced Voting Votes,Trevor W. Readdick (Rep)_Absentee by Mail Votes,Trevor W. Readdick (Rep)_Provisional Votes,Trevor W. Readdick (Rep)_Choice Total,Total,
+0,Camden,North St Marys,2095,222,409,128,0,759,759,
+1,Camden,South St Marys,2139,95,255,101,1,452,452,
+2,Camden,Mush Bluff,2816,307,865,224,0,1396,1396,

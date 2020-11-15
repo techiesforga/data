@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Chris Hayes (Rep)_Election Day Votes,Chris Hayes (Rep)_Advanced Voting Votes,Chris Hayes (Rep)_Absentee by Mail Votes,Chris Hayes (Rep)_Provisional Votes,Chris Hayes (Rep)_Choice Total,Total,
-Thomas,LIttle Ochlocknee Baptist Church1132,197,449,89,0,735,735,,
-Thomas,Meigs,864,186,163,67,1,417,417,
-Thomas,Ochlocknee,1175,147,88,17,0,252,252,
+index,County,Precinct,Registered Voters,Chris Hayes (Rep)_Election Day Votes,Chris Hayes (Rep)_Advanced Voting Votes,Chris Hayes (Rep)_Absentee by Mail Votes,Chris Hayes (Rep)_Provisional Votes,Chris Hayes (Rep)_Choice Total,Total,
+0,Thomas,LIttle Ochlocknee Baptist Church1132,197,449,89,0,735,735,,
+1,Thomas,Meigs,864,186,163,67,1,417,417,
+2,Thomas,Ochlocknee,1175,147,88,17,0,252,252,

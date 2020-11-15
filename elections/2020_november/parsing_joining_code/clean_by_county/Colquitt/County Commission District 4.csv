@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Mike Boyd (Rep)_Election Day Votes,Mike Boyd (Rep)_Advanced Voting Votes,Mike Boyd (Rep)_Absentee by Mail Votes,Mike Boyd (Rep)_Provisional Votes,Mike Boyd (Rep)_Choice Total,Total,
-Colquitt,Moultrie,4809,288,848,278,1,1415,1415,
-Colquitt,Autreyville,1512,169,325,59,0,553,553,
+index,County,Precinct,Registered Voters,Mike Boyd (Rep)_Election Day Votes,Mike Boyd (Rep)_Advanced Voting Votes,Mike Boyd (Rep)_Absentee by Mail Votes,Mike Boyd (Rep)_Provisional Votes,Mike Boyd (Rep)_Choice Total,Total,
+0,Colquitt,Moultrie,4809,288,848,278,1,1415,1415,
+1,Colquitt,Autreyville,1512,169,325,59,0,553,553,

@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Henry Moylan (I) (Rep)_Election Day Votes,Henry Moylan (I) (Rep)_Advanced Voting Votes,Henry Moylan (I) (Rep)_Absentee by Mail Votes,Henry Moylan (I) (Rep)_Provisional Votes,Henry Moylan (I) (Rep)_Choice Total,Total,
-Clinch,Dupont,338,35,27,7,1,70,70,
-Clinch,Fargo,270,134,19,10,0,163,163,
-Clinch,Homerville,3262,46,178,35,0,259,259,
+index,County,Precinct,Registered Voters,Henry Moylan (I) (Rep)_Election Day Votes,Henry Moylan (I) (Rep)_Advanced Voting Votes,Henry Moylan (I) (Rep)_Absentee by Mail Votes,Henry Moylan (I) (Rep)_Provisional Votes,Henry Moylan (I) (Rep)_Choice Total,Total,
+0,Clinch,Dupont,338,35,27,7,1,70,70,
+1,Clinch,Fargo,270,134,19,10,0,163,163,
+2,Clinch,Homerville,3262,46,178,35,0,259,259,

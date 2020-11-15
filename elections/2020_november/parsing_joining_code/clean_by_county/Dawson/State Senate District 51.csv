@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Steve Gooch (I) (Rep)_Election Day Votes,Steve Gooch (I) (Rep)_Advanced Voting Votes,Steve Gooch (I) (Rep)_Absentee by Mail Votes,Steve Gooch (I) (Rep)_Provisional Votes,Steve Gooch (I) (Rep)_Choice Total,June Krise (Dem)_Election Day Votes,June Krise (Dem)_Advanced Voting Votes,June Krise (Dem)_Absentee by Mail Votes,June Krise (Dem)_Provisional Votes,June Krise (Dem)_Choice Total,Total,
-Dawson,West,2723,404,933,344,0,1681,29,182,222,0,433,2114,
-Dawson,Central,9891,946,4409,795,2,6152,82,442,270,0,794,6946,
-Dawson,East,8915,1010,3706,895,0,5611,123,450,432,1,1006,6617,
+index,County,Precinct,Registered Voters,Steve Gooch (I) (Rep)_Election Day Votes,Steve Gooch (I) (Rep)_Advanced Voting Votes,Steve Gooch (I) (Rep)_Absentee by Mail Votes,Steve Gooch (I) (Rep)_Provisional Votes,Steve Gooch (I) (Rep)_Choice Total,June Krise (Dem)_Election Day Votes,June Krise (Dem)_Advanced Voting Votes,June Krise (Dem)_Absentee by Mail Votes,June Krise (Dem)_Provisional Votes,June Krise (Dem)_Choice Total,Total,
+0,Dawson,West,2723,404,933,344,0,1681,29,182,222,0,433,2114,
+1,Dawson,Central,9891,946,4409,795,2,6152,82,442,270,0,794,6946,
+2,Dawson,East,8915,1010,3706,895,0,5611,123,450,432,1,1006,6617,

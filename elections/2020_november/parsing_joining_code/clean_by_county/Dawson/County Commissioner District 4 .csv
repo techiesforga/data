@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Emory Dooley (Rep)_Election Day Votes,Emory Dooley (Rep)_Advanced Voting Votes,Emory Dooley (Rep)_Absentee by Mail Votes,Emory Dooley (Rep)_Provisional Votes,Emory Dooley (Rep)_Choice Total,Total,
-Dawson,West,2723,411,1006,405,1,1823,1823,
-Dawson,Central,9891,973,4564,880,2,6419,6419,
-Dawson,East,8915,1087,3905,1031,1,6024,6024,
+index,County,Precinct,Registered Voters,Emory Dooley (Rep)_Election Day Votes,Emory Dooley (Rep)_Advanced Voting Votes,Emory Dooley (Rep)_Absentee by Mail Votes,Emory Dooley (Rep)_Provisional Votes,Emory Dooley (Rep)_Choice Total,Total,
+0,Dawson,West,2723,411,1006,405,1,1823,1823,
+1,Dawson,Central,9891,973,4564,880,2,6419,6419,
+2,Dawson,East,8915,1087,3905,1031,1,6024,6024,

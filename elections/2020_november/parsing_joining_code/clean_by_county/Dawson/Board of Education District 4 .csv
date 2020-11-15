@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Roger Slaton (I) (Rep)_Election Day Votes,Roger Slaton (I) (Rep)_Advanced Voting Votes,Roger Slaton (I) (Rep)_Absentee by Mail Votes,Roger Slaton (I) (Rep)_Provisional Votes,Roger Slaton (I) (Rep)_Choice Total,Total,
-Dawson,West,2723,402,979,406,0,1787,1787,
-Dawson,Central,9891,956,4457,871,2,6286,6286,
-Dawson,East,8915,1067,3824,1013,0,5904,5904,
+index,County,Precinct,Registered Voters,Roger Slaton (I) (Rep)_Election Day Votes,Roger Slaton (I) (Rep)_Advanced Voting Votes,Roger Slaton (I) (Rep)_Absentee by Mail Votes,Roger Slaton (I) (Rep)_Provisional Votes,Roger Slaton (I) (Rep)_Choice Total,Total,
+0,Dawson,West,2723,402,979,406,0,1787,1787,
+1,Dawson,Central,9891,956,4457,871,2,6286,6286,
+2,Dawson,East,8915,1067,3824,1013,0,5904,5904,

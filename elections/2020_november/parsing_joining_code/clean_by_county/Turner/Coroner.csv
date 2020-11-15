@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Edgar_Election Day Votes,Edgar_Advanced Voting Votes,Edgar_Absentee by Mail Votes,Edgar_Provisional Votes,Edgar_Choice Total,Total,
-Turner,Ashburn,3509,339,1216,269,0,1824,1824,
-Turner,Sycamore,1609,144,859,94,1,1098,1098,
-Turner,Rebecca,464,124,157,31,0,312,312,
+index,County,Precinct,Registered Voters,Edgar_Election Day Votes,Edgar_Advanced Voting Votes,Edgar_Absentee by Mail Votes,Edgar_Provisional Votes,Edgar_Choice Total,Total,
+0,Turner,Ashburn,3509,339,1216,269,0,1824,1824,
+1,Turner,Sycamore,1609,144,859,94,1,1098,1098,
+2,Turner,Rebecca,464,124,157,31,0,312,312,

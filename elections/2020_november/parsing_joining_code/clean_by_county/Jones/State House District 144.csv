@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Danny Mathis (I) (Rep)_Election Day Votes,Danny Mathis (I) (Rep)_Advanced Voting Votes,Danny Mathis (I) (Rep)_Absentee by Mail Votes,Danny Mathis (I) (Rep)_Provisional Votes,Danny Mathis (I) (Rep)_Choice Total,Mary Whipple-Lue (Dem)_Election Day Votes,Mary Whipple-Lue (Dem)_Advanced Voting Votes,Mary Whipple-Lue (Dem)_Absentee by Mail Votes,Mary Whipple-Lue (Dem)_Provisional Votes,Mary Whipple-Lue (Dem)_Choice Total,Total,
-Jones,Roberts,0,440,579,197,0,1216,126,269,162,1,558,1774,
-Jones,Davidson,0,361,499,116,1,977,30,68,41,0,139,1116,
-Jones,Pope,0,117,182,31,1,331,40,75,47,0,162,493,
+index,County,Precinct,Registered Voters,Danny Mathis (I) (Rep)_Election Day Votes,Danny Mathis (I) (Rep)_Advanced Voting Votes,Danny Mathis (I) (Rep)_Absentee by Mail Votes,Danny Mathis (I) (Rep)_Provisional Votes,Danny Mathis (I) (Rep)_Choice Total,Mary Whipple-Lue (Dem)_Election Day Votes,Mary Whipple-Lue (Dem)_Advanced Voting Votes,Mary Whipple-Lue (Dem)_Absentee by Mail Votes,Mary Whipple-Lue (Dem)_Provisional Votes,Mary Whipple-Lue (Dem)_Choice Total,Total,
+0,Jones,Roberts,0,440,579,197,0,1216,126,269,162,1,558,1774,
+1,Jones,Davidson,0,361,499,116,1,977,30,68,41,0,139,1116,
+2,Jones,Pope,0,117,182,31,1,331,40,75,47,0,162,493,

@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,John L. Corbett (I) (Rep)_Election Day Votes,John L. Corbett (I) (Rep)_Advanced Voting Votes,John L. Corbett (I) (Rep)_Absentee by Mail Votes,John L. Corbett (I) (Rep)_Provisional Votes,John L. Corbett (I) (Rep)_Choice Total,Total,
-Camden,Browntown,698,129,220,58,0,407,407,
-Camden,West Kingsland,2782,342,1030,218,0,1590,1590,
-Camden,Kingsland,2274,219,633,146,0,998,998,
+index,County,Precinct,Registered Voters,John L. Corbett (I) (Rep)_Election Day Votes,John L. Corbett (I) (Rep)_Advanced Voting Votes,John L. Corbett (I) (Rep)_Absentee by Mail Votes,John L. Corbett (I) (Rep)_Provisional Votes,John L. Corbett (I) (Rep)_Choice Total,Total,
+0,Camden,Browntown,698,129,220,58,0,407,407,
+1,Camden,West Kingsland,2782,342,1030,218,0,1590,1590,
+2,Camden,Kingsland,2274,219,633,146,0,998,998,

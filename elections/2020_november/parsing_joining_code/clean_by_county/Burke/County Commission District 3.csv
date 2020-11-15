@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Evans Martin (I) (Rep)_Election Day Votes,Evans Martin (I) (Rep)_Advanced Voting Votes,Evans Martin (I) (Rep)_Absentee by Mail Votes,Evans Martin (I) (Rep)_Provisional Votes,Evans Martin (I) (Rep)_Choice Total,George E. Wimberly (Dem)_Election Day Votes,George E. Wimberly (Dem)_Advanced Voting Votes,George E. Wimberly (Dem)_Absentee by Mail Votes,George E. Wimberly (Dem)_Provisional Votes,George E. Wimberly (Dem)_Choice Total,Total,
-Burke,Four Points,2558,426,483,143,0,1052,135,222,147,0,504,1556,
-Burke,Greenscut,1036,118,207,50,0,375,103,104,79,0,286,661,
+index,County,Precinct,Registered Voters,Evans Martin (I) (Rep)_Election Day Votes,Evans Martin (I) (Rep)_Advanced Voting Votes,Evans Martin (I) (Rep)_Absentee by Mail Votes,Evans Martin (I) (Rep)_Provisional Votes,Evans Martin (I) (Rep)_Choice Total,George E. Wimberly (Dem)_Election Day Votes,George E. Wimberly (Dem)_Advanced Voting Votes,George E. Wimberly (Dem)_Absentee by Mail Votes,George E. Wimberly (Dem)_Provisional Votes,George E. Wimberly (Dem)_Choice Total,Total,
+0,Burke,Four Points,2558,426,483,143,0,1052,135,222,147,0,504,1556,
+1,Burke,Greenscut,1036,118,207,50,0,375,103,104,79,0,286,661,

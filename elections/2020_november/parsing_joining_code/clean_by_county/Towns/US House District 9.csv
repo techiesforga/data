@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Andrew Clyde (Rep)_Election Day Votes,Andrew Clyde (Rep)_Advanced Voting Votes,Andrew Clyde (Rep)_Absentee by Mail Votes,Andrew Clyde (Rep)_Provisional Votes,Andrew Clyde (Rep)_Choice Total,Devin Pandy (Dem)_Election Day Votes,Devin Pandy (Dem)_Advanced Voting Votes,Devin Pandy (Dem)_Absentee by Mail Votes,Devin Pandy (Dem)_Provisional Votes,Devin Pandy (Dem)_Choice Total,Total,
-Towns,Young Harris,3323,366,1168,367,1,1902,58,232,221,1,512,2414,
-Towns,Macedonia,3828,327,1508,419,3,2257,36,204,222,0,462,2719,
-Towns,Hiawassee,3542,264,1417,421,4,2106,30,223,237,0,490,2596,
+index,County,Precinct,Registered Voters,Andrew Clyde (Rep)_Election Day Votes,Andrew Clyde (Rep)_Advanced Voting Votes,Andrew Clyde (Rep)_Absentee by Mail Votes,Andrew Clyde (Rep)_Provisional Votes,Andrew Clyde (Rep)_Choice Total,Devin Pandy (Dem)_Election Day Votes,Devin Pandy (Dem)_Advanced Voting Votes,Devin Pandy (Dem)_Absentee by Mail Votes,Devin Pandy (Dem)_Provisional Votes,Devin Pandy (Dem)_Choice Total,Total,
+0,Towns,Young Harris,3323,366,1168,367,1,1902,58,232,221,1,512,2414,
+1,Towns,Macedonia,3828,327,1508,419,3,2257,36,204,222,0,462,2719,
+2,Towns,Hiawassee,3542,264,1417,421,4,2106,30,223,237,0,490,2596,

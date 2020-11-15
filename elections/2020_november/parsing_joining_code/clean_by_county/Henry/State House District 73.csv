@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Karen Mathiak (I) (Rep)_Election Day Votes,Karen Mathiak (I) (Rep)_Advanced Voting Votes,Karen Mathiak (I) (Rep)_Absentee by Mail Votes,Karen Mathiak (I) (Rep)_Provisional Votes,Karen Mathiak (I) (Rep)_Choice Total,William Harris (Dem)_Election Day Votes,William Harris (Dem)_Advanced Voting Votes,William Harris (Dem)_Absentee by Mail Votes,William Harris (Dem)_Provisional Votes,William Harris (Dem)_Choice Total,Total,
-Henry,South Hampton,5476,224,1297,222,1,1744,260,1231,547,0,2038,3782,
-Henry,North Hampton,7156,230,1358,320,0,1908,343,1765,819,0,2927,4835,
-Henry,Mt Carmel,5335,36,185,61,0,282,89,699,344,0,1132,1414,
+index,County,Precinct,Registered Voters,Karen Mathiak (I) (Rep)_Election Day Votes,Karen Mathiak (I) (Rep)_Advanced Voting Votes,Karen Mathiak (I) (Rep)_Absentee by Mail Votes,Karen Mathiak (I) (Rep)_Provisional Votes,Karen Mathiak (I) (Rep)_Choice Total,William Harris (Dem)_Election Day Votes,William Harris (Dem)_Advanced Voting Votes,William Harris (Dem)_Absentee by Mail Votes,William Harris (Dem)_Provisional Votes,William Harris (Dem)_Choice Total,Total,
+0,Henry,South Hampton,5476,224,1297,222,1,1744,260,1231,547,0,2038,3782,
+1,Henry,North Hampton,7156,230,1358,320,0,1908,343,1765,819,0,2927,4835,
+2,Henry,Mt Carmel,5335,36,185,61,0,282,89,699,344,0,1132,1414,

@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Jeff Lane (I) (Ind)_Election Day Votes,Jeff Lane (I) (Ind)_Advanced Voting Votes,Jeff Lane (I) (Ind)_Absentee by Mail Votes,Jeff Lane (I) (Ind)_Provisional Votes,Jeff Lane (I) (Ind)_Choice Total,Total,
-Cook,Cecil,1899,227,681,145,0,1053,1053,
-Cook,Delle Beamguard,2446,10,57,3,0,70,70,
-Cook,New Life Baptist Church,1233,1,14,1,0,16,16,
+index,County,Precinct,Registered Voters,Jeff Lane (I) (Ind)_Election Day Votes,Jeff Lane (I) (Ind)_Advanced Voting Votes,Jeff Lane (I) (Ind)_Absentee by Mail Votes,Jeff Lane (I) (Ind)_Provisional Votes,Jeff Lane (I) (Ind)_Choice Total,Total,
+0,Cook,Cecil,1899,227,681,145,0,1053,1053,
+1,Cook,Delle Beamguard,2446,10,57,3,0,70,70,
+2,Cook,New Life Baptist Church,1233,1,14,1,0,16,16,

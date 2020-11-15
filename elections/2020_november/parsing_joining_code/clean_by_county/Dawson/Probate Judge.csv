@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Jennifer Burt (I) (Rep)_Election Day Votes,Jennifer Burt (I) (Rep)_Advanced Voting Votes,Jennifer Burt (I) (Rep)_Absentee by Mail Votes,Jennifer Burt (I) (Rep)_Provisional Votes,Jennifer Burt (I) (Rep)_Choice Total,Total,
-Dawson,West,2723,419,1017,422,1,1859,1859,
-Dawson,Central,9891,992,4668,905,1,6566,6566,
-Dawson,East,8915,1103,3979,1063,1,6146,6146,
+index,County,Precinct,Registered Voters,Jennifer Burt (I) (Rep)_Election Day Votes,Jennifer Burt (I) (Rep)_Advanced Voting Votes,Jennifer Burt (I) (Rep)_Absentee by Mail Votes,Jennifer Burt (I) (Rep)_Provisional Votes,Jennifer Burt (I) (Rep)_Choice Total,Total,
+0,Dawson,West,2723,419,1017,422,1,1859,1859,
+1,Dawson,Central,9891,992,4668,905,1,6566,6566,
+2,Dawson,East,8915,1103,3979,1063,1,6146,6146,
