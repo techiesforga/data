@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Nathan Ingram_Election Day Votes,Nathan Ingram_Advanced Voting Votes,Nathan Ingram_Absentee by Mail Votes,Nathan Ingram_Provisional Votes,Nathan Ingram_Choice Total,Mark Sussman_Election Day Votes,Mark Sussman_Advanced Voting Votes,Mark Sussman_Absentee by Mail Votes,Mark Sussman_Provisional Votes,Mark Sussman_Choice Total,David Yenerall_Election Day Votes,David Yenerall_Advanced Voting Votes,David Yenerall_Absentee by Mail Votes,David Yenerall_Provisional Votes,David Yenerall_Choice Total,Total,
-Dawson,West,2723,200,522,175,0,897,83,201,75,1,360,45,120,117,0,282,1539,
-Dawson,Central,9891,612,3039,609,1,4261,202,689,115,0,1006,102,395,133,0,630,5897,
-Dawson,East,8915,527,2264,513,0,3304,319,744,238,0,1301,143,400,239,1,783,5388,
+index,County,Precinct,Registered Voters,Nathan Ingram_Election Day Votes,Nathan Ingram_Advanced Voting Votes,Nathan Ingram_Absentee by Mail Votes,Nathan Ingram_Provisional Votes,Nathan Ingram_Choice Total,Mark Sussman_Election Day Votes,Mark Sussman_Advanced Voting Votes,Mark Sussman_Absentee by Mail Votes,Mark Sussman_Provisional Votes,Mark Sussman_Choice Total,David Yenerall_Election Day Votes,David Yenerall_Advanced Voting Votes,David Yenerall_Absentee by Mail Votes,David Yenerall_Provisional Votes,David Yenerall_Choice Total,Total,
+0,Dawson,West,2723,200,522,175,0,897,83,201,75,1,360,45,120,117,0,282,1539,
+1,Dawson,Central,9891,612,3039,609,1,4261,202,689,115,0,1006,102,395,133,0,630,5897,
+2,Dawson,East,8915,527,2264,513,0,3304,319,744,238,0,1301,143,400,239,1,783,5388,

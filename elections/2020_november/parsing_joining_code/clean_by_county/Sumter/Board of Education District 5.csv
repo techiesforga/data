@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Edith Ann Green_Election Day Votes,Edith Ann Green_Advanced Voting Votes,Edith Ann Green_Absentee by Mail Votes,Edith Ann Green_Provisional Votes,Edith Ann Green_Choice Total,Carolyn C. Hamilton_Election Day Votes,Carolyn C. Hamilton_Advanced Voting Votes,Carolyn C. Hamilton_Absentee by Mail Votes,Carolyn C. Hamilton_Provisional Votes,Carolyn C. Hamilton_Choice Total,Total,
-Sumter,Agri-Center,2059,34,158,48,0,240,38,240,65,0,343,583,
-Sumter,Rec Dept,2667,74,182,125,0,381,98,304,158,0,560,941,
-Sumter,Reese Park,3064,0,7,10,0,17,5,13,8,0,26,43,
+index,County,Precinct,Registered Voters,Edith Ann Green_Election Day Votes,Edith Ann Green_Advanced Voting Votes,Edith Ann Green_Absentee by Mail Votes,Edith Ann Green_Provisional Votes,Edith Ann Green_Choice Total,Carolyn C. Hamilton_Election Day Votes,Carolyn C. Hamilton_Advanced Voting Votes,Carolyn C. Hamilton_Absentee by Mail Votes,Carolyn C. Hamilton_Provisional Votes,Carolyn C. Hamilton_Choice Total,Total,
+0,Sumter,Agri-Center,2059,34,158,48,0,240,38,240,65,0,343,583,
+1,Sumter,Rec Dept,2667,74,182,125,0,381,98,304,158,0,560,941,
+2,Sumter,Reese Park,3064,0,7,10,0,17,5,13,8,0,26,43,

@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,"John """"Eric"""" Harris (Rep)_Election Day Votes","John """"Eric"""" Harris (Rep)_Advanced Voting Votes","John """"Eric"""" Harris (Rep)_Absentee by Mail Votes","John """"Eric"""" Harris (Rep)_Provisional Votes","John """"Eric"""" Harris (Rep)_Choice Total",Joann Lacey (Dem)_Election Day Votes,Joann Lacey (Dem)_Advanced Voting Votes,Joann Lacey (Dem)_Absentee by Mail Votes,Joann Lacey (Dem)_Provisional Votes,Joann Lacey (Dem)_Choice Total,Total,
-Clinch,Arabia,108,57,10,1,0,68,4,2,4,0,10,78,
-Clinch,Dupont,338,69,36,5,0,110,18,9,10,0,37,147,
-Clinch,Homerville,3262,42,266,44,0,352,16,38,9,0,63,415,
+index,County,Precinct,Registered Voters,"John """"Eric"""" Harris (Rep)_Election Day Votes","John """"Eric"""" Harris (Rep)_Advanced Voting Votes","John """"Eric"""" Harris (Rep)_Absentee by Mail Votes","John """"Eric"""" Harris (Rep)_Provisional Votes","John """"Eric"""" Harris (Rep)_Choice Total",Joann Lacey (Dem)_Election Day Votes,Joann Lacey (Dem)_Advanced Voting Votes,Joann Lacey (Dem)_Absentee by Mail Votes,Joann Lacey (Dem)_Provisional Votes,Joann Lacey (Dem)_Choice Total,Total,
+0,Clinch,Arabia,108,57,10,1,0,68,4,2,4,0,10,78,
+1,Clinch,Dupont,338,69,36,5,0,110,18,9,10,0,37,147,
+2,Clinch,Homerville,3262,42,266,44,0,352,16,38,9,0,63,415,

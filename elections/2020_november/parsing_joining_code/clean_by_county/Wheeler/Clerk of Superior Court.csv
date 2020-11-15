@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Carol W. Bragg (I) (Rep)_Election Day Votes,Carol W. Bragg (I) (Rep)_Advanced Voting Votes,Carol W. Bragg (I) (Rep)_Absentee by Mail Votes,Carol W. Bragg (I) (Rep)_Provisional Votes,Carol W. Bragg (I) (Rep)_Choice Total,Total,
-Wheeler,Alamo,0,280,691,159,0,1130,1130,
-Wheeler,Glenwood,0,285,391,111,0,787,787,
+index,County,Precinct,Registered Voters,Carol W. Bragg (I) (Rep)_Election Day Votes,Carol W. Bragg (I) (Rep)_Advanced Voting Votes,Carol W. Bragg (I) (Rep)_Absentee by Mail Votes,Carol W. Bragg (I) (Rep)_Provisional Votes,Carol W. Bragg (I) (Rep)_Choice Total,Total,
+0,Wheeler,Alamo,0,280,691,159,0,1130,1130,
+1,Wheeler,Glenwood,0,285,391,111,0,787,787,

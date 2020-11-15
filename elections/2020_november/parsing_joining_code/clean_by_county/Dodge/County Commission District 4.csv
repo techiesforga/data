@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Karen Cheek (I) (Rep)_Election Day Votes,Karen Cheek (I) (Rep)_Advanced Voting Votes,Karen Cheek (I) (Rep)_Absentee by Mail Votes,Karen Cheek (I) (Rep)_Provisional Votes,Karen Cheek (I) (Rep)_Choice Total,Total,
-Dodge,Chauncey,412,81,40,11,0,132,132,
-Dodge,Lee,4816,197,516,173,2,888,888,
-Dodge,Mitchell,333,113,88,20,1,222,222,
+index,County,Precinct,Registered Voters,Karen Cheek (I) (Rep)_Election Day Votes,Karen Cheek (I) (Rep)_Advanced Voting Votes,Karen Cheek (I) (Rep)_Absentee by Mail Votes,Karen Cheek (I) (Rep)_Provisional Votes,Karen Cheek (I) (Rep)_Choice Total,Total,
+0,Dodge,Chauncey,412,81,40,11,0,132,132,
+1,Dodge,Lee,4816,197,516,173,2,888,888,
+2,Dodge,Mitchell,333,113,88,20,1,222,222,

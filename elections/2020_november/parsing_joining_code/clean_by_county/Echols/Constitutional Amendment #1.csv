@@ -1,2 +1,2 @@
-County,Precinct,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,
-Echols,Statenville,2156,183,745,117,0,1045,54,202,18,0,274,1319,
+index,County,Precinct,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,
+0,Echols,Statenville,2156,183,745,117,0,1045,54,202,18,0,274,1319,

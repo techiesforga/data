@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,"W.J. """"Bill"""" Brown (I) (Rep)_Election Day Votes","W.J. """"Bill"""" Brown (I) (Rep)_Advanced Voting Votes","W.J. """"Bill"""" Brown (I) (Rep)_Absentee by Mail Votes","W.J. """"Bill"""" Brown (I) (Rep)_Provisional Votes","W.J. """"Bill"""" Brown (I) (Rep)_Choice Total",Total,
-Barrow,01 Bethlehem Community Center 3359,460,903,244,0,1607,1607,,
-Barrow,08 First Baptist Church Winder7009,643,2298,581,0,3522,3522,,
-Barrow,16 The Church at Winder,10348,38,115,38,0,191,191,
+index,County,Precinct,Registered Voters,"W.J. """"Bill"""" Brown (I) (Rep)_Election Day Votes","W.J. """"Bill"""" Brown (I) (Rep)_Advanced Voting Votes","W.J. """"Bill"""" Brown (I) (Rep)_Absentee by Mail Votes","W.J. """"Bill"""" Brown (I) (Rep)_Provisional Votes","W.J. """"Bill"""" Brown (I) (Rep)_Choice Total",Total,
+0,Barrow,01 Bethlehem Community Center 3359,460,903,244,0,1607,1607,,
+1,Barrow,08 First Baptist Church Winder7009,643,2298,581,0,3522,3522,,
+2,Barrow,16 The Church at Winder,10348,38,115,38,0,191,191,

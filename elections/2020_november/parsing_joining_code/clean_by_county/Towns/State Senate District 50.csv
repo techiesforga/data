@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Bo Hatchett (Rep)_Election Day Votes,Bo Hatchett (Rep)_Advanced Voting Votes,Bo Hatchett (Rep)_Absentee by Mail Votes,Bo Hatchett (Rep)_Provisional Votes,Bo Hatchett (Rep)_Choice Total,Dee Daley (Dem)_Election Day Votes,Dee Daley (Dem)_Advanced Voting Votes,Dee Daley (Dem)_Absentee by Mail Votes,Dee Daley (Dem)_Provisional Votes,Dee Daley (Dem)_Choice Total,Total,
-Towns,Young Harris,3323,366,1165,378,0,1909,57,231,212,1,501,2410,
-Towns,Macedonia,3828,327,1503,423,3,2256,34,205,212,0,451,2707,
-Towns,Hiawassee,3542,269,1421,432,4,2126,30,213,229,0,472,2598,
+index,County,Precinct,Registered Voters,Bo Hatchett (Rep)_Election Day Votes,Bo Hatchett (Rep)_Advanced Voting Votes,Bo Hatchett (Rep)_Absentee by Mail Votes,Bo Hatchett (Rep)_Provisional Votes,Bo Hatchett (Rep)_Choice Total,Dee Daley (Dem)_Election Day Votes,Dee Daley (Dem)_Advanced Voting Votes,Dee Daley (Dem)_Absentee by Mail Votes,Dee Daley (Dem)_Provisional Votes,Dee Daley (Dem)_Choice Total,Total,
+0,Towns,Young Harris,3323,366,1165,378,0,1909,57,231,212,1,501,2410,
+1,Towns,Macedonia,3828,327,1503,423,3,2256,34,205,212,0,451,2707,
+2,Towns,Hiawassee,3542,269,1421,432,4,2126,30,213,229,0,472,2598,

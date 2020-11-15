@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Ed Geddings (I) (Dem)_Election Day Votes,Ed Geddings (I) (Dem)_Advanced Voting Votes,Ed Geddings (I) (Dem)_Absentee by Mail Votes,Ed Geddings (I) (Dem)_Provisional Votes,Ed Geddings (I) (Dem)_Choice Total,Total,
-Wilkes,Young Farmers Bldg,1173,141,452,177,1,771,771,
-Wilkes,Metasville Fire Sta,610,109,155,99,0,363,363,
+index,County,Precinct,Registered Voters,Ed Geddings (I) (Dem)_Election Day Votes,Ed Geddings (I) (Dem)_Advanced Voting Votes,Ed Geddings (I) (Dem)_Absentee by Mail Votes,Ed Geddings (I) (Dem)_Provisional Votes,Ed Geddings (I) (Dem)_Choice Total,Total,
+0,Wilkes,Young Farmers Bldg,1173,141,452,177,1,771,771,
+1,Wilkes,Metasville Fire Sta,610,109,155,99,0,363,363,

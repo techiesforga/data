@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Steven Taylor (I) (Rep)_Election Day Votes,Steven Taylor (I) (Rep)_Advanced Voting Votes,Steven Taylor (I) (Rep)_Absentee by Mail Votes,Steven Taylor (I) (Rep)_Provisional Votes,Steven Taylor (I) (Rep)_Choice Total,Total,
-Ben Hill,East,3956,249,1276,342,0,1867,1867,
-Ben Hill,West,5898,398,2565,556,0,3519,3519,
+index,County,Precinct,Registered Voters,Steven Taylor (I) (Rep)_Election Day Votes,Steven Taylor (I) (Rep)_Advanced Voting Votes,Steven Taylor (I) (Rep)_Absentee by Mail Votes,Steven Taylor (I) (Rep)_Provisional Votes,Steven Taylor (I) (Rep)_Choice Total,Total,
+0,Ben Hill,East,3956,249,1276,342,0,1867,1867,
+1,Ben Hill,West,5898,398,2565,556,0,3519,3519,

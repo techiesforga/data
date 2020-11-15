@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Justin Power (I) (Rep)_Election Day Votes,Justin Power (I) (Rep)_Advanced Voting Votes,Justin Power (I) (Rep)_Absentee by Mail Votes,Justin Power (I) (Rep)_Provisional Votes,Justin Power (I) (Rep)_Choice Total,Total,
-Dawson,West,2723,419,1013,414,1,1847,1847,
-Dawson,Central,9891,998,4658,901,2,6559,6559,
-Dawson,East,8915,1103,3979,1067,1,6150,6150,
+index,County,Precinct,Registered Voters,Justin Power (I) (Rep)_Election Day Votes,Justin Power (I) (Rep)_Advanced Voting Votes,Justin Power (I) (Rep)_Absentee by Mail Votes,Justin Power (I) (Rep)_Provisional Votes,Justin Power (I) (Rep)_Choice Total,Total,
+0,Dawson,West,2723,419,1013,414,1,1847,1847,
+1,Dawson,Central,9891,998,4658,901,2,6559,6559,
+2,Dawson,East,8915,1103,3979,1067,1,6150,6150,

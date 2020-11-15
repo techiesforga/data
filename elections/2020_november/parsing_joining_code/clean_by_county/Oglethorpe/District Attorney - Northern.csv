@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Parks White (I) (Rep)_Election Day Votes,Parks White (I) (Rep)_Advanced Voting Votes,Parks White (I) (Rep)_Absentee by Mail Votes,Parks White (I) (Rep)_Provisional Votes,Parks White (I) (Rep)_Choice Total,Total,
-Oglethorpe,Beaverdam,3509,524,1205,410,0,2139,2139,
-Oglethorpe,Crawford,3044,338,1085,311,0,1734,1734,
-Oglethorpe,Lexington,4291,388,1714,498,2,2602,2602,
+index,County,Precinct,Registered Voters,Parks White (I) (Rep)_Election Day Votes,Parks White (I) (Rep)_Advanced Voting Votes,Parks White (I) (Rep)_Absentee by Mail Votes,Parks White (I) (Rep)_Provisional Votes,Parks White (I) (Rep)_Choice Total,Total,
+0,Oglethorpe,Beaverdam,3509,524,1205,410,0,2139,2139,
+1,Oglethorpe,Crawford,3044,338,1085,311,0,1734,1734,
+2,Oglethorpe,Lexington,4291,388,1714,498,2,2602,2602,

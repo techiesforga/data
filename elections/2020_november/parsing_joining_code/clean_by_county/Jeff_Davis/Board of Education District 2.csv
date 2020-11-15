@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Andy Ramay (I) (Rep)_Election Day Votes,Andy Ramay (I) (Rep)_Advanced Voting Votes,Andy Ramay (I) (Rep)_Absentee by Mail Votes,Andy Ramay (I) (Rep)_Provisional Votes,Andy Ramay (I) (Rep)_Choice Total,Total,
-Jeff Davis,Altamaha 1,703,93,323,43,0,459,459,
-Jeff Davis,Altamaha 2,1249,324,471,78,0,873,873,
+index,County,Precinct,Registered Voters,Andy Ramay (I) (Rep)_Election Day Votes,Andy Ramay (I) (Rep)_Advanced Voting Votes,Andy Ramay (I) (Rep)_Absentee by Mail Votes,Andy Ramay (I) (Rep)_Provisional Votes,Andy Ramay (I) (Rep)_Choice Total,Total,
+0,Jeff Davis,Altamaha 1,703,93,323,43,0,459,459,
+1,Jeff Davis,Altamaha 2,1249,324,471,78,0,873,873,

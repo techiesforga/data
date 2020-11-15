@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Lajoy R. Boney (I) (Dem)_Election Day Votes,Lajoy R. Boney (I) (Dem)_Advanced Voting Votes,Lajoy R. Boney (I) (Dem)_Absentee by Mail Votes,Lajoy R. Boney (I) (Dem)_Provisional Votes,Lajoy R. Boney (I) (Dem)_Choice Total,Total,
-Telfair,Jacksonville,628,149,103,65,1,318,318,
-Telfair,Lumber-City,963,17,38,12,0,67,67,
-Telfair,Milan,802,45,48,15,0,108,108,
+index,County,Precinct,Registered Voters,Lajoy R. Boney (I) (Dem)_Election Day Votes,Lajoy R. Boney (I) (Dem)_Advanced Voting Votes,Lajoy R. Boney (I) (Dem)_Absentee by Mail Votes,Lajoy R. Boney (I) (Dem)_Provisional Votes,Lajoy R. Boney (I) (Dem)_Choice Total,Total,
+0,Telfair,Jacksonville,628,149,103,65,1,318,318,
+1,Telfair,Lumber-City,963,17,38,12,0,67,67,
+2,Telfair,Milan,802,45,48,15,0,108,108,

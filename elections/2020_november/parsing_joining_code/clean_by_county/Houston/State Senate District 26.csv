@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,"David E. Lucas, Sr. (I) (Dem)_Election Day Votes","David E. Lucas, Sr. (I) (Dem)_Advanced Voting Votes","David E. Lucas, Sr. (I) (Dem)_Absentee by Mail Votes","David E. Lucas, Sr. (I) (Dem)_Provisional Votes","David E. Lucas, Sr. (I) (Dem)_Choice Total",Total,
-Houston,HHPC,9610,64,71,81,0,216,216,
-Houston,NSES,2441,14,10,12,0,36,36,
-Houston,RECR,9277,728,977,980,1,2686,2686,
+index,County,Precinct,Registered Voters,"David E. Lucas, Sr. (I) (Dem)_Election Day Votes","David E. Lucas, Sr. (I) (Dem)_Advanced Voting Votes","David E. Lucas, Sr. (I) (Dem)_Absentee by Mail Votes","David E. Lucas, Sr. (I) (Dem)_Provisional Votes","David E. Lucas, Sr. (I) (Dem)_Choice Total",Total,
+0,Houston,HHPC,9610,64,71,81,0,216,216,
+1,Houston,NSES,2441,14,10,12,0,36,36,
+2,Houston,RECR,9277,728,977,980,1,2686,2686,

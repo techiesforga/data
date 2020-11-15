@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Taylor Bridges (I) (Rep)_Election Day Votes,Taylor Bridges (I) (Rep)_Advanced Voting Votes,Taylor Bridges (I) (Rep)_Absentee by Mail Votes,Taylor Bridges (I) (Rep)_Provisional Votes,Taylor Bridges (I) (Rep)_Choice Total,Total,
-Early,Blakely,3445,2,35,10,0,47,47,
-Early,Cedar Springs,1114,225,199,98,0,522,522,
-Early,Cuba,1180,173,329,86,0,588,588,
+index,County,Precinct,Registered Voters,Taylor Bridges (I) (Rep)_Election Day Votes,Taylor Bridges (I) (Rep)_Advanced Voting Votes,Taylor Bridges (I) (Rep)_Absentee by Mail Votes,Taylor Bridges (I) (Rep)_Provisional Votes,Taylor Bridges (I) (Rep)_Choice Total,Total,
+0,Early,Blakely,3445,2,35,10,0,47,47,
+1,Early,Cedar Springs,1114,225,199,98,0,522,522,
+2,Early,Cuba,1180,173,329,86,0,588,588,

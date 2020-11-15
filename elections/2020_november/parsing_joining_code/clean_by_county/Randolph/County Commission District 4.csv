@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Lamar White (I) (Rep)_Election Day Votes,Lamar White (I) (Rep)_Advanced Voting Votes,Lamar White (I) (Rep)_Absentee by Mail Votes,Lamar White (I) (Rep)_Provisional Votes,Lamar White (I) (Rep)_Choice Total,Jennifer Pearson (Dem)_Election Day Votes,Jennifer Pearson (Dem)_Advanced Voting Votes,Jennifer Pearson (Dem)_Absentee by Mail Votes,Jennifer Pearson (Dem)_Provisional Votes,Jennifer Pearson (Dem)_Choice Total,Total,
-Randolph,Coleman,229,24,48,15,0,87,32,32,14,1,79,166,
-Randolph,Shellman,929,50,101,38,0,189,25,15,22,0,62,251,
-Randolph,Cuthbert-Courthouse,2253,28,268,37,0,333,8,51,25,0,84,417,
+index,County,Precinct,Registered Voters,Lamar White (I) (Rep)_Election Day Votes,Lamar White (I) (Rep)_Advanced Voting Votes,Lamar White (I) (Rep)_Absentee by Mail Votes,Lamar White (I) (Rep)_Provisional Votes,Lamar White (I) (Rep)_Choice Total,Jennifer Pearson (Dem)_Election Day Votes,Jennifer Pearson (Dem)_Advanced Voting Votes,Jennifer Pearson (Dem)_Absentee by Mail Votes,Jennifer Pearson (Dem)_Provisional Votes,Jennifer Pearson (Dem)_Choice Total,Total,
+0,Randolph,Coleman,229,24,48,15,0,87,32,32,14,1,79,166,
+1,Randolph,Shellman,929,50,101,38,0,189,25,15,22,0,62,251,
+2,Randolph,Cuthbert-Courthouse,2253,28,268,37,0,333,8,51,25,0,84,417,

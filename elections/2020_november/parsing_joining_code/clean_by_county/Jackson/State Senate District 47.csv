@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Frank Ginn (I) (Rep)_Election Day Votes,Frank Ginn (I) (Rep)_Advanced Voting Votes,Frank Ginn (I) (Rep)_Absentee by Mail Votes,Frank Ginn (I) (Rep)_Provisional Votes,Frank Ginn (I) (Rep)_Choice Total,Dawn Johnson (Dem)_Election Day Votes,Dawn Johnson (Dem)_Advanced Voting Votes,Dawn Johnson (Dem)_Absentee by Mail Votes,Dawn Johnson (Dem)_Provisional Votes,Dawn Johnson (Dem)_Choice Total,Total,
-Jackson,Central Jackson,16263,385,1927,362,1,2675,75,468,273,0,816,3491,
-Jackson,West Jackson,14977,1428,6421,1420,2,9271,287,1042,779,1,2109,11380,
-Jackson,South Jackson,8012,857,2602,715,1,4175,172,555,477,0,1204,5379,
+index,County,Precinct,Registered Voters,Frank Ginn (I) (Rep)_Election Day Votes,Frank Ginn (I) (Rep)_Advanced Voting Votes,Frank Ginn (I) (Rep)_Absentee by Mail Votes,Frank Ginn (I) (Rep)_Provisional Votes,Frank Ginn (I) (Rep)_Choice Total,Dawn Johnson (Dem)_Election Day Votes,Dawn Johnson (Dem)_Advanced Voting Votes,Dawn Johnson (Dem)_Absentee by Mail Votes,Dawn Johnson (Dem)_Provisional Votes,Dawn Johnson (Dem)_Choice Total,Total,
+0,Jackson,Central Jackson,16263,385,1927,362,1,2675,75,468,273,0,816,3491,
+1,Jackson,West Jackson,14977,1428,6421,1420,2,9271,287,1042,779,1,2109,11380,
+2,Jackson,South Jackson,8012,857,2602,715,1,4175,172,555,477,0,1204,5379,

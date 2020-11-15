@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Ted Bearden (I) (Ind)_Election Day Votes,Ted Bearden (I) (Ind)_Advanced Voting Votes,Ted Bearden (I) (Ind)_Absentee by Mail Votes,Ted Bearden (I) (Ind)_Provisional Votes,Ted Bearden (I) (Ind)_Choice Total,Total,
-Dawson,West,2723,395,1004,428,0,1827,1827,
-Dawson,Central,9891,955,4559,927,1,6442,6442,
-Dawson,East,8915,1076,3850,1083,1,6010,6010,
+index,County,Precinct,Registered Voters,Ted Bearden (I) (Ind)_Election Day Votes,Ted Bearden (I) (Ind)_Advanced Voting Votes,Ted Bearden (I) (Ind)_Absentee by Mail Votes,Ted Bearden (I) (Ind)_Provisional Votes,Ted Bearden (I) (Ind)_Choice Total,Total,
+0,Dawson,West,2723,395,1004,428,0,1827,1827,
+1,Dawson,Central,9891,955,4559,927,1,6442,6442,
+2,Dawson,East,8915,1076,3850,1083,1,6010,6010,

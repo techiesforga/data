@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Terry Chandler (Rep)_Election Day Votes,Terry Chandler (Rep)_Advanced Voting Votes,Terry Chandler (Rep)_Absentee by Mail Votes,Terry Chandler (Rep)_Provisional Votes,Terry Chandler (Rep)_Choice Total,Conolus Scott (Dem)_Election Day Votes,Conolus Scott (Dem)_Advanced Voting Votes,Conolus Scott (Dem)_Absentee by Mail Votes,Conolus Scott (Dem)_Provisional Votes,Conolus Scott (Dem)_Choice Total,Total,
-Madison,Danielsville,3003,266,1058,257,0,1581,66,212,131,0,409,1990,
-Madison,Pittman,1949,12,45,12,0,69,1,3,6,0,10,79,
-Madison,Poca,1127,252,278,91,0,621,59,78,58,0,195,816,
+index,County,Precinct,Registered Voters,Terry Chandler (Rep)_Election Day Votes,Terry Chandler (Rep)_Advanced Voting Votes,Terry Chandler (Rep)_Absentee by Mail Votes,Terry Chandler (Rep)_Provisional Votes,Terry Chandler (Rep)_Choice Total,Conolus Scott (Dem)_Election Day Votes,Conolus Scott (Dem)_Advanced Voting Votes,Conolus Scott (Dem)_Absentee by Mail Votes,Conolus Scott (Dem)_Provisional Votes,Conolus Scott (Dem)_Choice Total,Total,
+0,Madison,Danielsville,3003,266,1058,257,0,1581,66,212,131,0,409,1990,
+1,Madison,Pittman,1949,12,45,12,0,69,1,3,6,0,10,79,
+2,Madison,Poca,1127,252,278,91,0,621,59,78,58,0,195,816,

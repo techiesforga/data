@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Chuck Hufstetler (I) (Rep)_Election Day Votes,Chuck Hufstetler (I) (Rep)_Advanced Voting Votes,Chuck Hufstetler (I) (Rep)_Absentee by Mail Votes,Chuck Hufstetler (I) (Rep)_Provisional Votes,Chuck Hufstetler (I) (Rep)_Choice Total,Charles DeYoung (Dem)_Election Day Votes,Charles DeYoung (Dem)_Advanced Voting Votes,Charles DeYoung (Dem)_Absentee by Mail Votes,Charles DeYoung (Dem)_Provisional Votes,Charles DeYoung (Dem)_Choice Total,Total,
-Chattooga,Coldwater,248,24,82,15,0,121,9,27,26,0,62,183,
-Chattooga,Lyerly,934,215,263,54,1,533,33,43,28,0,104,637,
-Chattooga,Seminole,138,33,41,18,0,92,3,6,3,0,12,104,
+index,County,Precinct,Registered Voters,Chuck Hufstetler (I) (Rep)_Election Day Votes,Chuck Hufstetler (I) (Rep)_Advanced Voting Votes,Chuck Hufstetler (I) (Rep)_Absentee by Mail Votes,Chuck Hufstetler (I) (Rep)_Provisional Votes,Chuck Hufstetler (I) (Rep)_Choice Total,Charles DeYoung (Dem)_Election Day Votes,Charles DeYoung (Dem)_Advanced Voting Votes,Charles DeYoung (Dem)_Absentee by Mail Votes,Charles DeYoung (Dem)_Provisional Votes,Charles DeYoung (Dem)_Choice Total,Total,
+0,Chattooga,Coldwater,248,24,82,15,0,121,9,27,26,0,62,183,
+1,Chattooga,Lyerly,934,215,263,54,1,533,33,43,28,0,104,637,
+2,Chattooga,Seminole,138,33,41,18,0,92,3,6,3,0,12,104,

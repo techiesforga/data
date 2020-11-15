@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,James Henry Maxwell (I) (Dem)_Election Day Votes,James Henry Maxwell (I) (Dem)_Advanced Voting Votes,James Henry Maxwell (I) (Dem)_Absentee by Mail Votes,James Henry Maxwell (I) (Dem)_Provisional Votes,James Henry Maxwell (I) (Dem)_Choice Total,Total,
-Brooks,Quitman,4117,90,256,223,0,569,569,
-Brooks,Dixie,1066,60,115,77,1,253,253,
-Brooks,Nankin,735,7,43,15,0,65,65,
+index,County,Precinct,Registered Voters,James Henry Maxwell (I) (Dem)_Election Day Votes,James Henry Maxwell (I) (Dem)_Advanced Voting Votes,James Henry Maxwell (I) (Dem)_Absentee by Mail Votes,James Henry Maxwell (I) (Dem)_Provisional Votes,James Henry Maxwell (I) (Dem)_Choice Total,Total,
+0,Brooks,Quitman,4117,90,256,223,0,569,569,
+1,Brooks,Dixie,1066,60,115,77,1,253,253,
+2,Brooks,Nankin,735,7,43,15,0,65,65,

@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Ryan Woodard_Election Day Votes,Ryan Woodard_Advanced Voting Votes,Ryan Woodard_Absentee by Mail Votes,Ryan Woodard_Provisional Votes,Ryan Woodard_Choice Total,Total,
-Jackson,Central Jackson,16263,296,1255,289,0,1840,1840,
-Jackson,West Jackson,14977,446,2272,557,0,3275,3275,
+index,County,Precinct,Registered Voters,Ryan Woodard_Election Day Votes,Ryan Woodard_Advanced Voting Votes,Ryan Woodard_Absentee by Mail Votes,Ryan Woodard_Provisional Votes,Ryan Woodard_Choice Total,Total,
+0,Jackson,Central Jackson,16263,296,1255,289,0,1840,1840,
+1,Jackson,West Jackson,14977,446,2272,557,0,3275,3275,

@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Robert Pruitt (Rep)_Election Day Votes,Robert Pruitt (Rep)_Advanced Voting Votes,Robert Pruitt (Rep)_Absentee by Mail Votes,Robert Pruitt (Rep)_Provisional Votes,Robert Pruitt (Rep)_Choice Total,Total,
-Jeff Davis,Hazlehurst,1406,167,293,89,0,549,549,
-Jeff Davis,Ocmulgee 1,1399,200,550,108,0,858,858,
-Jeff Davis,Ocmulgee 2,499,91,102,36,0,229,229,
+index,County,Precinct,Registered Voters,Robert Pruitt (Rep)_Election Day Votes,Robert Pruitt (Rep)_Advanced Voting Votes,Robert Pruitt (Rep)_Absentee by Mail Votes,Robert Pruitt (Rep)_Provisional Votes,Robert Pruitt (Rep)_Choice Total,Total,
+0,Jeff Davis,Hazlehurst,1406,167,293,89,0,549,549,
+1,Jeff Davis,Ocmulgee 1,1399,200,550,108,0,858,858,
+2,Jeff Davis,Ocmulgee 2,499,91,102,36,0,229,229,

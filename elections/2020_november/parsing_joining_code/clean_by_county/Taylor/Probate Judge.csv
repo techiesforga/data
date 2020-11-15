@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Dianne C. Renfroe (I) (Dem)_Election Day Votes,Dianne C. Renfroe (I) (Dem)_Advanced Voting Votes,Dianne C. Renfroe (I) (Dem)_Absentee by Mail Votes,Dianne C. Renfroe (I) (Dem)_Provisional Votes,Dianne C. Renfroe (I) (Dem)_Choice Total,Total,
-Taylor,Precinct 1,1108,137,332,141,2,612,612,
-Taylor,Precinct 5,2219,161,882,174,4,1221,1221,
-Taylor,Precinct 6,2073,209,692,339,2,1242,1242,
+index,County,Precinct,Registered Voters,Dianne C. Renfroe (I) (Dem)_Election Day Votes,Dianne C. Renfroe (I) (Dem)_Advanced Voting Votes,Dianne C. Renfroe (I) (Dem)_Absentee by Mail Votes,Dianne C. Renfroe (I) (Dem)_Provisional Votes,Dianne C. Renfroe (I) (Dem)_Choice Total,Total,
+0,Taylor,Precinct 1,1108,137,332,141,2,612,612,
+1,Taylor,Precinct 5,2219,161,882,174,4,1221,1221,
+2,Taylor,Precinct 6,2073,209,692,339,2,1242,1242,

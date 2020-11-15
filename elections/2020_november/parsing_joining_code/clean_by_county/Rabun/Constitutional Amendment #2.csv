@@ -1,2 +1,2 @@
-County,Precinct,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,
-Rabun,Rabun County,13072,925,3674,1753,0,6352,376,1446,618,0,2440,8792,
+index,County,Precinct,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,
+0,Rabun,Rabun County,13072,925,3674,1753,0,6352,376,1446,618,0,2440,8792,

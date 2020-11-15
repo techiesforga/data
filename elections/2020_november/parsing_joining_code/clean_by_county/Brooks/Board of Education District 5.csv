@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Justin Wilson (Rep)_Election Day Votes,Justin Wilson (Rep)_Advanced Voting Votes,Justin Wilson (Rep)_Absentee by Mail Votes,Justin Wilson (Rep)_Provisional Votes,Justin Wilson (Rep)_Choice Total,Tenjurie Thomas (Dem)_Election Day Votes,Tenjurie Thomas (Dem)_Advanced Voting Votes,Tenjurie Thomas (Dem)_Absentee by Mail Votes,Tenjurie Thomas (Dem)_Provisional Votes,Tenjurie Thomas (Dem)_Choice Total,Total,
-Brooks,Quitman,4117,33,84,16,0,133,74,240,218,0,532,665,
-Brooks,Dixie,1066,64,112,15,0,191,27,68,80,1,176,367,
-Brooks,Nankin,735,14,54,7,0,75,3,7,11,0,21,96,
+index,County,Precinct,Registered Voters,Justin Wilson (Rep)_Election Day Votes,Justin Wilson (Rep)_Advanced Voting Votes,Justin Wilson (Rep)_Absentee by Mail Votes,Justin Wilson (Rep)_Provisional Votes,Justin Wilson (Rep)_Choice Total,Tenjurie Thomas (Dem)_Election Day Votes,Tenjurie Thomas (Dem)_Advanced Voting Votes,Tenjurie Thomas (Dem)_Absentee by Mail Votes,Tenjurie Thomas (Dem)_Provisional Votes,Tenjurie Thomas (Dem)_Choice Total,Total,
+0,Brooks,Quitman,4117,33,84,16,0,133,74,240,218,0,532,665,
+1,Brooks,Dixie,1066,64,112,15,0,191,27,68,80,1,176,367,
+2,Brooks,Nankin,735,14,54,7,0,75,3,7,11,0,21,96,

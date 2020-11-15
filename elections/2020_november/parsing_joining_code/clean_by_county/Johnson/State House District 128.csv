@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Mack Jackson (I) (Dem)_Election Day Votes,Mack Jackson (I) (Dem)_Advanced Voting Votes,Mack Jackson (I) (Dem)_Absentee by Mail Votes,Mack Jackson (I) (Dem)_Provisional Votes,Mack Jackson (I) (Dem)_Choice Total,Total,
-Johnson,Wrightsville,3113,136,657,243,0,1036,1036,
-Johnson,Bray,790,115,198,66,0,379,379,
+index,County,Precinct,Registered Voters,Mack Jackson (I) (Dem)_Election Day Votes,Mack Jackson (I) (Dem)_Advanced Voting Votes,Mack Jackson (I) (Dem)_Absentee by Mail Votes,Mack Jackson (I) (Dem)_Provisional Votes,Mack Jackson (I) (Dem)_Choice Total,Total,
+0,Johnson,Wrightsville,3113,136,657,243,0,1036,1036,
+1,Johnson,Bray,790,115,198,66,0,379,379,

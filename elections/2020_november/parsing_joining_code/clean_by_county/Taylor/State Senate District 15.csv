@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Ed Harbison (I) (Dem)_Election Day Votes,Ed Harbison (I) (Dem)_Advanced Voting Votes,Ed Harbison (I) (Dem)_Absentee by Mail Votes,Ed Harbison (I) (Dem)_Provisional Votes,Ed Harbison (I) (Dem)_Choice Total,Total,
-Taylor,Precinct 1,1108,130,314,130,2,576,576,
-Taylor,Precinct 5,2219,123,628,141,3,895,895,
-Taylor,Precinct 6,2073,177,530,304,2,1013,1013,
+index,County,Precinct,Registered Voters,Ed Harbison (I) (Dem)_Election Day Votes,Ed Harbison (I) (Dem)_Advanced Voting Votes,Ed Harbison (I) (Dem)_Absentee by Mail Votes,Ed Harbison (I) (Dem)_Provisional Votes,Ed Harbison (I) (Dem)_Choice Total,Total,
+0,Taylor,Precinct 1,1108,130,314,130,2,576,576,
+1,Taylor,Precinct 5,2219,123,628,141,3,895,895,
+2,Taylor,Precinct 6,2073,177,530,304,2,1013,1013,

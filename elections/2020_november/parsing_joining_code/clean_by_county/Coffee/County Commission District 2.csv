@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Jimmy Kitchens (I) (Rep)_Election Day Votes,Jimmy Kitchens (I) (Rep)_Advanced Voting Votes,Jimmy Kitchens (I) (Rep)_Absentee by Mail Votes,Jimmy Kitchens (I) (Rep)_Provisional Votes,Jimmy Kitchens (I) (Rep)_Choice Total,Total,
-Coffee,Douglas,17243,147,622,70,0,839,839,
-Coffee,Nicholls,2115,385,529,97,2,1013,1013,
-Coffee,West Green,961,264,208,37,0,509,509,
+index,County,Precinct,Registered Voters,Jimmy Kitchens (I) (Rep)_Election Day Votes,Jimmy Kitchens (I) (Rep)_Advanced Voting Votes,Jimmy Kitchens (I) (Rep)_Absentee by Mail Votes,Jimmy Kitchens (I) (Rep)_Provisional Votes,Jimmy Kitchens (I) (Rep)_Choice Total,Total,
+0,Coffee,Douglas,17243,147,622,70,0,839,839,
+1,Coffee,Nicholls,2115,385,529,97,2,1013,1013,
+2,Coffee,West Green,961,264,208,37,0,509,509,

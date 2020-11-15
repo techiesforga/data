@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,"Maxie R. Jones, IV (Dem)_Election Day Votes","Maxie R. Jones, IV (Dem)_Advanced Voting Votes","Maxie R. Jones, IV (Dem)_Absentee by Mail Votes","Maxie R. Jones, IV (Dem)_Provisional Votes","Maxie R. Jones, IV (Dem)_Choice Total",Total,
-Liberty,Lewis Frasier School,4317,242,1195,579,0,2016,2016,
-Liberty,Button Gwinnett,2304,31,43,30,0,104,104,
-Liberty,Fleming East,3239,301,859,326,0,1486,1486,
+index,County,Precinct,Registered Voters,"Maxie R. Jones, IV (Dem)_Election Day Votes","Maxie R. Jones, IV (Dem)_Advanced Voting Votes","Maxie R. Jones, IV (Dem)_Absentee by Mail Votes","Maxie R. Jones, IV (Dem)_Provisional Votes","Maxie R. Jones, IV (Dem)_Choice Total",Total,
+0,Liberty,Lewis Frasier School,4317,242,1195,579,0,2016,2016,
+1,Liberty,Button Gwinnett,2304,31,43,30,0,104,104,
+2,Liberty,Fleming East,3239,301,859,326,0,1486,1486,

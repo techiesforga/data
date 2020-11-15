@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Steven Meeks (I) (Rep)_Election Day Votes,Steven Meeks (I) (Rep)_Advanced Voting Votes,Steven Meeks (I) (Rep)_Absentee by Mail Votes,Steven Meeks (I) (Rep)_Provisional Votes,Steven Meeks (I) (Rep)_Choice Total,Total,
-Appling,3C,1566,23,100,35,0,158,158,
-Appling,4B,866,245,315,71,0,631,631,
-Appling,4D,1493,242,628,169,1,1040,1040,
+index,County,Precinct,Registered Voters,Steven Meeks (I) (Rep)_Election Day Votes,Steven Meeks (I) (Rep)_Advanced Voting Votes,Steven Meeks (I) (Rep)_Absentee by Mail Votes,Steven Meeks (I) (Rep)_Provisional Votes,Steven Meeks (I) (Rep)_Choice Total,Total,
+0,Appling,3C,1566,23,100,35,0,158,158,
+1,Appling,4B,866,245,315,71,0,631,631,
+2,Appling,4D,1493,242,628,169,1,1040,1040,

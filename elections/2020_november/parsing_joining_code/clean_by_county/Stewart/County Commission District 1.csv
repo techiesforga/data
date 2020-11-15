@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Tyrone Nelson (I) (Dem)_Election Day Votes,Tyrone Nelson (I) (Dem)_Advanced Voting Votes,Tyrone Nelson (I) (Dem)_Absentee by Mail Votes,Tyrone Nelson (I) (Dem)_Provisional Votes,Tyrone Nelson (I) (Dem)_Choice Total,Total,
-Stewart,Lumpkin,1134,36,159,44,1,240,240,
-Stewart,Omaha,217,83,22,21,2,128,128,
+index,County,Precinct,Registered Voters,Tyrone Nelson (I) (Dem)_Election Day Votes,Tyrone Nelson (I) (Dem)_Advanced Voting Votes,Tyrone Nelson (I) (Dem)_Absentee by Mail Votes,Tyrone Nelson (I) (Dem)_Provisional Votes,Tyrone Nelson (I) (Dem)_Choice Total,Total,
+0,Stewart,Lumpkin,1134,36,159,44,1,240,240,
+1,Stewart,Omaha,217,83,22,21,2,128,128,

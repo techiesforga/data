@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Don Cole (Rep)_Election Day Votes,Don Cole (Rep)_Advanced Voting Votes,Don Cole (Rep)_Absentee by Mail Votes,Don Cole (Rep)_Provisional Votes,Don Cole (Rep)_Choice Total,Sanford Bishop (I) (Dem)_Election Day Votes,Sanford Bishop (I) (Dem)_Advanced Voting Votes,Sanford Bishop (I) (Dem)_Absentee by Mail Votes,Sanford Bishop (I) (Dem)_Provisional Votes,Sanford Bishop (I) (Dem)_Choice Total,Total,
-Taylor,Precinct 1,1108,16,82,9,1,108,121,277,151,1,550,658,
-Taylor,Precinct 5,2219,159,961,140,8,1268,60,176,84,1,321,1589,
-Taylor,Precinct 6,2073,152,614,116,3,885,103,235,274,1,613,1498,
+index,County,Precinct,Registered Voters,Don Cole (Rep)_Election Day Votes,Don Cole (Rep)_Advanced Voting Votes,Don Cole (Rep)_Absentee by Mail Votes,Don Cole (Rep)_Provisional Votes,Don Cole (Rep)_Choice Total,Sanford Bishop (I) (Dem)_Election Day Votes,Sanford Bishop (I) (Dem)_Advanced Voting Votes,Sanford Bishop (I) (Dem)_Absentee by Mail Votes,Sanford Bishop (I) (Dem)_Provisional Votes,Sanford Bishop (I) (Dem)_Choice Total,Total,
+0,Taylor,Precinct 1,1108,16,82,9,1,108,121,277,151,1,550,658,
+1,Taylor,Precinct 5,2219,159,961,140,8,1268,60,176,84,1,321,1589,
+2,Taylor,Precinct 6,2073,152,614,116,3,885,103,235,274,1,613,1498,

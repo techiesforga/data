@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Dakkia L. Bradshaw (I) (Dem)_Election Day Votes,Dakkia L. Bradshaw (I) (Dem)_Advanced Voting Votes,Dakkia L. Bradshaw (I) (Dem)_Absentee by Mail Votes,Dakkia L. Bradshaw (I) (Dem)_Provisional Votes,Dakkia L. Bradshaw (I) (Dem)_Choice Total,Total,
-Telfair,Lumber-City,963,126,67,207,0,400,400,
-Telfair,McRae,2337,11,42,27,0,80,80,
-Telfair,Scotland,333,79,69,20,0,168,168,
+index,County,Precinct,Registered Voters,Dakkia L. Bradshaw (I) (Dem)_Election Day Votes,Dakkia L. Bradshaw (I) (Dem)_Advanced Voting Votes,Dakkia L. Bradshaw (I) (Dem)_Absentee by Mail Votes,Dakkia L. Bradshaw (I) (Dem)_Provisional Votes,Dakkia L. Bradshaw (I) (Dem)_Choice Total,Total,
+0,Telfair,Lumber-City,963,126,67,207,0,400,400,
+1,Telfair,McRae,2337,11,42,27,0,80,80,
+2,Telfair,Scotland,333,79,69,20,0,168,168,

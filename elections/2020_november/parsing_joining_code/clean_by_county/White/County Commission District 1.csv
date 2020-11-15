@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Terry_Election Day Votes,Terry_Advanced Voting Votes,Terry_Absentee by Mail Votes,Terry_Provisional Votes,Terry_Choice Total,Total,
-White,Mt Yonah,4468,559,1636,543,2,2740,2740,
-White,Shoal Creek,2538,0,6,2,0,8,8,
-White,Tesnatee,1231,86,194,45,0,325,325,
+index,County,Precinct,Registered Voters,Terry_Election Day Votes,Terry_Advanced Voting Votes,Terry_Absentee by Mail Votes,Terry_Provisional Votes,Terry_Choice Total,Total,
+0,White,Mt Yonah,4468,559,1636,543,2,2740,2740,
+1,White,Shoal Creek,2538,0,6,2,0,8,8,
+2,White,Tesnatee,1231,86,194,45,0,325,325,

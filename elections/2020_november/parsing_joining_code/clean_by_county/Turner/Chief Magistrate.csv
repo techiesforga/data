@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Blake Christian (Rep)_Election Day Votes,Blake Christian (Rep)_Advanced Voting Votes,Blake Christian (Rep)_Absentee by Mail Votes,Blake Christian (Rep)_Provisional Votes,Blake Christian (Rep)_Choice Total,"Daryl Hall, Sr. (Dem)_Election Day Votes","Daryl Hall, Sr. (Dem)_Advanced Voting Votes","Daryl Hall, Sr. (Dem)_Absentee by Mail Votes","Daryl Hall, Sr. (Dem)_Provisional Votes","Daryl Hall, Sr. (Dem)_Choice Total",Total,
-Turner,Ashburn,3509,196,903,160,0,1259,230,511,203,1,945,2204,
-Turner,Sycamore,1609,124,795,82,1,1002,26,107,25,0,158,1160,
-Turner,Rebecca,464,115,149,25,0,289,12,16,17,0,45,334,
+index,County,Precinct,Registered Voters,Blake Christian (Rep)_Election Day Votes,Blake Christian (Rep)_Advanced Voting Votes,Blake Christian (Rep)_Absentee by Mail Votes,Blake Christian (Rep)_Provisional Votes,Blake Christian (Rep)_Choice Total,"Daryl Hall, Sr. (Dem)_Election Day Votes","Daryl Hall, Sr. (Dem)_Advanced Voting Votes","Daryl Hall, Sr. (Dem)_Absentee by Mail Votes","Daryl Hall, Sr. (Dem)_Provisional Votes","Daryl Hall, Sr. (Dem)_Choice Total",Total,
+0,Turner,Ashburn,3509,196,903,160,0,1259,230,511,203,1,945,2204,
+1,Turner,Sycamore,1609,124,795,82,1,1002,26,107,25,0,158,1160,
+2,Turner,Rebecca,464,115,149,25,0,289,12,16,17,0,45,334,

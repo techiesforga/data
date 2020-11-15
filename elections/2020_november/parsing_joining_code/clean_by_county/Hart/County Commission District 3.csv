@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Marshall Sayer (I) (Rep)_Election Day Votes,Marshall Sayer (I) (Rep)_Advanced Voting Votes,Marshall Sayer (I) (Rep)_Absentee by Mail Votes,Marshall Sayer (I) (Rep)_Provisional Votes,Marshall Sayer (I) (Rep)_Choice Total,Total,
-Hart,Hartwell,6451,272,1150,353,1,1776,1776,
-Hart,Bowersville,1395,110,176,26,0,312,312,
+index,County,Precinct,Registered Voters,Marshall Sayer (I) (Rep)_Election Day Votes,Marshall Sayer (I) (Rep)_Advanced Voting Votes,Marshall Sayer (I) (Rep)_Absentee by Mail Votes,Marshall Sayer (I) (Rep)_Provisional Votes,Marshall Sayer (I) (Rep)_Choice Total,Total,
+0,Hart,Hartwell,6451,272,1150,353,1,1776,1776,
+1,Hart,Bowersville,1395,110,176,26,0,312,312,

@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Dana_Election Day Votes,Dana_Advanced Voting Votes,Dana_Absentee by Mail Votes,Dana_Provisional Votes,Dana_Choice Total,Total,
-Turner,Ashburn,3509,85,470,104,0,659,659,
-Turner,Sycamore,1609,17,82,13,0,112,112,
+index,County,Precinct,Registered Voters,Dana_Election Day Votes,Dana_Advanced Voting Votes,Dana_Absentee by Mail Votes,Dana_Provisional Votes,Dana_Choice Total,Total,
+0,Turner,Ashburn,3509,85,470,104,0,659,659,
+1,Turner,Sycamore,1609,17,82,13,0,112,112,

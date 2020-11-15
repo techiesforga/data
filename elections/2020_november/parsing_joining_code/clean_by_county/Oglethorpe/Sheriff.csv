@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,David R. Gabriel (I) (Rep)_Election Day Votes,David R. Gabriel (I) (Rep)_Advanced Voting Votes,David R. Gabriel (I) (Rep)_Absentee by Mail Votes,David R. Gabriel (I) (Rep)_Provisional Votes,David R. Gabriel (I) (Rep)_Choice Total,"Donald """"Don"""" Waldroup (Dem)_Election Day Votes","Donald """"Don"""" Waldroup (Dem)_Advanced Voting Votes","Donald """"Don"""" Waldroup (Dem)_Absentee by Mail Votes","Donald """"Don"""" Waldroup (Dem)_Provisional Votes","Donald """"Don"""" Waldroup (Dem)_Choice Total",Total,
-Oglethorpe,Beaverdam,3509,423,912,301,0,1636,186,490,272,0,948,2584,
-Oglethorpe,Crawford,3044,227,751,219,0,1197,172,549,255,0,976,2173,
-Oglethorpe,Lexington,4291,192,1029,320,1,1542,282,1000,422,2,1706,3248,
+index,County,Precinct,Registered Voters,David R. Gabriel (I) (Rep)_Election Day Votes,David R. Gabriel (I) (Rep)_Advanced Voting Votes,David R. Gabriel (I) (Rep)_Absentee by Mail Votes,David R. Gabriel (I) (Rep)_Provisional Votes,David R. Gabriel (I) (Rep)_Choice Total,"Donald """"Don"""" Waldroup (Dem)_Election Day Votes","Donald """"Don"""" Waldroup (Dem)_Advanced Voting Votes","Donald """"Don"""" Waldroup (Dem)_Absentee by Mail Votes","Donald """"Don"""" Waldroup (Dem)_Provisional Votes","Donald """"Don"""" Waldroup (Dem)_Choice Total",Total,
+0,Oglethorpe,Beaverdam,3509,423,912,301,0,1636,186,490,272,0,948,2584,
+1,Oglethorpe,Crawford,3044,227,751,219,0,1197,172,549,255,0,976,2173,
+2,Oglethorpe,Lexington,4291,192,1029,320,1,1542,282,1000,422,2,1706,3248,

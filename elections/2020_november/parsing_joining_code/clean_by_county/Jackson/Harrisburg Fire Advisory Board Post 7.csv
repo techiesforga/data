@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Jerry G. Legg (I)_Election Day Votes,Jerry G. Legg (I)_Advanced Voting Votes,Jerry G. Legg (I)_Absentee by Mail Votes,Jerry G. Legg (I)_Provisional Votes,Jerry G. Legg (I)_Choice Total,Total,
-Jackson,Central Jackson,16263,50,268,77,0,395,395,
-Jackson,North Jackson,12699,192,843,235,0,1270,1270,
+index,County,Precinct,Registered Voters,Jerry G. Legg (I)_Election Day Votes,Jerry G. Legg (I)_Advanced Voting Votes,Jerry G. Legg (I)_Absentee by Mail Votes,Jerry G. Legg (I)_Provisional Votes,Jerry G. Legg (I)_Choice Total,Total,
+0,Jackson,Central Jackson,16263,50,268,77,0,395,395,
+1,Jackson,North Jackson,12699,192,843,235,0,1270,1270,

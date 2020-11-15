@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Susan Holmes (I) (Rep)_Election Day Votes,Susan Holmes (I) (Rep)_Advanced Voting Votes,Susan Holmes (I) (Rep)_Absentee by Mail Votes,Susan Holmes (I) (Rep)_Provisional Votes,Susan Holmes (I) (Rep)_Choice Total,Sharonda Bell (Dem)_Election Day Votes,Sharonda Bell (Dem)_Advanced Voting Votes,Sharonda Bell (Dem)_Absentee by Mail Votes,Sharonda Bell (Dem)_Provisional Votes,Sharonda Bell (Dem)_Choice Total,Joe Reed (Ind)_Election Day Votes,Joe Reed (Ind)_Advanced Voting Votes,Joe Reed (Ind)_Absentee by Mail Votes,Joe Reed (Ind)_Provisional Votes,Joe Reed (Ind)_Choice Total,Total,
-Monroe,Cabaniss,800,182,183,29,1,395,39,65,31,0,135,13,12,2,0,27,557,
-Monroe,High Falls,1994,329,573,99,1,1002,35,82,48,0,165,19,49,29,0,97,1264,
-Monroe,Proctors,1214,208,304,54,0,566,43,75,31,0,149,24,37,12,0,73,788,
+index,County,Precinct,Registered Voters,Susan Holmes (I) (Rep)_Election Day Votes,Susan Holmes (I) (Rep)_Advanced Voting Votes,Susan Holmes (I) (Rep)_Absentee by Mail Votes,Susan Holmes (I) (Rep)_Provisional Votes,Susan Holmes (I) (Rep)_Choice Total,Sharonda Bell (Dem)_Election Day Votes,Sharonda Bell (Dem)_Advanced Voting Votes,Sharonda Bell (Dem)_Absentee by Mail Votes,Sharonda Bell (Dem)_Provisional Votes,Sharonda Bell (Dem)_Choice Total,Joe Reed (Ind)_Election Day Votes,Joe Reed (Ind)_Advanced Voting Votes,Joe Reed (Ind)_Absentee by Mail Votes,Joe Reed (Ind)_Provisional Votes,Joe Reed (Ind)_Choice Total,Total,
+0,Monroe,Cabaniss,800,182,183,29,1,395,39,65,31,0,135,13,12,2,0,27,557,
+1,Monroe,High Falls,1994,329,573,99,1,1002,35,82,48,0,165,19,49,29,0,97,1264,
+2,Monroe,Proctors,1214,208,304,54,0,566,43,75,31,0,149,24,37,12,0,73,788,

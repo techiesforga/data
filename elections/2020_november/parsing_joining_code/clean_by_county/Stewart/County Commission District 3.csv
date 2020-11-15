@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Thomas Mayo (Rep)_Election Day Votes,Thomas Mayo (Rep)_Advanced Voting Votes,Thomas Mayo (Rep)_Absentee by Mail Votes,Thomas Mayo (Rep)_Provisional Votes,Thomas Mayo (Rep)_Choice Total,Total,
-Stewart,Richland,1256,64,124,44,2,234,234,
-Stewart,Lumpkin,1134,7,14,5,0,26,26,
+index,County,Precinct,Registered Voters,Thomas Mayo (Rep)_Election Day Votes,Thomas Mayo (Rep)_Advanced Voting Votes,Thomas Mayo (Rep)_Absentee by Mail Votes,Thomas Mayo (Rep)_Provisional Votes,Thomas Mayo (Rep)_Choice Total,Total,
+0,Stewart,Richland,1256,64,124,44,2,234,234,
+1,Stewart,Lumpkin,1134,7,14,5,0,26,26,

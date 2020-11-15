@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Harold Herndon (Rep)_Election Day Votes,Harold Herndon (Rep)_Advanced Voting Votes,Harold Herndon (Rep)_Absentee by Mail Votes,Harold Herndon (Rep)_Provisional Votes,Harold Herndon (Rep)_Choice Total,Total,
-Brantley,Hoboken,3394,612,1229,240,0,2081,2081,
-Brantley,Nahunta,4208,502,1570,250,5,2327,2327,
-Brantley,Waynesville,4286,790,1235,221,3,2249,2249,
+index,County,Precinct,Registered Voters,Harold Herndon (Rep)_Election Day Votes,Harold Herndon (Rep)_Advanced Voting Votes,Harold Herndon (Rep)_Absentee by Mail Votes,Harold Herndon (Rep)_Provisional Votes,Harold Herndon (Rep)_Choice Total,Total,
+0,Brantley,Hoboken,3394,612,1229,240,0,2081,2081,
+1,Brantley,Nahunta,4208,502,1570,250,5,2327,2327,
+2,Brantley,Waynesville,4286,790,1235,221,3,2249,2249,

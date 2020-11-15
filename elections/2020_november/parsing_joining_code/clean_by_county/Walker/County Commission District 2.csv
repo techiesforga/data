@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Mark Askew (Rep)_Election Day Votes,Mark Askew (Rep)_Advanced Voting Votes,Mark Askew (Rep)_Absentee by Mail Votes,Mark Askew (Rep)_Provisional Votes,Mark Askew (Rep)_Choice Total,Tyrone Davis (Dem)_Election Day Votes,Tyrone Davis (Dem)_Advanced Voting Votes,Tyrone Davis (Dem)_Absentee by Mail Votes,Tyrone Davis (Dem)_Provisional Votes,Tyrone Davis (Dem)_Choice Total,Total,
-Walker,Rock Spring,6275,349,1357,357,0,2063,47,193,103,0,343,2406,
-Walker,Chattanooga Valley,6325,107,371,91,1,570,37,82,74,0,193,763,
-Walker,Chickamauga,6890,594,2664,622,0,3880,140,504,295,0,939,4819,
+index,County,Precinct,Registered Voters,Mark Askew (Rep)_Election Day Votes,Mark Askew (Rep)_Advanced Voting Votes,Mark Askew (Rep)_Absentee by Mail Votes,Mark Askew (Rep)_Provisional Votes,Mark Askew (Rep)_Choice Total,Tyrone Davis (Dem)_Election Day Votes,Tyrone Davis (Dem)_Advanced Voting Votes,Tyrone Davis (Dem)_Absentee by Mail Votes,Tyrone Davis (Dem)_Provisional Votes,Tyrone Davis (Dem)_Choice Total,Total,
+0,Walker,Rock Spring,6275,349,1357,357,0,2063,47,193,103,0,343,2406,
+1,Walker,Chattanooga Valley,6325,107,371,91,1,570,37,82,74,0,193,763,
+2,Walker,Chickamauga,6890,594,2664,622,0,3880,140,504,295,0,939,4819,

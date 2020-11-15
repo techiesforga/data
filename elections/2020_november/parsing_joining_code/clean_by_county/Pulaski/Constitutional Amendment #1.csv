@@ -1,2 +1,2 @@
-County,Precinct,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,
-Pulaski,Courthouse Annex,5687,347,2042,456,0,2845,104,582,135,1,822,3667,
+index,County,Precinct,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,
+0,Pulaski,Courthouse Annex,5687,347,2042,456,0,2845,104,582,135,1,822,3667,

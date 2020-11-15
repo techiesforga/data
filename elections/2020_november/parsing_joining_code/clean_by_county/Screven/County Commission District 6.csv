@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Allison Powell Willis (Rep)_Election Day Votes,Allison Powell Willis (Rep)_Advanced Voting Votes,Allison Powell Willis (Rep)_Absentee by Mail Votes,Allison Powell Willis (Rep)_Provisional Votes,Allison Powell Willis (Rep)_Choice Total,Michael McBride (I) (Dem)_Election Day Votes,Michael McBride (I) (Dem)_Advanced Voting Votes,Michael McBride (I) (Dem)_Absentee by Mail Votes,Michael McBride (I) (Dem)_Provisional Votes,Michael McBride (I) (Dem)_Choice Total,Total,
-Screven,Rocky Ford,0,92,90,34,0,216,37,78,37,0,152,368,
-Screven,Bay Branch,0,144,224,51,1,420,64,175,35,0,274,694,
+index,County,Precinct,Registered Voters,Allison Powell Willis (Rep)_Election Day Votes,Allison Powell Willis (Rep)_Advanced Voting Votes,Allison Powell Willis (Rep)_Absentee by Mail Votes,Allison Powell Willis (Rep)_Provisional Votes,Allison Powell Willis (Rep)_Choice Total,Michael McBride (I) (Dem)_Election Day Votes,Michael McBride (I) (Dem)_Advanced Voting Votes,Michael McBride (I) (Dem)_Absentee by Mail Votes,Michael McBride (I) (Dem)_Provisional Votes,Michael McBride (I) (Dem)_Choice Total,Total,
+0,Screven,Rocky Ford,0,92,90,34,0,216,37,78,37,0,152,368,
+1,Screven,Bay Branch,0,144,224,51,1,420,64,175,35,0,274,694,

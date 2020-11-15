@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Todd Jones (I) (Rep)_Election Day Votes,Todd Jones (I) (Rep)_Advanced Voting Votes,Todd Jones (I) (Rep)_Absentee by Mail Votes,Todd Jones (I) (Rep)_Provisional Votes,Todd Jones (I) (Rep)_Choice Total,Christa Olenczak (Dem)_Election Day Votes,Christa Olenczak (Dem)_Advanced Voting Votes,Christa Olenczak (Dem)_Absentee by Mail Votes,Christa Olenczak (Dem)_Provisional Votes,Christa Olenczak (Dem)_Choice Total,Total,
-Fulton,JC03A,594,33,154,33,2,222,14,179,55,3,251,473,
-Fulton,JC04A,3177,97,877,258,10,1242,36,779,455,7,1277,2519,
-Fulton,JC04C,1251,47,285,87,0,419,20,324,191,0,535,954,
+index,County,Precinct,Registered Voters,Todd Jones (I) (Rep)_Election Day Votes,Todd Jones (I) (Rep)_Advanced Voting Votes,Todd Jones (I) (Rep)_Absentee by Mail Votes,Todd Jones (I) (Rep)_Provisional Votes,Todd Jones (I) (Rep)_Choice Total,Christa Olenczak (Dem)_Election Day Votes,Christa Olenczak (Dem)_Advanced Voting Votes,Christa Olenczak (Dem)_Absentee by Mail Votes,Christa Olenczak (Dem)_Provisional Votes,Christa Olenczak (Dem)_Choice Total,Total,
+0,Fulton,JC03A,594,33,154,33,2,222,14,179,55,3,251,473,
+1,Fulton,JC04A,3177,97,877,258,10,1242,36,779,455,7,1277,2519,
+2,Fulton,JC04C,1251,47,285,87,0,419,20,324,191,0,535,954,

@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,Sharon Locklear (Dem)_Election Day Votes,Sharon Locklear (Dem)_Advanced Voting Votes,Sharon Locklear (Dem)_Absentee by Mail Votes,Sharon Locklear (Dem)_Provisional Votes,Sharon Locklear (Dem)_Choice Total,Total,
-Cook,Elm Pine,531,78,109,72,0,259,259,
-Cook,Riverbend,1280,20,105,31,0,156,156,
-Cook,Sparks,1049,177,208,87,0,472,472,
+index,County,Precinct,Registered Voters,Sharon Locklear (Dem)_Election Day Votes,Sharon Locklear (Dem)_Advanced Voting Votes,Sharon Locklear (Dem)_Absentee by Mail Votes,Sharon Locklear (Dem)_Provisional Votes,Sharon Locklear (Dem)_Choice Total,Total,
+0,Cook,Elm Pine,531,78,109,72,0,259,259,
+1,Cook,Riverbend,1280,20,105,31,0,156,156,
+2,Cook,Sparks,1049,177,208,87,0,472,472,

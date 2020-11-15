@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Dan Scott Sailors (I)_Election Day Votes,Dan Scott Sailors (I)_Advanced Voting Votes,Dan Scott Sailors (I)_Absentee by Mail Votes,Dan Scott Sailors (I)_Provisional Votes,Dan Scott Sailors (I)_Choice Total,Total,
-Jackson,Central Jackson,16263,50,264,74,0,388,388,
-Jackson,North Jackson,12699,190,836,237,0,1263,1263,
+index,County,Precinct,Registered Voters,Dan Scott Sailors (I)_Election Day Votes,Dan Scott Sailors (I)_Advanced Voting Votes,Dan Scott Sailors (I)_Absentee by Mail Votes,Dan Scott Sailors (I)_Provisional Votes,Dan Scott Sailors (I)_Choice Total,Total,
+0,Jackson,Central Jackson,16263,50,264,74,0,388,388,
+1,Jackson,North Jackson,12699,190,836,237,0,1263,1263,

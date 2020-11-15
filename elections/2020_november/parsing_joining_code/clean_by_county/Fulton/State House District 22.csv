@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Wes Cantrell (I) (Rep)_Election Day Votes,Wes Cantrell (I) (Rep)_Advanced Voting Votes,Wes Cantrell (I) (Rep)_Absentee by Mail Votes,Wes Cantrell (I) (Rep)_Provisional Votes,Wes Cantrell (I) (Rep)_Choice Total,Charles Ravenscraft (Dem)_Election Day Votes,Charles Ravenscraft (Dem)_Advanced Voting Votes,Charles Ravenscraft (Dem)_Absentee by Mail Votes,Charles Ravenscraft (Dem)_Provisional Votes,Charles Ravenscraft (Dem)_Choice Total,Total,
-Fulton,ML02A,2580,257,975,282,2,1516,54,268,221,0,543,2059,
-Fulton,ML07A,836,125,237,85,0,447,15,108,64,0,187,634,
+index,County,Precinct,Registered Voters,Wes Cantrell (I) (Rep)_Election Day Votes,Wes Cantrell (I) (Rep)_Advanced Voting Votes,Wes Cantrell (I) (Rep)_Absentee by Mail Votes,Wes Cantrell (I) (Rep)_Provisional Votes,Wes Cantrell (I) (Rep)_Choice Total,Charles Ravenscraft (Dem)_Election Day Votes,Charles Ravenscraft (Dem)_Advanced Voting Votes,Charles Ravenscraft (Dem)_Absentee by Mail Votes,Charles Ravenscraft (Dem)_Provisional Votes,Charles Ravenscraft (Dem)_Choice Total,Total,
+0,Fulton,ML02A,2580,257,975,282,2,1516,54,268,221,0,543,2059,
+1,Fulton,ML07A,836,125,237,85,0,447,15,108,64,0,187,634,

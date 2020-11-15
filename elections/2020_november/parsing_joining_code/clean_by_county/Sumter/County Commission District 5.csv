@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,"Jessie L. Smith, Jr. (Dem)_Election Day Votes","Jessie L. Smith, Jr. (Dem)_Advanced Voting Votes","Jessie L. Smith, Jr. (Dem)_Absentee by Mail Votes","Jessie L. Smith, Jr. (Dem)_Provisional Votes","Jessie L. Smith, Jr. (Dem)_Choice Total",Total,
-Sumter,Agri-Center,2059,68,342,130,0,540,540,
-Sumter,GSW Conf Center,3044,5,39,5,0,49,49,
-Sumter,Rec Dept,2667,218,624,408,0,1250,1250,
+index,County,Precinct,Registered Voters,"Jessie L. Smith, Jr. (Dem)_Election Day Votes","Jessie L. Smith, Jr. (Dem)_Advanced Voting Votes","Jessie L. Smith, Jr. (Dem)_Absentee by Mail Votes","Jessie L. Smith, Jr. (Dem)_Provisional Votes","Jessie L. Smith, Jr. (Dem)_Choice Total",Total,
+0,Sumter,Agri-Center,2059,68,342,130,0,540,540,
+1,Sumter,GSW Conf Center,3044,5,39,5,0,49,49,
+2,Sumter,Rec Dept,2667,218,624,408,0,1250,1250,

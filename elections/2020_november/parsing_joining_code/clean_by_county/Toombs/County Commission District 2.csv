@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,Wendell Dixon (I) (Rep)_Election Day Votes,Wendell Dixon (I) (Rep)_Advanced Voting Votes,Wendell Dixon (I) (Rep)_Absentee by Mail Votes,Wendell Dixon (I) (Rep)_Provisional Votes,Wendell Dixon (I) (Rep)_Choice Total,Samuel Rayapati (Dem)_Election Day Votes,Samuel Rayapati (Dem)_Advanced Voting Votes,Samuel Rayapati (Dem)_Absentee by Mail Votes,Samuel Rayapati (Dem)_Provisional Votes,Samuel Rayapati (Dem)_Choice Total,Total,
-Toombs,513 VPD,0,329,1202,407,3,1941,119,287,228,0,634,2575,
-Toombs,514 STIALC,0,95,261,67,1,424,12,51,20,1,84,508,
+index,County,Precinct,Registered Voters,Wendell Dixon (I) (Rep)_Election Day Votes,Wendell Dixon (I) (Rep)_Advanced Voting Votes,Wendell Dixon (I) (Rep)_Absentee by Mail Votes,Wendell Dixon (I) (Rep)_Provisional Votes,Wendell Dixon (I) (Rep)_Choice Total,Samuel Rayapati (Dem)_Election Day Votes,Samuel Rayapati (Dem)_Advanced Voting Votes,Samuel Rayapati (Dem)_Absentee by Mail Votes,Samuel Rayapati (Dem)_Provisional Votes,Samuel Rayapati (Dem)_Choice Total,Total,
+0,Toombs,513 VPD,0,329,1202,407,3,1941,119,287,228,0,634,2575,
+1,Toombs,514 STIALC,0,95,261,67,1,424,12,51,20,1,84,508,

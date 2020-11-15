@@ -1,3 +1,3 @@
-County,Precinct,Registered Voters,"Ernie Filice, Jr. (I) (Rep)_Election Day Votes","Ernie Filice, Jr. (I) (Rep)_Advanced Voting Votes","Ernie Filice, Jr. (I) (Rep)_Absentee by Mail Votes","Ernie Filice, Jr. (I) (Rep)_Provisional Votes","Ernie Filice, Jr. (I) (Rep)_Choice Total",Total,
-Greene,Greensboro,3999,84,426,111,0,621,621,
-Greene,Old Salem,6961,362,2589,932,2,3885,3885,
+index,County,Precinct,Registered Voters,"Ernie Filice, Jr. (I) (Rep)_Election Day Votes","Ernie Filice, Jr. (I) (Rep)_Advanced Voting Votes","Ernie Filice, Jr. (I) (Rep)_Absentee by Mail Votes","Ernie Filice, Jr. (I) (Rep)_Provisional Votes","Ernie Filice, Jr. (I) (Rep)_Choice Total",Total,
+0,Greene,Greensboro,3999,84,426,111,0,621,621,
+1,Greene,Old Salem,6961,362,2589,932,2,3885,3885,

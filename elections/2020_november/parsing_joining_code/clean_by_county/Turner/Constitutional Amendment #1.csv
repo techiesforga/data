@@ -1,4 +1,4 @@
-County,Precinct,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,
-Turner,Ashburn,3509,302,990,263,1,1556,87,350,84,0,521,2077,
-Turner,Sycamore,1609,120,648,81,1,850,20,207,22,0,249,1099,
-Turner,Rebecca,464,85,120,30,0,235,33,36,8,0,77,312,
+index,County,Precinct,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,
+0,Turner,Ashburn,3509,302,990,263,1,1556,87,350,84,0,521,2077,
+1,Turner,Sycamore,1609,120,648,81,1,850,20,207,22,0,249,1099,
+2,Turner,Rebecca,464,85,120,30,0,235,33,36,8,0,77,312,
