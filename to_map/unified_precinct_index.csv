@@ -1,0 +1,2968 @@
+county,precinct_id,precinct_name,SHAPE_idx,PART_idx,RES_idx
+Appling,1c,,520.0,3.0,1451.0
+Appling,5b,,518.0,6.0,1458.0
+Appling,5a,,513.0,5.0,1457.0
+Appling,1b,,516.0,2.0,1450.0
+Appling,3a1,,512.0,0.0,1453.0
+Appling,4d,,519.0,7.0,1456.0
+Appling,2,,514.0,4.0,1452.0
+Appling,4b,,515.0,1.0,1455.0
+Appling,3c,,517.0,8.0,1454.0
+Atkinson,2,Axson,521.0,12.0,2231.0
+Atkinson,3,Willacoochee,522.0,14.0,2232.0
+Atkinson,99999,Absentee (outside US),,13.0,
+Atkinson,4,Pearson City,524.0,11.0,2233.0
+Atkinson,1,Pearson County,523.0,9.0,2230.0
+Atkinson,88888,Absentee (domestic),,10.0,
+Bacon,99999,Absentee (outside US),,15.0,
+Bacon,Douglas,Douglas,525.0,16.0,2123.0
+Baker,Elmodel,Elmodel,527.0,19.0,1222.0
+Baker,A,A,529.0,17.0,1221.0
+Baker,HM,Hoggards Mill,530.0,21.0,1223.0
+Baker,88888,Absentee (domestic),,18.0,
+Baker,Milford,Milford,528.0,20.0,1224.0
+Baker,Newton,Newton,526.0,22.0,1225.0
+Baldwin,CTY5,Fire Dept,544.0,37.0,951.0
+Baldwin,321W,West Hardwick,542.0,24.0,959.0
+Baldwin,Meriweather,Meriweather,534.0,30.0,953.0
+Baldwin,322,Coopers,535.0,28.0,960.0
+Baldwin,319,West Baldwin,533.0,26.0,957.0
+Baldwin,318,North Baldwin,536.0,29.0,956.0
+Baldwin,88888,Absentee (domestic),,32.0,
+Baldwin,321E,East Hardwick,538.0,25.0,958.0
+Baldwin,MONT,East Baldwin,531.0,31.0,954.0
+Baldwin,CTY1,South Milledgeville,540.0,33.0,947.0
+Baldwin,CTY6,North Milledgeville,537.0,23.0,952.0
+Baldwin,CTY2,City Hall Annex,539.0,34.0,948.0
+Baldwin,CTY3,Boddie,543.0,35.0,949.0
+Baldwin,CTY4,Courthouse,541.0,36.0,950.0
+Baldwin,1714,Scottsboro,532.0,27.0,955.0
+Banks,2,Baldwin,551.0,51.0,2157.0
+Banks,13,Wilmonts,548.0,38.0,2168.0
+Banks,12,Washington,547.0,40.0,2167.0
+Banks,6,Davids,550.0,47.0,2161.0
+Banks,11,Poplar Springs,546.0,42.0,2166.0
+Banks,1,Anderson,545.0,41.0,2156.0
+Banks,88888,Absentee (domestic),,39.0,
+Banks,10,Homer,552.0,46.0,2165.0
+Banks,4,Bushville,555.0,43.0,2159.0
+Banks,5,Columbia,554.0,44.0,2160.0
+Banks,7,Golden Hill,556.0,50.0,2162.0
+Banks,9,Hollingsworth,553.0,49.0,2164.0
+Banks,3,Berlin,549.0,45.0,2158.0
+Banks,8,Grove River,557.0,48.0,2163.0
+Barrow,3,Hmong  New  Hope  Alliance  Church,570.0,62.0,1136.0
+Barrow,4,Covenant  Life  Sanctuary,565.0,59.0,1137.0
+Barrow,5,Fire  Station     Statham,564.0,63.0,1138.0
+Barrow,132,,,65.0,
+Barrow,13,Winder  Community  Center,566.0,67.0,1140.0
+Barrow,15,County Line Elementary School,560.0,58.0,
+Barrow,14,Cedar Creek Baptist Church,563.0,60.0,
+Barrow,16,The  Church  At  Winder,569.0,52.0,1141.0
+Barrow,2,Bethlehem Church -,562.0,68.0,1135.0
+Barrow,6,Winder Barrow High School,558.0,64.0,
+Barrow,99999,Absentee (outside US),,69.0,
+Barrow,11,Apalachee High School,568.0,66.0,
+Barrow,10,Leisure Services Center,561.0,56.0,
+Barrow,88888,Absentee (domestic),,54.0,
+Barrow,7,Statham Elementary School,567.0,53.0,
+Barrow,9,Lions Club,571.0,70.0,
+Barrow,8,First  Baptist  Church  Winder,559.0,55.0,1139.0
+Barrow,1,Bethlehem  Community  Center,573.0,57.0,1134.0
+Barrow,12,Midway United Methodist Church,572.0,61.0,
+Bartow,7,Emerson,576.0,74.0,2112.0
+Bartow,4,Cartersville West,575.0,75.0,2109.0
+Bartow,6,Center,578.0,85.0,2111.0
+Bartow,14,Taylorsville,579.0,88.0,2119.0
+Bartow,88888,Absentee (domestic),,83.0,
+Bartow,99999,Absentee (outside US),,87.0,
+Bartow,11,Mission Road,586.0,79.0,2117.0
+Bartow,3,Cartersville East,582.0,86.0,2108.0
+Bartow,1,Adairsville,584.0,82.0,2106.0
+Bartow,10,Kingston,581.0,77.0,2116.0
+Bartow,15,White,574.0,84.0,2120.0
+Bartow,9,Folsom,588.0,80.0,2114.0
+Bartow,18,Woodland High,585.0,71.0,2122.0
+Bartow,8,Euharlee,577.0,81.0,2113.0
+Bartow,HC,Hamilton Crossing,,,2115.0
+Bartow,16,Zena Drive,583.0,73.0,2121.0
+Bartow,2,Allatoona,580.0,76.0,2107.0
+Bartow,12,Pine Log,587.0,78.0,2118.0
+Bartow,5,Cassville,589.0,72.0,2110.0
+Ben Hill,1,,591.0,91.0,1535.0
+Ben Hill,88888,Absentee (domestic),,89.0,
+Ben Hill,2,,590.0,90.0,1536.0
+Berrien,1642,Enigma,592.0,97.0,701.0
+Berrien,11062,West Berrien,595.0,95.0,698.0
+Berrien,1144,Ray City,596.0,94.0,699.0
+Berrien,1157,Nashville,594.0,96.0,700.0
+Berrien,88888,Absentee (domestic),,92.0,
+Berrien,518,Alapaha,593.0,93.0,702.0
+Bibb,WA2,Warrior 2,601.0,113.0,1178.0
+Bibb,WA1,Warrior 1,599.0,107.0,1177.0
+Bibb,HO7,Howard 7,623.0,123.0,1168.0
+Bibb,88888,Absentee (domestic),,98.0,
+Bibb,HO6,Howard 6,627.0,121.0,1167.0
+Bibb,EM2,East Macon 2,597.0,126.0,1149.0
+Bibb,HO4,Howard 4,611.0,119.0,1165.0
+Bibb,EM3,East Macon 3,617.0,114.0,1150.0
+Bibb,EM4,East Macon 4,605.0,129.0,1151.0
+Bibb,EM5,East Macon 5,598.0,109.0,1152.0
+Bibb,VV3,Vineville 3,603.0,104.0,1173.0
+Bibb,VV4,Vineville 4,613.0,111.0,1174.0
+Bibb,VV5,Vineville 5,621.0,128.0,1175.0
+Bibb,VV6,Vineville 6,608.0,124.0,1176.0
+Bibb,VV2,Vineville 2,626.0,130.0,1172.0
+Bibb,GF1,Godfrey 1,614.0,99.0,1153.0
+Bibb,GF2,Godfrey 2,625.0,100.0,1154.0
+Bibb,GF3,Godfrey 3,610.0,103.0,1155.0
+Bibb,99999,Absentee (outside US),,102.0,
+Bibb,GF4,Godfrey 4,616.0,105.0,1156.0
+Bibb,GF5,Godfrey 5,622.0,106.0,1157.0
+Bibb,HA1,Hazzard 1,604.0,108.0,1158.0
+Bibb,VV1,Vineville 1,620.0,112.0,1171.0
+Bibb,HA3,Hazzard 3,618.0,127.0,1160.0
+Bibb,HA4,Hazzard 4,612.0,115.0,1161.0
+Bibb,EM1,East Macon 1,607.0,122.0,1148.0
+Bibb,HO2,Howard 2,602.0,117.0,1163.0
+Bibb,HO3,Howard 3,619.0,118.0,1164.0
+Bibb,HO5,Howard 5,624.0,120.0,1166.0
+Bibb,HO1,Howard 1,615.0,116.0,1162.0
+Bibb,HA2,Hazzard 2,609.0,110.0,1159.0
+Bibb,RU2,Rutland 2,600.0,125.0,1170.0
+Bibb,RU1,Rutland 1,606.0,101.0,1169.0
+Bleckley,1,Fairground,628.0,133.0,1946.0
+Bleckley,88888,Absentee (domestic),,132.0,
+Bleckley,99999,Absentee (outside US),,131.0,
+Brantley,2,Nahunta,629.0,135.0,934.0
+Brantley,1,Hoboken,630.0,137.0,933.0
+Brantley,88888,Absentee (domestic),,134.0,
+Brantley,3,Waynesville,631.0,136.0,935.0
+Brooks,1199,Quitman,638.0,138.0,1247.0
+Brooks,88888,Absentee (domestic),,144.0,
+Brooks,1230,Barwick,636.0,143.0,1248.0
+Brooks,3,,,147.0,
+Brooks,1650,Briggs,634.0,142.0,1250.0
+Brooks,660,Morven,632.0,140.0,1252.0
+Brooks,659,Nankin,633.0,139.0,1251.0
+Brooks,99999,Absentee (outside US),,146.0,
+Brooks,1402,Dixie,635.0,145.0,1249.0
+Brooks,Pavo,Pavo,637.0,141.0,1253.0
+Bryan,421,,,148.0,
+Bryan,FSMR(V,Fort Stewart Military Reserve (no Voters),642.0,,
+Bryan,3,Black Creek,647.0,152.0,1500.0
+Bryan,9,Public Safety Complex,645.0,157.0,1506.0
+Bryan,1,Pembroke,641.0,149.0,1497.0
+Bryan,5,Rh Recreation Compx,649.0,150.0,1502.0
+Bryan,10,Danielsiding,644.0,155.0,1498.0
+Bryan,88888,Absentee (domestic),,151.0,
+Bryan,8,Hwy 144 East,640.0,158.0,1505.0
+Bryan,6,J.f. Gregory Park,648.0,159.0,1503.0
+Bryan,7,Keller,643.0,154.0,1504.0
+Bryan,4,Ways Station,646.0,156.0,1501.0
+Bryan,2,Ellabell,639.0,153.0,1499.0
+Bulloch,6,,654.0,160.0,1757.0
+Bulloch,99999,Absentee (outside US),,161.0,
+Bulloch,88888,Absentee (domestic),,165.0,
+Bulloch,7,Nevils,655.0,170.0,1758.0
+Bulloch,13,,656.0,173.0,1749.0
+Bulloch,8,Sinkhole,663.0,168.0,1759.0
+Bulloch,16,Leefield,664.0,172.0,1752.0
+Bulloch,9,Register,659.0,169.0,1760.0
+Bulloch,11,Statesboro,650.0,164.0,1747.0
+Bulloch,3,Hagin,653.0,177.0,1754.0
+Bulloch,1,Lockhart,651.0,166.0,1745.0
+Bulloch,14,Church,652.0,163.0,1750.0
+Bulloch,5,Stilson,661.0,167.0,1756.0
+Bulloch,12,Portal,662.0,175.0,1748.0
+Bulloch,10,,657.0,162.0,1746.0
+Bulloch,4,Brooklet,658.0,174.0,1755.0
+Bulloch,15,Pittman Park,660.0,171.0,1751.0
+Bulloch,2,Blitch,665.0,176.0,1753.0
+Burke,10,Scotts Crossroads,678.0,188.0,2083.0
+Burke,11,Telfair,672.0,193.0,2084.0
+Burke,15,South Waynesboro,670.0,187.0,2088.0
+Burke,2,Four Points,679.0,189.0,2075.0
+Burke,12,St. Clair,675.0,191.0,2085.0
+Burke,88888,Absentee (domestic),,179.0,
+Burke,14,North Waynesboro,671.0,184.0,2087.0
+Burke,7,Midville,667.0,180.0,2080.0
+Burke,1,Alexander,669.0,192.0,2074.0
+Burke,3,Girard,668.0,190.0,2076.0
+Burke,5,Greenscut,674.0,183.0,2078.0
+Burke,16,Blakeney,681.0,194.0,2089.0
+Burke,9,Sardis,666.0,182.0,2082.0
+Burke,13,Vidette,680.0,185.0,2086.0
+Burke,4,Gough,673.0,186.0,2077.0
+Burke,8,Munnerlyn,676.0,181.0,2081.0
+Burke,6,Keysville,677.0,178.0,2079.0
+Butts,88888,Absentee (domestic),,196.0,
+Butts,BCAB,Butts County Admin Bldg,682.0,195.0,1682.0
+Butts,99999,Absentee (outside US),,197.0,
+Calhoun,2,Morgan,685.0,199.0,1559.0
+Calhoun,4,Edison-Arlington,683.0,202.0,1561.0
+Calhoun,5,Arlington,686.0,200.0,1562.0
+Calhoun,3,Edison,687.0,201.0,1560.0
+Calhoun,1,Leary,684.0,198.0,1558.0
+Camden,13,Mush Bluff,697.0,218.0,803.0
+Camden,88888,Absentee (domestic),,209.0,
+Camden,99999,Absentee (outside US),,213.0,
+Camden,5,Harrietts Bluff,688.0,216.0,795.0
+Camden,10,North St Marys,691.0,206.0,800.0
+Camden,14,West Saint Marys,689.0,208.0,804.0
+Camden,3,Woodbine,696.0,205.0,793.0
+Camden,4,Browntown,695.0,207.0,794.0
+Camden,2,Waverly,690.0,204.0,792.0
+Camden,9,East Kingsland,694.0,203.0,799.0
+Camden,SM,St Marys,,,801.0
+Camden,8,Kingsland,701.0,212.0,798.0
+Camden,7,North Kingsland,700.0,214.0,797.0
+Camden,11,Mary Lee Clark,699.0,211.0,
+Camden,6,West Kingsland,693.0,215.0,796.0
+Camden,1,Tarboro,692.0,217.0,791.0
+Camden,12,South St Marys,698.0,210.0,802.0
+Candler,88888,Absentee (domestic),,221.0,
+Candler,1685,Metter - 1685,702.0,219.0,
+Candler,1736,Candler - 1736,703.0,220.0,
+Candler,JSCC,Jack Strickland Comm Center,,,1579.0
+Carroll,Clem,Clem,711.0,233.0,1997.0
+Carroll,714A5,County Admin Bldg,730.0,237.0,2014.0
+Carroll,1496,Bowdon Junction,704.0,230.0,1998.0
+Carroll,1371,Burwell,706.0,245.0,1996.0
+Carroll,715,Oak Grove,707.0,232.0,2018.0
+Carroll,1111,Bowdon,705.0,250.0,1992.0
+Carroll,640,V R County South,710.0,241.0,2003.0
+Carroll,1122,Sandhill,716.0,246.0,1993.0
+Carroll,88888,Absentee (domestic),,228.0,
+Carroll,714BN,Burson Center,731.0,235.0,2016.0
+Carroll,714A6,Tabernacle Church,729.0,236.0,2015.0
+Carroll,641,V R County North,709.0,223.0,2004.0
+Carroll,501,Bethany,714.0,249.0,2002.0
+Carroll,1152,Center Point,708.0,248.0,1994.0
+Carroll,713,Roopville,719.0,231.0,2009.0
+Carroll,642,Villa Rica City,712.0,224.0,2005.0
+Carroll,714A1,West Carrollton,728.0,222.0,2010.0
+Carroll,714A2,Lakeshore Rec Center,724.0,240.0,2011.0
+Carroll,714A3,Bonner,726.0,239.0,2012.0
+Carroll,649,Temple County,713.0,225.0,2006.0
+Carroll,650,Temple City,715.0,226.0,2007.0
+Carroll,Tyus,Tyus,727.0,244.0,1999.0
+Carroll,99999,Absentee (outside US),,243.0,
+Carroll,1540,Fairfield,721.0,251.0,2000.0
+Carroll,1006,Kansas,725.0,229.0,1991.0
+Carroll,714A4,University Of W. Ga,722.0,238.0,2013.0
+Carroll,1542,Hulett,717.0,247.0,2001.0
+Carroll,682,Whitesburg,723.0,227.0,2008.0
+Carroll,1240,Mt Zion,720.0,242.0,1995.0
+Carroll,714BW,Old Camp Church,718.0,234.0,2017.0
+Catoosa,Westside,Westside,737.0,262.0,712.0
+Catoosa,88888,Absentee (domestic),,258.0,
+Catoosa,Ringgold,Ringgold,735.0,256.0,711.0
+Catoosa,Graysville,Graysville,734.0,264.0,708.0
+Catoosa,Boynton,Boynton,736.0,255.0,704.0
+Catoosa,BLCK,Blackstock,733.0,254.0,703.0
+Catoosa,Chambers,Chambers,732.0,252.0,706.0
+Catoosa,POPS,Poplar Springs,742.0,260.0,710.0
+Catoosa,FT O,Fort Oglethorpe,739.0,261.0,707.0
+Catoosa,99999,Absentee (outside US),,263.0,
+Catoosa,Lakeview,Lakeview,738.0,259.0,709.0
+Catoosa,Woodstation,Woodstation,741.0,253.0,713.0
+Catoosa,CAKT,Catoosa Keith,740.0,257.0,705.0
+Charlton,3B,Ga Bend,745.0,267.0,1684.0
+Charlton,3S,St. George,746.0,269.0,1685.0
+Charlton,2,Folkston,747.0,271.0,1683.0
+Charlton,5F,Folkston Fire Station,748.0,266.0,1688.0
+Charlton,4A,American Legion,744.0,270.0,1686.0
+Charlton,4H,Homeland,750.0,265.0,1687.0
+Charlton,5R,Racepond,743.0,272.0,1689.0
+Charlton,5W,Winokur,749.0,268.0,1690.0
+Chatham,3-08C,Jenkins High School,477.0,307.0,1792.0
+Chatham,3-05C,Aldersgate Youth Center,460.0,303.0,1791.0
+Chatham,3-09C,Cokesbury Methodist Church,420.0,311.0,1793.0
+Chatham,3-04C,First African Baptist Church,435.0,302.0,1790.0
+Chatham,3-03C,Savannah High School,468.0,300.0,1789.0
+Chatham,3-02C,Temple Mickve Israel,429.0,298.0,1788.0
+Chatham,3-01C,Old Courthouse,446.0,293.0,1787.0
+Chatham,Jb11,,,348.0,
+Chatham,4-15C,Skidaway Island State Park,430.0,297.0,1811.0
+Chatham,5-01C,Bartlett Middle School,469.0,281.0,1812.0
+Chatham,6-03C,Crusader Community Center,485.0,361.0,1823.0
+Chatham,3-10C,Bible Baptist Church,414.0,312.0,1794.0
+Chatham,6-05C,Windsor Hall,496.0,352.0,1824.0
+Chatham,3-11C,Southside Baptist Church,473.0,313.0,1795.0
+Chatham,2-02C,Blackshear Community Center,442.0,318.0,1778.0
+Chatham,3-12C,Thunderbolt Muni Complex,494.0,315.0,1796.0
+Chatham,PRCG,Pooler Recreation Center Gymnasium,,,1844.0
+Chatham,RCAI,Royal Cinemas And Imax,,,1858.0
+Chatham,5-11C,Largo-Tibet Elementary,450.0,364.0,1820.0
+Chatham,5-10C,Tatumville Community Center,466.0,355.0,1819.0
+Chatham,FPNM(V,Fort Pulaski National Monument (no Voters,482.0,,
+Chatham,5-08C,Savannah Primitive Baptist Church,475.0,353.0,1818.0
+Chatham,99999,Absentee (outside US),,317.0,
+Chatham,5-07C,Elks Lodge,451.0,350.0,1817.0
+Chatham,5-06C,Seed Church,476.0,365.0,1816.0
+Chatham,4-02C,Frank Murray Community Center,465.0,363.0,1800.0
+Chatham,4-04C,Lighthouse Baptist Church,455.0,362.0,1801.0
+Chatham,4-05C,Saint Francis Episcopal Church,432.0,360.0,1802.0
+Chatham,5-05C,Liberty City Community Center,457.0,289.0,1815.0
+Chatham,5-02C,Senior Citizens Center,423.0,277.0,1813.0
+Chatham,4-06C,First Baptist Church Of The Island,440.0,349.0,1803.0
+Chatham,6-01C,White Bluff Presbyterian Church,470.0,351.0,1821.0
+Chatham,6-02C,Windsor Forest Baptist Church School,416.0,359.0,1822.0
+Chatham,4-08C,Wilmington Island Presbyterian Church,444.0,291.0,1805.0
+Chatham,4-10C,Guard House Comm Ctr,427.0,308.0,1806.0
+Chatham,4-11C,Tybee Island School Cafe,463.0,306.0,1807.0
+Chatham,4-12C,St Peters Episcopal,443.0,305.0,1808.0
+Chatham,3-15C,Eli Whitney Complex,452.0,304.0,1782.0
+Chatham,4-13C,Skidaway Island Pres Church,467.0,356.0,1809.0
+Chatham,7-07C,Rothwell Baptist Church,449.0,330.0,1835.0
+Chatham,4-14C,Skidaway Island Baptist,413.0,328.0,1810.0
+Chatham,3-14C,Oglethorpe Charter Academy,437.0,292.0,1798.0
+Chatham,5-03C,Butler Presbyterian Church Ed Bldg,471.0,286.0,1814.0
+Chatham,3-13C,New Cov  Day Adv Ch,453.0,316.0,1797.0
+Chatham,4-07C,Wilmington Island United Methodist Church,479.0,347.0,1804.0
+Chatham,1-01C,First Presbyterian Church,418.0,338.0,1767.0
+Chatham,7-06C,Pooler City Hall,421.0,332.0,1834.0
+Chatham,1-05C,"Chatham,jea Building",486.0,337.0,1768.0
+Chatham,2-09C,Salvation Army,417.0,345.0,1784.0
+Chatham,2-11C,Stillwell Towers,474.0,336.0,1785.0
+Chatham,1-14C,Compassion Christian Church,445.0,296.0,1775.0
+Chatham,7-05C,Woodlawn Baptist Church,447.0,343.0,1833.0
+Chatham,7-04C,Lake Shore Community Center,497.0,333.0,1832.0
+Chatham,7-03C,Pb Edwards Gymnasium,484.0,334.0,1831.0
+Chatham,1-16C,Ferguson Ave Baptist,433.0,295.0,1776.0
+Chatham,7-01C,Garden City Senior Center,441.0,335.0,1857.0
+Chatham,2-12C,Williams Court Apts,419.0,346.0,1786.0
+Chatham,1-17C,Islands Christian Church,434.0,294.0,1777.0
+Chatham,6-06C,The Light Church,472.0,326.0,1825.0
+Chatham,6-08C,Christ Memorial Baptist Church,459.0,339.0,1826.0
+Chatham,6-09C,Trinity Lutheran Church,456.0,340.0,1827.0
+Chatham,2-07C,Christ Community Church At Morningside,495.0,341.0,1783.0
+Chatham,88888,Absentee (domestic),,314.0,
+Chatham,8-01C,Civic Center,412.0,280.0,1845.0
+Chatham,6-11C,Bamboo Farms,426.0,331.0,1829.0
+Chatham,8-02C,Hellenic Center,461.0,283.0,1846.0
+Chatham,8-03C,Silk Hope Baptist Church,480.0,279.0,1847.0
+Chatham,8-05C,West Broad Street Ymca,428.0,288.0,1848.0
+Chatham,8-06C,Tompkins Recreation Center,439.0,285.0,1849.0
+Chatham,8-07C,Woodville-Tompkins Technical Inst,490.0,282.0,1850.0
+Chatham,8-08C,Resurrection Of Our Lord Catholic Church,499.0,290.0,1851.0
+Chatham,8-09C,Moses Jackson Center,498.0,319.0,1852.0
+Chatham,8-10C,Carver Heights Comm Ctr,422.0,278.0,1853.0
+Chatham,8-11C,Butler Elementary Sc,410.0,273.0,1854.0
+Chatham,8-12C,Beach High School,431.0,274.0,1855.0
+Chatham,8-13C,Savannah Christian S,492.0,275.0,1856.0
+Chatham,6-10C,Georgetown Elementar,491.0,342.0,1828.0
+Chatham,7-15C,Rice Creek School,415.0,344.0,1843.0
+Chatham,8-15C,Garden City Senior Ctr,481.0,276.0,1830.0
+Chatham,2-05C,Holy Spirit Lutheran Church,458.0,357.0,1781.0
+Chatham,1-13C,The Sanctuary,424.0,301.0,1774.0
+Chatham,7-10C,Progressive Rec Center,454.0,325.0,1838.0
+Chatham,2-06C,Eli Whitney Complex,478.0,358.0,1799.0
+Chatham,7-11C,Seventh Day Adv Church,464.0,324.0,1839.0
+Chatham,1-09C,Immanuel Baptist Church,438.0,287.0,1771.0
+Chatham,7-12C,Pooler Church,489.0,323.0,1840.0
+Chatham,1-08C,Grace United Methodist Church,409.0,354.0,1770.0
+Chatham,2-04C,Fellowship Of Love Community Church,462.0,284.0,1780.0
+Chatham,1-06C,Central Church Of Christ,488.0,320.0,1769.0
+Chatham,1-10C,St. Thomas Episcopal Church,411.0,310.0,1772.0
+Chatham,7-14C,Coastal Cathedral,436.0,321.0,1842.0
+Chatham,7-09C,Savannah Holy Church Of God,483.0,327.0,1837.0
+Chatham,7-08C,Bloomingdale Community Center,493.0,329.0,1836.0
+Chatham,2-03C,W W Law Center,487.0,299.0,1779.0
+Chatham,1-12C,Isle Of Hope Baptist,448.0,309.0,1773.0
+Chatham,7-13C,Southside Fire Training Center,425.0,322.0,1841.0
+Chattahoochee,88888,Absentee (domestic),,368.0,
+Chattahoochee,99999,Absentee (outside US),,366.0,
+Chattahoochee,FBMR(V,Fort Benning Military Reservation (no Vot,751.0,,
+Chattahoochee,1,Activity Center,752.0,367.0,1884.0
+Chattooga,962,Subligna,510.0,377.0,732.0
+Chattooga,1484,Lyerly,508.0,381.0,726.0
+Chattooga,99999,Absentee (outside US),,378.0,
+Chattooga,870,Trion,500.0,379.0,727.0
+Chattooga,1382,Haywood,502.0,373.0,725.0
+Chattooga,968,Alpine,504.0,375.0,733.0
+Chattooga,1216,Dirtseller,511.0,371.0,724.0
+Chattooga,961,Seminole,509.0,369.0,731.0
+Chattooga,925,Summerville,505.0,370.0,728.0
+Chattooga,940,Dirttown,501.0,374.0,730.0
+Chattooga,P-870,Pennville,507.0,380.0,735.0
+Chattooga,1083,Coldwater,506.0,376.0,723.0
+Chattooga,927,Teloga,,372.0,729.0
+Chattooga,C-968,Clouldland-Teloga,503.0,382.0,734.0
+Cherokee,36,Teasley,753.0,415.0,508.0
+Cherokee,21,Hillside,786.0,399.0,493.0
+Cherokee,4,Ball Ground,759.0,419.0,478.0
+Cherokee,88888,Absentee (domestic),,388.0,
+Cherokee,20,Hightower,756.0,396.0,492.0
+Cherokee,29,Oak Grove,785.0,401.0,501.0
+Cherokee,39,Univeter,773.0,411.0,511.0
+Cherokee,28,Mountain Road,792.0,403.0,499.0
+Cherokee,27,Macedonia,766.0,404.0,498.0
+Cherokee,34,Sixes,778.0,425.0,506.0
+Cherokee,35,Sutallee,755.0,416.0,507.0
+Cherokee,1,Air Acres,791.0,397.0,475.0
+Cherokee,24,Liberty,764.0,390.0,496.0
+Cherokee,32,Rosecreek,794.0,422.0,504.0
+Cherokee,22,Holly Springs,793.0,400.0,494.0
+Cherokee,5,Bascomb,782.0,395.0,479.0
+Cherokee,38,Union Hill,761.0,412.0,510.0
+Cherokee,23,Kellogg,775.0,402.0,495.0
+Cherokee,3,Avery,787.0,385.0,477.0
+Cherokee,37,Toonigh,763.0,413.0,509.0
+Cherokee,33,Salacoa,788.0,421.0,505.0
+Cherokee,26,Little River,758.0,405.0,497.0
+Cherokee,30,R M Moore,757.0,409.0,502.0
+Cherokee,43,Woodlands,789.0,391.0,515.0
+Cherokee,42,Wildcat,765.0,423.0,514.0
+Cherokee,19,Hickory Flat,770.0,387.0,491.0
+Cherokee,8,Bradshaw,780.0,393.0,482.0
+Cherokee,9,Bridgemill,779.0,420.0,483.0
+Cherokee,40,Victoria,783.0,414.0,512.0
+Cherokee,3,,,407.0,
+Cherokee,44,Neese,781.0,408.0,500.0
+Cherokee,16,Dixie,790.0,383.0,489.0
+Cherokee,15,Deer Run,769.0,410.0,488.0
+Cherokee,18,Freehome,768.0,389.0,490.0
+Cherokee,14,Conns Creek,762.0,426.0,487.0
+Cherokee,7,Booth,760.0,384.0,481.0
+Cherokee,2,Arnold Mill,777.0,386.0,476.0
+Cherokee,12,Woodstock,776.0,394.0,516.0
+Cherokee,10,Canton,754.0,398.0,484.0
+Cherokee,11,Carmel,784.0,406.0,485.0
+Cherokee,31,R T Jones,767.0,424.0,503.0
+Cherokee,6,Bells,774.0,417.0,480.0
+Cherokee,13,Clayton,771.0,392.0,486.0
+Cherokee,41,Waleska,772.0,418.0,513.0
+Clarke,3a,,807.0,446.0,1598.0
+Clarke,1c,,814.0,429.0,1594.0
+Clarke,3b,,803.0,445.0,1599.0
+Clarke,5b,,812.0,438.0,1603.0
+Clarke,6d,,802.0,444.0,1609.0
+Clarke,1b,,795.0,452.0,1593.0
+Clarke,5d,,799.0,440.0,1605.0
+Clarke,6c,,817.0,443.0,1608.0
+Clarke,6b,,797.0,442.0,1607.0
+Clarke,4a,,804.0,435.0,1600.0
+Clarke,6a,,796.0,441.0,1606.0
+Clarke,5c,,809.0,439.0,1604.0
+Clarke,7a,,798.0,449.0,1610.0
+Clarke,7b,,811.0,433.0,1611.0
+Clarke,5a,,816.0,437.0,1602.0
+Clarke,7c,,806.0,448.0,1612.0
+Clarke,1a,,805.0,451.0,1592.0
+Clarke,1d,,800.0,428.0,1595.0
+Clarke,4b,,810.0,436.0,1601.0
+Clarke,8a,,815.0,427.0,1613.0
+Clarke,8b,,813.0,431.0,1614.0
+Clarke,88888,Absentee (domestic),,450.0,
+Clarke,8c,,808.0,430.0,1615.0
+Clarke,99999,Absentee (outside US),,432.0,
+Clarke,2b,,818.0,434.0,1597.0
+Clarke,2a,,801.0,447.0,1596.0
+Clay,2,Zetto,820.0,455.0,1719.0
+Clay,3,Court House,823.0,458.0,1720.0
+Clay,5,Day's Cross Road,822.0,456.0,1722.0
+Clay,88888,Absentee (domestic),,453.0,
+Clay,4,Old Head Start,821.0,454.0,1721.0
+Clay,1,Bluffton,819.0,457.0,1718.0
+Clay,99999,Absentee (outside US),,459.0,
+Clayton,JB05,Jonesboro 5,862.0,513.0,995.0
+Clayton,RD02,Riverdale 2,839.0,483.0,1037.0
+Clayton,JB06,Jonesboro 6,825.0,511.0,996.0
+Clayton,JB04,Jonesboro 4,829.0,514.0,994.0
+Clayton,MO9,Morrow 9,836.0,475.0,1026.0
+Clayton,JB02,Jonesboro 2,843.0,516.0,992.0
+Clayton,JB01,Jonesboro 1,858.0,517.0,991.0
+Clayton,JB07,Jonesboro 7,851.0,506.0,997.0
+Clayton,10,Morrow 10,,,1027.0
+Clayton,OAK4,Oak 4,861.0,479.0,1032.0
+Clayton,OAK3,Oak 3,845.0,478.0,1031.0
+Clayton,OAK2,Oak 2,866.0,477.0,1030.0
+Clayton,RD01,Riverdale 1,878.0,482.0,1036.0
+Clayton,RD06,Riverdale 6,876.0,487.0,1041.0
+Clayton,JB03,Jonesboro 3,824.0,515.0,993.0
+Clayton,JB08,Jonesboro 8,875.0,505.0,998.0
+Clayton,JB12,Jonesboro 12,863.0,500.0,1002.0
+Clayton,JB10,Jonesboro 10,874.0,502.0,1000.0
+Clayton,LC1,Lake City,832.0,508.0,1010.0
+Clayton,PH2,Panhandle 2,833.0,481.0,1035.0
+Clayton,PH1,Panhandle 1,834.0,480.0,1034.0
+Clayton,RD04,Riverdale 4,852.0,485.0,1039.0
+Clayton,JB18,Jonesboro 18,853.0,504.0,1008.0
+Clayton,JB17,Jonesboro 17,873.0,498.0,1007.0
+Clayton,19,Jonesboro 19,,,1009.0
+Clayton,JB09,Jonesboro 9,881.0,503.0,999.0
+Clayton,JB16,Jonesboro 16,864.0,497.0,1006.0
+Clayton,JB14,Jonesboro 14,867.0,507.0,1004.0
+Clayton,JB13,Jonesboro 13,856.0,499.0,1003.0
+Clayton,RD05,Riverdale 5,831.0,486.0,1040.0
+Clayton,6,Lovejoy 6,,,1016.0
+Clayton,JB11,Jonesboro 11,826.0,501.0,1001.0
+Clayton,7,Lovejoy 7,,,1017.0
+Clayton,RD03,Riverdale 3,857.0,484.0,1038.0
+Clayton,JB15,Jonesboro 15,870.0,519.0,1005.0
+Clayton,LJ1,Lovejoy 1,835.0,518.0,1011.0
+Clayton,OAK1,Oak 1,844.0,476.0,1029.0
+Clayton,LJ3,Lovejoy 3,830.0,468.0,1013.0
+Clayton,LJ2,Lovejoy 2,868.0,509.0,1012.0
+Clayton,1,Ellenwood 1,,,983.0
+Clayton,MO1,Morrow 1,855.0,493.0,1018.0
+Clayton,MO2,Morrow 2,877.0,470.0,1019.0
+Clayton,MO3,Morrow 3,847.0,471.0,1020.0
+Clayton,MO4,Morrow 4,848.0,472.0,1021.0
+Clayton,FP6,Forest Park 6,859.0,466.0,990.0
+Clayton,99999,Absentee (outside US),,467.0,
+Clayton,FP5,Forest Park 5,841.0,465.0,989.0
+Clayton,FP4,Forest Park 4,850.0,464.0,988.0
+Clayton,FP3,Forest Park 3,840.0,462.0,987.0
+Clayton,MO5,Morrow 5,860.0,473.0,1022.0
+Clayton,FP2,Forest Park 2,865.0,461.0,986.0
+Clayton,FP1,Forest Park 1,837.0,460.0,985.0
+Clayton,EW1,Ellenwood 2,854.0,463.0,984.0
+Clayton,MO7,Morrow 7,879.0,474.0,1024.0
+Clayton,MO8,Morrow 8,869.0,496.0,1025.0
+Clayton,88888,Absentee (domestic),,469.0,
+Clayton,RD12,Riverdale 12,871.0,510.0,1047.0
+Clayton,MO6,Morrow 6,846.0,495.0,1023.0
+Clayton,RD11,Riverdale 11,828.0,492.0,1046.0
+Clayton,RD08,Riverdale 8,838.0,489.0,1043.0
+Clayton,RD10,Riverdale 10,849.0,491.0,1045.0
+Clayton,11,Morrow 11,,,1028.0
+Clayton,LJ4,Lovejoy 4,880.0,512.0,1014.0
+Clayton,LJ5,Lovejoy 5,842.0,494.0,1015.0
+Clayton,RD09,Riverdale 9,827.0,490.0,1044.0
+Clayton,5,Oak 5,,,1033.0
+Clayton,RD07,Riverdale 7,872.0,488.0,1042.0
+Clinch,AG,Argyle,882.0,523.0,1121.0
+Clinch,Homerville,Homerville,883.0,524.0,1124.0
+Clinch,Arabia,Arabia,886.0,522.0,1120.0
+Clinch,88888,Absentee (domestic),,525.0,
+Clinch,Fargo,Fargo,885.0,521.0,1123.0
+Clinch,Dupont,Dupont,884.0,520.0,1122.0
+Cobb,SI01,Simpson 01,979.0,666.0,2553.0
+Cobb,AU1A,Austell,969.0,533.0,2437.0
+Cobb,BF02,Bells Ferry 02,929.0,537.0,2438.0
+Cobb,CA01,Chattahoochee 01,894.0,543.0,2449.0
+Cobb,SO03,Sope Creek 03,895.0,669.0,2566.0
+Cobb,BF03,Bells Ferry 03,950.0,538.0,2439.0
+Cobb,AC1B,Acworth,1009.0,527.0,2434.0
+Cobb,BT02,Bryant 02,947.0,549.0,2447.0
+Cobb,AC1C,Acworth,966.0,528.0,2435.0
+Cobb,BT01,Bryant 01,1008.0,548.0,2446.0
+Cobb,BR02,Birney 02,994.0,547.0,2445.0
+Cobb,BR01,Birney 01,904.0,545.0,2444.0
+Cobb,SW01,Sweetwater 01,980.0,657.0,2567.0
+Cobb,AD01,Addison 01,984.0,529.0,2436.0
+Cobb,BG01,Big Shanty 01,914.0,539.0,2441.0
+Cobb,BK01,Baker 01,976.0,544.0,2443.0
+Cobb,88888,Absentee (domestic),,532.0,
+Cobb,BG02,Big Shanty 02,917.0,542.0,2442.0
+Cobb,AC1A,Acworth,905.0,526.0,2433.0
+Cobb,BW01,Blackwell 01,954.0,546.0,2448.0
+Cobb,SW02,Sweetwater 02,998.0,645.0,2568.0
+Cobb,PO01,Post Oak 01,890.0,577.0,2540.0
+Cobb,EL05,Elizabeth 05,951.0,625.0,2470.0
+Cobb,MD01,Murdock 01,898.0,623.0,2504.0
+Cobb,WG02,Wade Green 02,949.0,655.0,2576.0
+Cobb,ME01,Mceachern 01,1002.0,622.0,2505.0
+Cobb,MK01,Mccleskey 01,1005.0,620.0,2506.0
+Cobb,Smyrna,Smyrna,,,2559.0
+Cobb,ML01,Mcclure 01,941.0,619.0,2507.0
+Cobb,FY01,Frey 01,899.0,560.0,2476.0
+Cobb,FR01,Ford 01,948.0,559.0,2475.0
+Cobb,FP01,Fullers Park 01,961.0,558.0,2474.0
+Cobb,PT01,Pitner 01,997.0,587.0,2546.0
+Cobb,PS3A,Powder Springs,996.0,571.0,2545.0
+Cobb,FO04,Fair Oaks 04,1010.0,556.0,2473.0
+Cobb,Marietta,Marietta,,,2512.0
+Cobb,MC01,Macland 01,1003.0,608.0,2503.0
+Cobb,FO02,Fair Oaks 02,985.0,555.0,2472.0
+Cobb,RS01,Riverside 01,960.0,654.0,2548.0
+Cobb,SN5A,Smyrna,1020.0,632.0,2561.0
+Cobb,SN6A,Smyrna,1024.0,636.0,2562.0
+Cobb,EP01,East Piedmont 01,897.0,574.0,2471.0
+Cobb,RW01,Roswell 01,910.0,668.0,2549.0
+Cobb,RW02,Roswell 02,891.0,661.0,2550.0
+Cobb,2,Dobbins 02,,,2459.0
+Cobb,MR1A,Marietta,927.0,618.0,2508.0
+Cobb,SA01,Sandy Plains 01,992.0,663.0,2551.0
+Cobb,EL04,Elizabeth 04,944.0,550.0,2469.0
+Cobb,EL03,Elizabeth 03,924.0,659.0,2468.0
+Cobb,LI01,Lindley 01,928.0,627.0,2493.0
+Cobb,EL01,Elizabeth 01,945.0,660.0,2466.0
+Cobb,RM01,Rocky Mount 01,908.0,653.0,2547.0
+Cobb,MR2A,Marietta,1017.0,614.0,2509.0
+Cobb,MB01,Mabry 01,1011.0,624.0,2502.0
+Cobb,SN4A,Smyrna,932.0,631.0,2560.0
+Cobb,KP03,Kemp 03,903.0,600.0,2491.0
+Cobb,KP02,Kemp 02,989.0,599.0,2490.0
+Cobb,KP01,Kemp 01,991.0,598.0,2489.0
+Cobb,KL01,Kell 01,1006.0,597.0,2488.0
+Cobb,KE5A,Kennesaw,902.0,593.0,2487.0
+Cobb,KE4A,Kennesaw,957.0,591.0,2486.0
+Cobb,LM01,Lost Mountain 01,906.0,604.0,2494.0
+Cobb,CH02,Cheatham Hill 02,936.0,541.0,2450.0
+Cobb,KE3A,Kennesaw,935.0,590.0,2485.0
+Cobb,KE2A,Kennesaw,973.0,605.0,2484.0
+Cobb,KE1A,Kennesaw,942.0,607.0,2483.0
+Cobb,LM02,Lost Mountain 02,925.0,603.0,2495.0
+Cobb,LM03,Lost Mountain 03,889.0,602.0,2496.0
+Cobb,MA04,Mableton 04,1027.0,592.0,2501.0
+Cobb,SN1A,Smyrna,952.0,648.0,2556.0
+Cobb,Jb13,,,621.0,
+Cobb,WL01,Willeo 01,900.0,651.0,2577.0
+Cobb,MA01,Mableton 01,946.0,596.0,2498.0
+Cobb,MA02,Mableton 02,990.0,595.0,2499.0
+Cobb,HY01,Hayes 01,915.0,617.0,2482.0
+Cobb,SN2A,Smyrna,982.0,647.0,2557.0
+Cobb,HT01,Hightower 01,956.0,616.0,2481.0
+Cobb,HR01,Harrison 01,940.0,615.0,2480.0
+Cobb,HL01,Harmony-Leland 01,959.0,613.0,2479.0
+Cobb,MA03,Mableton 03,1007.0,594.0,2500.0
+Cobb,GT01,Gritters 01,938.0,588.0,2478.0
+Cobb,GM01,Garrison Mill 01,975.0,566.0,2477.0
+Cobb,SN3A,Smyrna,978.0,628.0,2558.0
+Cobb,LM04,Lost Mountain 04,993.0,601.0,2497.0
+Cobb,MR2B,Marietta,977.0,612.0,2510.0
+Cobb,EL02,Elizabeth 02,922.0,658.0,2467.0
+Cobb,MR4A,Marietta,1019.0,610.0,2513.0
+Cobb,MR3A,Marietta,1014.0,611.0,2511.0
+Cobb,NP01,Norton Park 01,931.0,567.0,2528.0
+Cobb,NS01,Nicholson 01,933.0,569.0,2529.0
+Cobb,VG04,Vinings 04,892.0,662.0,2575.0
+Cobb,CR01,Chestnut Ridge 01,923.0,530.0,2456.0
+Cobb,VG03,Vinings 03,962.0,664.0,2574.0
+Cobb,VG02,Vinings 02,926.0,667.0,2573.0
+Cobb,OK01,Oakdale 01,967.0,586.0,2530.0
+Cobb,VG01,Vinings 01,893.0,629.0,2572.0
+Cobb,VA01,Vaughan 01,901.0,630.0,2571.0
+Cobb,CO01,Cooper 01,1015.0,531.0,2455.0
+Cobb,SO02,Sope Creek 02,963.0,646.0,2565.0
+Cobb,OR01,Oregon 01,1025.0,570.0,2531.0
+Cobb,TR01,Timber Ridge 01,981.0,633.0,2570.0
+Cobb,NJ01,Nickajack 01,1004.0,552.0,2527.0
+Cobb,OR02,Oregon 02,1016.0,585.0,2532.0
+Cobb,TM01,Terrell Mill 01,970.0,644.0,2569.0
+Cobb,13,,,652.0,
+Cobb,OR04,Oregon 04,988.0,583.0,2534.0
+Cobb,OR05,Oregon 05,1026.0,582.0,2535.0
+Cobb,CL02,Clarkdale 02,887.0,534.0,2454.0
+Cobb,CL01,Clarkdale 01,1022.0,535.0,2453.0
+Cobb,SM01,Sewell Mill 01,971.0,650.0,2554.0
+Cobb,CK01,Chalker 01,974.0,536.0,2452.0
+Cobb,PP01,Pope 01,995.0,626.0,2541.0
+Cobb,PE01,Pebblebrook 01,1000.0,581.0,2536.0
+Cobb,PF01,Powers Ferry 01,1018.0,580.0,2537.0
+Cobb,PM01,Pine Mountain 01,930.0,579.0,2538.0
+Cobb,CH03,Cheatham Hill 03,987.0,540.0,2451.0
+Cobb,PM02,Pine Mountain 02,965.0,578.0,2539.0
+Cobb,OR03,Oregon 03,943.0,584.0,2533.0
+Cobb,SM03,Sewell Mill 03,919.0,649.0,2555.0
+Cobb,LA01,Lassiter 01,934.0,576.0,2492.0
+Cobb,PR01,Palmer 01,958.0,575.0,2542.0
+Cobb,MR4B,Marietta,918.0,551.0,2514.0
+Cobb,EA02,Eastside 02,921.0,634.0,2465.0
+Cobb,EA01,Eastside 01,999.0,635.0,2464.0
+Cobb,MR4C,Marietta,983.0,609.0,2515.0
+Cobb,MR5A,Marietta,1013.0,589.0,2516.0
+Cobb,PS2A,Powder Springs,1023.0,572.0,2544.0
+Cobb,DV01,Davis 01,939.0,638.0,2463.0
+Cobb,MR5B,Marietta,955.0,606.0,2517.0
+Cobb,MR6A,Marietta,1012.0,568.0,2518.0
+Cobb,DU01,Durham 01,953.0,640.0,2462.0
+Cobb,MR6B,Marietta,972.0,565.0,2519.0
+Cobb,DO01,Dodgen 01,911.0,642.0,2461.0
+Cobb,SF01,Shallowford Falls 01,916.0,665.0,2552.0
+Cobb,DL01,Dowell 01,1021.0,643.0,2460.0
+Cobb,DI01,Dobbins 01,896.0,639.0,2458.0
+Cobb,MR7A,Marietta,912.0,564.0,2520.0
+Cobb,MS02,Mars Hill 02,964.0,562.0,2522.0
+Cobb,NC01,North Cobb 01,986.0,553.0,2526.0
+Cobb,SO01,Sope Creek 01,1001.0,641.0,2564.0
+Cobb,PS1A,Powder Springs,968.0,573.0,2543.0
+Cobb,DC01,Dickerson 01,937.0,656.0,2457.0
+Cobb,MS01,Mars Hill 01,920.0,563.0,2521.0
+Cobb,MT04,Mt Bethel 04,909.0,554.0,2525.0
+Cobb,4,Bells Ferry 04,,,2440.0
+Cobb,SN7A,Smyrna,888.0,637.0,2563.0
+Cobb,MT01,Mt Bethel 01,907.0,561.0,2523.0
+Cobb,MT03,Mt Bethel 03,913.0,557.0,2524.0
+Coffee,4,Broxton,1032.0,676.0,1875.0
+Coffee,88888,Absentee (domestic),,672.0,
+Coffee,3,Bridgetown,1030.0,674.0,1874.0
+Coffee,5,Nicholls,1031.0,677.0,1876.0
+Coffee,1,,,671.0,
+Coffee,1,Douglas,1028.0,670.0,1872.0
+Coffee,2,Ambrose,1029.0,673.0,1873.0
+Coffee,6,West Green,1033.0,675.0,1877.0
+Colquitt,Shaw,Shaw,1041.0,691.0,751.0
+Colquitt,2,Moultrie,1037.0,694.0,752.0
+Colquitt,Lee,Lee,1045.0,679.0,761.0
+Colquitt,11,Funston,1036.0,684.0,757.0
+Colquitt,12,Hamilton,1042.0,683.0,758.0
+Colquitt,16,Millcreek,1044.0,680.0,762.0
+Colquitt,14,Hopewell,1049.0,688.0,760.0
+Colquitt,23,Warrior,1034.0,690.0,769.0
+Colquitt,13,Hartsfield,1048.0,689.0,759.0
+Colquitt,21,Thigpen,1040.0,678.0,767.0
+Colquitt,20,Robinson,1051.0,687.0,766.0
+Colquitt,9,Crosland,1047.0,696.0,755.0
+Colquitt,7,Autreyville,1038.0,693.0,753.0
+Colquitt,Monk,Monk,1035.0,681.0,763.0
+Colquitt,Tyty,Tyty,1043.0,692.0,768.0
+Colquitt,18,Murphy,1046.0,682.0,764.0
+Colquitt,19,Norman Park,1039.0,685.0,765.0
+Colquitt,8,Bridgecreek,1050.0,695.0,754.0
+Colquitt,10,Doerun,1052.0,686.0,756.0
+Columbia,137,Christ The King Luth Church,1098.0,704.0,1424.0
+Columbia,17,Patriots Park (/),1074.0,703.0,1381.0
+Columbia,33,Grovetown Public Safety Station,1068.0,707.0,1391.0
+Columbia,16,Woodlawn Baptist Church,1077.0,725.0,1380.0
+Columbia,90,Abilene Baptist,1093.0,727.0,1407.0
+Columbia,51,Damascus Baptist Church,1054.0,739.0,1395.0
+Columbia,50,Second Mt Carmel Baptist Church,1055.0,738.0,1394.0
+Columbia,20,Harlem Branch Library,1065.0,716.0,1383.0
+Columbia,107,Gospel Water Branch,1062.0,715.0,1410.0
+Columbia,15,Lewis Methodist Church,1078.0,709.0,1379.0
+Columbia,115,Martinez Baptist,1095.0,699.0,1415.0
+Columbia,108,Genesis Church,1101.0,706.0,1411.0
+Columbia,60,Col Cty Board Of Edu,1084.0,732.0,1396.0
+Columbia,17,Patriots Park,1073.0,703.0,
+Columbia,105,Stevens Creek Church,1100.0,722.0,
+Columbia,61,Greenbrier High,1057.0,737.0,1397.0
+Columbia,62,Riverview Church,1079.0,736.0,1399.0
+Columbia,18,New Life Church,1072.0,702.0,1382.0
+Columbia,63,Blue Ridge Elementary,1058.0,731.0,1423.0
+Columbia,64,Grace Baptist Church,1056.0,741.0,1400.0
+Columbia,65,Christ Sanctified,1083.0,734.0,1401.0
+Columbia,85,Trinity Baptist Church,1087.0,728.0,1406.0
+Columbia,125,Church Of Our Savior,1089.0,708.0,1417.0
+Columbia,17,Patriots Park (/),1075.0,703.0,
+Columbia,80,Westside Baptist Church,1092.0,743.0,1405.0
+Columbia,25,Bessie Thomas Center,1064.0,714.0,1386.0
+Columbia,100,Augusta Christian,1099.0,700.0,1408.0
+Columbia,32,G A Apostolic Church,1080.0,723.0,1390.0
+Columbia,31,Grovetown Methodist Church,1070.0,720.0,1389.0
+Columbia,30,Liberty Park-Grovetown,1069.0,719.0,1388.0
+Columbia,34,Parkway Baptist Church,1071.0,724.0,1398.0
+Columbia,136,Blueridge Elementary,1097.0,726.0,
+Columbia,SMMBC,Second Mt Moriah Baptist Church,,,1385.0
+Columbia,110,Mtz Col Fire Hdqtr.,1094.0,717.0,1413.0
+Columbia,135,Christ Church Presbyterian,1061.0,730.0,1422.0
+Columbia,134,Col Cty Main Library,1091.0,701.0,1421.0
+Columbia,76,Marvin Methodist Church,1086.0,735.0,1404.0
+Columbia,40,Eubank-Blanchard Center,1053.0,742.0,1393.0
+Columbia,132,Wesley Methodist,1060.0,705.0,1420.0
+Columbia,120,Gold Cross Ems,1088.0,711.0,1416.0
+Columbia,131,Journey Comm. Church,1059.0,697.0,1419.0
+Columbia,99999,Absentee (outside US),,729.0,
+Columbia,SRP,Savannah Rapids Pavilion,,,1409.0
+Columbia,111,Lakeside Middle,1096.0,718.0,1414.0
+Columbia,75,Belair Baptist Church,1081.0,740.0,1403.0
+Columbia,74,Mtz Col Fire Dept #,1085.0,713.0,
+Columbia,130,West Acres Baptist,1090.0,698.0,1418.0
+Columbia,HSC,Harlem Senior Center,,,1384.0
+Columbia,109,Stevens Creek Church,1063.0,710.0,1412.0
+Columbia,26,Philadelphia Church,1066.0,712.0,1387.0
+Columbia,70,Blanchard Park,1082.0,733.0,1402.0
+Columbia,10,Kiokee Baptist Church,1067.0,721.0,1378.0
+Columbia,GFBC,Grove First Baptist Church,,,1392.0
+Cook,Lenox,Lenox,1103.0,750.0,1694.0
+Cook,Cecil,Cecil,1104.0,744.0,1691.0
+Cook,DB,Delle Beamguard,1106.0,748.0,1692.0
+Cook,NL,New Life Baptist Church,1105.0,745.0,1696.0
+Cook,Massee,Massee,1108.0,749.0,1695.0
+Cook,Sparks,Sparks,1107.0,747.0,1698.0
+Cook,Riverbend,Riverbend,1102.0,751.0,1697.0
+Cook,EP,Elm Pine,1109.0,746.0,1693.0
+Coweta,7,Fischer Road,1121.0,771.0,2207.0
+Coweta,12,Panther Creek,1125.0,752.0,2212.0
+Coweta,8,Cedar Creek,1115.0,757.0,2208.0
+Coweta,17,Central,1130.0,753.0,2216.0
+Coweta,1,Senoia,1110.0,780.0,2201.0
+Coweta,714a1,,,755.0,
+Coweta,9,Grantville,1111.0,756.0,2209.0
+Coweta,20,Expo Center,1134.0,754.0,2219.0
+Coweta,10,Haralson,1128.0,767.0,2210.0
+Coweta,14,Turin,1112.0,774.0,2214.0
+Coweta,3,Pine Road,1116.0,764.0,2203.0
+Coweta,4,Dresden,1117.0,769.0,2204.0
+Coweta,99999,Absentee (outside US),,759.0,
+Coweta,18,Panther Creek,1129.0,762.0,
+Coweta,28,Jefferson Parkway,1120.0,777.0,
+Coweta,11,Welcome,1131.0,766.0,2211.0
+Coweta,27,Coweta Central Library,1135.0,770.0,2226.0
+Coweta,NC,Newnan Centre,,,2217.0
+Coweta,13,Raymond,1113.0,763.0,2213.0
+Coweta,26,Thomas Crossroads,1119.0,778.0,2225.0
+Coweta,15,Smokey Road,1118.0,776.0,2215.0
+Coweta,25,Northside,1127.0,773.0,2224.0
+Coweta,24,Westside,1133.0,781.0,2223.0
+Coweta,23,Cannongate,1126.0,775.0,2222.0
+Coweta,6,Sharpsburg,1114.0,779.0,2206.0
+Coweta,19,Greentop,1136.0,758.0,2218.0
+Coweta,2,Moreland,1123.0,761.0,2202.0
+Coweta,22,Madras,1132.0,765.0,2221.0
+Coweta,21,White Oak,1124.0,768.0,2220.0
+Coweta,5,Newnan,1122.0,760.0,2205.0
+Coweta,88888,Absentee (domestic),,772.0,
+Crawford,1A,District,1142.0,785.0,2172.0
+Crawford,5,District 5,1141.0,788.0,2177.0
+Crawford,2,District 2,1137.0,784.0,2174.0
+Crawford,4,District 4,1138.0,787.0,2176.0
+Crawford,3,District 3,1139.0,786.0,2175.0
+Crawford,1B,District,1140.0,782.0,2173.0
+Crawford,88888,Absentee (domestic),,783.0,
+Crisp,Jamestown,Jamestown,1144.0,791.0,1471.0
+Crisp,88888,Absentee (domestic),,789.0,
+Crisp,Coney,Coney,1145.0,794.0,1469.0
+Crisp,Cordele,Cordele,1143.0,792.0,1470.0
+Crisp,Arabi,Arabi,1146.0,793.0,1468.0
+Crisp,Listonia,Listonia,1147.0,790.0,1472.0
+Dade,1885,New Home,1154.0,800.0,1653.0
+Dade,99999,Absentee (outside US),,795.0,
+Dade,88888,Absentee (domestic),,801.0,
+Dade,1222,Davis,1153.0,796.0,1652.0
+Dade,1038,South Dade,1152.0,802.0,1650.0
+Dade,974,North Dade,1151.0,797.0,1656.0
+Dade,1889,West Brow,1150.0,799.0,1654.0
+Dade,960,Trenton,1149.0,798.0,1655.0
+Dade,1214,New Salem,1148.0,803.0,1651.0
+Dawson,2,Central,1156.0,805.0,1339.0
+Dawson,1,,1155.0,806.0,1338.0
+Dawson,3,,1157.0,807.0,1340.0
+Dawson,99999,Absentee (outside US),,804.0,
+Decatur,1613,Brinson,1355.0,815.0,1129.0
+Decatur,1361,Climax,1353.0,814.0,1128.0
+Decatur,514,Bridge-Fairgrounds,1352.0,808.0,1132.0
+Decatur,1277,Mt. Pleasant,1348.0,816.0,1125.0
+Decatur,513,Bainbridge-Coliseum,1354.0,810.0,1131.0
+Decatur,1342,Kendrick,1349.0,812.0,1127.0
+Decatur,1325,Recovery,1350.0,809.0,1126.0
+Decatur,1805,West Bainbridge,1356.0,813.0,1130.0
+Decatur,694,Attapulgus,1351.0,811.0,1133.0
+Dekalb,KA,Kelley Lake Elem,1316.0,948.0,2319.0
+Dekalb,JB,Jolly Elem,1178.0,950.0,2318.0
+Dekalb,KC,Kelley Chapel Road,1299.0,941.0,2321.0
+Dekalb,KD,King-ML King Jr High,1192.0,939.0,
+Dekalb,KB,Kingsley Elem (dun),1223.0,943.0,2320.0
+Dekalb,GD,Georgetown Sq (dun),1305.0,912.0,2306.0
+Dekalb,KG,Kittredge Elem,1311.0,935.0,2323.0
+Dekalb,MD,Mcnair,1203.0,940.0,2334.0
+Dekalb,WG,Woodridge Elem,1260.0,849.0,2418.0
+Dekalb,WF,Winnona Park  (dec),1324.0,848.0,2417.0
+Dekalb,MC,Marbut Elem,1290.0,938.0,2333.0
+Dekalb,MB,Mcnair High,1273.0,936.0,2332.0
+Dekalb,WD,Woodrow Road,1162.0,872.0,2416.0
+Dekalb,MA,Miller-Eldridge L Miller Elem 3455,1211.0,934.0,2331.0
+Dekalb,LV,Livsey Elem,1217.0,933.0,2330.0
+Dekalb,SN,Shamrock,1333.0,838.0,2397.0
+Dekalb,WB,Wesley Chapel Library,1183.0,894.0,2415.0
+Dekalb,LH,Lithonia High,1224.0,930.0,2329.0
+Dekalb,LLE(,Lin-Mary Lin Elem (atl),1319.0,928.0,2328.0
+Dekalb,LD,Lithonia,1259.0,820.0,2327.0
+Dekalb,LB,Lavista Road,1265.0,931.0,2325.0
+Dekalb,LH,Lakeside High,1226.0,932.0,2324.0
+Dekalb,KE,Knollwood,1285.0,937.0,2322.0
+Dekalb,LC,Lavista,1233.0,966.0,2326.0
+Dekalb,HI,Harris-Margaret Harris Ed,1323.0,903.0,2314.0
+Dekalb,IB,Indian Creek,1342.0,924.0,2316.0
+Dekalb,EL(,East Lake (atl),1284.0,842.0,2289.0
+Dekalb,EC,Embry Hills,1331.0,841.0,2290.0
+Dekalb,EE,Epworth (atl),1264.0,839.0,
+Dekalb,EF,Evansdale Elem,1201.0,836.0,2291.0
+Dekalb,EG,Emory South,1167.0,898.0,2292.0
+Dekalb,ER,Emory Road,1199.0,1002.0,2293.0
+Dekalb,FE,Fairington Elem,1245.0,995.0,2294.0
+Dekalb,FB,Fernbank Elem,1252.0,993.0,2295.0
+Dekalb,FC,Flat Shoals Elem,1302.0,992.0,2296.0
+Dekalb,FE,Flat Shoals Parkway,1170.0,991.0,2297.0
+Dekalb,FG,Flat Rock Elem,1247.0,989.0,2298.0
+Dekalb,FJ,Flat Shoals,1289.0,987.0,2299.0
+Dekalb,FK,Flakes Mill Fire Station,1282.0,956.0,2300.0
+Dekalb,JA,Johnson Estates (atl),1250.0,952.0,2317.0
+Dekalb,FSL,Flat Shoals Library,1314.0,959.0,2301.0
+Dekalb,GA,Glennwood (dec),1263.0,916.0,2303.0
+Dekalb,GB,Glenhaven,1261.0,915.0,2304.0
+Dekalb,GC,Gresham Road,1175.0,913.0,2305.0
+Dekalb,GF,Glenwood Road,1266.0,910.0,2307.0
+Dekalb,Wadsworth,Wadsworth,1301.0,893.0,2414.0
+Dekalb,HE,Hambrick Elem,1262.0,909.0,2308.0
+Dekalb,HB,Hawthorne Elem,1204.0,908.0,2309.0
+Dekalb,HC,Henderson Mill,1274.0,907.0,2310.0
+Dekalb,HF,Huntley Hills Elem,1347.0,906.0,2311.0
+Dekalb,HG,Hugh Howell,1221.0,905.0,2312.0
+Dekalb,HH,Harris-Narvie J Harris Elem,1159.0,904.0,2313.0
+Dekalb,ME,Mclendon,1320.0,942.0,2335.0
+Dekalb,IA,Idlewood Elem (tuc),1216.0,902.0,2315.0
+Dekalb,FM,Freedom Middle,1272.0,923.0,2302.0
+Dekalb,WI,Warren Tech,1336.0,869.0,2419.0
+Dekalb,MO,Midway,1313.0,926.0,2344.0
+Dekalb,WJ,Woodward,1196.0,859.0,2420.0
+Dekalb,PI,Panola Way Elem,1237.0,1004.0,2369.0
+Dekalb,PN,Piney Grove,1278.0,983.0,2370.0
+Dekalb,PR,Panola Road,1232.0,982.0,2371.0
+Dekalb,RE,Rainbow Elem,1271.0,962.0,2372.0
+Dekalb,RC,Redan Elem,1251.0,963.0,2373.0
+Dekalb,RD,Rehoboth,1332.0,964.0,2374.0
+Dekalb,RE,Rockbridge Elem,1171.0,965.0,2375.0
+Dekalb,RF,Rock Chapel Elem,1174.0,897.0,2376.0
+Dekalb,RG,Rowland Elem,1228.0,968.0,2377.0
+Dekalb,RH,Redan-Trotti Library,1188.0,969.0,2378.0
+Dekalb,RR,Rockbridge Road,1181.0,971.0,2379.0
+Dekalb,WN,Wynbrooke Elem,1219.0,865.0,2423.0
+Dekalb,RJ,Rowland Road,1176.0,972.0,2380.0
+Dekalb,YA,Young Road,1276.0,979.0,2424.0
+Dekalb,PH,Panola,1248.0,1005.0,2368.0
+Dekalb,RK,Redan Road,1182.0,973.0,2381.0
+Dekalb,RM,Redan Middle,1227.0,975.0,2383.0
+Dekalb,RN,Clarkston Community Center,1335.0,976.0,2278.0
+Dekalb,SHE,Sagamore Hills Elem,1214.0,921.0,2384.0
+Dekalb,SB,Scott,1296.0,822.0,2385.0
+Dekalb,SC,Shaw-Robert Shaw Elem,1242.0,823.0,2386.0
+Dekalb,SD,Stone Mountain Elem,1194.0,824.0,2387.0
+Dekalb,SE,Silver Lake (bhavn),1280.0,825.0,2388.0
+Dekalb,SF,Skyland (bhavn),1327.0,826.0,2389.0
+Dekalb,SG,Snapfinger Elem,1345.0,828.0,2390.0
+Dekalb,SL,Stoneview Elem,1206.0,834.0,2395.0
+Dekalb,SH,Smoke Rise,1225.0,829.0,2391.0
+Dekalb,SI,Stone Mtn Middle,1220.0,830.0,2392.0
+Dekalb,SJ,Stone Mill Elem,1254.0,832.0,2393.0
+Dekalb,SK,Shadow Rock Elem,1177.0,833.0,2394.0
+Dekalb,RL,Rock Chapel Road,1218.0,974.0,2382.0
+Dekalb,PG,Ponce De Leon (dec),1317.0,1006.0,2367.0
+Dekalb,SM,Salem Middle,1164.0,835.0,2396.0
+Dekalb,PF,Pleasantdale Road,1243.0,1007.0,2366.0
+Dekalb,MG,Medlock,1339.0,945.0,2337.0
+Dekalb,MH,Midvale Elem,1256.0,946.0,2338.0
+Dekalb,MG,Miller Grove,1202.0,947.0,2339.0
+Dekalb,MJ,Montclair Elem,1173.0,949.0,2340.0
+Dekalb,MK,Montreal,1165.0,951.0,2341.0
+Dekalb,ML,Meadowview,1184.0,927.0,2342.0
+Dekalb,MN,Memorial South,1340.0,953.0,2343.0
+Dekalb,DI,Dunwoody Library,1318.0,887.0,2288.0
+Dekalb,WK,White Oak,1229.0,860.0,2421.0
+Dekalb,MP,Mcnair Academy,1338.0,899.0,2345.0
+Dekalb,MQ,Mount Vernon East,1179.0,900.0,2346.0
+Dekalb,MR,Mathis-Bob Mathis Elem,1161.0,901.0,2347.0
+Dekalb,MS,Mount Vernon West,1300.0,911.0,2348.0
+Dekalb,MT,Metropolitan (atl),1334.0,914.0,2349.0
+Dekalb,MU,Montgomery Elem,1238.0,917.0,2350.0
+Dekalb,MV,Miller Grove Road,1281.0,918.0,2351.0
+Dekalb,MW,Midvale Road,1277.0,919.0,2352.0
+Dekalb,PE,Pine Lake (pin),1198.0,1003.0,2365.0
+Dekalb,PC,Princeton Elem,1163.0,1000.0,2364.0
+Dekalb,PB,Peachtree Middle,1239.0,999.0,2363.0
+Dekalb,PA,Peachcrest,1343.0,985.0,2362.0
+Dekalb,OV,Oak View Elem,1180.0,997.0,2361.0
+Dekalb,OK,Oakhurst (dec),1310.0,990.0,2360.0
+Dekalb,MF,Mcwilliams,1286.0,944.0,2336.0
+Dekalb,OB,Oakcliff Elem,1329.0,988.0,2359.0
+Dekalb,NF,North Peachtree,1249.0,954.0,2357.0
+Dekalb,ND,Northlake,1328.0,925.0,2356.0
+Dekalb,NC,North Hairston,1309.0,922.0,2355.0
+Dekalb,NB,North Decatur,1344.0,955.0,2354.0
+Dekalb,MZ,Miller Grove High,1287.0,920.0,2353.0
+Dekalb,WL,Winters Chapel (dun),1255.0,861.0,2422.0
+Dekalb,OGE,Oak Grove Elem,1337.0,986.0,2358.0
+Dekalb,DH,Druid Hills High,1208.0,888.0,2287.0
+Dekalb,BJ,Browns Mill Elem,1158.0,831.0,2250.0
+Dekalb,SD,South Deshon,1210.0,821.0,2398.0
+Dekalb,SS,Snapfinger Road S,1172.0,874.0,2402.0
+Dekalb,BR,Burgess Elem (atl),1293.0,840.0,2253.0
+Dekalb,CA,Columbia Drive,1346.0,843.0,2254.0
+Dekalb,CB,Canby Lane Elem,1195.0,819.0,2255.0
+Dekalb,CC,Columbia Elem,1288.0,818.0,2256.0
+Dekalb,CD,Cedar Grove Elem,1240.0,873.0,2257.0
+Dekalb,CE,Chamblee (cha),1304.0,879.0,2258.0
+Dekalb,CF,Candler-Murphey Candler Elem,1209.0,880.0,2259.0
+Dekalb,CG,Chapel Hill Elem,1193.0,884.0,2260.0
+Dekalb,TF,Tucker,1197.0,895.0,2412.0
+Dekalb,CE(,Chesnut Elem (dun),1315.0,886.0,2261.0
+Dekalb,TG,Tilly Mill Road (dun),1246.0,885.0,2411.0
+Dekalb,99999,Absentee (outside US),,994.0,
+Dekalb,SU,South Hairston,1169.0,876.0,2404.0
+Dekalb,CI,Clairemont West (dec),1326.0,891.0,2262.0
+Dekalb,CJ,Clairmont Road,1269.0,883.0,2263.0
+Dekalb,SR,Snapfinger Road,,,2407.0
+Dekalb,TH,Tucker Library,1200.0,845.0,2410.0
+Dekalb,CK,Clarkston (cla),1187.0,857.0,2264.0
+Dekalb,Clifton,Clifton,1283.0,847.0,2265.0
+Dekalb,CM,Columbia Middle,1241.0,852.0,2266.0
+Dekalb,TC,Toney Elem,1330.0,882.0,2409.0
+Dekalb,TA,Terry Mill,1212.0,881.0,2408.0
+Dekalb,SR,Snapfinger Road N,1325.0,846.0,2401.0
+Dekalb,BM,Bethune Middle,1205.0,844.0,2252.0
+Dekalb,AF,Austin Drive,1291.0,958.0,2238.0
+Dekalb,AG,Ashford Dunwoody Rd,1160.0,984.0,2239.0
+Dekalb,AD,Austin,1279.0,998.0,2236.0
+Dekalb,AH,Ashford Parkside,1267.0,960.0,2240.0
+Dekalb,SM,Stephenson Middle,1213.0,875.0,2403.0
+Dekalb,SV,Stephenson High,1244.0,877.0,2405.0
+Dekalb,SW,Stonecrest Library,1190.0,878.0,2406.0
+Dekalb,AB,Ashford Park Elem,1308.0,1008.0,2235.0
+Dekalb,AI,Avondale High,1185.0,961.0,2241.0
+Dekalb,SP,Stone Mtn Champion,1268.0,817.0,2399.0
+Dekalb,CN,Coan Recreation Center,1307.0,853.0,2267.0
+Dekalb,AA,Allgood Elem,1257.0,996.0,2234.0
+Dekalb,BC,Briar Vista Elem,1222.0,970.0,2243.0
+Dekalb,BD,Briarlake Elem,1321.0,977.0,2244.0
+Dekalb,BE,Briarwood (bhavn),1294.0,978.0,2245.0
+Dekalb,BF,Brockett Elem (tuc),1322.0,980.0,2246.0
+Dekalb,SQ,Stone Mtn   (sto),1270.0,870.0,2400.0
+Dekalb,DG,Dunwoody 2 (dun),1166.0,890.0,2286.0
+Dekalb,BG,Briarcliff,1306.0,981.0,2247.0
+Dekalb,BH,Brockett (tuc),1230.0,896.0,2248.0
+Dekalb,BI,Brookhaven (bhavn),1295.0,827.0,2249.0
+Dekalb,BL,Bouldercrest Road,1186.0,837.0,2251.0
+Dekalb,BB,Boulevard (atl),1303.0,967.0,2242.0
+Dekalb,Decatur,Decatur,,,2283.0
+Dekalb,AE,Avondale,1191.0,957.0,2237.0
+Dekalb,CP,Crossroads,1275.0,855.0,2269.0
+Dekalb,CO,Cross Keys High,1231.0,854.0,2268.0
+Dekalb,CW,Coralwood,1298.0,867.0,2276.0
+Dekalb,CZ,Chamblee 2 (cha),1292.0,866.0,2279.0
+Dekalb,DC,Dresden Elem (cha),1236.0,850.0,2282.0
+Dekalb,DE,Dunaire Elem,1235.0,871.0,2284.0
+Dekalb,CR,Cedar Grove Middle,1168.0,858.0,2271.0
+Dekalb,CQ,Candler,1258.0,856.0,2270.0
+Dekalb,CT,Covington Hwy,1253.0,863.0,2273.0
+Dekalb,DF,Dunwoody (dun),1189.0,892.0,2285.0
+Dekalb,CS,Cedar Grove South,1234.0,862.0,2272.0
+Dekalb,DB,Doraville South (dor),1297.0,851.0,2281.0
+Dekalb,CV,Clairemont East (dec),1341.0,868.0,2275.0
+Dekalb,VB,Valley Brook,1312.0,889.0,2413.0
+Dekalb,88888,Absentee (domestic),,929.0,
+Dekalb,CU,Covington,1215.0,1001.0,2274.0
+Dekalb,DA,Doraville North (dor),1207.0,864.0,2280.0
+Dekalb,CP,Candler Park,,,2277.0
+Dodge,Pondtown,Pondtown,1358.0,1023.0,1575.0
+Dodge,Mccranie,Mccranie,1369.0,1017.0,1570.0
+Dodge,Mullis,Mullis,1360.0,1022.0,1573.0
+Dodge,Empire,Empire,1364.0,1009.0,1566.0
+Dodge,Lee,Lee,1357.0,1010.0,1569.0
+Dodge,Chauncey,Chauncey,1361.0,1015.0,1563.0
+Dodge,Yonker,Yonker,1367.0,1024.0,1578.0
+Dodge,Eddin,Eddin,1363.0,1014.0,1565.0
+Dodge,Vilula,Vilula,1372.0,1018.0,1577.0
+Dodge,Rawlins,Rawlins,1359.0,1019.0,1576.0
+Dodge,Mitchell,Mitchell,1365.0,1020.0,1572.0
+Dodge,Clark,Clark,1366.0,1012.0,1564.0
+Dodge,Jones,Jones,1368.0,1016.0,1568.0
+Dodge,Jaybird,Jaybird,1371.0,1013.0,1567.0
+Dodge,Milan,Milan,1370.0,1021.0,1571.0
+Dodge,Plainfield,Plainfield,1362.0,1011.0,1574.0
+Dooly,10,Lilly,1377.0,1031.0,1923.0
+Dooly,2,Byromville,1375.0,1030.0,1924.0
+Dooly,7,Vienna,1376.0,1027.0,1926.0
+Dooly,5,Unadilla,1374.0,1028.0,1925.0
+Dooly,99999,Absentee (outside US),,1029.0,
+Dooly,88888,Absentee (domestic),,1025.0,
+Dooly,8,Pinehurst,1373.0,1026.0,1927.0
+Dougherty,2,Sherwood Elem School,1386.0,1038.0,1617.0
+Dougherty,22,Phoebe East,1393.0,1050.0,1637.0
+Dougherty,15,Phoebe Healthworks,1394.0,1036.0,1630.0
+Dougherty,24,Albany Middle School,1397.0,1052.0,1639.0
+Dougherty,9,Second Mt Zion Church,1380.0,1037.0,1624.0
+Dougherty,23,Pine Bluff Baptist Church,1385.0,1051.0,1638.0
+Dougherty,21,International Studies,1378.0,1048.0,1636.0
+Dougherty,6,Merry Acres Middle,1402.0,1042.0,1621.0
+Dougherty,16,Turner Elem School,1392.0,1044.0,1631.0
+Dougherty,20,Putney T Baptist Church,1391.0,1041.0,1635.0
+Dougherty,25,Christ Church,1379.0,1058.0,1640.0
+Dougherty,19,Radium Middle School,1389.0,1062.0,1634.0
+Dougherty,88888,Absentee (domestic),,1056.0,
+Dougherty,14,Litman Cathedral,1404.0,1061.0,1629.0
+Dougherty,5,Westover High School,1401.0,1045.0,1620.0
+Dougherty,13,Shiloh Baptist Church,1403.0,1055.0,1628.0
+Dougherty,12,Carver Teen Center,1405.0,1046.0,1627.0
+Dougherty,1,Palmyra Meth Church,1381.0,1059.0,1616.0
+Dougherty,99999,Absentee (outside US),,1035.0,
+Dougherty,7,Darton College,1390.0,1040.0,1622.0
+Dougherty,18,Bill Miller Center,1396.0,1057.0,1633.0
+Dougherty,Gf4,,,1043.0,
+Dougherty,10,Mt Zion Center,1398.0,1032.0,1625.0
+Dougherty,11,Alice Coachman Elementary,1400.0,1060.0,1626.0
+Dougherty,28,Lovett Hall,1399.0,1053.0,1643.0
+Dougherty,4,Greenbriar Church,1384.0,1047.0,1619.0
+Dougherty,27,First Christian Church,1387.0,1054.0,1642.0
+Dougherty,8,Westtown Elem School,1382.0,1039.0,1623.0
+Dougherty,26,Lamar Reese Elem School,1388.0,1033.0,1641.0
+Dougherty,17,Jackson Heights Elementary,1383.0,1034.0,1632.0
+Dougherty,3,Covenant Church,1395.0,1049.0,1618.0
+Douglas,731,Beulah Baptist Church,1411.0,1069.0,1266.0
+Douglas,732,Stewart,1426.0,1068.0,1267.0
+Douglas,733,Arbor Station,1424.0,1077.0,1268.0
+Douglas,739,Lutheran Church - Gs,1413.0,1083.0,1275.0
+Douglas,735,Dorsett Shoals,1429.0,1065.0,1270.0
+Douglas,736N,Chapel Hill,1407.0,1074.0,1271.0
+Douglas,99999,Absentee (outside US),,1080.0,
+Douglas,88888,Absentee (domestic),,1070.0,
+Douglas,736S,Church At Chapel Hill,1409.0,1079.0,1272.0
+Douglas,785,Boundary Waters,1422.0,1087.0,1278.0
+Douglas,737,Chestnut Log,1425.0,1081.0,1273.0
+Douglas,784,Factory Shoals,1408.0,1086.0,1277.0
+Douglas,738,St Julians Episcopal,1430.0,1082.0,1274.0
+Douglas,734,Bright Star,1428.0,1063.0,1269.0
+Douglas,740,First Baptist Douglasville,1412.0,1085.0,1276.0
+Douglas,730,Old Courthouse,1427.0,1071.0,1265.0
+Douglas,1259,Winston,1419.0,1066.0,1255.0
+Douglas,1258,Mirror Lake Elementary,1414.0,1064.0,1254.0
+Douglas,AWP,Atlanta West Pentecostal,,,1257.0
+Douglas,1274,First Baptist Lithia Springs,1417.0,1088.0,1261.0
+Douglas,1270,Colonial Hills,1423.0,1072.0,
+Douglas,1271,Ephesus Baptist Church,1415.0,1089.0,1258.0
+Douglas,1273,Turner,1420.0,1084.0,1260.0
+Douglas,1276,Deer Lick,1418.0,1076.0,1263.0
+Douglas,1275,Lithia Springs High School,1406.0,1075.0,1262.0
+Douglas,1272,Prays Mill Gym,1421.0,1078.0,1259.0
+Douglas,729,Golden Methodist Church,1416.0,1073.0,1264.0
+Douglas,1260,Dog River Library,1410.0,1067.0,1256.0
+Early,Arlington,Arlington,1435.0,1093.0,692.0
+Early,88888,Absentee (domestic),,1090.0,
+Early,Cuba,Cuba,1432.0,1091.0,695.0
+Early,Blakely,Blakely,1434.0,1092.0,693.0
+Early,CS,Cedar Springs,1433.0,1095.0,694.0
+Early,Urquhart,Urquhart,1431.0,1094.0,696.0
+Echols,1058,Statenville,1436.0,1096.0,1644.0
+Echols,99999,Absentee (outside US),,1097.0,
+Echols,88888,Absentee (domestic),,1098.0,
+Effingham,3a,,1438.0,1114.0,973.0
+Effingham,1d,,1452.0,1099.0,969.0
+Effingham,1b,,1439.0,1101.0,967.0
+Effingham,1a,,1437.0,1102.0,966.0
+Effingham,1c,,1444.0,1100.0,968.0
+Effingham,3b,,1443.0,1117.0,974.0
+Effingham,3c,,1445.0,1112.0,975.0
+Effingham,4b,,1446.0,1109.0,978.0
+Effingham,5a,,1448.0,1106.0,980.0
+Effingham,5b,,1450.0,1105.0,981.0
+Effingham,5c,,1441.0,1115.0,982.0
+Effingham,3d,,1442.0,1113.0,976.0
+Effingham,2a,,1453.0,1104.0,970.0
+Effingham,99999,Absentee (outside US),,1107.0,
+Effingham,2b,,1447.0,1103.0,971.0
+Effingham,2c,,1451.0,1116.0,972.0
+Effingham,4c,,1449.0,1108.0,979.0
+Effingham,Ch03,,,1111.0,
+Effingham,4a,,1440.0,1110.0,977.0
+Elbert,191,Eliam,1464.0,1125.0,1659.0
+Elbert,197,,1462.0,1123.0,1663.0
+Elbert,199,Gaines,1463.0,1118.0,1664.0
+Elbert,189,Elberton,1456.0,1119.0,1657.0
+Elbert,192,Petersburg,1454.0,1126.0,1660.0
+Elbert,193,Wyche,1457.0,1127.0,1661.0
+Elbert,190,Longstreet,1455.0,1124.0,1658.0
+Elbert,196,Moss-Ruckersville,1458.0,1128.0,1662.0
+Elbert,315,Centerville,1460.0,1120.0,1667.0
+Elbert,201,Goshen,1459.0,1121.0,1665.0
+Elbert,202,Webbsboro,1461.0,1122.0,1666.0
+Emanuel,88888,Absentee (domestic),,1140.0,
+Emanuel,1560,Twin City,1466.0,1137.0,1320.0
+Emanuel,1502,Nunez,1471.0,1129.0,1319.0
+Emanuel,1429,Garfield,1473.0,1136.0,1318.0
+Emanuel,50,Oak Park,1472.0,1139.0,1311.0
+Emanuel,53,Swainsboro,1465.0,1131.0,1313.0
+Emanuel,1748,Adrian,1474.0,1130.0,1321.0
+Emanuel,1333,Canoochee,1468.0,1135.0,1317.0
+Emanuel,58,Stillmore,1467.0,1134.0,1315.0
+Emanuel,57,Summertown,1470.0,1133.0,1314.0
+Emanuel,52,Cross-Green,1475.0,1132.0,1312.0
+Emanuel,1208,Blundale,1469.0,1138.0,1316.0
+Evans,99999,Absentee (outside US),,1141.0,
+Evans,11,Veterans Community Center,1476.0,1142.0,2596.0
+Fannin,Noontootla,Noontootla,1477.0,1145.0,2636.0
+Fannin,Flinthill,Flinthill,1483.0,1143.0,2630.0
+Fannin,88888,Absentee (domestic),,1155.0,
+Fannin,SUGC,Sugar Creek,1488.0,1149.0,2638.0
+Fannin,Hemptown,Hemptown,1485.0,1144.0,2631.0
+Fannin,Hothouse,Hothouse,1479.0,1153.0,2632.0
+Fannin,Colwell,Colwell,1480.0,1154.0,2628.0
+Fannin,Toccoa,Toccoa,1482.0,1148.0,2639.0
+Fannin,MB,Mineral Bluff,1487.0,1152.0,2633.0
+Fannin,Morganton,Morganton,1486.0,1151.0,2635.0
+Fannin,Fairplay,Fairplay,1481.0,1147.0,2629.0
+Fannin,Mobile,Mobile,1478.0,1150.0,2634.0
+Fannin,Skeniah,Skeniah,1484.0,1146.0,2637.0
+Fayette,21,Flat Creek,1520.0,1161.0,1068.0
+Fayette,28,Oak Ridge,1504.0,1185.0,1075.0
+Fayette,32,Willowbend,1514.0,1170.0,1079.0
+Fayette,13,Starrsmill,1490.0,1189.0,1060.0
+Fayette,2,Brooks,1493.0,1191.0,1049.0
+Fayette,8,Morning Creek,1491.0,1158.0,1055.0
+Fayette,17,Oak Grove,1521.0,1156.0,1064.0
+Fayette,16,Mcintosh,1500.0,1176.0,1063.0
+Fayette,27,Dogwood,1492.0,1174.0,1074.0
+Fayette,3,Europe,1497.0,1177.0,1050.0
+Fayette,20,Windgate,1524.0,1181.0,1067.0
+Fayette,26,Willow Pond,1494.0,1190.0,1073.0
+Fayette,15,Woolsey,1495.0,1159.0,1062.0
+Fayette,12,Shakerag West,1489.0,1162.0,1059.0
+Fayette,7,Hopeful,1499.0,1160.0,1054.0
+Fayette,25,Harps Crossing,1516.0,1188.0,1072.0
+Fayette,24,Banks,1510.0,1184.0,1071.0
+Fayette,30,Murphy,1503.0,1166.0,1077.0
+Fayette,1,Blackrock,1523.0,1157.0,1048.0
+Fayette,10,Sandy Creek,1496.0,1192.0,1057.0
+Fayette,23,Kenwood,1507.0,1180.0,1070.0
+Fayette,4,Fayetteville East,1522.0,1171.0,1051.0
+Fayette,5,Fayetteville West,1511.0,1169.0,1052.0
+Fayette,29,Jeff Davis,1519.0,1172.0,1076.0
+Fayette,31,Fielding Ridge,1512.0,1186.0,1078.0
+Fayette,33,Camp Creek,1518.0,1168.0,1080.0
+Fayette,14,Whitewater,1501.0,1179.0,1061.0
+Fayette,19,Aberdeen,1508.0,1187.0,1066.0
+Fayette,9,Rareover,1513.0,1173.0,1056.0
+Fayette,6,Flint,1502.0,1164.0,1053.0
+Fayette,36,Antioch,1498.0,1163.0,1083.0
+Fayette,35,Spring Hill,1517.0,1165.0,1082.0
+Fayette,34,Rising Star,1505.0,1167.0,1081.0
+Fayette,18,Kedron,1509.0,1175.0,1065.0
+Fayette,88888,Absentee (domestic),,1182.0,
+Fayette,22,Braelinn,1506.0,1178.0,1069.0
+Fayette,11,Shakerag East,1515.0,1183.0,1058.0
+Floyd,135,West Lindale,1528.0,1203.0,26.0
+Floyd,125,Vanns Valley,1529.0,1195.0,24.0
+Floyd,10,Armuchee,1543.0,1213.0,4.0
+Floyd,140,Town Rome,1544.0,1205.0,27.0
+Floyd,75,Mt Alto North,1546.0,1215.0,16.0
+Floyd,110,South Rome,1526.0,1207.0,22.0
+Floyd,35,Everett Springs,1542.0,1198.0,9.0
+Floyd,76,Mt Alto South,1549.0,1218.0,17.0
+Floyd,85,Riverside,1534.0,1209.0,19.0
+Floyd,45,Foster's Mill,1527.0,1199.0,11.0
+Floyd,115,Texas Valley,1530.0,1208.0,23.0
+Floyd,40,Floyd Springs,1541.0,1193.0,10.0
+Floyd,1,Alto Park,1545.0,1202.0,3.0
+Floyd,60,Howell,1537.0,1216.0,14.0
+Floyd,105,North Rome,1539.0,1204.0,21.0
+Floyd,65,East Lindale,1538.0,1217.0,15.0
+Floyd,50,Garden Lakes,1533.0,1200.0,12.0
+Floyd,88888,Absentee (domestic),,1206.0,
+Floyd,30,Etowah,1532.0,1194.0,8.0
+Floyd,90,East Rome,1547.0,1212.0,20.0
+Floyd,20,Cave Spring,1548.0,1197.0,6.0
+Floyd,80,North Carolina,1531.0,1210.0,18.0
+Floyd,15,Barkers,1536.0,1214.0,5.0
+Floyd,130,Watters,1525.0,1211.0,25.0
+Floyd,25,Chulio,1535.0,1196.0,7.0
+Floyd,55,Glenwood,1540.0,1201.0,13.0
+Forsyth,10,10 Midway,398.0,1236.0,1970.0
+Forsyth,88888,Absentee (domestic),,1223.0,
+Forsyth,5,05 Coal Mountain,406.0,1228.0,1966.0
+Forsyth,1,01 Big Creek,395.0,1226.0,1962.0
+Forsyth,111,,,1225.0,
+Forsyth,27,27 Concord,401.0,1227.0,1976.0
+Forsyth,25,25 Windermere,402.0,1235.0,1975.0
+Forsyth,29,29 Polo,399.0,1232.0,1977.0
+Forsyth,15,15 Heardsville,400.0,1229.0,1971.0
+Forsyth,8,08 Mashburn,404.0,1234.0,1969.0
+Forsyth,35,35 Johns Creek,,,1979.0
+Forsyth,4,04 Chestatee,397.0,1233.0,1965.0
+Forsyth,36,36 Nichols,,,1980.0
+Forsyth,21,21 South Forsyth,393.0,1220.0,1974.0
+Forsyth,6,06 Crossroads,408.0,1222.0,1967.0
+Forsyth,19,19 Old Atlanta,396.0,1224.0,1973.0
+Forsyth,37,37 Sawnee,,,1981.0
+Forsyth,16,16 Otwell,405.0,1221.0,1972.0
+Forsyth,3,03 Browns Bridge,407.0,1219.0,1964.0
+Forsyth,34,34 Fowler,,,1978.0
+Forsyth,7,07 Cumming,403.0,1231.0,1968.0
+Forsyth,2,02 Brandywine,394.0,1230.0,1963.0
+Franklin,6,Royston,1555.0,1242.0,1870.0
+Franklin,5,Canon,1556.0,1239.0,1869.0
+Franklin,3,Northeast Franklin,1550.0,1240.0,1867.0
+Franklin,2,West Franklin,1551.0,1244.0,1866.0
+Franklin,4,Lavonia,1552.0,1243.0,1868.0
+Franklin,1,Carnesville,1553.0,1237.0,1865.0
+Franklin,7,Southwest Franklin,1554.0,1241.0,1871.0
+Franklin,99999,Absentee (outside US),,1238.0,
+Fulton,Ml01a,,,,325.0
+Fulton,10g,,207.0,1368.0,199.0
+Fulton,Ml04,,,,331.0
+Fulton,Ep02a,,364.0,1547.0,284.0
+Fulton,10h1,,310.0,1367.0,200.0
+Fulton,Ep01b,,41.0,1546.0,283.0
+Fulton,10h2,,88.0,1366.0,201.0
+Fulton,10i,,185.0,1365.0,202.0
+Fulton,05a1,,238.0,1556.0,134.0
+Fulton,Ep01a,,26.0,1545.0,282.0
+Fulton,Fa01b,,170.0,1514.0,295.0
+Fulton,Ml02b,,,,328.0
+Fulton,730,,,1335.0,
+Fulton,10j,,371.0,1364.0,203.0
+Fulton,Fa01a,,239.0,1513.0,294.0
+Fulton,10k,,219.0,1363.0,204.0
+Fulton,05d,,58.0,1528.0,138.0
+Fulton,10f,,340.0,1369.0,198.0
+Fulton,10e,,66.0,1370.0,197.0
+Fulton,10d,,169.0,1371.0,196.0
+Fulton,10c,,305.0,1372.0,195.0
+Fulton,Ep04a,,337.0,1533.0,291.0
+Fulton,Ep03b,,198.0,1543.0,290.0
+Fulton,Ss19a,,321.0,1404.0,439.0
+Fulton,Jc04c,,,,309.0
+Fulton,Ep03a,,186.0,1534.0,289.0
+Fulton,Ep02e,,89.0,1552.0,288.0
+Fulton,Ep02d,,390.0,1550.0,287.0
+Fulton,Ep04b,,258.0,1521.0,292.0
+Fulton,05c,,230.0,1530.0,137.0
+Fulton,Ml03a,,,,330.0
+Fulton,10a,,37.0,1374.0,193.0
+Fulton,10b,,11.0,1373.0,194.0
+Fulton,Ep02b,,18.0,1548.0,285.0
+Fulton,05b,,300.0,1532.0,136.0
+Fulton,Fa01c,,368.0,1515.0,296.0
+Fulton,05a2,,160.0,1554.0,135.0
+Fulton,Ss18b,,163.0,1405.0,438.0
+Fulton,Ml02a,,,,327.0
+Fulton,Ep02c,,53.0,1549.0,286.0
+Fulton,Jc03b,,178.0,1563.0,306.0
+Fulton,10p,,292.0,1360.0,206.0
+Fulton,Jc10,,91.0,1573.0,315.0
+Fulton,Jc09,,194.0,1572.0,314.0
+Fulton,Jc08,,385.0,1570.0,313.0
+Fulton,Jc07,,105.0,1568.0,312.0
+Fulton,Jc06,,275.0,1567.0,311.0
+Fulton,Jc05,,78.0,1575.0,310.0
+Fulton,Jc04b,,293.0,1566.0,308.0
+Fulton,Jc04a,,149.0,1564.0,307.0
+Fulton,08n2,,183.0,1265.0,179.0
+Fulton,Jc03a,,308.0,1562.0,305.0
+Fulton,Jc02,,240.0,1561.0,304.0
+Fulton,Jc01,,181.0,1560.0,302.0
+Fulton,03n,,270.0,1444.0,112.0
+Fulton,06d2,,,,145.0
+Fulton,03p1a,,29.0,1454.0,113.0
+Fulton,Jc11,,223.0,1574.0,316.0
+Fulton,Jc12,,113.0,1512.0,317.0
+Fulton,06d1,,,,144.0
+Fulton,Jc13a,,378.0,1511.0,318.0
+Fulton,03e,,24.0,1430.0,105.0
+Fulton,03f,,352.0,1429.0,106.0
+Fulton,50,,,1611.0,
+Fulton,03g,,93.0,1428.0,107.0
+Fulton,03h,,164.0,1427.0,108.0
+Fulton,03i,,8.0,1426.0,109.0
+Fulton,03l,,291.0,1425.0,110.0
+Fulton,Ss31,,261.0,1345.0,445.0
+Fulton,03m,,205.0,1432.0,111.0
+Fulton,Jc18,,329.0,1449.0,323.0
+Fulton,Jc16,,57.0,1448.0,322.0
+Fulton,Jc15,,380.0,1447.0,321.0
+Fulton,Jc14,,251.0,1446.0,320.0
+Fulton,Jc13b,,236.0,1509.0,319.0
+Fulton,02a1,,,,86.0
+Fulton,02l1a,,,,97.0
+Fulton,Jc19,,30.0,1450.0,324.0
+Fulton,03p2,,87.0,1445.0,114.0
+Fulton,09k1,,,,191.0
+Fulton,03s,,247.0,1461.0,115.0
+Fulton,Ml05,,,,332.0
+Fulton,04k,,10.0,1578.0,125.0
+Fulton,04l,,96.0,1597.0,126.0
+Fulton,04m,,366.0,1596.0,127.0
+Fulton,Fc03,,109.0,,300.0
+Fulton,Ss22,,384.0,1349.0,442.0
+Fulton,Jc01a,,,,303.0
+Fulton,Fc02,,335.0,,299.0
+Fulton,04s,,106.0,1595.0,128.0
+Fulton,04v,,70.0,1593.0,130.0
+Fulton,Ss20,,319.0,1350.0,441.0
+Fulton,04w,,162.0,1592.0,131.0
+Fulton,04x1,,392.0,1591.0,132.0
+Fulton,04x2,,131.0,1590.0,133.0
+Fulton,10r,,256.0,1359.0,207.0
+Fulton,Ss19b,,25.0,1403.0,440.0
+Fulton,04t,,45.0,1594.0,129.0
+Fulton,10m,,312.0,1361.0,205.0
+Fulton,04j,,375.0,1576.0,124.0
+Fulton,Fc01,,116.0,,298.0
+Fulton,11b1,,,,209.0
+Fulton,03t,,387.0,1460.0,116.0
+Fulton,Ss29a,,201.0,1347.0,444.0
+Fulton,Jb02,,,1589.0,
+Fulton,Ss26,,192.0,1348.0,443.0
+Fulton,11m1,,,,219.0
+Fulton,Hp01,,278.0,1587.0,301.0
+Fulton,04i,,307.0,1565.0,123.0
+Fulton,12a1,,,,224.0
+Fulton,Fa01d,,,,297.0
+Fulton,04a,,75.0,1453.0,117.0
+Fulton,04b,,193.0,1452.0,118.0
+Fulton,04c,,31.0,1451.0,119.0
+Fulton,04d,,32.0,1559.0,120.0
+Fulton,04f,,299.0,1558.0,121.0
+Fulton,04g,,285.0,1557.0,122.0
+Fulton,Ep04c,,,,293.0
+Fulton,05f,,111.0,1526.0,139.0
+Fulton,Ss13a,,273.0,1400.0,430.0
+Fulton,Ml07b,,,,336.0
+Fulton,09h,,235.0,1387.0,188.0
+Fulton,Ap12a,,365.0,1280.0,255.0
+Fulton,09g,,287.0,1600.0,187.0
+Fulton,Ap10,,104.0,1279.0,254.0
+Fulton,Ap09b,,253.0,1278.0,253.0
+Fulton,09f,,214.0,1380.0,186.0
+Fulton,Ap12b,,90.0,1281.0,256.0
+Fulton,Ap09a,,370.0,1277.0,252.0
+Fulton,Ap07b,,72.0,1276.0,251.0
+Fulton,Ap07a,,208.0,1274.0,250.0
+Fulton,Ap06,,84.0,1273.0,249.0
+Fulton,Ap05,,59.0,1272.0,248.0
+Fulton,Ap04b,,48.0,1271.0,247.0
+Fulton,Ap04a,,362.0,1270.0,246.0
+Fulton,09e,,4.0,1382.0,185.0
+Fulton,Ap12c,,145.0,1282.0,257.0
+Fulton,09i,,338.0,1399.0,189.0
+Fulton,Ap14,,316.0,1283.0,258.0
+Fulton,Ss09a,,206.0,1394.0,423.0
+Fulton,Ss29b,,74.0,,
+Fulton,Ss08d,,199.0,1395.0,422.0
+Fulton,Ss08c,,35.0,1284.0,421.0
+Fulton,Ss08b,,13.0,1287.0,420.0
+Fulton,08f2,,279.0,,
+Fulton,Cp052,,281.0,,
+Fulton,Sc07b,,167.0,,
+Fulton,09m,,318.0,1417.0,192.0
+Fulton,Ss08a,,290.0,1312.0,419.0
+Fulton,09k,,326.0,1419.0,190.0
+Fulton,Ss07c,,222.0,1305.0,418.0
+Fulton,Ss07b,,249.0,1536.0,417.0
+Fulton,08a,,252.0,1257.0,166.0
+Fulton,08b,,191.0,1256.0,167.0
+Fulton,Ap03,,79.0,1269.0,245.0
+Fulton,Ap02b,,237.0,1268.0,244.0
+Fulton,Ap022,,176.0,1267.0,243.0
+Fulton,Ap021,,359.0,1309.0,242.0
+Fulton,12c1,,229.0,,
+Fulton,Ss02a,,173.0,1583.0,410.0
+Fulton,99999,Absentee (outside US),,1390.0,
+Fulton,1200,,108.0,,
+Fulton,08f1,,146.0,1252.0,171.0
+Fulton,Ss01,,377.0,1598.0,409.0
+Fulton,08g,,23.0,1251.0,172.0
+Fulton,08h,,44.0,1249.0,173.0
+Fulton,Rw11b,,154.0,,
+Fulton,08j,,381.0,1248.0,174.0
+Fulton,03p1b,,155.0,,
+Fulton,08k,,354.0,1247.0,175.0
+Fulton,08l,,257.0,1246.0,176.0
+Fulton,08m,,343.0,1263.0,177.0
+Fulton,08n1,,150.0,1264.0,178.0
+Fulton,Ss02b,,328.0,1580.0,411.0
+Fulton,Sc29b,,60.0,,
+Fulton,Ss03,,33.0,1529.0,412.0
+Fulton,Ss04,,71.0,1523.0,413.0
+Fulton,Ap01d,,43.0,1331.0,241.0
+Fulton,Ap01c,,156.0,1332.0,240.0
+Fulton,09d,,282.0,1383.0,184.0
+Fulton,Ap01b,,95.0,1333.0,239.0
+Fulton,Ap01a,,9.0,1396.0,238.0
+Fulton,09c,,344.0,1384.0,183.0
+Fulton,09b,,76.0,1386.0,182.0
+Fulton,08c,,259.0,1255.0,168.0
+Fulton,Ss07a,,374.0,1539.0,416.0
+Fulton,Ss06,,124.0,1540.0,415.0
+Fulton,09a,,363.0,1388.0,181.0
+Fulton,08d,,231.0,1254.0,169.0
+Fulton,08e,,122.0,1253.0,170.0
+Fulton,Ss05,,376.0,1551.0,414.0
+Fulton,Uc033,,286.0,,
+Fulton,Rw22b,,203.0,,
+Fulton,Ch04b,,14.0,,
+Fulton,Sc21a,,134.0,,
+Fulton,Uc035,,217.0,,
+Fulton,06r,,98.0,1306.0,155.0
+Fulton,Cp08a,,288.0,1295.0,281.0
+Fulton,Cp084,,80.0,1294.0,280.0
+Fulton,Cp083,,266.0,1293.0,279.0
+Fulton,Cp081,,52.0,1292.0,278.0
+Fulton,Cp07f,,265.0,1291.0,277.0
+Fulton,Cp07e,,,1290.0,276.0
+Fulton,Cp07d,,184.0,1298.0,275.0
+Fulton,Ss12,,330.0,1379.0,429.0
+Fulton,Ss11d,,21.0,1381.0,428.0
+Fulton,Ss11c,,196.0,1397.0,427.0
+Fulton,Cp07c,,309.0,1310.0,274.0
+Fulton,Cp07b,,152.0,1320.0,273.0
+Fulton,Cp06a,,243.0,1311.0,272.0
+Fulton,Cp05b,,42.0,1329.0,271.0
+Fulton,06q,,179.0,1307.0,154.0
+Fulton,Ss11b,,248.0,1389.0,426.0
+Fulton,06n,,171.0,1376.0,153.0
+Fulton,Ss13b,,100.0,1418.0,431.0
+Fulton,05k,,172.0,1524.0,141.0
+Fulton,Ss18a,,304.0,1406.0,437.0
+Fulton,06b,,339.0,1544.0,142.0
+Fulton,Ss17,,369.0,1410.0,436.0
+Fulton,06d,,221.0,1542.0,143.0
+Fulton,Ss16,,112.0,1411.0,435.0
+Fulton,Ss15b,,187.0,1413.0,434.0
+Fulton,06e,,63.0,1541.0,146.0
+Fulton,Ss15a,,15.0,1414.0,433.0
+Fulton,Ss14,,325.0,1415.0,432.0
+Fulton,06f,,336.0,1538.0,147.0
+Fulton,06g,,128.0,1537.0,148.0
+Fulton,06i,,177.0,1535.0,149.0
+Fulton,06j,,348.0,1423.0,150.0
+Fulton,06l1,,51.0,1422.0,151.0
+Fulton,06l2,,277.0,1421.0,152.0
+Fulton,05j,,133.0,1525.0,140.0
+Fulton,Cp051,,345.0,1328.0,270.0
+Fulton,Ss11a,,267.0,1391.0,425.0
+Fulton,Ap12d,,320.0,,
+Fulton,Ch01,,314.0,1260.0,259.0
+Fulton,07a,,174.0,1299.0,156.0
+Fulton,07b,,227.0,1297.0,157.0
+Fulton,07c,,151.0,1296.0,158.0
+Fulton,07d,,333.0,1330.0,159.0
+Fulton,07e,,107.0,1321.0,160.0
+Fulton,07f,,315.0,1319.0,161.0
+Fulton,07h,,357.0,1317.0,162.0
+Fulton,07j,,3.0,1316.0,163.0
+Fulton,Uc01c,,297.0,,
+Fulton,07m,,254.0,1315.0,164.0
+Fulton,07n,,40.0,1314.0,165.0
+Fulton,Sc08a,,383.0,,
+Fulton,Cp07a,,367.0,,
+Fulton,Ap01e,,332.0,,
+Fulton,Cp04b,,276.0,1327.0,269.0
+Fulton,Ch02,,346.0,1261.0,260.0
+Fulton,Ch03,,119.0,1286.0,261.0
+Fulton,Cp04a,,271.0,1326.0,268.0
+Fulton,Cp02,,356.0,1325.0,267.0
+Fulton,Cp01b,,97.0,1324.0,266.0
+Fulton,Cp012,,50.0,1323.0,265.0
+Fulton,Cp011,,212.0,1322.0,264.0
+Fulton,Ss09b,,1.0,1392.0,424.0
+Fulton,Rw09a,,,,349.0
+Fulton,Rw12a,,,,353.0
+Fulton,1000,,,1420.0,
+Fulton,Sc07d,,,,372.0
+Fulton,88888,Absentee (domestic),,1412.0,
+Fulton,Ch05,,226.0,1289.0,263.0
+Fulton,Ch04a,,6.0,1288.0,262.0
+Fulton,Sc15a,,,,389.0
+Fulton,Uc02c,,,,452.0
+Fulton,Cp06b,,62.0,,
+Fulton,03d,,7.0,1431.0,104.0
+Fulton,08p,,0.0,1266.0,180.0
+Fulton,11b,,289.0,1618.0,208.0
+Fulton,01i,,22.0,1571.0,79.0
+Fulton,01h,,77.0,1577.0,78.0
+Fulton,01g,,263.0,1588.0,77.0
+Fulton,01f,,389.0,1586.0,76.0
+Fulton,01e,,130.0,1585.0,75.0
+Fulton,01d,,301.0,1584.0,74.0
+Fulton,01b,,120.0,1579.0,72.0
+Fulton,01a,,158.0,1555.0,71.0
+Fulton,Pa01,,68.0,1494.0,338.0
+Fulton,1,,,1462.0,
+Fulton,4,,,1362.0,
+Fulton,01j,,280.0,1455.0,80.0
+Fulton,Rw01,,65.0,1527.0,339.0
+Fulton,Rw03,,125.0,1519.0,341.0
+Fulton,Rw04,,36.0,1518.0,342.0
+Fulton,Rw05,,269.0,1517.0,343.0
+Fulton,Rw06,,126.0,1553.0,344.0
+Fulton,Rw07a,,232.0,1304.0,345.0
+Fulton,Rw07b,,166.0,1303.0,346.0
+Fulton,Rw08,,135.0,1302.0,347.0
+Fulton,Rw09,,342.0,1301.0,348.0
+Fulton,Rw10,,262.0,1300.0,350.0
+Fulton,Rw11a,,123.0,1308.0,351.0
+Fulton,Rw12,,361.0,1318.0,352.0
+Fulton,Rw02,,175.0,1522.0,340.0
+Fulton,Rw13,,148.0,1313.0,354.0
+Fulton,01p,,12.0,1456.0,81.0
+Fulton,01s,,28.0,1436.0,83.0
+Fulton,Ml05a,,260.0,1501.0,
+Fulton,Ml05b,,34.0,1503.0,
+Fulton,Ml05c,,245.0,1506.0,
+Fulton,Ml06a,,94.0,1508.0,333.0
+Fulton,Ml06b,,306.0,1489.0,334.0
+Fulton,Ml071,,296.0,1487.0,
+Fulton,Ml072,,360.0,1476.0,
+Fulton,Ml07a,,331.0,1469.0,335.0
+Fulton,12a,,5.0,1605.0,223.0
+Fulton,12d,,241.0,1609.0,225.0
+Fulton,120,,255.0,1614.0,226.0
+Fulton,01r,,136.0,1459.0,82.0
+Fulton,12f,,114.0,1617.0,227.0
+Fulton,12h1,,110.0,1626.0,229.0
+Fulton,12h2,,159.0,1602.0,230.0
+Fulton,12i,,284.0,1627.0,231.0
+Fulton,12j,,382.0,1628.0,232.0
+Fulton,12k,,165.0,1625.0,233.0
+Fulton,12l,,213.0,1623.0,234.0
+Fulton,12m,,283.0,1622.0,235.0
+Fulton,12n,,157.0,1621.0,236.0
+Fulton,12s,,140.0,1620.0,237.0
+Fulton,Mp01,,272.0,1478.0,337.0
+Fulton,01t,,39.0,1440.0,84.0
+Fulton,12g,,67.0,1619.0,228.0
+Fulton,Ml04c,,351.0,1499.0,
+Fulton,Rw16,,355.0,1262.0,355.0
+Fulton,Rw19,,55.0,1393.0,357.0
+Fulton,Sc13,,220.0,1520.0,386.0
+Fulton,Sc14a,,341.0,1531.0,387.0
+Fulton,Sc14b,,,1569.0,
+Fulton,Sc15,,86.0,1464.0,388.0
+Fulton,Sc16a,,204.0,1457.0,390.0
+Fulton,Sc16b,,,1458.0,
+Fulton,Sc17a,,38.0,1463.0,391.0
+Fulton,Sc17b,,327.0,1437.0,392.0
+Fulton,Sc17c,,180.0,1443.0,393.0
+Fulton,Sc18a,,83.0,1491.0,394.0
+Fulton,Sc18b,,118.0,1498.0,395.0
+Fulton,Sc11b,,317.0,1516.0,385.0
+Fulton,Sc18c,,138.0,1502.0,396.0
+Fulton,Sc19b,,224.0,1468.0,398.0
+Fulton,Sc20,,372.0,1486.0,399.0
+Fulton,Sc211,,121.0,1475.0,400.0
+Fulton,Sc212,,147.0,1474.0,401.0
+Fulton,Sc23a,,182.0,1470.0,402.0
+Fulton,Sc23b,,46.0,1488.0,403.0
+Fulton,Sc23c,,379.0,1504.0,404.0
+Fulton,Sc27,,132.0,1500.0,405.0
+Fulton,Sc29a,,225.0,1495.0,406.0
+Fulton,Sc30a,,17.0,1465.0,407.0
+Fulton,Sc30b,,189.0,1424.0,408.0
+Fulton,Sc19a,,129.0,1505.0,397.0
+Fulton,Rw17,,233.0,1259.0,356.0
+Fulton,Sc11a,,294.0,1258.0,384.0
+Fulton,Sc09c,,246.0,1285.0,382.0
+Fulton,Rw20,,115.0,1385.0,358.0
+Fulton,Rw21,,324.0,1416.0,359.0
+Fulton,Rw22a,,209.0,1407.0,360.0
+Fulton,Sc01a,,16.0,1401.0,361.0
+Fulton,Sc01b,,303.0,1377.0,362.0
+Fulton,Sc01c,,27.0,1375.0,363.0
+Fulton,Sc01d,,,1351.0,
+Fulton,Sc02,,202.0,1344.0,364.0
+Fulton,Sc04,,210.0,1352.0,365.0
+Fulton,Sc05a,,73.0,1343.0,366.0
+Fulton,Sc05b,,101.0,1342.0,367.0
+Fulton,Sc10,,195.0,1250.0,383.0
+Fulton,Sc05d,,242.0,1354.0,368.0
+Fulton,Sc07a,,250.0,1357.0,370.0
+Fulton,Sc07c,,168.0,1356.0,371.0
+Fulton,Sc08b,,388.0,1582.0,373.0
+Fulton,Sc08c,,153.0,1599.0,374.0
+Fulton,Sc08d,,353.0,1346.0,375.0
+Fulton,Sc08e,,211.0,1378.0,376.0
+Fulton,Sc08f,,82.0,1402.0,377.0
+Fulton,Sc08g,,142.0,1408.0,378.0
+Fulton,Sc08h,,47.0,1409.0,379.0
+Fulton,Sc09a,,81.0,1398.0,380.0
+Fulton,Sc09b,,103.0,1275.0,381.0
+Fulton,Sc05e,,322.0,1358.0,369.0
+Fulton,Ml04b,,228.0,1497.0,
+Fulton,01c,,19.0,1581.0,73.0
+Fulton,Ml04a,,391.0,1496.0,
+Fulton,11n,,69.0,1603.0,220.0
+Fulton,11p,,188.0,1601.0,221.0
+Fulton,11r,,102.0,1613.0,222.0
+Fulton,02w,,54.0,1482.0,100.0
+Fulton,02s,,218.0,1485.0,99.0
+Fulton,02l2,,144.0,1245.0,98.0
+Fulton,02l1,,56.0,1510.0,96.0
+Fulton,Uc01b,,215.0,1340.0,447.0
+Fulton,02j,,334.0,1483.0,94.0
+Fulton,02g,,127.0,1481.0,93.0
+Fulton,02f2,,234.0,1480.0,92.0
+Fulton,Md01,,,1442.0,
+Fulton,02f1,,143.0,1479.0,91.0
+Fulton,02e,,295.0,1477.0,90.0
+Fulton,02d,,323.0,1473.0,89.0
+Fulton,Uc032,,313.0,1353.0,454.0
+Fulton,Uc031,,190.0,1334.0,453.0
+Fulton,Uc02b,,373.0,1336.0,451.0
+Fulton,Uc02a,,200.0,1337.0,450.0
+Fulton,Uc01e,,85.0,1338.0,449.0
+Fulton,02c,,386.0,1472.0,88.0
+Fulton,Uc01d,,99.0,1339.0,448.0
+Fulton,02b,,274.0,1471.0,87.0
+Fulton,02a,,49.0,1507.0,85.0
+Fulton,Uc01a,,244.0,1341.0,446.0
+Fulton,11m,,61.0,1604.0,218.0
+Fulton,11k,,139.0,1606.0,217.0
+Fulton,02k,,302.0,1484.0,95.0
+Fulton,Ml021,,92.0,1466.0,
+Fulton,Ml023,,298.0,1490.0,
+Fulton,Ml022,,358.0,1467.0,
+Fulton,11j,,197.0,1607.0,216.0
+Fulton,11c,,347.0,1616.0,210.0
+Fulton,110,,137.0,1624.0,211.0
+Fulton,03c,,264.0,1433.0,103.0
+Fulton,Ml024,,141.0,1492.0,
+Fulton,Ml012,,64.0,1439.0,
+Fulton,Vg04,,,1355.0,
+Fulton,Ml011,,349.0,1438.0,
+Fulton,1100,,311.0,1615.0,212.0
+Fulton,11000,11000,350.0,1612.0,213.0
+Fulton,Ml01b,,117.0,1441.0,326.0
+Fulton,Ml03,,161.0,1493.0,329.0
+Fulton,11h,,268.0,1608.0,215.0
+Fulton,03a,,2.0,1435.0,101.0
+Fulton,03b,,216.0,1434.0,102.0
+Fulton,11g,,20.0,1610.0,214.0
+Gilmer,1,Ellijay South,1564.0,1630.0,28.0
+Gilmer,13,Ellijay Northeast,1563.0,1632.0,40.0
+Gilmer,12,Big Creek,1561.0,1634.0,39.0
+Gilmer,10,Ellijay North,1566.0,1635.0,37.0
+Gilmer,99999,Absentee (outside US),,1637.0,
+Gilmer,9,East Ellijay,1567.0,1638.0,36.0
+Gilmer,88888,Absentee (domestic),,1636.0,
+Gilmer,3,Tails Creek,1557.0,1633.0,30.0
+Gilmer,8,Mountaintown,1565.0,1639.0,35.0
+Gilmer,11,Yukon,1569.0,1643.0,38.0
+Gilmer,7,Boardtown,1559.0,1640.0,34.0
+Gilmer,4,Town Creek,1568.0,1629.0,31.0
+Gilmer,6,Cherry Log,1560.0,1642.0,33.0
+Gilmer,5,Leaches,1558.0,1641.0,32.0
+Gilmer,2,Cartecay,1562.0,1631.0,29.0
+Glascock,Mill,Mill,1572.0,1648.0,1944.0
+Glascock,Gibson,Gibson,1571.0,1644.0,1943.0
+Glascock,88888,Absentee (domestic),,1645.0,
+Glascock,EDGH,Edgehill,1573.0,1646.0,1942.0
+Glascock,Mitchell,Mitchell,1570.0,1647.0,1945.0
+Glynn,88888,Absentee (domestic),,1658.0,
+Glynn,1713,Sterling Elementary,1577.0,1666.0,455.0
+Glynn,5913,College Place Umc,1585.0,1670.0,471.0
+Glynn,5923,Howard Coffin Park,1580.0,1669.0,472.0
+Glynn,5933,Burroughs Molette,1592.0,1667.0,
+Glynn,5943,Selden Park,1587.0,1665.0,474.0
+Glynn,UP,Urbana-Perry Parks,,,473.0
+Glynn,4933,The Chapel,1578.0,1655.0,470.0
+Glynn,HR,Hampton River,,,460.0
+Glynn,4923,Northside Baptist,1593.0,1654.0,469.0
+Glynn,4913,Ballard Community,1589.0,1653.0,468.0
+Glynn,2713,Christian Renewal,1583.0,1651.0,459.0
+Glynn,2923,Oglethorpe Point,1574.0,1652.0,
+Glynn,2933,St William Catholic Church,1590.0,1657.0,461.0
+Glynn,1943,Blythe Island Baptist Church,1576.0,1662.0,458.0
+Glynn,1923,Marshes Of Glynn,1575.0,1664.0,
+Glynn,2953,Jekyll Island,1584.0,1660.0,463.0
+Glynn,1933,Satilla Marsh School,1579.0,1668.0,457.0
+Glynn,2943,First Baptist,1586.0,1659.0,462.0
+Glynn,99999,Absentee (outside US),,1656.0,
+Glynn,Brookman,Brookman,,,456.0
+Glynn,3733,Career Academy,1582.0,1663.0,466.0
+Glynn,3743,C B Greer School,1588.0,1649.0,467.0
+Glynn,3723,Se Baptist Bldg,1581.0,1661.0,465.0
+Glynn,3713,Sterling Church Of God,1591.0,1650.0,464.0
+Gordon,1056,Sonoraville,1595.0,1677.0,1727.0
+Gordon,1235,Oakman,1605.0,1674.0,1730.0
+Gordon,874,Fairmount,1596.0,1678.0,1734.0
+Gordon,973,Red Bud,1599.0,1682.0,1735.0
+Gordon,1055,Plainville,1597.0,1676.0,1726.0
+Gordon,856,Lily Pond,1598.0,1671.0,1733.0
+Gordon,849-B,Calhoun City,1594.0,1672.0,1732.0
+Gordon,1063,Pine Chapel,1601.0,1679.0,1728.0
+Gordon,1054,Sugar Valley,1603.0,1675.0,1725.0
+Gordon,1064,Oostanaula,1602.0,1680.0,1729.0
+Gordon,980,Resaca,1604.0,1681.0,1736.0
+Gordon,849-A,Gordon County,1600.0,1673.0,1731.0
+Grady,Duncanville,Duncanville,1606.0,1688.0,1440.0
+Grady,Ragan,Ragan,1613.0,1690.0,1445.0
+Grady,BC,Blowing Cave,1614.0,1686.0,1437.0
+Grady,C05,Cairo H District,1617.0,1684.0,1439.0
+Grady,WL,Woodland,1618.0,1694.0,1449.0
+Grady,Spence,Spence,1607.0,1692.0,1446.0
+Grady,Higdon,Higdon,1609.0,1687.0,1441.0
+Grady,PP,Pine Park,1611.0,1695.0,1444.0
+Grady,SH,Spring Hill,1608.0,1696.0,1447.0
+Grady,Limesink,Limesink,1615.0,1683.0,1442.0
+Grady,Midway,Midway,1610.0,1691.0,1443.0
+Grady,C04,Cairo H District,1616.0,1685.0,1438.0
+Grady,Whigham,Whigham,1612.0,1689.0,1448.0
+Grady,Cuba,Cuba,,1693.0,
+Greene,4,Union Point,1621.0,1700.0,1886.0
+Greene,6,White Plains,1623.0,1702.0,1888.0
+Greene,5,Siloam,1622.0,1701.0,1887.0
+Greene,99999,Absentee (outside US),,1697.0,
+Greene,8,Old Salem,1619.0,1699.0,1889.0
+Greene,1,Greensboro,1620.0,1698.0,1885.0
+Gwinnett,88,Rockbridge E,1686.0,1738.0,604.0
+Gwinnett,152,Rockycreek C,1688.0,1834.0,668.0
+Gwinnett,151,Harbins C,1714.0,1835.0,667.0
+Gwinnett,26,Hog Mountain A,1680.0,1773.0,542.0
+Gwinnett,58,Pinckneyville K,1669.0,1819.0,574.0
+Gwinnett,107,Cates O,1719.0,1855.0,623.0
+Gwinnett,153,Lawrenceville N,1776.0,1808.0,669.0
+Gwinnett,89,Sugar Hill E,1716.0,1732.0,605.0
+Gwinnett,23,Pinckneyville D,1751.0,1769.0,539.0
+Gwinnett,3,Dacula,1685.0,1754.0,519.0
+Gwinnett,150,Duluth K,1672.0,1845.0,666.0
+Gwinnett,105,Sugar Hill F,1666.0,1853.0,621.0
+Gwinnett,121,Pinckneyville X,1712.0,1837.0,637.0
+Gwinnett,112,Berkshire N,1757.0,1833.0,628.0
+Gwinnett,20,Pinckneyville A,1763.0,1796.0,536.0
+Gwinnett,147,Baycreek I,1683.0,1767.0,663.0
+Gwinnett,148,Berkshire Q,1702.0,1821.0,664.0
+Gwinnett,21,Pinckneyville B,1705.0,1787.0,537.0
+Gwinnett,80,Baycreek C,1626.0,1760.0,596.0
+Gwinnett,113,Pinckneyville V,1777.0,1745.0,629.0
+Gwinnett,114,Pinckneyville W,1720.0,1734.0,630.0
+Gwinnett,149,Goodwins I,1704.0,1810.0,665.0
+Gwinnett,81,Cates L,1713.0,1761.0,597.0
+Gwinnett,82,Duluth E,1771.0,1762.0,598.0
+Gwinnett,83,Goodwins D,1738.0,1763.0,599.0
+Gwinnett,84,Lawrenceville G,1735.0,1764.0,600.0
+Gwinnett,85,Lawrenceville H,1675.0,1749.0,601.0
+Gwinnett,86,Martins F,1729.0,1748.0,602.0
+Gwinnett,106,Suwanee C,1637.0,1850.0,622.0
+Gwinnett,87,Pinckneyville S,1752.0,1747.0,603.0
+Gwinnett,22,Pinckneyville C,1726.0,1776.0,538.0
+Gwinnett,59,Pinckneyville N,1742.0,1820.0,575.0
+Gwinnett,57,Duluth D,1700.0,1818.0,573.0
+Gwinnett,42,Lawrenceville C,1647.0,1840.0,558.0
+Gwinnett,154,Pucketts D,1663.0,1791.0,670.0
+Gwinnett,95,Duluth F,1636.0,1741.0,611.0
+Gwinnett,51,Pinckneyville J,1743.0,1812.0,567.0
+Gwinnett,117,Martins J,1779.0,1756.0,633.0
+Gwinnett,94,Cates N,1723.0,1740.0,610.0
+Gwinnett,93,Cates M,1659.0,1746.0,609.0
+Gwinnett,39,Duncans D,1662.0,1846.0,555.0
+Gwinnett,92,Berkshire J,1764.0,1739.0,608.0
+Gwinnett,50,Pinckneyville I,1725.0,1811.0,566.0
+Gwinnett,91,Baycreek D,1634.0,1736.0,607.0
+Gwinnett,38,Pinckneyville F,1727.0,1832.0,554.0
+Gwinnett,25,Sugar Hill B,1664.0,1771.0,541.0
+Gwinnett,128,Goodwins H,1689.0,1803.0,644.0
+Gwinnett,118,Garners F,1658.0,1755.0,634.0
+Gwinnett,90,Lawrenceville I,1747.0,1735.0,606.0
+Gwinnett,127,Lawrenceville J,1773.0,1788.0,643.0
+Gwinnett,2,Rockbridge A,1756.0,1737.0,518.0
+Gwinnett,1,Harbins A,1627.0,1715.0,517.0
+Gwinnett,126,Pinckneyville A1,1673.0,1772.0,642.0
+Gwinnett,125,Pinckneyville Z,1733.0,1785.0,641.0
+Gwinnett,124,Goodwins G,1769.0,1780.0,640.0
+Gwinnett,129,Duncans B,1644.0,1802.0,645.0
+Gwinnett,37,Pinckneyville E,1691.0,1831.0,553.0
+Gwinnett,96,Duluth G,1730.0,1742.0,612.0
+Gwinnett,36,Cates E,1633.0,1830.0,552.0
+Gwinnett,55,Sugar Hill D,1656.0,1817.0,571.0
+Gwinnett,155,Suwanee G,1737.0,1790.0,671.0
+Gwinnett,30,Cates C,1660.0,1779.0,546.0
+Gwinnett,156,Baycreek J,1631.0,1789.0,672.0
+Gwinnett,115,Martins H,1744.0,1758.0,631.0
+Gwinnett,31,Hog Mountain D,1648.0,1783.0,547.0
+Gwinnett,108,Baycreek E,1642.0,1854.0,624.0
+Gwinnett,122,Rockbridge G,1736.0,1782.0,638.0
+Gwinnett,32,Berkshire D,1750.0,1784.0,548.0
+Gwinnett,24,Sugar Hill A,1706.0,1770.0,540.0
+Gwinnett,33,Berkshire E,1732.0,1786.0,549.0
+Gwinnett,116,Martins I,1694.0,1757.0,632.0
+Gwinnett,109,Berkshire M,1718.0,1858.0,625.0
+Gwinnett,54,Sugar Hill C,1643.0,1815.0,570.0
+Gwinnett,123,Pinckneyville Y,1778.0,1781.0,639.0
+Gwinnett,34,Berkshire F,1762.0,1807.0,550.0
+Gwinnett,53,Cates H,1625.0,1814.0,569.0
+Gwinnett,35,Cates D,1651.0,1829.0,551.0
+Gwinnett,52,Berkshire G,1671.0,1813.0,568.0
+Gwinnett,99,Pinckneyville T,1699.0,1712.0,615.0
+Gwinnett,98,Goodwins F,1665.0,1744.0,614.0
+Gwinnett,56,Duluth C,1765.0,1825.0,572.0
+Gwinnett,60,Lawrenceville D,1693.0,1806.0,576.0
+Gwinnett,97,Goodwins E,1753.0,1743.0,613.0
+Gwinnett,136,Hog Mountain C,1724.0,1847.0,652.0
+Gwinnett,119,Berkshire O,1734.0,1730.0,635.0
+Gwinnett,69,Cates J,1668.0,1720.0,585.0
+Gwinnett,68,Cates I,1759.0,1713.0,584.0
+Gwinnett,8,Duncans A,1701.0,1778.0,524.0
+Gwinnett,110,Martins G,1677.0,1857.0,626.0
+Gwinnett,137,Rockycreek B,1731.0,1766.0,653.0
+Gwinnett,102,Pucketts B,1630.0,1856.0,618.0
+Gwinnett,67,Pucketts E,1640.0,1727.0,583.0
+Gwinnett,70,Goodwins B,1692.0,1704.0,586.0
+Gwinnett,138,Duluth I,1761.0,1706.0,654.0
+Gwinnett,71,Lawrenceville F,1748.0,1709.0,587.0
+Gwinnett,44,Rockbridge B,1749.0,1842.0,560.0
+Gwinnett,73,Pinckneyville P,1772.0,1725.0,589.0
+Gwinnett,74,Pinckneyville Q,1711.0,1765.0,590.0
+Gwinnett,66,Pinckneyville O,1754.0,1729.0,582.0
+Gwinnett,135,Pucketts C,1635.0,1707.0,651.0
+Gwinnett,9,Pucketts A,1649.0,1804.0,525.0
+Gwinnett,111,Duluth H,1766.0,1848.0,627.0
+Gwinnett,134,Baycreek F,1682.0,1703.0,650.0
+Gwinnett,18,Martins B,1670.0,1800.0,534.0
+Gwinnett,16,Lawrenceville B,1674.0,1798.0,532.0
+Gwinnett,15,Lawrenceville A,1676.0,1805.0,531.0
+Gwinnett,130,Suwanee D,1641.0,1826.0,646.0
+Gwinnett,14,Garners A,1667.0,1797.0,530.0
+Gwinnett,19,Martins C,1774.0,1801.0,535.0
+Gwinnett,13,Duncans C,1740.0,1795.0,529.0
+Gwinnett,7,Duluth A,1690.0,1726.0,523.0
+Gwinnett,12,Berkshire B,1708.0,1794.0,528.0
+Gwinnett,101,Pinckneyville U,1741.0,1851.0,617.0
+Gwinnett,10,Cates A,1768.0,1792.0,526.0
+Gwinnett,131,Suwanee E,1745.0,1809.0,647.0
+Gwinnett,88888,Absentee (domestic),,1716.0,
+Gwinnett,132,Lawrenceville K,1638.0,1728.0,648.0
+Gwinnett,41,Baycreek B,1657.0,1839.0,557.0
+Gwinnett,133,Harbins B,1629.0,1723.0,649.0
+Gwinnett,11,Berkshire A,1709.0,1793.0,527.0
+Gwinnett,75,Rockbridge C,1650.0,1731.0,591.0
+Gwinnett,72,Martins E,1715.0,1705.0,588.0
+Gwinnett,141,Sugar Hill G,1707.0,1721.0,657.0
+Gwinnett,79,Cates K,1687.0,1753.0,595.0
+Gwinnett,120,Berkshire P,1652.0,1816.0,636.0
+Gwinnett,139,Martins K,1695.0,1710.0,655.0
+Gwinnett,61,Lawrenceville E,1661.0,1759.0,577.0
+Gwinnett,103,Berkshire L,1710.0,1859.0,619.0
+Gwinnett,142,Suwanee F,1655.0,1714.0,658.0
+Gwinnett,45,Garners B,1698.0,1843.0,561.0
+Gwinnett,143,Lawrenceville L,1653.0,1768.0,659.0
+Gwinnett,144,Lawrenceville M,1696.0,1824.0,660.0
+Gwinnett,145,Baycreek G,1679.0,1823.0,661.0
+Gwinnett,146,Baycreek H,1645.0,1822.0,662.0
+Gwinnett,104,Rockbridge F,1697.0,1852.0,620.0
+Gwinnett,46,Cates F,1775.0,1844.0,562.0
+Gwinnett,47,Cates G,1703.0,1828.0,563.0
+Gwinnett,48,Duluth B,1628.0,1836.0,564.0
+Gwinnett,49,Garners C,1728.0,1827.0,565.0
+Gwinnett,27,Hog Mountain B,1678.0,1774.0,543.0
+Gwinnett,140,Suwanee H,1639.0,1722.0,656.0
+Gwinnett,78,Baycreek K,1646.0,1752.0,594.0
+Gwinnett,17,Martins A,1755.0,1799.0,533.0
+Gwinnett,64,Garners D,1624.0,1719.0,580.0
+Gwinnett,62,Pinckneyville L,1721.0,1717.0,578.0
+Gwinnett,76,Rockbridge D,1681.0,1750.0,592.0
+Gwinnett,4,Suwanee A,1758.0,1733.0,520.0
+Gwinnett,5,Baycreek A,1770.0,1708.0,521.0
+Gwinnett,65,Berkshire H,1767.0,1724.0,581.0
+Gwinnett,28,Rockycreek A,1632.0,1775.0,544.0
+Gwinnett,100,Suwanee B,1684.0,1849.0,616.0
+Gwinnett,40,Pinckneyville H,1654.0,1838.0,556.0
+Gwinnett,77,Goodwins C,1746.0,1751.0,593.0
+Gwinnett,6,Goodwins A,1717.0,1711.0,522.0
+Gwinnett,63,Pinckneyville M,1722.0,1718.0,579.0
+Gwinnett,29,Cates B,1760.0,1777.0,545.0
+Gwinnett,43,Martins D,1739.0,1841.0,559.0
+Habersham,2,Habersham South,1785.0,1867.0,771.0
+Habersham,4,Town Of Mount Airy,1786.0,1868.0,773.0
+Habersham,6,Mud Creek,1780.0,1862.0,775.0
+Habersham,99999,Absentee (outside US),,1864.0,
+Habersham,88888,Absentee (domestic),,1863.0,
+Habersham,7,Amys Creek,1783.0,1866.0,776.0
+Habersham,1,Habersham North,1781.0,1860.0,770.0
+Habersham,3,Demorest,1782.0,1861.0,772.0
+Habersham,5,City Of Baldwin,1784.0,1865.0,774.0
+Hall,19,Whelchel,1795.0,1871.0,2143.0
+Hall,67,,,1891.0,
+Hall,24,Gainesville IV,1817.0,1890.0,2148.0
+Hall,25,Gainesville V,1800.0,1896.0,2149.0
+Hall,18,,1804.0,1875.0,2142.0
+Hall,1,Wilson,1788.0,1902.0,2125.0
+Hall,2,Chicopee,1813.0,1898.0,2126.0
+Hall,4,,,1887.0,
+Hall,16,Bark Camp,1794.0,1877.0,2140.0
+Hall,21,Gainesville I,1802.0,1873.0,2145.0
+Hall,29,Friendship II,1801.0,1892.0,2153.0
+Hall,3,Oakwood I,1798.0,1895.0,2127.0
+Hall,4,Oakwood II,1791.0,1894.0,2128.0
+Hall,28,Friendship I,1815.0,1903.0,2152.0
+Hall,22,Gainesville II,1816.0,1869.0,2146.0
+Hall,5,Flowery Branch I,1797.0,1901.0,2129.0
+Hall,6,Flowery Branch II,1808.0,1870.0,2130.0
+Hall,26,Gillsville,1789.0,1899.0,2150.0
+Hall,154,,,1881.0,
+Hall,23,Gainesville III,1806.0,1880.0,2147.0
+Hall,17,Chestatee,1793.0,1889.0,2141.0
+Hall,7,Roberts,1796.0,1874.0,2131.0
+Hall,20,West Whelchel,1809.0,1872.0,2144.0
+Hall,30,Friendship III,1814.0,1893.0,2154.0
+Hall,9,Morgan II,1807.0,1888.0,2133.0
+Hall,31,Friendship IV,1805.0,1897.0,2155.0
+Hall,88888,Absentee (domestic),,1885.0,
+Hall,10,Candler,1812.0,1886.0,2134.0
+Hall,11,Tadmore,1811.0,1884.0,2135.0
+Hall,12,Glade,1799.0,1882.0,2136.0
+Hall,13,,1790.0,1876.0,2137.0
+Hall,14,Clermont,1787.0,1879.0,2138.0
+Hall,15,Quillians,1792.0,1878.0,2139.0
+Hall,8,Morgan I,1810.0,1883.0,2132.0
+Hall,27,Big Hickory,1803.0,1900.0,2151.0
+Hancock,1A,Devereux Fire Station,1823.0,1914.0,1902.0
+Hancock,88888,Absentee (domestic),,1915.0,
+Hancock,3A,Mayfield Community Center,1821.0,1910.0,1906.0
+Hancock,3B,Power Of God,1826.0,1905.0,1907.0
+Hancock,3C,Warren Chapel,1824.0,1904.0,1908.0
+Hancock,4C,Sparta,1825.0,1908.0,1911.0
+Hancock,99999,Absentee (outside US),,1912.0,
+Hancock,1B,St. Mark,1827.0,1906.0,1903.0
+Hancock,4A,Youth Center,1818.0,1907.0,1909.0
+Hancock,2B,Second Beulah,1822.0,1909.0,1905.0
+Hancock,2A,Courthouse,1820.0,1911.0,1904.0
+Hancock,4B,Second Darrien,1819.0,1913.0,1910.0
+Haralson,3,Buchanan,1830.0,1921.0,2641.0
+Haralson,13,,1834.0,1916.0,2651.0
+Haralson,12,Tallapoosa,1829.0,1918.0,2650.0
+Haralson,5,Corinth,1835.0,1926.0,2643.0
+Haralson,10,Seventh,1828.0,1927.0,2648.0
+Haralson,8,Little Creek,1832.0,1923.0,2646.0
+Haralson,6,Twentieth,1837.0,1922.0,2644.0
+Haralson,2,Bremen,1833.0,1924.0,2640.0
+Haralson,9,Mt View,1836.0,1925.0,2647.0
+Haralson,11,Berea-Steadman,1838.0,1920.0,2649.0
+Haralson,4,Buncombe,1839.0,1919.0,2642.0
+Haralson,7,Felton,1831.0,1917.0,2645.0
+Harris,WH,Waverly Hall,1845.0,1930.0,683.0
+Harris,88888,Absentee (domestic),,1936.0,
+Harris,Whitesville,Whitesville,1849.0,1929.0,684.0
+Harris,MG,Mulberry Grove,1846.0,1933.0,678.0
+Harris,106,,,1939.0,
+Harris,PV,Pine Mountain Valley,1842.0,1940.0,679.0
+Harris,Cataula,Cataula,1850.0,1934.0,673.0
+Harris,VP,Valley Plains,1843.0,1935.0,682.0
+Harris,L9,Lower 1h,1844.0,1932.0,677.0
+Harris,Ellerslie,Ellerslie,1851.0,1941.0,674.0
+Harris,Skinner,Skinner,1848.0,1931.0,680.0
+Harris,U9,Upper 1h,1847.0,1937.0,681.0
+Harris,GM,Goodman,1841.0,1928.0,675.0
+Harris,Hamilton,Hamilton,1840.0,1938.0,676.0
+Hart,7,Shoal Creek,1856.0,1945.0,1940.0
+Hart,8,,1858.0,1942.0,1941.0
+Hart,4,Cokesbury,1857.0,1947.0,1937.0
+Hart,3,Goldmine,1853.0,1943.0,1936.0
+Hart,5,Reed Creek,1852.0,1946.0,1938.0
+Hart,6,Bowersville,1854.0,1944.0,1939.0
+Hart,2,Hartwell,1855.0,1948.0,1935.0
+Heard,Franklin,Franklin,1859.0,1952.0,1882.0
+Heard,99999,Absentee (outside US),,1951.0,
+Heard,Southwest,Southwest,1860.0,1950.0,1883.0
+Heard,EG,Enon Grove,1863.0,1949.0,1880.0
+Heard,Centralhatchee,Centralhatchee,1861.0,1953.0,1878.0
+Heard,C-C,Cooksville - Corinth,1862.0,1955.0,1879.0
+Heard,Ephesus,Ephesus,1864.0,1954.0,1881.0
+Henry,88888,Absentee (domestic),,1957.0,
+Henry,295,,,1956.0,
+Henry,42,Cotton Indian,1867.0,1979.0,1357.0
+Henry,29,Lowes,1873.0,1963.0,1345.0
+Henry,33,Red Oak,1878.0,2000.0,1349.0
+Henry,34,Wesley Lakes,1885.0,1999.0,1350.0
+Henry,35,Mcdonough,1877.0,1966.0,1351.0
+Henry,37,East Lake,1876.0,1996.0,1353.0
+Henry,41,Stagecoach,1896.0,1968.0,1356.0
+Henry,28,Westside,1881.0,1980.0,1344.0
+Henry,30,South Hampton,1871.0,1993.0,1346.0
+Henry,38,Hickory Flat,1900.0,1994.0,1354.0
+Henry,12a,,,1967.0,
+Henry,Ss09b,,,1985.0,
+Henry,39,Stockbridge East-West,1893.0,1992.0,1355.0
+Henry,31,North Hampton,1866.0,1989.0,1347.0
+Henry,36,Mcmullen,1888.0,1995.0,1352.0
+Henry,32,Mount Carmel,1883.0,1998.0,1348.0
+Henry,60,Lake Haven,1884.0,1988.0,1375.0
+Henry,43,Pleasant Grove,1894.0,1975.0,1358.0
+Henry,61,Mcdonough Central,1880.0,1984.0,1376.0
+Henry,62,Timberridge,1895.0,1983.0,1377.0
+Henry,59,Grove Park,1870.0,1982.0,1374.0
+Henry,58,Mt. Bethel,1874.0,1981.0,1373.0
+Henry,57,Dutchtown,1890.0,1991.0,1372.0
+Henry,56,Lighthouse,1898.0,1990.0,1371.0
+Henry,99999,Absentee (outside US),,1986.0,
+Henry,55,Kelleytown,1889.0,1958.0,1370.0
+Henry,54,Stockbridge Central,1869.0,1978.0,1369.0
+Henry,53,Flippen,1901.0,1965.0,1368.0
+Henry,52,Lake Dow,1872.0,1974.0,1367.0
+Henry,50,Pates Creek,1875.0,1987.0,1365.0
+Henry,Gb,Gb,,1997.0,
+Henry,Le,Le,,1961.0,
+Henry,Lj3,,,1964.0,
+Henry,51,Oakland,1865.0,1959.0,1366.0
+Henry,44,Austin Road,1886.0,1976.0,1359.0
+Henry,46,Shakerag,1899.0,1973.0,1361.0
+Henry,45,Swan Lake,1892.0,1962.0,1360.0
+Henry,49,Shiloh,1897.0,1969.0,1364.0
+Henry,25,Locust Grove,1868.0,1971.0,1341.0
+Henry,48,Unity Grove,1882.0,1970.0,1363.0
+Henry,47,Ellenwood,1891.0,1972.0,1362.0
+Henry,26,Tussahaw,1879.0,1977.0,1342.0
+Henry,27,Sandy Ridge,1887.0,1960.0,1343.0
+Houston,Annx,Annx,1902.0,2018.0,1322.0
+Houston,Hefs,Hefs,1905.0,2010.0,1329.0
+Houston,Nses,Nses,1909.0,2013.0,1332.0
+Houston,Recr,Recr,1913.0,2002.0,1333.0
+Houston,Bms,Bms,1910.0,2016.0,1323.0
+Houston,88888,Absentee (domestic),,2017.0,
+Houston,Hhpc,Hhpc,1917.0,2008.0,1330.0
+Houston,Hctc,Hctc,1911.0,2014.0,1328.0
+Houston,Hafs,Hafs,1904.0,2011.0,1327.0
+Houston,99999,Absentee (outside US),,2004.0,
+Houston,Rozr,Rozr,1906.0,2019.0,1334.0
+Houston,Mcms,Mcms,1916.0,2006.0,1331.0
+Houston,Twpk,Twpk,1912.0,2015.0,1336.0
+Houston,Cent,Cent,1903.0,2005.0,1324.0
+Houston,Fmms,Fmms,1914.0,2001.0,1326.0
+Houston,Cgtc,Cgtc,1908.0,2012.0,1325.0
+Houston,Tms,Tms,1915.0,2009.0,1335.0
+Houston,Vhs,Vhs,1907.0,2007.0,1337.0
+Houston,5,,,2003.0,
+Irwin,88888,Absentee (domestic),,2023.0,
+Irwin,901,Irwinville,1918.0,2024.0,1283.0
+Irwin,1529,Ocilla,1919.0,2021.0,1284.0
+Irwin,99999,Absentee (outside US),,2020.0,
+Irwin,Holt,Holt,1920.0,2022.0,1285.0
+Jackson,1000,Central Jackson,1921.0,2028.0,2652.0
+Jackson,2000,North Jackson,1924.0,2027.0,2653.0
+Jackson,3000,West Jackson,1923.0,2029.0,2654.0
+Jackson,88888,Absentee (domestic),,2025.0,
+Jackson,4000,South Jackson,1922.0,2026.0,2655.0
+Jasper,295,Monticello,1926.0,2031.0,2228.0
+Jasper,88888,Absentee (domestic),,2032.0,
+Jasper,296,Martin & Burney,1925.0,2030.0,2229.0
+Jasper,290,Wyatt,1927.0,2033.0,2227.0
+Jeff Davis,501,Ocmulgee 1,1931.0,2042.0,721.0
+Jeff Davis,502,Ocmulgee 2,1930.0,2034.0,722.0
+Jeff Davis,402,Whitehead 2,1929.0,2041.0,720.0
+Jeff Davis,401,Whitehead 1,1928.0,2035.0,719.0
+Jeff Davis,302,Blackburn 2,1934.0,2039.0,718.0
+Jeff Davis,301,Blackburn 1,1935.0,2037.0,717.0
+Jeff Davis,202,Altamaha 2,1933.0,2038.0,716.0
+Jeff Davis,201,Altamaha 1,1936.0,2036.0,715.0
+Jeff Davis,100,Hazlehurst,1932.0,2040.0,714.0
+Jefferson,76,Stapleton Crossroads,1937.0,2044.0,1084.0
+Jefferson,1593,Avera,1941.0,2043.0,1091.0
+Jefferson,88888,Absentee (domestic),,2052.0,
+Jefferson,83,Wadley,1938.0,2046.0,1088.0
+Jefferson,1460,Stapleton,1942.0,2051.0,1090.0
+Jefferson,77,Matthews,1943.0,2050.0,1085.0
+Jefferson,85,Bartow,1940.0,2048.0,1089.0
+Jefferson,82,Louisville,1939.0,2047.0,1087.0
+Jefferson,99999,Absentee (outside US),,2049.0,
+Jefferson,81,Wrens,1944.0,2045.0,1086.0
+Jenkins,2,Court House,1949.0,2056.0,2027.0
+Jenkins,88888,Absentee (domestic),,2053.0,
+Jenkins,4,Senior Citizens Center,1945.0,2057.0,2029.0
+Jenkins,5,Four Points,1948.0,2055.0,2030.0
+Jenkins,1,Jenkins Co Prim/elem,1946.0,2058.0,
+Jenkins,99999,Absentee (outside US),,2054.0,
+Jenkins,3,Perkins,1947.0,2059.0,2028.0
+Jenkins,PS,Primary School,,,2026.0
+Johnson,Bray,Bray,1950.0,2061.0,2093.0
+Johnson,55,,1951.0,2060.0,2094.0
+Johnson,1266,Smith,1953.0,2063.0,2092.0
+Johnson,1201,Wrightsville,1952.0,2062.0,2091.0
+Jones,1,,1958.0,2070.0,41.0
+Jones,4,Davidson,1954.0,2071.0,46.0
+Jones,9,Finney,1957.0,2064.0,50.0
+Jones,10,Hawkins,1961.0,2073.0,42.0
+Jones,3,Roberts,1962.0,2066.0,45.0
+Jones,8,Sanders,1956.0,2072.0,49.0
+Jones,5,,1955.0,2069.0,47.0
+Jones,2,Clinton,1963.0,2068.0,44.0
+Jones,11,Ethridge,1960.0,2067.0,43.0
+Jones,6,Barron,1959.0,2065.0,48.0
+Lamar,88888,Absentee (domestic),,2080.0,
+Lamar,1713,L C S C,1965.0,2074.0,1290.0
+Lamar,1712C,Redbone,1967.0,2076.0,1289.0
+Lamar,1712B,Senior Citizen Bldg,1968.0,2078.0,1288.0
+Lamar,1712A,Chappell Mill V. Fd,1966.0,2079.0,1287.0
+Lamar,1714,Milner,1964.0,2075.0,1291.0
+Lamar,1711,Barnesville Fbc,1969.0,2077.0,1286.0
+Lanier,88888,Absentee (domestic),,2082.0,
+Lanier,1,Lakeland,1970.0,2081.0,1473.0
+Laurens,4,Calhoun Park,1986.0,2089.0,912.0
+Laurens,12,Dudley,1985.0,2094.0,918.0
+Laurens,5,Fire Dept Sta #5,1972.0,2100.0,913.0
+Laurens,13,Hampton Mill,1977.0,2083.0,919.0
+Laurens,15,Minter,1978.0,2088.0,921.0
+Laurens,10,Cadwell,1971.0,2090.0,916.0
+Laurens,22,Lcfs #10 (valambrosia),1982.0,2091.0,926.0
+Laurens,21,Smith,1973.0,2092.0,925.0
+Laurens,3,Family Life Center,1984.0,2093.0,
+Laurens,Fbc-Flc,Fbc-Flc,,,911.0
+Laurens,7,Buckeye,1979.0,2084.0,914.0
+Laurens,14,Harvard,1974.0,2096.0,920.0
+Laurens,#18,W T Adams Fire Sta #18,1980.0,2098.0,923.0
+Laurens,16,Rural Fire Sta #17,1976.0,2086.0,922.0
+Laurens,88888,Absentee (domestic),,2095.0,
+Laurens,99999,Absentee (outside US),,2087.0,
+Laurens,19,Reedy Springs,1975.0,2099.0,924.0
+Laurens,8,Burch,1981.0,2097.0,915.0
+Laurens,11,Brewton,1983.0,2085.0,917.0
+Lee,9,Century Fire Station,1993.0,2109.0,834.0
+Lee,#4,#4 Leesburg,1991.0,2103.0,829.0
+Lee,FRB,Flint Reformed Baptist,,,833.0
+Lee,#6,#6 First Baptist,1995.0,2113.0,831.0
+Lee,#8,#8 Sovereign Grace,1994.0,2105.0,
+Lee,1,,,2108.0,
+Lee,#7,#7 Sda Church,1996.0,2101.0,832.0
+Lee,#5,#5 Friendship Bapt.,1988.0,2107.0,830.0
+Lee,#2,#2 Smithville,1989.0,2112.0,827.0
+Lee,99999,Absentee (outside US),,2106.0,
+Lee,#1,#1 Chokee,1987.0,2110.0,825.0
+Lee,#10,#10 Redbone,1990.0,2102.0,826.0
+Lee,2,,,2111.0,
+Lee,#3,#3 Cjc,1992.0,2104.0,
+Lee,Cjc,Cjc,,,828.0
+Liberty,12,Memorial Dr. East,2004.0,2117.0,1524.0
+Liberty,2,Hinesville,2007.0,2118.0,1527.0
+Liberty,9,Hinesville Lodge 271,2006.0,2123.0,1533.0
+Liberty,7,Gum Branch,2003.0,2119.0,1532.0
+Liberty,5,Fleming West,2008.0,2124.0,1530.0
+Liberty,6,Fleming East,1998.0,2125.0,1531.0
+Liberty,99999,Absentee (outside US),,2120.0,
+Liberty,1,Riceboro Youth Center,1999.0,2128.0,1521.0
+Liberty,11,Lewis Frasier School,2001.0,2122.0,1523.0
+Liberty,88888,Absentee (domestic),,2114.0,
+Liberty,4,Walthourville,2009.0,2116.0,1529.0
+Liberty,13,Button Gwinnett,1997.0,2121.0,1525.0
+Liberty,14,Town Of Allenhurst,2002.0,2127.0,1526.0
+Liberty,3,Liberty County Complex,2000.0,2115.0,1528.0
+Liberty,10,Lyman Hall School,2005.0,2126.0,1522.0
+Lincoln,88888,Absentee (domestic),,2133.0,
+Lincoln,3-A,Faith Temple Of Lincoln,2016.0,2132.0,747.0
+Lincoln,3-B,Tabernacle,2012.0,2130.0,748.0
+Lincoln,1-A,Midway,2013.0,2136.0,744.0
+Lincoln,2,Lincoln Center,2015.0,2131.0,746.0
+Lincoln,1-B,Lincoln Club House,2014.0,2135.0,745.0
+Lincoln,4-B,Martins Crossroad,2010.0,2129.0,750.0
+Lincoln,4-A,Bethany Church,2011.0,2134.0,749.0
+Long,99999,Absentee (outside US),,2141.0,
+Long,88888,Absentee (domestic),,2145.0,
+Long,4,North Ludowici,2022.0,2143.0,1671.0
+Long,6,Alma Flournoy,2023.0,2138.0,1673.0
+Long,3,South Ludowici,2021.0,2137.0,1670.0
+Long,2,Rye Patch/oak Dale,2020.0,2144.0,1669.0
+Long,7,Faith Baptist Annex,2018.0,2140.0,1674.0
+Long,1,Beards Creek,2017.0,2142.0,1668.0
+Long,5,Tibet,2019.0,2139.0,1672.0
+Lowndes,6,Mildred,2031.0,2150.0,2046.0
+Lowndes,7,Clyattville,2028.0,2155.0,2047.0
+Lowndes,2,Vsu Uc # 2,,,2050.0
+Lowndes,88888,Absentee (domestic),,2153.0,
+Lowndes,8,Dasher,2026.0,2148.0,2048.0
+Lowndes,99999,Absentee (outside US),,2152.0,
+Lowndes,5,Rainwater,2030.0,2154.0,2045.0
+Lowndes,4,Naylor,2032.0,2156.0,2044.0
+Lowndes,1,Hahira Train Depot,2029.0,2146.0,2041.0
+Lowndes,NA,Northgate Assembly,,,2052.0
+Lowndes,JS,Jaycee Shack,,,2051.0
+Lowndes,MC,Mt Calvary,,,2053.0
+Lowndes,3,Northside,2025.0,2149.0,2043.0
+Lowndes,2,Trinity,2027.0,2147.0,2042.0
+Lowndes,9,S Lowndes,2024.0,2151.0,2049.0
+Lumpkin,99999,Absentee (outside US),,2158.0,
+Lumpkin,Dahlonega,Dahlonega,2033.0,2157.0,1220.0
+Macon,#5,Montezuma #5,2036.0,2160.0,965.0
+Macon,3,Marshallville,2037.0,2159.0,963.0
+Macon,88888,Absentee (domestic),,2161.0,
+Macon,#4,Montezuma #4,2038.0,2162.0,964.0
+Macon,1,Ideal,2035.0,2163.0,961.0
+Macon,2,Oglethorpe,2034.0,2164.0,962.0
+Madison,Pittman,Pittman,2041.0,2176.0,1435.0
+Madison,Paoli,Paoli,2046.0,2173.0,1434.0
+Madison,Poc,Poc,2045.0,2172.0,1436.0
+Madison,Comer,Comer,2050.0,2169.0,1427.0
+Madison,Hul,Hul,2043.0,2165.0,1431.0
+Madison,Ila,Ila,2044.0,2167.0,1432.0
+Madison,Harrison,Harrison,2049.0,2166.0,1430.0
+Madison,Danielsville,Danielsville,2042.0,2175.0,1428.0
+Madison,Collins,Collins,2048.0,2171.0,1426.0
+Madison,COB,Colbert,2039.0,2174.0,1425.0
+Madison,Mil,Mil,2047.0,2170.0,1433.0
+Madison,For,For,2040.0,2168.0,1429.0
+Marion,99999,Absentee (outside US),,2182.0,
+Marion,808,Tazewell,2055.0,2183.0,1294.0
+Marion,339,Pineknot,2054.0,2180.0,1292.0
+Marion,948,Brantley,2052.0,2177.0,1295.0
+Marion,88888,Absentee (domestic),,2181.0,
+Marion,807,Buena Vista,2051.0,2178.0,1293.0
+Marion,955,Fort Perry,2053.0,2179.0,1296.0
+Mcduffie,88888,Absentee (domestic),,2192.0,
+Mcduffie,135,,2057.0,2191.0,1987.0
+Mcduffie,134,,2058.0,2185.0,1986.0
+Mcduffie,99999,Absentee (outside US),,2184.0,
+Mcduffie,133b,,2064.0,2188.0,1985.0
+Mcduffie,132,,2056.0,2194.0,1983.0
+Mcduffie,133a,,2063.0,2190.0,1984.0
+Mcduffie,137,,2062.0,2187.0,1989.0
+Mcduffie,136,,2059.0,2189.0,1988.0
+Mcduffie,131,,2061.0,2193.0,1982.0
+Mcduffie,139,,2060.0,2186.0,1990.0
+Mcintosh,88888,Absentee (domestic),,2198.0,
+Mcintosh,99999,Absentee (outside US),,2202.0,
+Mcintosh,271,North Darien,2065.0,2201.0,1147.0
+Mcintosh,1312,Sapelo Island,2068.0,2197.0,1142.0
+Mcintosh,1771,Darien,2067.0,2199.0,1145.0
+Mcintosh,22,South Newport,2066.0,2196.0,1146.0
+Mcintosh,1515,Crescent,2070.0,2200.0,1144.0
+Mcintosh,1480,Townsend,2069.0,2195.0,1143.0
+Meriwether,Woodbury,Woodbury,,,786.0
+Meriwether,1,Chalybeate,2080.0,2203.0,777.0
+Meriwether,14,,2082.0,2211.0,790.0
+Meriwether,12,Third-Durand,2079.0,2207.0,
+Meriwether,13,Raleigh,2073.0,2204.0,789.0
+Meriwether,3,Gill II,2081.0,2212.0,779.0
+Meriwether,11,D-Warm Springs,2071.0,2206.0,787.0
+Meriwether,4,H-Odessadale,2084.0,2209.0,780.0
+Meriwether,2,Gill I,2083.0,2213.0,778.0
+Meriwether,9,Middle H-Gay,2078.0,2208.0,
+Meriwether,8,Upper H -Alvaton,2075.0,2210.0,
+Meriwether,7,Luthersville,2076.0,2216.0,783.0
+Meriwether,Alvaton,Alvaton,,,784.0
+Meriwether,6,Lone Oak,2074.0,2214.0,782.0
+Meriwether,10,Lower H-Woodbury,2072.0,2205.0,
+Meriwether,5,H-Greenville,2077.0,2215.0,781.0
+Meriwether,Durand,Durand,,,788.0
+Meriwether,Gay,Gay,,,785.0
+Miller,88888,Absentee (domestic),,2218.0,
+Miller,1,Colquitt-Miller,2085.0,2217.0,1534.0
+Mitchell,Baconton,Baconton,2095.0,2223.0,807.0
+Mitchell,CN,Camilla North,2090.0,2219.0,809.0
+Mitchell,Pelham,Pelham,2086.0,2230.0,816.0
+Mitchell,PC,Pebble City,2092.0,2220.0,815.0
+Mitchell,LS,Lester,2087.0,2224.0,814.0
+Mitchell,88888,Absentee (domestic),,2221.0,
+Mitchell,CT,Cotton,2088.0,2226.0,811.0
+Mitchell,CS,Camilla South,2096.0,2225.0,810.0
+Mitchell,HF,Hopeful,2091.0,2229.0,812.0
+Mitchell,Hinsonton,Hinsonton,2094.0,2228.0,813.0
+Mitchell,BV,Branchville,2089.0,2227.0,808.0
+Mitchell,SC,Sale City,2093.0,2222.0,817.0
+Monroe,8,Evers,2099.0,2242.0,1240.0
+Monroe,10,High Falls,2102.0,2241.0,1242.0
+Monroe,7,Dillards,2097.0,2243.0,1239.0
+Monroe,5,,2103.0,2234.0,1237.0
+Monroe,88888,Absentee (domestic),,2245.0,
+Monroe,12,Middlebrooks,2101.0,2238.0,1244.0
+Monroe,3,Burgays,2107.0,2233.0,1235.0
+Monroe,2,Brantleys,2106.0,2236.0,1234.0
+Monroe,6,Culloden,2098.0,2237.0,1238.0
+Monroe,1,Bentons,2110.0,2240.0,1233.0
+Monroe,9,Forsyth,2100.0,2244.0,1241.0
+Monroe,14,Russellville,2104.0,2232.0,1246.0
+Monroe,13,Proctors,2108.0,2239.0,1245.0
+Monroe,4,Cabaniss,2105.0,2235.0,1236.0
+Monroe,11,Kelseys,2109.0,2231.0,1243.0
+Montgomery,4,Kibbee,2117.0,2246.0,688.0
+Montgomery,6,Tarrytown,2114.0,2249.0,690.0
+Montgomery,7,Uvalda,2112.0,2252.0,691.0
+Montgomery,2,Alston,2115.0,2247.0,686.0
+Montgomery,1,Ailey,2116.0,2251.0,685.0
+Montgomery,3,Higgston,2113.0,2250.0,687.0
+Montgomery,5,Mount Vernon,2111.0,2248.0,689.0
+Morgan,3,3. Beth/springfield,2123.0,2260.0,2033.0
+Morgan,5,5. Clacks Chapel,2120.0,2258.0,2035.0
+Morgan,99999,Absentee (outside US),,2257.0,
+Morgan,4,4. Central Morgan,2118.0,2254.0,2034.0
+Morgan,1,1. Northeast Morgan,2122.0,2259.0,2031.0
+Morgan,6,6. West Morgan,2124.0,2261.0,2036.0
+Morgan,7,7. North Morgan,2119.0,2256.0,2037.0
+Morgan,88888,Absentee (domestic),,2255.0,
+Morgan,2,2. East Morgan,2121.0,2253.0,2032.0
+Murray,874,North,2129.0,2267.0,1934.0
+Murray,1895,Spring Place,2127.0,2264.0,1931.0
+Murray,872,Carters-Doolittle,2126.0,2270.0,1933.0
+Murray,824,,2128.0,2269.0,1932.0
+Murray,1039,Shuck Pen,2130.0,2265.0,1929.0
+Murray,1291,Southwest,2131.0,2262.0,1930.0
+Murray,88888,Absentee (domestic),,2263.0,
+Murray,Ni,Ni,,2266.0,
+Murray,1013,Mcdonald,2125.0,2268.0,1928.0
+Muscogee,127,Psalmond/mathews,2134.0,2293.0,1203.0
+Muscogee,126,Edgewood Baptist,2157.0,2280.0,1202.0
+Muscogee,121,Salvation Army,2138.0,2281.0,1198.0
+Muscogee,125,Marianna Gallops,2146.0,2275.0,1201.0
+Muscogee,106,Cornerstone,2143.0,2272.0,1184.0
+Muscogee,110,Cusseta Rd,2156.0,2287.0,1188.0
+Muscogee,88888,Absentee (domestic),,2295.0,
+Muscogee,103,St John/belvedere,2153.0,2276.0,1181.0
+Muscogee,122,First African,2137.0,2291.0,1199.0
+Muscogee,124,Epworth Umc,2149.0,2278.0,1200.0
+Muscogee,108,St Mark/heiferhorn,2148.0,2297.0,1186.0
+Muscogee,104,Britt David,2154.0,2286.0,1182.0
+Muscogee,Canaan,Canaan,,,1192.0
+Muscogee,105,St. Peter,2144.0,2283.0,1183.0
+Muscogee,112,Our Lady Of Lourdes,2136.0,2289.0,1189.0
+Muscogee,HV,Holsey/buena Vista,,,1193.0
+Muscogee,109,Wynnbrook,2135.0,2290.0,1187.0
+Muscogee,116,Rothschild,2132.0,2288.0,
+Muscogee,120,St Andrews/midland,2141.0,2271.0,1197.0
+Muscogee,FBMR(V,Fort Benning Military Reservation (no Vot,2133.0,,
+Muscogee,102,Carver/mack,2151.0,2273.0,1180.0
+Muscogee,107,Columbus Tech,2140.0,2274.0,1185.0
+Muscogee,115,Fort/waddell,2152.0,2294.0,
+Muscogee,117,Gentian/reese @lds,2150.0,2285.0,1194.0
+Muscogee,114,Faith Tabernacle,2147.0,2279.0,1191.0
+Muscogee,99999,Absentee (outside US),,2277.0,
+Muscogee,118,St Paul/clubview,2142.0,2284.0,1195.0
+Muscogee,119,Moon/morningside,2139.0,2292.0,1196.0
+Muscogee,113,Mt Pilgrim,2145.0,2282.0,1190.0
+Muscogee,101,Wynnton/britt,2155.0,2296.0,1179.0
+Newton,14,Leguinn,2176.0,2309.0,1104.0
+Newton,8,Cedar Shoals,2171.0,2305.0,1099.0
+Newton,418,,,2311.0,
+Newton,25,,2173.0,2304.0,1113.0
+Newton,12,Gum Creek,2168.0,2303.0,1102.0
+Newton,10,Downs,2178.0,2320.0,1101.0
+Newton,15,Mansfield,2177.0,2306.0,1105.0
+Newton,9,Livingston,2160.0,2299.0,1100.0
+Newton,6,Brewers,2167.0,2298.0,1097.0
+Newton,4,Alcovy,2169.0,2319.0,1095.0
+Newton,1,City Pond,2162.0,2318.0,1092.0
+Newton,19,Buck Creek,2172.0,2314.0,1109.0
+Newton,17,Oxford,2163.0,2317.0,1107.0
+Newton,16,Newborn,2166.0,2302.0,1106.0
+Newton,20,Stansells,2165.0,2310.0,1110.0
+Newton,2,,2164.0,2316.0,1093.0
+Newton,13,Beaverdam,2159.0,2315.0,1103.0
+Newton,5,Covington Mills,2179.0,2307.0,1096.0
+Newton,23,Fairview,2174.0,2300.0,1111.0
+Newton,24,Crowell,2161.0,2301.0,1112.0
+Newton,7,Brick Store,2175.0,2308.0,1098.0
+Newton,3,Almon,2158.0,2312.0,1094.0
+Newton,18,Rocky Plains,2170.0,2313.0,1108.0
+Newton,99999,Absentee (outside US),,2321.0,
+Oconee,2,Colham Ferry,2183.0,2327.0,1300.0
+Oconee,13,City Hall,2190.0,2329.0,1299.0
+Oconee,1,Annex,2192.0,2326.0,
+Oconee,7,North Oconee,2189.0,2330.0,1305.0
+Oconee,12,Civic Center,2187.0,2323.0,1310.0
+Oconee,6,High Shoals,2184.0,2328.0,1304.0
+Oconee,10,Malcom Bridge,2188.0,2331.0,
+Oconee,MH,Marswood Hall,,,1308.0
+Oconee,4,Farmington,2186.0,2325.0,1302.0
+Oconee,3,Antioch,2185.0,2332.0,1301.0
+Oconee,5,Bishop,2182.0,2333.0,1303.0
+Oconee,9,Bogart,2181.0,2324.0,1307.0
+Oconee,11,Athens Academy,2191.0,2334.0,1309.0
+Oconee,8,Dark Corner,2180.0,2322.0,1306.0
+Oglethorpe,LX,Lexington,2193.0,2335.0,2040.0
+Oglethorpe,Crawford,Crawford,2195.0,2337.0,2039.0
+Oglethorpe,BV,Beaverdam,2194.0,2336.0,2038.0
+Paulding,003C,Moses Middle School,2204.0,2344.0,
+Paulding,CL,Crossroads Library,,,1700.0
+Paulding,PMBC,Picketts Mill Baptist Church,,,1715.0
+Paulding,006C,Sara Ragsdale Elem Sc,2197.0,2340.0,
+Paulding,002B,Burnt Hickory Park,2203.0,2350.0,1699.0
+Paulding,PSC,Paulding Sr Center,,,1703.0
+Paulding,BBC,Beulahland Baptist Church,,,1713.0
+Paulding,008B,Hiram High School,2205.0,2339.0,
+Paulding,MRP,Mulberry Rock Park,,,1712.0
+Paulding,009C,Taylor Farm Park,2199.0,2341.0,1716.0
+Paulding,007B,Paulding County Airport,2202.0,2349.0,1714.0
+Paulding,WOP,White Oak Park,,,1711.0
+Paulding,PSBC,Poplar Sprgs Bapt Church,,,1708.0
+Paulding,DWIC,D Wright Innovation Ctr,,,1709.0
+Paulding,004B,West Ridge Church,2206.0,2343.0,1706.0
+Paulding,88888,Absentee (domestic),,2345.0,
+Paulding,LBC,Legacy Bapt Church,,,1704.0
+Paulding,005B,Watson Govt Complex,2200.0,2338.0,1705.0
+Paulding,012C,Carl Scoggins Middle School,2196.0,2351.0,
+Paulding,EP,Events Place,,,1707.0
+Paulding,011B,Nebo Elem School,2201.0,2347.0,1710.0
+Paulding,010C,Dobbins Middle School,2198.0,2342.0,1717.0
+Paulding,RE,Russom Elementary,,,1702.0
+Paulding,001C,Shelton Elem School,2207.0,2346.0,1701.0
+Paulding,99999,Absentee (outside US),,2348.0,
+Peach,P1,Powersville,2214.0,2356.0,2615.0
+Peach,99999,Absentee (outside US),,2353.0,
+Peach,B2,Byron #2,2213.0,2359.0,2610.0
+Peach,C1,Claude,2209.0,2358.0,2611.0
+Peach,B1,Byron #1,2211.0,2360.0,2609.0
+Peach,F3,Fort Valley #3,2208.0,2357.0,2614.0
+Peach,F2,Fort Valley #2,2210.0,2354.0,2613.0
+Peach,F1,Fort Valley #1,2212.0,2352.0,2612.0
+Peach,88888,Absentee (domestic),,2355.0,
+Pickens,7,Talking Rock,2219.0,2363.0,2625.0
+Pickens,2,,2217.0,2364.0,2620.0
+Pickens,6,Nelson,2218.0,2366.0,2624.0
+Pickens,4,Jerusalem,2220.0,2368.0,2622.0
+Pickens,11,Appalachian,2226.0,2369.0,2618.0
+Pickens,10,Sharptop,2215.0,2361.0,2617.0
+Pickens,1,Yellow Creek,2216.0,2372.0,2616.0
+Pickens,8,Jasper,2222.0,2362.0,2626.0
+Pickens,12,Refuge,2223.0,2370.0,2619.0
+Pickens,3,Hinton,2224.0,2365.0,2621.0
+Pickens,9,,2221.0,2371.0,2627.0
+Pickens,5,Ludville,2225.0,2367.0,2623.0
+Pierce,3A,St Johns-Blackshear,2228.0,2373.0,738.0
+Pierce,3B,Otter Creek,2227.0,2377.0,739.0
+Pierce,4B,Mershon,2229.0,2380.0,741.0
+Pierce,99999,Absentee (outside US),,2374.0,
+Pierce,4C,Alabaha,2232.0,2375.0,742.0
+Pierce,88888,Absentee (domestic),,2379.0,
+Pierce,2,Blackshear,2234.0,2381.0,737.0
+Pierce,1,Hacklebarney-Cason,2231.0,2376.0,736.0
+Pierce,4A,Patterson,2230.0,2378.0,740.0
+Pierce,4D,Sunset-Sweat,2233.0,2382.0,743.0
+Pike,7,Williamson,2239.0,2387.0,57.0
+Pike,1,Concord,2237.0,2391.0,51.0
+Pike,88888,Absentee (domestic),,2386.0,
+Pike,2,Hollonville,2238.0,2389.0,52.0
+Pike,6,Lifsey Springs,2240.0,2388.0,56.0
+Pike,5,Second District,2241.0,2390.0,55.0
+Pike,4,Molena,2236.0,2385.0,54.0
+Pike,3,Meansville,2235.0,2383.0,53.0
+Pike,8,Zebulon,2242.0,2384.0,58.0
+Polk,88888,Absentee (domestic),,2396.0,
+Polk,99999,Absentee (outside US),,2398.0,
+Polk,1,Aragon,2245.0,2394.0,2589.0
+Polk,4,Fish Creek,2244.0,2392.0,2592.0
+Polk,5,Lake Creek,2248.0,2395.0,2593.0
+Polk,6,Rockmart,2243.0,2399.0,2594.0
+Polk,3,Cedartown,2249.0,2397.0,2591.0
+Polk,7,Youngs Grove,2246.0,2393.0,2595.0
+Polk,2,Blooming Grove,2247.0,2400.0,2590.0
+Pulaski,CA,Courthouse Annex,2250.0,2402.0,1114.0
+Pulaski,88888,Absentee (domestic),,2401.0,
+Putnam,104,,2253.0,2406.0,1861.0
+Putnam,105,,2255.0,2404.0,1862.0
+Putnam,107,,2251.0,2403.0,1864.0
+Putnam,101,,2252.0,2405.0,1860.0
+Putnam,106,,2254.0,2407.0,1863.0
+Quitman,Morris,Morris,2257.0,2409.0,806.0
+Quitman,Georgetown,Georgetown,2256.0,2408.0,805.0
+Quitman,88888,Absentee (domestic),,2410.0,
+Rabun,RC,Rabun County,2258.0,2411.0,2124.0
+Randolph,718A,Cuthbert-Courthouse,2262.0,2417.0,1678.0
+Randolph,718B,Cuthbert,2267.0,2419.0,1679.0
+Randolph,934,Springvale,2260.0,2414.0,
+Randolph,334,Shellman,2261.0,2420.0,1676.0
+Randolph,947,Fountain Bridge,2259.0,2412.0,
+Randolph,566,Benevolence,2264.0,2418.0,1677.0
+Randolph,131,Coleman,2265.0,2413.0,1675.0
+Randolph,954,Springvale,2266.0,2415.0,1680.0
+Randolph,998,H District,2263.0,2416.0,
+Richmond,101,,2325.0,2448.0,843.0
+Richmond,302,,2327.0,2453.0,864.0
+Richmond,301,,2289.0,2452.0,863.0
+Richmond,88888,Absentee (domestic),,2422.0,
+Richmond,210,,2320.0,2440.0,862.0
+Richmond,99999,Absentee (outside US),,2444.0,
+Richmond,201,,2319.0,2441.0,855.0
+Richmond,202,,2291.0,2430.0,857.0
+Richmond,203,,2316.0,2421.0,858.0
+Richmond,204,,2307.0,2433.0,859.0
+Richmond,208,,2299.0,2424.0,861.0
+Richmond,207,,2312.0,2438.0,860.0
+Richmond,303,,2283.0,2454.0,865.0
+Richmond,601,,2306.0,2478.0,885.0
+Richmond,115,,2298.0,2460.0,856.0
+Richmond,509,,2332.0,2432.0,884.0
+Richmond,507,,2310.0,2443.0,883.0
+Richmond,506,,2334.0,2439.0,882.0
+Richmond,504,,2281.0,2437.0,881.0
+Richmond,503,,2274.0,2434.0,880.0
+Richmond,502,,2272.0,2427.0,879.0
+Richmond,501,,2311.0,2465.0,878.0
+Richmond,702,,2275.0,2450.0,892.0
+Richmond,703,,2301.0,2449.0,893.0
+Richmond,102,,2279.0,2470.0,844.0
+Richmond,705,,2286.0,2469.0,894.0
+Richmond,103,,2290.0,2487.0,845.0
+Richmond,109,,2304.0,2446.0,851.0
+Richmond,706,,2271.0,2490.0,895.0
+Richmond,708,,2335.0,2484.0,897.0
+Richmond,401,,2330.0,2431.0,873.0
+Richmond,709,,2285.0,2483.0,898.0
+Richmond,402,,2294.0,2435.0,874.0
+Richmond,404,,2317.0,2426.0,875.0
+Richmond,304,,2323.0,2455.0,866.0
+Richmond,108,,2322.0,2423.0,850.0
+Richmond,104,,2273.0,2429.0,846.0
+Richmond,405,,2303.0,2425.0,876.0
+Richmond,406,,2318.0,2428.0,877.0
+Richmond,105,,2329.0,2472.0,847.0
+Richmond,106,,2269.0,2477.0,848.0
+Richmond,707,,2295.0,2485.0,896.0
+Richmond,801,,2297.0,2482.0,899.0
+Richmond,701,,2278.0,2451.0,891.0
+Richmond,808,,2296.0,2479.0,908.0
+Richmond,305,,2333.0,2456.0,867.0
+Richmond,306,,2284.0,2457.0,868.0
+Richmond,307,,2313.0,2462.0,869.0
+Richmond,308,,2315.0,2463.0,870.0
+Richmond,309,,2321.0,2464.0,871.0
+Richmond,603,,2314.0,2476.0,886.0
+Richmond,310,,2268.0,2459.0,872.0
+Richmond,810,,2309.0,2473.0,910.0
+Richmond,604,,2292.0,2475.0,887.0
+Richmond,809,,2328.0,2474.0,909.0
+Richmond,807,,2324.0,2480.0,907.0
+Richmond,806,,2277.0,2489.0,906.0
+Richmond,805,,2302.0,2486.0,905.0
+Richmond,804h,,2287.0,2488.0,904.0
+Richmond,107,,2288.0,2466.0,849.0
+Richmond,607,,2326.0,2467.0,889.0
+Richmond,114,,2331.0,2445.0,854.0
+Richmond,112,,2282.0,2442.0,853.0
+Richmond,801b,,2308.0,2461.0,900.0
+Richmond,605,,2293.0,2471.0,888.0
+Richmond,111,,2305.0,2458.0,852.0
+Richmond,802,,2270.0,2447.0,901.0
+Richmond,804,,2280.0,2481.0,903.0
+Richmond,608,,2300.0,2436.0,890.0
+Richmond,803,,2276.0,2468.0,902.0
+Rockdale,Lorraine,Lorraine,2346.0,2498.0,1212.0
+Rockdale,Barkside,Barkside,2347.0,2493.0,1204.0
+Rockdale,Smyrna,Smyrna,2348.0,2495.0,1217.0
+Rockdale,Rockdale,Rockdale,2344.0,2491.0,1216.0
+Rockdale,Fieldstone,Fieldstone,2337.0,2504.0,1207.0
+Rockdale,Magnet,Magnet,2350.0,2499.0,1213.0
+Rockdale,99999,Absentee (outside US),,2500.0,
+Rockdale,TL,The Lakes,2341.0,2501.0,1211.0
+Rockdale,SP,St. Pius,2345.0,2492.0,1218.0
+Rockdale,HC,Honey Creek,2351.0,2502.0,1209.0
+Rockdale,BT,Bethel,2336.0,2494.0,1205.0
+Rockdale,FS,Flat Shoals,2339.0,2506.0,1208.0
+Rockdale,HT,High Tower,2342.0,2507.0,1210.0
+Rockdale,Stanton,Stanton,2343.0,2497.0,1219.0
+Rockdale,OT,Olde Town,2338.0,2496.0,1215.0
+Rockdale,Conyers,Conyers,2349.0,2505.0,1206.0
+Rockdale,Milestead,Milestead,2340.0,2503.0,1214.0
+Schley,1,Precinct One,2352.0,2508.0,1859.0
+Screven,8,Screven Rec. Dept.,2655.0,2517.0,1587.0
+Screven,88888,Absentee (domestic),,2513.0,
+Screven,5,Rocky Ford,2644.0,2521.0,1584.0
+Screven,CFS,Cooperville Fire Station,,,1591.0
+Screven,1,Sylvania,2653.0,2516.0,1580.0
+Screven,6,Bay Branch,2645.0,2511.0,1585.0
+Screven,4,Jenk Hill Fire Sta,2650.0,2510.0,1583.0
+Screven,7,Hiltonia,2649.0,2509.0,1586.0
+Screven,3,Newington,2651.0,2514.0,1582.0
+Screven,12,Foy's Store,2652.0,2519.0,
+Screven,11,Jackson Fire Station,2648.0,2520.0,1590.0
+Screven,2,Hunters,2646.0,2512.0,1581.0
+Screven,10,Sr Citizens Center,2654.0,2515.0,1589.0
+Screven,9,Greenhill Church,2647.0,2518.0,1588.0
+Seminole,4,Precinct 4,2355.0,2522.0,1648.0
+Seminole,5,Precinct 5,2356.0,2526.0,1649.0
+Seminole,2,Precinct 2,2353.0,2525.0,1646.0
+Seminole,3,Precinct 3,2357.0,2524.0,1647.0
+Seminole,88888,Absentee (domestic),,2523.0,
+Seminole,1,Precinct 1,2354.0,2527.0,1645.0
+Spalding,20,,2361.0,2542.0,2194.0
+Spalding,17,,2368.0,2540.0,2192.0
+Spalding,2,,2373.0,2528.0,2179.0
+Spalding,16,,2369.0,2535.0,2191.0
+Spalding,21,,2371.0,2546.0,2195.0
+Spalding,5,,2365.0,2543.0,2181.0
+Spalding,17,,,2541.0,
+Spalding,1,,2374.0,2549.0,2178.0
+Spalding,3,,2375.0,2532.0,2180.0
+Spalding,12,,2364.0,2530.0,2188.0
+Spalding,3,,,2538.0,
+Spalding,19,,2359.0,2529.0,2193.0
+Spalding,10,,2366.0,2547.0,2186.0
+Spalding,9,,2358.0,2534.0,2185.0
+Spalding,99999,Absentee (outside US),,2548.0,
+Spalding,13,,2363.0,2539.0,2189.0
+Spalding,14,,2360.0,2536.0,2190.0
+Spalding,7,,2372.0,2544.0,2183.0
+Spalding,1,,,2550.0,
+Spalding,88888,Absentee (domestic),,2545.0,
+Spalding,8,,2367.0,2531.0,2184.0
+Spalding,11,,2362.0,2537.0,2187.0
+Spalding,6,,2370.0,2533.0,2182.0
+Stephens,88888,Absentee (domestic),,2551.0,
+Stephens,SC1,Senior Center,2376.0,2552.0,1681.0
+Stewart,4,Louvale,2378.0,2554.0,1280.0
+Stewart,5,Lumpkin,2377.0,2556.0,1281.0
+Stewart,88888,Absentee (domestic),,2557.0,
+Stewart,99999,Absentee (outside US),,2553.0,
+Stewart,2,Richland,2379.0,2555.0,1279.0
+Stewart,6,Omaha,2380.0,2558.0,1282.0
+Sumter,29,Andersonville,2383.0,2567.0,938.0
+Sumter,O-26,Plains,2384.0,2565.0,943.0
+Sumter,BM,Browns Mill,,,939.0
+Sumter,88888,Absentee (domestic),,2564.0,
+Sumter,N-26,Concord,2388.0,2560.0,940.0
+Sumter,W-27,Agri-Center,2385.0,2562.0,936.0
+Sumter,C2-27,Gsw Conf Center,2391.0,2566.0,941.0
+Sumter,C1-27,Reese Park,2390.0,2563.0,945.0
+Sumter,E-27,Airport,2386.0,2561.0,937.0
+Sumter,28,Chambliss,2382.0,2568.0,
+Sumter,17,Thompson,2381.0,2570.0,946.0
+Sumter,C3-27,Rec Dept,2389.0,2569.0,944.0
+Sumter,15,Leslie,2387.0,2559.0,942.0
+Talbot,5,Talbotton,2394.0,2575.0,1230.0
+Talbot,2,Valley,2392.0,2577.0,1227.0
+Talbot,3,Junction City,2395.0,2571.0,1228.0
+Talbot,1,Oneal,2398.0,2572.0,1226.0
+Talbot,8,Flint Hill,2393.0,2573.0,1232.0
+Talbot,4,Geneva,2396.0,2576.0,1229.0
+Talbot,6,Box Springs,2397.0,2574.0,1231.0
+Taliaferro,601,Crawfordville,2399.0,2578.0,1724.0
+Taliaferro,172,Sharon,2400.0,2579.0,1723.0
+Tattnall,9,District V,2401.0,2584.0,1744.0
+Tattnall,10,Shiloh,2406.0,2583.0,1738.0
+Tattnall,5,District II,2403.0,2580.0,1741.0
+Tattnall,1,Cobbtown,2404.0,2586.0,1737.0
+Tattnall,3,Collins,2402.0,2585.0,1739.0
+Tattnall,4,Manassas,2407.0,2581.0,1740.0
+Tattnall,7,East Glennville,2408.0,2582.0,1742.0
+Tattnall,8,District IV,2405.0,2587.0,1743.0
+Taylor,6,Precinct 6,2410.0,2588.0,2171.0
+Taylor,88888,Absentee (domestic),,2589.0,
+Taylor,1,Precinct 1,2411.0,2590.0,2169.0
+Taylor,5,Precinct 5,2409.0,2591.0,2170.0
+Telfair,Jacksonville,Jacksonville,2412.0,2592.0,2426.0
+Telfair,99999,Absentee (outside US),,2595.0,
+Telfair,Helena,Helena,2413.0,2597.0,2425.0
+Telfair,Scotland,Scotland,2416.0,2598.0,2430.0
+Telfair,Mcrae,Mcrae,2415.0,2596.0,2428.0
+Telfair,Lumber-City,Lumber-City,2414.0,2599.0,2427.0
+Telfair,88888,Absentee (domestic),,2594.0,
+Telfair,Milan,Milan,2417.0,2593.0,2429.0
+Terrell,2,Sasser,2422.0,2604.0,1762.0
+Terrell,4,Parrott,2421.0,2605.0,1764.0
+Terrell,1,Dawson,2423.0,2600.0,1761.0
+Terrell,3,Bronwood,2420.0,2603.0,1763.0
+Terrell,6,Herod-Dover,2418.0,2602.0,1766.0
+Terrell,5,Graves,2419.0,2601.0,1765.0
+Thomas,Church1132,Little Ochlocknee Baptist Church1132,,,2059.0
+Thomas,108,Gatlin Creek,2431.0,2609.0,2061.0
+Thomas,111,Meigs,2428.0,2621.0,2064.0
+Thomas,112,Merrillville,2435.0,2610.0,2072.0
+Thomas,113,Metcalfe,2433.0,2620.0,2065.0
+Thomas,114,New Covenant,2434.0,2611.0,2066.0
+Thomas,115,Ochlocknee,2427.0,2614.0,2067.0
+Thomas,116,Patten,2437.0,2613.0,2073.0
+Thomas,88888,Absentee (domestic),,2607.0,
+Thomas,110,Jerger,2440.0,2606.0,2063.0
+Thomas,117,,2425.0,2619.0,2068.0
+Thomas,119,Resource Center,2443.0,2616.0,2070.0
+Thomas,105,Douglass,2441.0,2615.0,2058.0
+Thomas,120,Scott,2442.0,2625.0,2071.0
+Thomas,104,Coolidge,2436.0,2618.0,2057.0
+Thomas,103,Central,2429.0,2623.0,2056.0
+Thomas,102,Boston,2424.0,2626.0,2055.0
+Thomas,109,Harper,2439.0,2612.0,2062.0
+Thomas,118,Remington Esc,2438.0,2617.0,2069.0
+Thomas,99999,Absentee (outside US),,2624.0,
+Thomas,101,Barwick,2432.0,2627.0,2054.0
+Thomas,107,Fire Station #2,2426.0,2608.0,2060.0
+Thomas,106,Merrillville,2430.0,2622.0,
+Tift,99999,Absentee (outside US),,2639.0,
+Tift,5,Docia,2446.0,2637.0,2601.0
+Tift,12,Tifton Lodge,2448.0,2631.0,2608.0
+Tift,10,Tifton South,2451.0,2640.0,2606.0
+Tift,6,Eldorado,2452.0,2632.0,2602.0
+Tift,3,Brookfield,2450.0,2635.0,2599.0
+Tift,11,Mott-Littman Gym,2453.0,2638.0,2607.0
+Tift,2,Brighton,2449.0,2630.0,2598.0
+Tift,1,Tifton Northeast,2455.0,2636.0,2597.0
+Tift,9,Tifton Northwest,2447.0,2629.0,2605.0
+Tift,4,Chula,2445.0,2628.0,2600.0
+Tift,7,Omega,2444.0,2633.0,2603.0
+Tift,8,Ty Ty,2454.0,2634.0,2604.0
+Toombs,513,513 V.p.d.,2459.0,2642.0,2199.0
+Toombs,15361,15361 Lyons,2457.0,2645.0,2196.0
+Toombs,43,43 Cedar Crossing,2460.0,2643.0,2198.0
+Toombs,514,514 S.t.i.a.l.c.,2458.0,2644.0,2200.0
+Toombs,88888,Absentee (domestic),,2646.0,
+Toombs,39,39 New Branch,2456.0,2641.0,2197.0
+Towns,833,Macedonia,2462.0,2647.0,2020.0
+Towns,1468,Young Harris,2463.0,2648.0,2019.0
+Towns,1581,Tate City,2464.0,2651.0,
+Towns,990,Hiawassee,2461.0,2652.0,2021.0
+Towns,88888,Absentee (domestic),,2650.0,
+Towns,99999,Absentee (outside US),,2649.0,
+Treutlen,99999,Absentee (outside US),,2655.0,
+Treutlen,88888,Absentee (domestic),,2653.0,
+Treutlen,Annex,Annex,2465.0,2654.0,2431.0
+Treutlen,Soperton,Soperton,2466.0,2656.0,2432.0
+Troup,16,Northside,2470.0,2669.0,1520.0
+Troup,8,Rosemont,2472.0,2657.0,1514.0
+Troup,9,Hogansville,2479.0,2661.0,
+Troup,4,Griggs Center,2481.0,2672.0,1510.0
+Troup,99999,Absentee (outside US),,2659.0,
+Troup,15,Highland,2477.0,2670.0,1519.0
+Troup,1,Hollis Hand,2475.0,2671.0,1507.0
+Troup,7,East Vernon,2467.0,2664.0,1513.0
+Troup,6,Hogansville,2469.0,2658.0,1512.0
+Troup,11,Long Cane,2474.0,2667.0,1516.0
+Troup,3,Hammett Rd,2471.0,2660.0,1509.0
+Troup,10,Mcclendon,2468.0,2665.0,1515.0
+Troup,88888,Absentee (domestic),,2662.0,
+Troup,2,Administration Bldg,2480.0,2668.0,1508.0
+Troup,12,Gardner Newman,2478.0,2663.0,1517.0
+Troup,5,West Point,2476.0,2666.0,1511.0
+Troup,13,Gray Hill,2473.0,2673.0,1518.0
+Turner,3,Rebecca,2484.0,2676.0,2.0
+Turner,1,Ashburn,2482.0,2674.0,0.0
+Turner,2,Sycamore,2483.0,2675.0,1.0
+Twiggs,88888,Absentee (domestic),,2679.0,
+Twiggs,DB,Dry Branch,2488.0,2680.0,1115.0
+Twiggs,JV/W,Jeffersonville/ware,2489.0,2682.0,1118.0
+Twiggs,99999,Absentee (outside US),,2677.0,
+Twiggs,SG/T,Shady Grove/tarvers,2487.0,2678.0,1119.0
+Twiggs,HV,Higgsville,2486.0,2683.0,1117.0
+Twiggs,GI,Golden Isles,2485.0,2681.0,1116.0
+Union,3,Owltown,2490.0,2685.0,1916.0
+Union,1,Blairsville,2496.0,2687.0,1912.0
+Union,10,Coosa,2493.0,2689.0,1913.0
+Union,4,Ivy Log,2491.0,2684.0,1917.0
+Union,2,Jones Creek,2500.0,2693.0,1915.0
+Union,7,Dooley,2499.0,2686.0,1920.0
+Union,11,Choestoe,2494.0,2691.0,1914.0
+Union,9,Pat Colwell,2492.0,2694.0,1922.0
+Union,5,Suches,2495.0,2690.0,1918.0
+Union,8,Gumlog,2497.0,2688.0,1921.0
+Union,6,Trackrock,2498.0,2692.0,1919.0
+Upson,1610,Redbone,2503.0,2696.0,2024.0
+Upson,Town,Town,2504.0,2698.0,2025.0
+Upson,589,Salem,2501.0,2697.0,2023.0
+Upson,588,Yatesville,2502.0,2695.0,2022.0
+Walker,1809,Kensington,2512.0,2704.0,2584.0
+Walker,953,Armuchee Valley,2505.0,2710.0,2581.0
+Walker,Dg,Dg,,2711.0,
+Walker,99999,Absentee (outside US),,2707.0,
+Walker,1161,Mountain,2509.0,2700.0,2582.0
+Walker,917,Walnut Grove,2514.0,2702.0,2579.0
+Walker,944,Rock Spring,2511.0,2699.0,2580.0
+Walker,1501,Chattanooga Valley,2506.0,2701.0,2583.0
+Walker,871,La Fayette,2508.0,2703.0,2578.0
+Walker,1893,Fairview,2515.0,2708.0,2588.0
+Walker,1851,Fairyland,2513.0,2709.0,2587.0
+Walker,1818,Chickamauga,2507.0,2706.0,2586.0
+Walker,1812,Rossville,2510.0,2705.0,2585.0
+Walton,1663,Bold Springs,2527.0,2723.0,1537.0
+Walton,1675,Whatley,2517.0,2728.0,1538.0
+Walton,250,Walker Park,2521.0,2712.0,1539.0
+Walton,422,West Walton,2518.0,2730.0,1548.0
+Walton,454,Mountain,2522.0,2731.0,1554.0
+Walton,418,Social Circle,2532.0,2722.0,1544.0
+Walton,419,South Monroe,2534.0,2721.0,1545.0
+Walton,420,North Monroe,2525.0,2734.0,1546.0
+Walton,421,Loganville South,2535.0,2732.0,1547.0
+Walton,423,Broken Arrow,2524.0,2729.0,1549.0
+Walton,424,Bay Creek,2536.0,2727.0,1550.0
+Walton,416,Walnut Grove,2528.0,2716.0,1542.0
+Walton,425,E Monroe,2529.0,2726.0,1551.0
+Walton,427,,2531.0,2724.0,1553.0
+Walton,502,Jersey,2533.0,2717.0,1555.0
+Walton,503,Blasingame,2520.0,2720.0,1556.0
+Walton,559,Good Hope,2516.0,2733.0,1557.0
+Walton,41,,,2715.0,
+Walton,99999,Absentee (outside US),,2718.0,
+Walton,426,W Monroe,2523.0,2725.0,1552.0
+Walton,415,Between,2530.0,2714.0,1541.0
+Walton,417,Loganville North,2526.0,2719.0,1543.0
+Walton,414,Gratis,2519.0,2713.0,1540.0
+Ware,200a,,2548.0,2739.0,1891.0
+Ware,400,,2541.0,2745.0,1895.0
+Ware,88888,Absentee (domestic),,2735.0,
+Ware,200b,,2538.0,2740.0,1892.0
+Ware,300,,2545.0,2736.0,1893.0
+Ware,404,,2543.0,2746.0,1896.0
+Ware,405,,2546.0,2744.0,1897.0
+Ware,406,,2542.0,2742.0,1898.0
+Ware,407,,2537.0,2741.0,1899.0
+Ware,304,,2539.0,2747.0,1894.0
+Ware,409,,2540.0,2737.0,1901.0
+Ware,408,,2544.0,2738.0,1900.0
+Ware,100,,2547.0,2743.0,1890.0
+Warren,1,Warrenton,2549.0,2748.0,2090.0
+Washington,97,Sandersville,2551.0,2754.0,841.0
+Washington,94,Davisboro,2556.0,2755.0,840.0
+Washington,91,Harrison,2553.0,2753.0,839.0
+Washington,88888,Absentee (domestic),,2749.0,
+Washington,88,Oconee,2555.0,2750.0,838.0
+Washington,1253,Riddleville,2557.0,2751.0,835.0
+Washington,1350,Warthen,2550.0,2752.0,836.0
+Washington,99,Deepstep,2552.0,2756.0,842.0
+Washington,1488,Tennille,2554.0,2757.0,837.0
+Wayne,1a,,2559.0,2767.0,59.0
+Wayne,5B,Rec Center,2564.0,2768.0,70.0
+Wayne,5A,Unity,2566.0,2761.0,69.0
+Wayne,1C,Oglethorpe,2562.0,2758.0,61.0
+Wayne,2C,Empire,2565.0,2760.0,63.0
+Wayne,2D,Red Hill,2569.0,2759.0,64.0
+Wayne,1B,Madray Springs,2558.0,2763.0,60.0
+Wayne,2A,Screven,2560.0,2769.0,62.0
+Wayne,3B,Gardi,2567.0,2765.0,66.0
+Wayne,3A,Altamaha,2561.0,2766.0,65.0
+Wayne,4a,,2563.0,2762.0,67.0
+Wayne,4B,Pine Street,2568.0,2764.0,68.0
+Webster,88888,Absentee (domestic),,2770.0,
+Webster,P1,Preston 1,2570.0,2771.0,697.0
+Wheeler,88888,Absentee (domestic),,2774.0,
+Wheeler,2,Glenwood,2572.0,2773.0,1298.0
+Wheeler,1,Alamo,2571.0,2772.0,1297.0
+White,21,Blue Ridge,2581.0,2781.0,2096.0
+White,99999,Absentee (outside US),,2786.0,
+White,3,,,2783.0,
+White,11,Blue Creek,2573.0,2784.0,2095.0
+White,31,Helen,2575.0,2782.0,2097.0
+White,51,Mt Yonah,2577.0,2775.0,2099.0
+White,41,Mossy Creek,2574.0,2788.0,2098.0
+White,88888,Absentee (domestic),,2777.0,
+White,61,Nacoochee,2579.0,2779.0,2100.0
+White,71,Robertstown,2582.0,2785.0,2101.0
+White,81,Shoal Creek,2576.0,2787.0,2102.0
+White,101,Town Creek,2580.0,2776.0,2104.0
+White,111,White Creek,2578.0,2780.0,2105.0
+White,91,Tesnatee,2583.0,2778.0,2103.0
+Whitfield,Pg,Pg,2594.0,2807.0,1490.0
+Whitfield,2a,,2597.0,2799.0,1475.0
+Whitfield,Tr,Tr,2589.0,2797.0,1493.0
+Whitfield,Ti,Ti,2596.0,2800.0,1492.0
+Whitfield,4a,,2587.0,2792.0,1477.0
+Whitfield,Th,Th,2592.0,2802.0,1491.0
+Whitfield,3a,,2601.0,2793.0,1476.0
+Whitfield,5a,,2605.0,2791.0,1478.0
+Whitfield,6a,,2604.0,2796.0,1479.0
+Whitfield,Va,Va,2584.0,2810.0,1495.0
+Whitfield,Ca,Ca,2598.0,2801.0,1481.0
+Whitfield,An,An,2603.0,2790.0,1480.0
+Whitfield,Dg,Dg,2602.0,2806.0,1483.0
+Whitfield,Es,Es,2599.0,2811.0,1484.0
+Whitfield,Ws,Ws,2606.0,2804.0,1496.0
+Whitfield,1a,,2600.0,2809.0,1474.0
+Whitfield,Fi,Fi,2585.0,2808.0,1485.0
+Whitfield,Gl,Gl,2586.0,2803.0,1486.0
+Whitfield,Lt,Lt,2593.0,2805.0,1487.0
+Whitfield,MC,MC,2590.0,2798.0,1488.0
+Whitfield,Ni,Ni,2595.0,2789.0,1489.0
+Whitfield,Co,Co,2591.0,2794.0,1482.0
+Whitfield,Ut,Ut,2588.0,2795.0,1494.0
+Wilcox,99999,Absentee (outside US),,2812.0,
+Wilcox,88888,Absentee (domestic),,2813.0,
+Wilcox,5A,Abbeville South #5,2607.0,2818.0,932.0
+Wilcox,4A,Rochelle South #4,2608.0,2814.0,931.0
+Wilcox,3A,Pitts #3,2609.0,2815.0,930.0
+Wilcox,1A,Rochelle North #1,2612.0,2819.0,927.0
+Wilcox,2A,Abbeville North #2,2611.0,2816.0,928.0
+Wilcox,2B,Pineview #2,2610.0,2817.0,929.0
+Wilkes,4A,Courthouse,2619.0,2820.0,823.0
+Wilkes,3B,Rayle City Hall,2617.0,2823.0,822.0
+Wilkes,3A,Edward B Pope Center,2618.0,2827.0,821.0
+Wilkes,4B,Tignall Sch Lunch Rm,2616.0,2826.0,824.0
+Wilkes,2A,Young Farmer's Bldg,2614.0,2821.0,819.0
+Wilkes,2B,Metasville Fire Sta,2615.0,2824.0,820.0
+Wilkes,99999,Absentee (outside US),,2822.0,
+Wilkes,1,Senior Citizen Center,2613.0,2825.0,818.0
+Wilkinson,2,Bloodworth,2620.0,2836.0,1459.0
+Wilkinson,3,Griffin,2628.0,2830.0,1460.0
+Wilkinson,10,Ramah,2625.0,2828.0,1466.0
+Wilkinson,4,High Hill,2624.0,2834.0,1461.0
+Wilkinson,11,Turkey Creek,2626.0,2831.0,1467.0
+Wilkinson,5,Irwinton,2623.0,2832.0,1462.0
+Wilkinson,8,Midway,2627.0,2835.0,1465.0
+Wilkinson,6,,2622.0,2829.0,1463.0
+Wilkinson,7,,2621.0,2833.0,1464.0
+Worth,1,Sylvester,2638.0,2851.0,1947.0
+Worth,6,Red Rock,2632.0,2850.0,1958.0
+Worth,3,Poulan,2641.0,2838.0,1955.0
+Worth,9,Warwick,2640.0,2848.0,1961.0
+Worth,5,Shingler,2636.0,2846.0,1957.0
+Worth,8,Oakfield,2637.0,2840.0,1960.0
+Worth,2,Sylvester East,2642.0,2843.0,1954.0
+Worth,10,Scooterville,2631.0,2841.0,1948.0
+Worth,11,Minton,2639.0,2852.0,1949.0
+Worth,16,Piney Woods,2635.0,2845.0,1953.0
+Worth,4,Sumner,2634.0,2839.0,1956.0
+Worth,15,Isabella,2629.0,2847.0,1952.0
+Worth,14,County Line,2643.0,2849.0,1951.0
+Worth,12,Bridgeboro,2630.0,2837.0,1950.0
+Worth,7,Doles,2633.0,2844.0,1959.0
+Worth,88888,Absentee (domestic),,2842.0,
